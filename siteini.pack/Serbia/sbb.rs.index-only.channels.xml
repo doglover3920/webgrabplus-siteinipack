@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.4 -- Jan van Straaten" site="www.sbb.rs">
+  <channels>
+    <channel update="i" site="sbb.rs.index-only" site_id="1" xmltv_id="N1 HD (SR)">N1 HD (SR)</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="678" xmltv_id="NOVA S HD">NOVA S HD</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="665" xmltv_id="RTS 1 HD">RTS 1 HD</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="3" xmltv_id="Pink">Pink</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="4" xmltv_id="O2.TV">O2.TV</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="5" xmltv_id="Happy">Happy</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="6" xmltv_id="Prva (SR)">Prva (SR)</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="7" xmltv_id="Prva plus">Prva plus</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="572" xmltv_id="Vavoom HD">Vavoom HD</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="8" xmltv_id="Cinemania">Cinemania</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="9" xmltv_id="Grand narodna televizija">Grand narodna televizija</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="10" xmltv_id="IDJTV HD">IDJTV HD</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="667" xmltv_id="Brainz HD">Brainz HD</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="560" xmltv_id="Prva World">Prva World</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="559" xmltv_id="Prva Kick">Prva Kick</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="666" xmltv_id="RTS 2 HD">RTS 2 HD</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="13" xmltv_id="RTS 3">RTS 3</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="14" xmltv_id="RTV 1">RTV 1</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="15" xmltv_id="RTV 2">RTV 2</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="16" xmltv_id="Pink 2">Pink 2</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="19" xmltv_id="Pink 3 Info">Pink 3 Info</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="20" xmltv_id="Studio B">Studio B</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="21" xmltv_id="Naša TV (Beograd)">Naša TV (Beograd)</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="22" xmltv_id="BKTV HD">BKTV HD</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="24" xmltv_id="K::CN 1">K::CN 1</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="25" xmltv_id="Palma plus">Palma plus</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="26" xmltv_id="HRT 1">HRT 1</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="27" xmltv_id="HRT 2">HRT 2</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="28" xmltv_id="Nova HR">Nova HR</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="29" xmltv_id="RTL Croatia World">RTL Croatia World</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="448" xmltv_id="N1 HD (HR)">N1 HD (HR)</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="640" xmltv_id="Nova BH HD">Nova BH HD</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="30" xmltv_id="OBN">OBN</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="31" xmltv_id="RTRS">RTRS</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="32" xmltv_id="Alternativna TV">Alternativna TV</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="33" xmltv_id="Federalna TV">Federalna TV</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="34" xmltv_id="BN Sat HD">BN Sat HD</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="35" xmltv_id="TV1">TV1</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="199" xmltv_id="N1 HD (BH)">N1 HD (BH)</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="639" xmltv_id="Nova M HD">Nova M HD</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="36" xmltv_id="A1">A1</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="37" xmltv_id="RTCG Sat">RTCG Sat</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="38" xmltv_id="FOX (INT)">FOX (INT)</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="57" xmltv_id="FOX Life HD (INT)">FOX Life HD (INT)</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="40" xmltv_id="FOX Crime (INT)">FOX Crime (INT)</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="41" xmltv_id="FOX Movies (INT)">FOX Movies (INT)</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="563" xmltv_id="Epic Drama HD">Epic Drama HD</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="42" xmltv_id="AXN">AXN</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="43" xmltv_id="Diva">Diva</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="44" xmltv_id="TV1000">TV1000</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="45" xmltv_id="AMC HD (INT)">AMC HD (INT)</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="46" xmltv_id="Comedy Central Extra">Comedy Central Extra</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="47" xmltv_id="Pink Family">Pink Family</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="175" xmltv_id="Pink Action">Pink Action</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="580" xmltv_id="CineStar TV Comedy &amp; Family HD">CineStar TV Comedy &amp; Family HD</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="48" xmltv_id="CineStar TV (SR)">CineStar TV (SR)</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="49" xmltv_id="CineStar TV Fantasy HD">CineStar TV Fantasy HD</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="50" xmltv_id="CineStar TV Action">CineStar TV Action</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="51" xmltv_id="CineStar TV Premiere 1 HD">CineStar TV Premiere 1 HD</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="52" xmltv_id="CineStar TV Premiere 2 HD">CineStar TV Premiere 2 HD</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="576" xmltv_id="SCI FI HD">SCI FI HD</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="581" xmltv_id="Pink Western">Pink Western</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="55" xmltv_id="AXN Spin">AXN Spin</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="577" xmltv_id="Russian Kino">Russian Kino</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="558" xmltv_id="Sundance.TV">Sundance.TV</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="56" xmltv_id="FOX HD (INT)">FOX HD (INT)</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="58" xmltv_id="FOX Crime HD (INT)">FOX Crime HD (INT)</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="59" xmltv_id="FOX Movies HD (INT)">FOX Movies HD (INT)</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="60" xmltv_id="HBO HD">HBO HD</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="61" xmltv_id="HBO 2 HD">HBO 2 HD</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="62" xmltv_id="HBO 3 HD">HBO 3 HD</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="63" xmltv_id="Cinemax HD">Cinemax HD</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="64" xmltv_id="Cinemax 2 HD">Cinemax 2 HD</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="65" xmltv_id="SHORTSTV HD">SHORTSTV HD</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="18" xmltv_id="SK HD">SK HD</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="66" xmltv_id="SK 1 HD (SR)">SK 1 HD (SR)</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="67" xmltv_id="SK 2 HD (SR)">SK 2 HD (SR)</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="68" xmltv_id="SK 3 HD (SR)">SK 3 HD (SR)</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="69" xmltv_id="SK 4 (SR)">SK 4 (SR)</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="70" xmltv_id="SK 5 (SR)">SK 5 (SR)</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="71" xmltv_id="SK 6 (SR)">SK 6 (SR)</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="74" xmltv_id="SK 7 (SR)">SK 7 (SR)</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="75" xmltv_id="SK 8 (SR)">SK 8 (SR)</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="76" xmltv_id="SK 9 (SR)">SK 9 (SR)</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="77" xmltv_id="SK 10 (SR)">SK 10 (SR)</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="644" xmltv_id="SK 4K">SK 4K</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="73" xmltv_id="SK Golf HD">SK Golf HD</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="72" xmltv_id="Fight Channel">Fight Channel</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="84" xmltv_id="Eurosport 1 HD">Eurosport 1 HD</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="85" xmltv_id="Eurosport 2 HD">Eurosport 2 HD</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="80" xmltv_id="Ginx TV">Ginx TV</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="81" xmltv_id="Extreme Sports">Extreme Sports</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="82" xmltv_id="Motorvision TV HD">Motorvision TV HD</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="561" xmltv_id="Pikaboo HD">Pikaboo HD</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="87" xmltv_id="Minimax">Minimax</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="88" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="90" xmltv_id="Disney Channel">Disney Channel</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="91" xmltv_id="Cartoon Network">Cartoon Network</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="92" xmltv_id="Pink Kids">Pink Kids</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="93" xmltv_id="Boomerang">Boomerang</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="94" xmltv_id="Nick Jr.">Nick Jr.</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="95" xmltv_id="Nickelodeon HD">Nickelodeon HD</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="289" xmltv_id="Jim Jam">Jim Jam</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="96" xmltv_id="BabyTV">BabyTV</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="97" xmltv_id="National Geographic">National Geographic</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="98" xmltv_id="Discovery Channel">Discovery Channel</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="99" xmltv_id="History HD">History HD</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="100" xmltv_id="Viasat Explorer">Viasat Explorer</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="101" xmltv_id="Lov i Ribolov">Lov i Ribolov</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="102" xmltv_id="Animal Planet">Animal Planet</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="103" xmltv_id="Viasat Nature">Viasat Nature</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="104" xmltv_id="Viasat History">Viasat History</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="105" xmltv_id="ID">ID</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="106" xmltv_id="CBS Reality">CBS Reality</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="107" xmltv_id="National Geographic HD">National Geographic HD</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="108" xmltv_id="Discovery Science HD">Discovery Science HD</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="109" xmltv_id="Discovery Turbo HD">Discovery Turbo HD</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="110" xmltv_id="Discovery HD Showcase">Discovery HD Showcase</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="111" xmltv_id="Nat Geo Wild HD">Nat Geo Wild HD</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="112" xmltv_id="BBC Earth HD">BBC Earth HD</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="17" xmltv_id="Animal Planet HD">Animal Planet HD</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="114" xmltv_id="Viasat Nature/History HD">Viasat Nature/History HD</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="115" xmltv_id="H2 HD">H2 HD</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="116" xmltv_id="Crime &amp; Investigation">Crime &amp; Investigation</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="117" xmltv_id="ID Xtra HD">ID Xtra HD</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="118" xmltv_id="24Kitchen HD (INT)">24Kitchen HD (INT)</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="119" xmltv_id="TLC">TLC</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="120" xmltv_id="E! Entertainment">E! Entertainment</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="121" xmltv_id="FTV TV HD">FTV TV HD</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="285" xmltv_id="Travel Channel">Travel Channel</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="122" xmltv_id="Fine Living">Fine Living</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="123" xmltv_id="Woman HD">Woman HD</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="124" xmltv_id="Dr.Fit HD">Dr.Fit HD</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="125" xmltv_id="Travel Channel HD">Travel Channel HD</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="126" xmltv_id="Food Network HD">Food Network HD</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="127" xmltv_id="Trace Sport Stars HD">Trace Sport Stars HD</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="128" xmltv_id="Qyou HD">Qyou HD</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="129" xmltv_id="Grand narodna televizija 2">Grand narodna televizija 2</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="130" xmltv_id="Pink Music">Pink Music</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="131" xmltv_id="CMC">CMC</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="133" xmltv_id="MTV">MTV</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="134" xmltv_id="VH1 Europe">VH1 Europe</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="135" xmltv_id="Trace Urban HD">Trace Urban HD</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="136" xmltv_id="MTV Rocks">MTV Rocks</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="137" xmltv_id="MTV Hits">MTV Hits</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="138" xmltv_id="MTV Dance">MTV Dance</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="139" xmltv_id="VH1 Classic">VH1 Classic</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="140" xmltv_id="Mezzo">Mezzo</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="141" xmltv_id="MTV Live HD">MTV Live HD</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="142" xmltv_id="iConcerts HD">iConcerts HD</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="143" xmltv_id="CNN">CNN</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="144" xmltv_id="BBC World News">BBC World News</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="145" xmltv_id="Russia Today">Russia Today</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="146" xmltv_id="EuroNews">EuroNews</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="147" xmltv_id="Bloomberg">Bloomberg</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="148" xmltv_id="Al Jazeera Balkans">Al Jazeera Balkans</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="314" xmltv_id="CGTN">CGTN</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="150" xmltv_id="Rai Uno">Rai Uno</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="151" xmltv_id="Rai Due">Rai Due</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="152" xmltv_id="Channel One Russia">Channel One Russia</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="153" xmltv_id="RTL (DE)">RTL (DE)</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="154" xmltv_id="Deutsche Welle">Deutsche Welle</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="155" xmltv_id="TVE">TVE</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="156" xmltv_id="TV5 Monde">TV5 Monde</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="157" xmltv_id="Duna World">Duna World</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="158" xmltv_id="TV Most">TV Most</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="162" xmltv_id="KTV Zrenjanin">KTV Zrenjanin</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="168" xmltv_id="TV Vujić">TV Vujić</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="169" xmltv_id="Sat TV">Sat TV</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="170" xmltv_id="Regionalna TV">Regionalna TV</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="171" xmltv_id="TV Belle Amie">TV Belle Amie</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="172" xmltv_id="SOS Kanal Plus">SOS Kanal Plus</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="173" xmltv_id="Pink Movies">Pink Movies</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="174" xmltv_id="Pink Film">Pink Film</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="582" xmltv_id="Pink Horror">Pink Horror</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="569" xmltv_id="Pink Premium">Pink Premium</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="567" xmltv_id="Pink Thriller">Pink Thriller</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="568" xmltv_id="Pink Comedy">Pink Comedy</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="566" xmltv_id="Pink Romance">Pink Romance</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="364" xmltv_id="Pink Reality">Pink Reality</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="583" xmltv_id="Pink Soap">Pink Soap</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="584" xmltv_id="Pink Sci-Fi &amp; Fantasy">Pink Sci-Fi &amp; Fantasy</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="659" xmltv_id="Pink Crime &amp; Mystery">Pink Crime &amp; Mystery</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="176" xmltv_id="Pink Extra">Pink Extra</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="178" xmltv_id="Pink Plus">Pink Plus</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="362" xmltv_id="Pink Zabava">Pink Zabava</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="363" xmltv_id="Pink World">Pink World</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="365" xmltv_id="Bravo Music">Bravo Music</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="361" xmltv_id="Pink Folk">Pink Folk</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="179" xmltv_id="Private TV">Private TV</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="180" xmltv_id="Brazzers TV Europe">Brazzers TV Europe</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="181" xmltv_id="Dusk!">Dusk!</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="182" xmltv_id="Hustler">Hustler</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="183" xmltv_id="Dorcel HD">Dorcel HD</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="184" xmltv_id="Hustler HD">Hustler HD</channel>
+    <channel update="i" site="sbb.rs.index-only" site_id="185" xmltv_id="SBB Info kanal">SBB Info kanal</channel>
+  </channels>
+</site>
