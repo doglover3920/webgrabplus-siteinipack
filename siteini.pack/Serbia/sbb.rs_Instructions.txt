@@ -1,0 +1,22 @@
+Copy the PHP file to your webserver folder
+
+The website requires a token.
+The token is valid for 24 hours.  So obtaining it once a day will be good for all the downloads that day.
+
+The token can be obtained be running a cronjob under linux or in Windows setting a task in task planner.
+For Windows, you will need to download and install curl (https://curl.haxx.se/windows/)
+
+For linux run:
+curl "https://api-web.ug-be.cdn.united.cloud/oauth/token?grant_type=client_credentials" -H "User-Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:66.0) Gecko/20100101 Firefox/66.0" -H "Accept: application/json, text/plain, */*" -H "Accept-Language: nl,en-US;q=0.7,en;q=0.3" --compressed -H "Referer: https://epg.telemach.ba/503" -H "Authorization: Basic MjdlMTFmNWUtODhlMi00OGU0LWJkNDItOGUxNWFiYmM2NmY1OjEyejJzMXJ3bXdhZmsxMGNkdzl0cjloOWFjYjZwdjJoZDhscXZ0aGc=" -H "Content-Type: application/x-www-form-urlencoded" -H "Origin: https://epg.telemach.ba" -H "Connection: keep-alive" --data "" -o /Insertpathhere/telemach.ba
+
+For Windows run:
+C:\InserInstallPathhere\curl.exe "https://api-web.ug-be.cdn.united.cloud/oauth/token?grant_type=client_credentials" -H "User-Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:66.0) Gecko/20100101 Firefox/66.0" -H "Accept: application/json, text/plain, */*" -H "Accept-Language: nl,en-US;q=0.7,en;q=0.3" --compressed -H "Referer: https://epg.telemach.ba/503" -H "Authorization: Basic MjdlMTFmNWUtODhlMi00OGU0LWJkNDItOGUxNWFiYmM2NmY1OjEyejJzMXJ3bXdhZmsxMGNkdzl0cjloOWFjYjZwdjJoZDhscXZ0aGc=" -H "Content-Type: application/x-www-form-urlencoded" -H "Origin: https://epg.telemach.ba" -H "Connection: keep-alive" --data "" -o Insertpathhere\telemach.ba
+
+Replace "Insertpathhere" with the path of the webserver folder, so the PHP script can find it. (same place you copied the PHP script too)
+For the Windows verion, replace C:\InserInstallPathhere with the install path of curl.
+
+Directing the SiteIni to the correct webserver.
+1. Open the sbb.rs.ini (or sbb.rs.index-only.ini) in an editor.
+2. Replace 192.168.178.30 with the IP-adress or URL of your chosen webserver.
+(all occurences)
+
