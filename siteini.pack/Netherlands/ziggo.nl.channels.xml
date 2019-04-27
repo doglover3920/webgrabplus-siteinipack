@@ -1,25 +1,189 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version 1.1.1/50 -- Jan van Straaten" site="ziggo.nl">
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.4 -- Jan van Straaten" site="ziggogo.tv">
   <channels>
-    <channel update="i" site="ziggo.nl" site_id="Nederland 1" xmltv_id="Nederland 1">Nederland 1</channel>
-    <channel update="i" site="ziggo.nl" site_id="Nederland 2" xmltv_id="Nederland 2">Nederland 2</channel>
-    <channel update="i" site="ziggo.nl" site_id="Nederland 3" xmltv_id="Nederland 3">Nederland 3</channel>
-    <channel update="i" site="ziggo.nl" site_id="RTL 4" xmltv_id="RTL 4">RTL 4</channel>
-    <channel update="i" site="ziggo.nl" site_id="RTL 5" xmltv_id="RTL 5">RTL 5</channel>
-    <channel update="i" site="ziggo.nl" site_id="SBS 6" xmltv_id="SBS 6">SBS 6</channel>
-    <channel update="i" site="ziggo.nl" site_id="RTL 7" xmltv_id="RTL 7">RTL 7</channel>
-    <channel update="i" site="ziggo.nl" site_id="Veronica/Disney XD" xmltv_id="Veronica/Disney XD">Veronica/Disney XD</channel>
-    <channel update="i" site="ziggo.nl" site_id="Net 5" xmltv_id="Net 5">Net 5</channel>
-    <channel update="i" site="ziggo.nl" site_id="RTL 8" xmltv_id="RTL 8">RTL 8</channel>
-    <channel update="i" site="ziggo.nl" site_id="Ziggo TV" xmltv_id="Ziggo TV">Ziggo TV</channel>
-    <channel update="i" site="ziggo.nl" site_id="Etalagekanaal" xmltv_id="Etalagekanaal">Etalagekanaal</channel>
-    <channel update="i" site="ziggo.nl" site_id="Eventkanaal" xmltv_id="Eventkanaal">Eventkanaal</channel>
-    <channel update="i" site="ziggo.nl" site_id="Comedy Central/Kindernet" xmltv_id="Comedy Central/Kindernet">Comedy Central/Kindernet</channel>
-    <channel update="i" site="ziggo.nl" site_id="Nickelodeon" xmltv_id="Nickelodeon">Nickelodeon</channel>
-    <channel update="i" site="ziggo.nl" site_id="Disney Channel" xmltv_id="Disney Channel">Disney Channel</channel>
-    <channel update="i" site="ziggo.nl" site_id="Discovery Channel" xmltv_id="Discovery Channel">Discovery Channel</channel>
-    <channel update="i" site="ziggo.nl" site_id="National Geographic Channel" xmltv_id="National Geographic Channel">National Geographic Channel</channel>
-    <channel update="i" site="ziggo.nl" site_id="TLC" xmltv_id="TLC">TLC</channel>
-    <channel update="i" site="ziggo.nl" site_id="Eurosport" xmltv_id="Eurosport">Eurosport</channel>
+    <channel update="i" site="ziggo.nl" site_id="24443942983" xmltv_id="NPO 1 HD">NPO 1 HD</channel>
+    <channel update="i" site="ziggo.nl" site_id="24443942987" xmltv_id="NPO 2 HD">NPO 2 HD</channel>
+    <channel update="i" site="ziggo.nl" site_id="672816167173" xmltv_id="NPO 3 HD">NPO 3 HD</channel>
+    <channel update="i" site="ziggo.nl" site_id="24443943096" xmltv_id="RTL 4 HD">RTL 4 HD</channel>
+    <channel update="i" site="ziggo.nl" site_id="24443943146" xmltv_id="RTL 5 HD">RTL 5 HD</channel>
+    <channel update="i" site="ziggo.nl" site_id="796441638969" xmltv_id="SBS6 HD">SBS6 HD</channel>
+    <channel update="i" site="ziggo.nl" site_id="24443943014" xmltv_id="RTL 7 HD">RTL 7 HD</channel>
+    <channel update="i" site="ziggo.nl" site_id="24443943190" xmltv_id="Veronica HD / Disney XD">Veronica HD / Disney XD</channel>
+    <channel update="i" site="ziggo.nl" site_id="24443943091" xmltv_id="Net5 HD">Net5 HD</channel>
+    <channel update="i" site="ziggo.nl" site_id="24443943182" xmltv_id="RTL 8 HD">RTL 8 HD</channel>
+    <channel update="i" site="ziggo.nl" site_id="120746535305" xmltv_id="FOX HD">FOX HD</channel>
+    <channel update="i" site="ziggo.nl" site_id="660696615380" xmltv_id="RTL Z HD">RTL Z HD</channel>
+    <channel update="i" site="ziggo.nl" site_id="722568742989" xmltv_id="Ziggo TV HD">Ziggo TV HD</channel>
+    <channel update="i" site="ziggo.nl" site_id="675503655063" xmltv_id="Ziggo Sport HD">Ziggo Sport HD</channel>
+    <channel update="i" site="ziggo.nl" site_id="24443943012" xmltv_id="Comedy Central HD">Comedy Central HD</channel>
+    <channel update="i" site="ziggo.nl" site_id="763312167446" xmltv_id="Spike HD">Spike HD</channel>
+    <channel update="i" site="ziggo.nl" site_id="24443943009" xmltv_id="Discovery HD">Discovery HD</channel>
+    <channel update="i" site="ziggo.nl" site_id="24443943035" xmltv_id="National Geographic Channel HD">National Geographic Channel HD</channel>
+    <channel update="i" site="ziggo.nl" site_id="728310311065" xmltv_id="SBS9 HD">SBS9 HD</channel>
+    <channel update="i" site="ziggo.nl" site_id="796441638987" xmltv_id="Eurosport 1 HD">Eurosport 1 HD</channel>
+    <channel update="i" site="ziggo.nl" site_id="562458663437" xmltv_id="TLC HD">TLC HD</channel>
+    <channel update="i" site="ziggo.nl" site_id="728310311078" xmltv_id="BBC First HD">BBC First HD</channel>
+    <channel update="i" site="ziggo.nl" site_id="24443943006" xmltv_id="MTV HD">MTV HD</channel>
+    <channel update="i" site="ziggo.nl" site_id="540738087345" xmltv_id="24Kitchen HD">24Kitchen HD</channel>
+    <channel update="i" site="ziggo.nl" site_id="802696743168" xmltv_id="XITE HD">XITE HD</channel>
+    <channel update="i" site="ziggo.nl" site_id="779532327091" xmltv_id="Viceland HD">Viceland HD</channel>
+    <channel update="i" site="ziggo.nl" site_id="728310311082" xmltv_id="Disney Channel HD">Disney Channel HD</channel>
+    <channel update="i" site="ziggo.nl" site_id="540738087343" xmltv_id="HISTORY HD">HISTORY HD</channel>
+    <channel update="i" site="ziggo.nl" site_id="542836775318" xmltv_id="Nickelodeon HD">Nickelodeon HD</channel>
+    <channel update="i" site="ziggo.nl" site_id="796441638992" xmltv_id="ONS">ONS</channel>
+    <channel update="i" site="ziggo.nl" site_id="24443943058" xmltv_id="één HD">één HD</channel>
+    <channel update="i" site="ziggo.nl" site_id="555680807173" xmltv_id="Canvas HD">Canvas HD</channel>
+    <channel update="i" site="ziggo.nl" site_id="24443943087" xmltv_id="Ketnet">Ketnet</channel>
+    <channel update="i" site="ziggo.nl" site_id="429332519216" xmltv_id="ARD HD">ARD HD</channel>
+    <channel update="i" site="ziggo.nl" site_id="429332519214" xmltv_id="ZDF HD">ZDF HD</channel>
+    <channel update="i" site="ziggo.nl" site_id="728310311075" xmltv_id="WDR">WDR</channel>
+    <channel update="i" site="ziggo.nl" site_id="24443943105" xmltv_id="NDR">NDR</channel>
+    <channel update="i" site="ziggo.nl" site_id="555680807174" xmltv_id="RTL">RTL</channel>
+    <channel update="i" site="ziggo.nl" site_id="796441638995" xmltv_id="Sat. 1">Sat. 1</channel>
+    <channel update="i" site="ziggo.nl" site_id="24443942999" xmltv_id="BBC One HD">BBC One HD</channel>
+    <channel update="i" site="ziggo.nl" site_id="560453158983" xmltv_id="BBC Two HD">BBC Two HD</channel>
+    <channel update="i" site="ziggo.nl" site_id="24443943013" xmltv_id="BBC Three / CBBC">BBC Three / CBBC</channel>
+    <channel update="i" site="ziggo.nl" site_id="24443943080" xmltv_id="BBC Four / Cbeebies">BBC Four / Cbeebies</channel>
+    <channel update="i" site="ziggo.nl" site_id="796441638989" xmltv_id="BBC Entertainment">BBC Entertainment</channel>
+    <channel update="i" site="ziggo.nl" site_id="796441127318" xmltv_id="TV5 Monde">TV5 Monde</channel>
+    <channel update="i" site="ziggo.nl" site_id="796441639006" xmltv_id="Arte">Arte</channel>
+    <channel update="i" site="ziggo.nl" site_id="672816167175" xmltv_id="TVE">TVE</channel>
+    <channel update="i" site="ziggo.nl" site_id="796441638971" xmltv_id="Mediaset Italia">Mediaset Italia</channel>
+    <channel update="i" site="ziggo.nl" site_id="796441638984" xmltv_id="RTV-7">RTV-7</channel>
+    <channel update="i" site="ziggo.nl" site_id="796441639004" xmltv_id="TRT Türk">TRT Türk</channel>
+    <channel update="i" site="ziggo.nl" site_id="606274087098" xmltv_id="2M">2M</channel>
+    <channel update="i" site="ziggo.nl" site_id="796441638993" xmltv_id="Film1 Premiere HD">Film1 Premiere HD</channel>
+    <channel update="i" site="ziggo.nl" site_id="796441638998" xmltv_id="Film1 Action HD">Film1 Action HD</channel>
+    <channel update="i" site="ziggo.nl" site_id="796441639002" xmltv_id="Film1 Family HD">Film1 Family HD</channel>
+    <channel update="i" site="ziggo.nl" site_id="153935399225" xmltv_id="Film1 Drama HD">Film1 Drama HD</channel>
+    <channel update="i" site="ziggo.nl" site_id="796441638999" xmltv_id="Film1 On Demand.">Film1 On Demand.</channel>
+    <channel update="i" site="ziggo.nl" site_id="24443943033" xmltv_id="RTL Crime HD">RTL Crime HD</channel>
+    <channel update="i" site="ziggo.nl" site_id="796441639009" xmltv_id="CI">CI</channel>
+    <channel update="i" site="ziggo.nl" site_id="776540711439" xmltv_id="ID HD">ID HD</channel>
+    <channel update="i" site="ziggo.nl" site_id="796441639010" xmltv_id="Comedy Central Extra">Comedy Central Extra</channel>
+    <channel update="i" site="ziggo.nl" site_id="796441639001" xmltv_id="Shorts TV HD">Shorts TV HD</channel>
+    <channel update="i" site="ziggo.nl" site_id="728310311071" xmltv_id="E HD">E HD</channel>
+    <channel update="i" site="ziggo.nl" site_id="24443943148" xmltv_id="NPO 1 extra">NPO 1 extra</channel>
+    <channel update="i" site="ziggo.nl" site_id="796441638996" xmltv_id="OUTTV HD">OUTTV HD</channel>
+    <channel update="i" site="ziggo.nl" site_id="796441639040" xmltv_id="CBS Reality">CBS Reality</channel>
+    <channel update="i" site="ziggo.nl" site_id="24443943044" xmltv_id="Fashion TV HD">Fashion TV HD</channel>
+    <channel update="i" site="ziggo.nl" site_id="796441638967" xmltv_id="MyZen HD">MyZen HD</channel>
+    <channel update="i" site="ziggo.nl" site_id="606274087102" xmltv_id="Horse &amp; Country TV HD">Horse &amp; Country TV HD</channel>
+    <channel update="i" site="ziggo.nl" site_id="796441639013" xmltv_id="Food Network HD">Food Network HD</channel>
+    <channel update="i" site="ziggo.nl" site_id="728310311079" xmltv_id="Fine Living HD">Fine Living HD</channel>
+    <channel update="i" site="ziggo.nl" site_id="796441639032" xmltv_id="RTL Lounge HD">RTL Lounge HD</channel>
+    <channel update="i" site="ziggo.nl" site_id="760422951406" xmltv_id="Netflix.">Netflix.</channel>
+    <channel update="i" site="ziggo.nl" site_id="760730662979" xmltv_id="Videoland.">Videoland.</channel>
+    <channel update="i" site="ziggo.nl" site_id="24443943097" xmltv_id="Discovery Science HD">Discovery Science HD</channel>
+    <channel update="i" site="ziggo.nl" site_id="24443943084" xmltv_id="Discovery World">Discovery World</channel>
+    <channel update="i" site="ziggo.nl" site_id="540738087344" xmltv_id="Nat Geo WILD HD">Nat Geo WILD HD</channel>
+    <channel update="i" site="ziggo.nl" site_id="866242598984" xmltv_id="Love Nature HD">Love Nature HD</channel>
+    <channel update="i" site="ziggo.nl" site_id="24443943106" xmltv_id="Animal Planet HD">Animal Planet HD</channel>
+    <channel update="i" site="ziggo.nl" site_id="728310311067" xmltv_id="Travel Channel HD">Travel Channel HD</channel>
+    <channel update="i" site="ziggo.nl" site_id="24443943108" xmltv_id="NPO 2 extra">NPO 2 extra</channel>
+    <channel update="i" site="ziggo.nl" site_id="796441639007" xmltv_id="Family7">Family7</channel>
+    <channel update="i" site="ziggo.nl" site_id="541838374997" xmltv_id="Disney Junior">Disney Junior</channel>
+    <channel update="i" site="ziggo.nl" site_id="24443942994" xmltv_id="Nicktoons">Nicktoons</channel>
+    <channel update="i" site="ziggo.nl" site_id="796440615450" xmltv_id="Nick Music">Nick Music</channel>
+    <channel update="i" site="ziggo.nl" site_id="560453158987" xmltv_id="Pebble TV">Pebble TV</channel>
+    <channel update="i" site="ziggo.nl" site_id="24443942992" xmltv_id="Nick Jr.">Nick Jr.</channel>
+    <channel update="i" site="ziggo.nl" site_id="796441638994" xmltv_id="Cartoon Network HD">Cartoon Network HD</channel>
+    <channel update="i" site="ziggo.nl" site_id="796441639039" xmltv_id="Boomerang">Boomerang</channel>
+    <channel update="i" site="ziggo.nl" site_id="796441639026" xmltv_id="Baby TV">Baby TV</channel>
+    <channel update="i" site="ziggo.nl" site_id="564193831242" xmltv_id="NPO Zappelin extra">NPO Zappelin extra</channel>
+    <channel update="i" site="ziggo.nl" site_id="796441639018" xmltv_id="RTL Telekids HD">RTL Telekids HD</channel>
+    <channel update="i" site="ziggo.nl" site_id="24443943161" xmltv_id="Ziggo Sport Select HD">Ziggo Sport Select HD</channel>
+    <channel update="i" site="ziggo.nl" site_id="796441639011" xmltv_id="Ziggo Sport Voetbal HD">Ziggo Sport Voetbal HD</channel>
+    <channel update="i" site="ziggo.nl" site_id="777839143135" xmltv_id="Ziggo Sport Golf HD">Ziggo Sport Golf HD</channel>
+    <channel update="i" site="ziggo.nl" site_id="777839143134" xmltv_id="Ziggo Sport Racing HD">Ziggo Sport Racing HD</channel>
+    <channel update="i" site="ziggo.nl" site_id="796441638965" xmltv_id="Ziggo Sport Docu HD">Ziggo Sport Docu HD</channel>
+    <channel update="i" site="ziggo.nl" site_id="796441638966" xmltv_id="Ziggo Sport Extra HD">Ziggo Sport Extra HD</channel>
+    <channel update="i" site="ziggo.nl" site_id="561138215257" xmltv_id="Eurosport 2 HD">Eurosport 2 HD</channel>
+    <channel update="i" site="ziggo.nl" site_id="796441639005" xmltv_id="Extreme Sports Channel">Extreme Sports Channel</channel>
+    <channel update="i" site="ziggo.nl" site_id="614261799194" xmltv_id="FOX Sports Info">FOX Sports Info</channel>
+    <channel update="i" site="ziggo.nl" site_id="119414823233" xmltv_id="FOX Sports 1 HD">FOX Sports 1 HD</channel>
+    <channel update="i" site="ziggo.nl" site_id="119414823227" xmltv_id="FOX Sports 2 HD">FOX Sports 2 HD</channel>
+    <channel update="i" site="ziggo.nl" site_id="119414823235" xmltv_id="FOX Sports 3 HD">FOX Sports 3 HD</channel>
+    <channel update="i" site="ziggo.nl" site_id="119414823230" xmltv_id="FOX Sports 4 HD">FOX Sports 4 HD</channel>
+    <channel update="i" site="ziggo.nl" site_id="555680807172" xmltv_id="FOX Sports 5 HD">FOX Sports 5 HD</channel>
+    <channel update="i" site="ziggo.nl" site_id="606274087106" xmltv_id="FOX Sports 6 HD">FOX Sports 6 HD</channel>
+    <channel update="i" site="ziggo.nl" site_id="624196647052" xmltv_id="Ziggo Live Events">Ziggo Live Events</channel>
+    <channel update="i" site="ziggo.nl" site_id="772368423293" xmltv_id="Ziggo Live Events FOX Sports">Ziggo Live Events FOX Sports</channel>
+    <channel update="i" site="ziggo.nl" site_id="772368423294" xmltv_id="Ziggo Live Events FOX Sports">Ziggo Live Events FOX Sports</channel>
+    <channel update="i" site="ziggo.nl" site_id="635928103348" xmltv_id="Ziggo Live Events FOX Sports">Ziggo Live Events FOX Sports</channel>
+    <channel update="i" site="ziggo.nl" site_id="635928103347" xmltv_id="Ziggo Live Events FOX Sports">Ziggo Live Events FOX Sports</channel>
+    <channel update="i" site="ziggo.nl" site_id="635928103346" xmltv_id="Ziggo Live Events FOX Sports">Ziggo Live Events FOX Sports</channel>
+    <channel update="i" site="ziggo.nl" site_id="635928103351" xmltv_id="Ziggo Live Events FOX Sports">Ziggo Live Events FOX Sports</channel>
+    <channel update="i" site="ziggo.nl" site_id="635928103349" xmltv_id="Ziggo Live Events FOX Sports">Ziggo Live Events FOX Sports</channel>
+    <channel update="i" site="ziggo.nl" site_id="635928103345" xmltv_id="Ziggo Live Events FOX Sports">Ziggo Live Events FOX Sports</channel>
+    <channel update="i" site="ziggo.nl" site_id="796441638972" xmltv_id="NPO Nieuws">NPO Nieuws</channel>
+    <channel update="i" site="ziggo.nl" site_id="796441638973" xmltv_id="NPO Politiek">NPO Politiek</channel>
+    <channel update="i" site="ziggo.nl" site_id="561138215261" xmltv_id="CNN">CNN</channel>
+    <channel update="i" site="ziggo.nl" site_id="24443943049" xmltv_id="BBC World News">BBC World News</channel>
+    <channel update="i" site="ziggo.nl" site_id="796441638964" xmltv_id="Euronews">Euronews</channel>
+    <channel update="i" site="ziggo.nl" site_id="796441638983" xmltv_id="Aljazeera English">Aljazeera English</channel>
+    <channel update="i" site="ziggo.nl" site_id="24443943051" xmltv_id="CNBC Europe">CNBC Europe</channel>
+    <channel update="i" site="ziggo.nl" site_id="544430119366" xmltv_id="CGTN">CGTN</channel>
+    <channel update="i" site="ziggo.nl" site_id="796441639008" xmltv_id="RT">RT</channel>
+    <channel update="i" site="ziggo.nl" site_id="796441638954" xmltv_id="TV538">TV538</channel>
+    <channel update="i" site="ziggo.nl" site_id="24443943214" xmltv_id="MTV Music 24">MTV Music 24</channel>
+    <channel update="i" site="ziggo.nl" site_id="24443943025" xmltv_id="DanceTrippin HD">DanceTrippin HD</channel>
+    <channel update="i" site="ziggo.nl" site_id="796441638952" xmltv_id="SLAM">SLAM</channel>
+    <channel update="i" site="ziggo.nl" site_id="24443943136" xmltv_id="MTV Brand New">MTV Brand New</channel>
+    <channel update="i" site="ziggo.nl" site_id="796441638956" xmltv_id="Stingray LiteTV">Stingray LiteTV</channel>
+    <channel update="i" site="ziggo.nl" site_id="796440615446" xmltv_id="VH1 Classic">VH1 Classic</channel>
+    <channel update="i" site="ziggo.nl" site_id="24443943156" xmltv_id="Stingray Brava">Stingray Brava</channel>
+    <channel update="i" site="ziggo.nl" site_id="796441638982" xmltv_id="Mezzo">Mezzo</channel>
+    <channel update="i" site="ziggo.nl" site_id="560453158982" xmltv_id="Stingray DJAZZ">Stingray DJAZZ</channel>
+    <channel update="i" site="ziggo.nl" site_id="796440615449" xmltv_id="TV Oranje">TV Oranje</channel>
+    <channel update="i" site="ziggo.nl" site_id="796441638951" xmltv_id="100% NL TV">100% NL TV</channel>
+    <channel update="i" site="ziggo.nl" site_id="796441638955" xmltv_id="192TV">192TV</channel>
+    <channel update="i" site="ziggo.nl" site_id="728310311070" xmltv_id="MTV Live HD">MTV Live HD</channel>
+    <channel update="i" site="ziggo.nl" site_id="24443943192" xmltv_id="TV Noord">TV Noord</channel>
+    <channel update="i" site="ziggo.nl" site_id="796441639037" xmltv_id="Omrop Fryslân">Omrop Fryslân</channel>
+    <channel update="i" site="ziggo.nl" site_id="796441639023" xmltv_id="TV Drenthe">TV Drenthe</channel>
+    <channel update="i" site="ziggo.nl" site_id="796441127316" xmltv_id="TV Oost">TV Oost</channel>
+    <channel update="i" site="ziggo.nl" site_id="796440615447" xmltv_id="TV Gelderland">TV Gelderland</channel>
+    <channel update="i" site="ziggo.nl" site_id="796440615444" xmltv_id="Omroep Flevoland">Omroep Flevoland</channel>
+    <channel update="i" site="ziggo.nl" site_id="796441639035" xmltv_id="NH">NH</channel>
+    <channel update="i" site="ziggo.nl" site_id="796441639027" xmltv_id="RTV Utrecht">RTV Utrecht</channel>
+    <channel update="i" site="ziggo.nl" site_id="796441638962" xmltv_id="TV West">TV West</channel>
+    <channel update="i" site="ziggo.nl" site_id="796441638960" xmltv_id="TV Rijnmond">TV Rijnmond</channel>
+    <channel update="i" site="ziggo.nl" site_id="796441127315" xmltv_id="Omroep Zeeland">Omroep Zeeland</channel>
+    <channel update="i" site="ziggo.nl" site_id="796441639033" xmltv_id="Omroep Brabant">Omroep Brabant</channel>
+    <channel update="i" site="ziggo.nl" site_id="24443943061" xmltv_id="L1 TV">L1 TV</channel>
+    <channel update="i" site="ziggo.nl" site_id="796441639029" xmltv_id="AT5">AT5</channel>
+    <channel update="i" site="ziggo.nl" site_id="796441639012" xmltv_id="STAR Plus">STAR Plus</channel>
+    <channel update="i" site="ziggo.nl" site_id="796441638980" xmltv_id="STAR Gold">STAR Gold</channel>
+    <channel update="i" site="ziggo.nl" site_id="796441639014" xmltv_id="Zee TV">Zee TV</channel>
+    <channel update="i" site="ziggo.nl" site_id="796441639015" xmltv_id="Zee Cinema">Zee Cinema</channel>
+    <channel update="i" site="ziggo.nl" site_id="796441638985" xmltv_id="Zing">Zing</channel>
+    <channel update="i" site="ziggo.nl" site_id="796441639003" xmltv_id="SET Asia">SET Asia</channel>
+    <channel update="i" site="ziggo.nl" site_id="606274087101" xmltv_id="Show TV">Show TV</channel>
+    <channel update="i" site="ziggo.nl" site_id="728310311069" xmltv_id="Euro D">Euro D</channel>
+    <channel update="i" site="ziggo.nl" site_id="728310311073" xmltv_id="Eurostar">Eurostar</channel>
+    <channel update="i" site="ziggo.nl" site_id="796724263299" xmltv_id="Habertürk">Habertürk</channel>
+    <channel update="i" site="ziggo.nl" site_id="796441638979" xmltv_id="TV 8">TV 8</channel>
+    <channel update="i" site="ziggo.nl" site_id="796441639016" xmltv_id="TRT Turk">TRT Turk</channel>
+    <channel update="i" site="ziggo.nl" site_id="760422951409" xmltv_id="TRT Çocuk">TRT Çocuk</channel>
+    <channel update="i" site="ziggo.nl" site_id="796441638988" xmltv_id="ATV Avrupa">ATV Avrupa</channel>
+    <channel update="i" site="ziggo.nl" site_id="760422951408" xmltv_id="TRT Müzik">TRT Müzik</channel>
+    <channel update="i" site="ziggo.nl" site_id="796441638953" xmltv_id="Al Arabiya">Al Arabiya</channel>
+    <channel update="i" site="ziggo.nl" site_id="796441639017" xmltv_id="MBC">MBC</channel>
+    <channel update="i" site="ziggo.nl" site_id="796441639022" xmltv_id="TVM Europe">TVM Europe</channel>
+    <channel update="i" site="ziggo.nl" site_id="796441638990" xmltv_id="Aljazeera">Aljazeera</channel>
+    <channel update="i" site="ziggo.nl" site_id="796441638957" xmltv_id="Erotiek Pakket info">Erotiek Pakket info</channel>
+    <channel update="i" site="ziggo.nl" site_id="796441639031" xmltv_id="Secret Circle">Secret Circle</channel>
+    <channel update="i" site="ziggo.nl" site_id="796441638974" xmltv_id="Penthouse HD1">Penthouse HD1</channel>
+    <channel update="i" site="ziggo.nl" site_id="330522663235" xmltv_id="Evil Angel">Evil Angel</channel>
+    <channel update="i" site="ziggo.nl" site_id="24443943083" xmltv_id="PassieXXX">PassieXXX</channel>
+    <channel update="i" site="ziggo.nl" site_id="796441639019" xmltv_id="DUSK">DUSK</channel>
+    <channel update="i" site="ziggo.nl" site_id="796441639000" xmltv_id="MvH Hard">MvH Hard</channel>
+    <channel update="i" site="ziggo.nl" site_id="24443943126" xmltv_id="X-MO">X-MO</channel>
+    <channel update="i" site="ziggo.nl" site_id="796441638997" xmltv_id="OUTTV HD">OUTTV HD</channel>
+    <channel update="i" site="ziggo.nl" site_id="24443943085" xmltv_id="Zender van de Maand">Zender van de Maand</channel>
+    <channel update="i" site="ziggo.nl" site_id="24443943135" xmltv_id="Testbeeld">Testbeeld</channel>
+    <channel update="i" site="ziggo.nl" site_id="614261799193" xmltv_id="Ziggo Zenderoverzicht HD">Ziggo Zenderoverzicht HD</channel>
+    <channel update="i" site="ziggo.nl" site_id="796441638958" xmltv_id="Eventkanaal">Eventkanaal</channel>
   </channels>
 </site>
