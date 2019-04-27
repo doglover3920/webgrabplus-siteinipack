@@ -1,10 +1,9 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version 1.53.15/0.04 -- Jan van Straaten" site="film1.nl">
+<?xml version='1.0' encoding='UTF-8'?>
+<site generator-info-name="WebGrab+Plus version 1.0.8 Beta -- Jan van Straaten" site="film1.nl">
   <channels>
-    <channel update="i" site="film1.nl" site_id="1,6,11,16/20" xmltv_id="Film1 Premiere">Film1 Premiere</channel>
-    <channel update="i" site="film1.nl" site_id="2,7,12,17/20" xmltv_id="Film1 Action">Film1 Action</channel>
-    <channel update="i" site="film1.nl" site_id="3,8,13,18/20" xmltv_id="Film1 Family">Film1 Family</channel>
-    <channel update="i" site="film1.nl" site_id="4,9,14,19/20" xmltv_id="Film1 Sundance">Film1 Sundance</channel>
-    <channel update="i" site="film1.nl" site_id="5,10,15,20/20" xmltv_id="Film1 Series">Film1 Series</channel>
+<channel update="i" site="film1.nl" site_id="1,5,9,13/16" xmltv_id="Film1 Premiere">Film1 Premiere</channel>
+<channel update="i" site="film1.nl" site_id="2,6,10,14/16" xmltv_id="Film1 Action">Film1 Action</channel>
+<channel update="i" site="film1.nl" site_id="3,7,11,15/16" xmltv_id="Film1 Family">Film1 Family</channel>
+<channel update="i" site="film1.nl" site_id="4,8,12,16/16" xmltv_id="Film1 Drama">Film1 Drama</channel>
   </channels>
 </site>
