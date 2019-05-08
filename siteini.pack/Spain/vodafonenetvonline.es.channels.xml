@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.4 -- Jan van Straaten" site="vodafonenetvonline.es">
+  <channels>
+    <channel update="i" site="vodafonenetvonline.es" site_id="464" xmltv_id="La 1 HD">La 1 HD</channel>
+    <channel update="i" site="vodafonenetvonline.es" site_id="616" xmltv_id="La 2 HD">La 2 HD</channel>
+    <channel update="i" site="vodafonenetvonline.es" site_id="463" xmltv_id="Antena 3 HD">Antena 3 HD</channel>
+    <channel update="i" site="vodafonenetvonline.es" site_id="511" xmltv_id="Cuatro HD">Cuatro HD</channel>
+    <channel update="i" site="vodafonenetvonline.es" site_id="598" xmltv_id="Telecinco HD">Telecinco HD</channel>
+    <channel update="i" site="vodafonenetvonline.es" site_id="427" xmltv_id="La Sexta HD">La Sexta HD</channel>
+    <channel update="i" site="vodafonenetvonline.es" site_id="587" xmltv_id="Vodafone Tv te recomienda HD">Vodafone Tv te recomienda HD</channel>
+    <channel update="i" site="vodafonenetvonline.es" site_id="426" xmltv_id="Fox">Fox</channel>
+    <channel update="i" site="vodafonenetvonline.es" site_id="456" xmltv_id="Fox Life">Fox Life</channel>
+    <channel update="i" site="vodafonenetvonline.es" site_id="466" xmltv_id="TNT">TNT</channel>
+    <channel update="i" site="vodafonenetvonline.es" site_id="459" xmltv_id="AXN">AXN</channel>
+    <channel update="i" site="vodafonenetvonline.es" site_id="458" xmltv_id="Cosmo">Cosmo</channel>
+    <channel update="i" site="vodafonenetvonline.es" site_id="457" xmltv_id="Comedy Central">Comedy Central</channel>
+    <channel update="i" site="vodafonenetvonline.es" site_id="460" xmltv_id="Calle 13">Calle 13</channel>
+    <channel update="i" site="vodafonenetvonline.es" site_id="445" xmltv_id="Syfy">Syfy</channel>
+    <channel update="i" site="vodafonenetvonline.es" site_id="444" xmltv_id="AXN White">AXN White</channel>
+    <channel update="i" site="vodafonenetvonline.es" site_id="893" xmltv_id="M. Series">M. Series</channel>
+    <channel update="i" site="vodafonenetvonline.es" site_id="461" xmltv_id="Canal Hollywood">Canal Hollywood</channel>
+    <channel update="i" site="vodafonenetvonline.es" site_id="448" xmltv_id="AMC">AMC</channel>
+    <channel update="i" site="vodafonenetvonline.es" site_id="449" xmltv_id="XTRM">XTRM</channel>
+    <channel update="i" site="vodafonenetvonline.es" site_id="447" xmltv_id="TCM">TCM</channel>
+    <channel update="i" site="vodafonenetvonline.es" site_id="446" xmltv_id="Sundance Channel">Sundance Channel</channel>
+    <channel update="i" site="vodafonenetvonline.es" site_id="636" xmltv_id="Somos">Somos</channel>
+    <channel update="i" site="vodafonenetvonline.es" site_id="563" xmltv_id="Paramount Channel">Paramount Channel</channel>
+    <channel update="i" site="vodafonenetvonline.es" site_id="892" xmltv_id="M. Estrenos">M. Estrenos</channel>
+    <channel update="i" site="vodafonenetvonline.es" site_id="453" xmltv_id="Disney Channel">Disney Channel</channel>
+    <channel update="i" site="vodafonenetvonline.es" site_id="452" xmltv_id="Disney XD">Disney XD</channel>
+    <channel update="i" site="vodafonenetvonline.es" site_id="441" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel update="i" site="vodafonenetvonline.es" site_id="515" xmltv_id="Clan HD">Clan HD</channel>
+    <channel update="i" site="vodafonenetvonline.es" site_id="952" xmltv_id="Boing">Boing</channel>
+    <channel update="i" site="vodafonenetvonline.es" site_id="443" xmltv_id="Disney Junior">Disney Junior</channel>
+    <channel update="i" site="vodafonenetvonline.es" site_id="442" xmltv_id="Nick Junior HD">Nick Junior HD</channel>
+    <channel update="i" site="vodafonenetvonline.es" site_id="552" xmltv_id="Panda">Panda</channel>
+    <channel update="i" site="vodafonenetvonline.es" site_id="533" xmltv_id="Baby TV">Baby TV</channel>
+    <channel update="i" site="vodafonenetvonline.es" site_id="436" xmltv_id="Odisea">Odisea</channel>
+    <channel update="i" site="vodafonenetvonline.es" site_id="451" xmltv_id="Discovery Channel">Discovery Channel</channel>
+    <channel update="i" site="vodafonenetvonline.es" site_id="438" xmltv_id="Historia">Historia</channel>
+    <channel update="i" site="vodafonenetvonline.es" site_id="433" xmltv_id="National Geographic">National Geographic</channel>
+    <channel update="i" site="vodafonenetvonline.es" site_id="434" xmltv_id="Nat Geo Wild">Nat Geo Wild</channel>
+    <channel update="i" site="vodafonenetvonline.es" site_id="435" xmltv_id="Viajar">Viajar</channel>
+    <channel update="i" site="vodafonenetvonline.es" site_id="499" xmltv_id="Blaze">Blaze</channel>
+    <channel update="i" site="vodafonenetvonline.es" site_id="432" xmltv_id="Canal Cocina">Canal Cocina</channel>
+    <channel update="i" site="vodafonenetvonline.es" site_id="437" xmltv_id="Crimen + Investigación">Crimen + Investigación</channel>
+    <channel update="i" site="vodafonenetvonline.es" site_id="431" xmltv_id="Canal Decasa">Canal Decasa</channel>
+    <channel update="i" site="vodafonenetvonline.es" site_id="581" xmltv_id="Myzen TV">Myzen TV</channel>
+    <channel update="i" site="vodafonenetvonline.es" site_id="582" xmltv_id="Fashion One">Fashion One</channel>
+    <channel update="i" site="vodafonenetvonline.es" site_id="495" xmltv_id="Canal Galería">Canal Galería</channel>
+    <channel update="i" site="vodafonenetvonline.es" site_id="620" xmltv_id="MTV España">MTV España</channel>
+    <channel update="i" site="vodafonenetvonline.es" site_id="604" xmltv_id="FDF">FDF</channel>
+    <channel update="i" site="vodafonenetvonline.es" site_id="455" xmltv_id="Neox">Neox</channel>
+    <channel update="i" site="vodafonenetvonline.es" site_id="454" xmltv_id="Nova">Nova</channel>
+    <channel update="i" site="vodafonenetvonline.es" site_id="477" xmltv_id="Divinity">Divinity</channel>
+    <channel update="i" site="vodafonenetvonline.es" site_id="469" xmltv_id="Mega">Mega</channel>
+    <channel update="i" site="vodafonenetvonline.es" site_id="550" xmltv_id="13 TV">13 TV</channel>
+    <channel update="i" site="vodafonenetvonline.es" site_id="480" xmltv_id="Energy">Energy</channel>
+    <channel update="i" site="vodafonenetvonline.es" site_id="641" xmltv_id="ATRESERIES">ATRESERIES</channel>
+    <channel update="i" site="vodafonenetvonline.es" site_id="649" xmltv_id="BE MAD HD">BE MAD HD</channel>
+    <channel update="i" site="vodafonenetvonline.es" site_id="483" xmltv_id="DMAX">DMAX</channel>
+    <channel update="i" site="vodafonenetvonline.es" site_id="646" xmltv_id="DKISS">DKISS</channel>
+    <channel update="i" site="vodafonenetvonline.es" site_id="645" xmltv_id="TEN">TEN</channel>
+    <channel update="i" site="vodafonenetvonline.es" site_id="619" xmltv_id="Sol Música">Sol Música</channel>
+    <channel update="i" site="vodafonenetvonline.es" site_id="950" xmltv_id="HIT TV">HIT TV</channel>
+    <channel update="i" site="vodafonenetvonline.es" site_id="430" xmltv_id="MTV Dance">MTV Dance</channel>
+    <channel update="i" site="vodafonenetvonline.es" site_id="429" xmltv_id="VH1">VH1</channel>
+    <channel update="i" site="vodafonenetvonline.es" site_id="428" xmltv_id="Mezzo">Mezzo</channel>
+    <channel update="i" site="vodafonenetvonline.es" site_id="565" xmltv_id="Mezzo Live HD">Mezzo Live HD</channel>
+    <channel update="i" site="vodafonenetvonline.es" site_id="605" xmltv_id="Intereconomía TV">Intereconomía TV</channel>
+    <channel update="i" site="vodafonenetvonline.es" site_id="450" xmltv_id="Euronews">Euronews</channel>
+    <channel update="i" site="vodafonenetvonline.es" site_id="536" xmltv_id="CNN International">CNN International</channel>
+    <channel update="i" site="vodafonenetvonline.es" site_id="524" xmltv_id="CNBC">CNBC</channel>
+    <channel update="i" site="vodafonenetvonline.es" site_id="521" xmltv_id="Bloomberg">Bloomberg</channel>
+    <channel update="i" site="vodafonenetvonline.es" site_id="523" xmltv_id="BBC World HD">BBC World HD</channel>
+    <channel update="i" site="vodafonenetvonline.es" site_id="539" xmltv_id="Al Jazeera">Al Jazeera</channel>
+    <channel update="i" site="vodafonenetvonline.es" site_id="484" xmltv_id="CGTN Español">CGTN Español</channel>
+    <channel update="i" site="vodafonenetvonline.es" site_id="547" xmltv_id="RT Español">RT Español</channel>
+    <channel update="i" site="vodafonenetvonline.es" site_id="548" xmltv_id="France 24 HD">France 24 HD</channel>
+    <channel update="i" site="vodafonenetvonline.es" site_id="540" xmltv_id="Canal Parlamento">Canal Parlamento</channel>
+    <channel update="i" site="vodafonenetvonline.es" site_id="612" xmltv_id="EWTN">EWTN</channel>
+    <channel update="i" site="vodafonenetvonline.es" site_id="635" xmltv_id="Eurosport 1">Eurosport 1</channel>
+    <channel update="i" site="vodafonenetvonline.es" site_id="542" xmltv_id="Eurosport 2">Eurosport 2</channel>
+    <channel update="i" site="vodafonenetvonline.es" site_id="577" xmltv_id="Teledeporte">Teledeporte</channel>
+    <channel update="i" site="vodafonenetvonline.es" site_id="440" xmltv_id="Fight Sports HD">Fight Sports HD</channel>
+    <channel update="i" site="vodafonenetvonline.es" site_id="621" xmltv_id="Extreme Sports">Extreme Sports</channel>
+    <channel update="i" site="vodafonenetvonline.es" site_id="535" xmltv_id="Cazavisión HD">Cazavisión HD</channel>
+    <channel update="i" site="vodafonenetvonline.es" site_id="728" xmltv_id="Iberalia">Iberalia</channel>
+    <channel update="i" site="vodafonenetvonline.es" site_id="467" xmltv_id="beIN LaLiga">beIN LaLiga</channel>
+    <channel update="i" site="vodafonenetvonline.es" site_id="673" xmltv_id="beIN LaLiga MAX 1">beIN LaLiga MAX 1</channel>
+    <channel update="i" site="vodafonenetvonline.es" site_id="674" xmltv_id="beIN LaLiga MAX 2">beIN LaLiga MAX 2</channel>
+    <channel update="i" site="vodafonenetvonline.es" site_id="704" xmltv_id="beIN LaLiga MAX 3">beIN LaLiga MAX 3</channel>
+    <channel update="i" site="vodafonenetvonline.es" site_id="705" xmltv_id="beIN LaLiga MAX 4">beIN LaLiga MAX 4</channel>
+    <channel update="i" site="vodafonenetvonline.es" site_id="692" xmltv_id="GOL">GOL</channel>
+    <channel update="i" site="vodafonenetvonline.es" site_id="644" xmltv_id="Real Madrid TV">Real Madrid TV</channel>
+    <channel update="i" site="vodafonenetvonline.es" site_id="715" xmltv_id="Betis TV">Betis TV</channel>
+    <channel update="i" site="vodafonenetvonline.es" site_id="890" xmltv_id="Sevilla FC TV">Sevilla FC TV</channel>
+    <channel update="i" site="vodafonenetvonline.es" site_id="693" xmltv_id="LaLiga 123 TV">LaLiga 123 TV</channel>
+    <channel update="i" site="vodafonenetvonline.es" site_id="677" xmltv_id="LaLiga 123 Multi 1">LaLiga 123 Multi 1</channel>
+    <channel update="i" site="vodafonenetvonline.es" site_id="678" xmltv_id="LaLiga 123 Multi 2">LaLiga 123 Multi 2</channel>
+    <channel update="i" site="vodafonenetvonline.es" site_id="679" xmltv_id="LaLiga 123 Multi 3">LaLiga 123 Multi 3</channel>
+    <channel update="i" site="vodafonenetvonline.es" site_id="676" xmltv_id="LaLiga 123 Multi 4">LaLiga 123 Multi 4</channel>
+    <channel update="i" site="vodafonenetvonline.es" site_id="954" xmltv_id="Surf Channel">Surf Channel</channel>
+    <channel update="i" site="vodafonenetvonline.es" site_id="439" xmltv_id="Garage TV">Garage TV</channel>
+    <channel update="i" site="vodafonenetvonline.es" site_id="493" xmltv_id="El Trece Internacional">El Trece Internacional</channel>
+    <channel update="i" site="vodafonenetvonline.es" site_id="626" xmltv_id="Ve Plus TV">Ve Plus TV</channel>
+    <channel update="i" site="vodafonenetvonline.es" site_id="492" xmltv_id="AZ Corazón">AZ Corazón</channel>
+    <channel update="i" site="vodafonenetvonline.es" site_id="526" xmltv_id="Caracol TV Internacional">Caracol TV Internacional</channel>
+    <channel update="i" site="vodafonenetvonline.es" site_id="614" xmltv_id="TV Chile Internacional">TV Chile Internacional</channel>
+    <channel update="i" site="vodafonenetvonline.es" site_id="537" xmltv_id="Cubavisión Internacional">Cubavisión Internacional</channel>
+    <channel update="i" site="vodafonenetvonline.es" site_id="525" xmltv_id="Deutsche Welle">Deutsche Welle</channel>
+    <channel update="i" site="vodafonenetvonline.es" site_id="613" xmltv_id="TV5 Monde">TV5 Monde</channel>
+    <channel update="i" site="vodafonenetvonline.es" site_id="630" xmltv_id="RTM">RTM</channel>
+    <channel update="i" site="vodafonenetvonline.es" site_id="631" xmltv_id="TV Polonia">TV Polonia</channel>
+    <channel update="i" site="vodafonenetvonline.es" site_id="628" xmltv_id="Pro TV International">Pro TV International</channel>
+    <channel update="i" site="vodafonenetvonline.es" site_id="611" xmltv_id="TVG Sat">TVG Sat</channel>
+    <channel update="i" site="vodafonenetvonline.es" site_id="520" xmltv_id="ETB SAT">ETB SAT</channel>
+    <channel update="i" site="vodafonenetvonline.es" site_id="610" xmltv_id="TV3 Cat">TV3 Cat</channel>
+    <channel update="i" site="vodafonenetvonline.es" site_id="519" xmltv_id="Canal Sur Andalucía">Canal Sur Andalucía</channel>
+    <channel update="i" site="vodafonenetvonline.es" site_id="588" xmltv_id="Extremadura SAT">Extremadura SAT</channel>
+  </channels>
+</site>
