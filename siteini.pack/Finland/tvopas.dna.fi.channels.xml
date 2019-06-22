@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.4 -- Jan van Straaten" site="tvopas.dna.fi">
+  <channels>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-1118" xmltv_id="Yle TV1">Yle TV1</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-359757" xmltv_id="Yle TV2">Yle TV2</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-216356" xmltv_id="MTV3">MTV3</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-216366" xmltv_id="Nelonen">Nelonen</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-359767" xmltv_id="Yle Teema &amp; Fem">Yle Teema &amp; Fem</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-216368" xmltv_id="Sub">Sub</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-216403" xmltv_id="TV5">TV5</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-549944" xmltv_id="LIV">LIV</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-549801" xmltv_id="JIM">JIM</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-216400" xmltv_id="Kutonen">Kutonen</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-549980" xmltv_id="TLC">TLC</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-86249" xmltv_id="FOX">FOX</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-216370" xmltv_id="AVA">AVA</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-549957" xmltv_id="Hero">Hero</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-801508" xmltv_id="AlfaTV">AlfaTV</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-216394" xmltv_id="Frii">Frii</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-801542" xmltv_id="Aito Iskelmä Harju&amp;Pöntinen">Aito Iskelmä Harju&amp;Pöntinen</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-801557" xmltv_id="0700 1 1111 deitti">0700 1 1111 deitti</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-216396" xmltv_id="National Geographic">National Geographic</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-985817" xmltv_id="MT">MT</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-802478" xmltv_id="Estradi">Estradi</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-802577" xmltv_id="MTV">MTV</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-802611" xmltv_id="TV7">TV7</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-802619" xmltv_id="France 24">France 24</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-296162" xmltv_id="C More Sport 1">C More Sport 1</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-296199" xmltv_id="C More Sport 2">C More Sport 2</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-295480" xmltv_id="C More Max">C More Max</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-295476" xmltv_id="C More Juniori">C More Juniori</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-56786" xmltv_id="C More First">C More First</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-815611" xmltv_id="C More Hits">C More Hits</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-1426" xmltv_id="C More Series">C More Series</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-815622" xmltv_id="C More Stars">C More Stars</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-815633" xmltv_id="SF-Kanalen">SF-Kanalen</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-816060" xmltv_id="Viasat Film Family">Viasat Film Family</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-816070" xmltv_id="Viasat Film Hits">Viasat Film Hits</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-816087" xmltv_id="Viasat Film Action">Viasat Film Action</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-556706" xmltv_id="Viasat Film Premiere">Viasat Film Premiere</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-816114" xmltv_id="Viasat Explore">Viasat Explore</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-1424" xmltv_id="Viasat History">Viasat History</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-816116" xmltv_id="Viasat Nature">Viasat Nature</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-483208" xmltv_id="Viasat Urheilu">Viasat Urheilu</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-556382" xmltv_id="Viasat Sport">Viasat Sport</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-816157" xmltv_id="Viasat Sport Premium">Viasat Sport Premium</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-556271" xmltv_id="Viasat Golf">Viasat Golf</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-452010" xmltv_id="Viasat Jalkapallo">Viasat Jalkapallo</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-816336" xmltv_id="Viasat Fotboll">Viasat Fotboll</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-474278" xmltv_id="Viasat Jääkiekko">Viasat Jääkiekko</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-816355" xmltv_id="Viasat Hockey">Viasat Hockey</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-816399" xmltv_id="​Viasat NHL Xtra 1">​Viasat NHL Xtra 1</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-816402" xmltv_id="Viasat NHL Xtra 2">Viasat NHL Xtra 2</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-816405" xmltv_id="Viasat NHL Xtra 3">Viasat NHL Xtra 3</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-816418" xmltv_id="Viasat NHL Xtra 4">Viasat NHL Xtra 4</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-816424" xmltv_id="Viasat NHL Xtra 5">Viasat NHL Xtra 5</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-940118" xmltv_id="Viasat Ultra">Viasat Ultra</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-296147" xmltv_id="Eurosport 1">Eurosport 1</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-816519" xmltv_id="Eurosport 2">Eurosport 2</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-816685" xmltv_id="Fuel TV">Fuel TV</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-816712" xmltv_id="Nautical Channel">Nautical Channel</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-901934" xmltv_id="Fight Sports">Fight Sports</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-816728" xmltv_id="Ginx eSport TV">Ginx eSport TV</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-816730" xmltv_id="Motorvision TV">Motorvision TV</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-296191" xmltv_id="Discovery Showcase">Discovery Showcase</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-819255" xmltv_id="Extreme Sports Channel">Extreme Sports Channel</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-819259" xmltv_id="Toto TV">Toto TV</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-296180" xmltv_id="Animal Planet">Animal Planet</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-819288" xmltv_id="Nat Geo Wild">Nat Geo Wild</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-304785" xmltv_id="Discovery Channel">Discovery Channel</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-819298" xmltv_id="Investigation Discovery">Investigation Discovery</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-819319" xmltv_id="Discovery Science">Discovery Science</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-819321" xmltv_id="Discovery World">Discovery World</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-819333" xmltv_id="Travel Channel">Travel Channel</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-819388" xmltv_id="Outdoor Channel">Outdoor Channel</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-901948" xmltv_id="History">History</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-819808" xmltv_id="Disney Channel">Disney Channel</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-819826" xmltv_id="Disney Junior">Disney Junior</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-819829" xmltv_id="Disney XD">Disney XD</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-819873" xmltv_id="Nick Jr.">Nick Jr.</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-819881" xmltv_id="Cartoon Network">Cartoon Network</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-940115" xmltv_id="English Club TV">English Club TV</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-819889" xmltv_id="CNN International">CNN International</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-820066" xmltv_id="BBC Brit">BBC Brit</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-820069" xmltv_id="BBC Earth">BBC Earth</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-820071" xmltv_id="BBC World News">BBC World News</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-820087" xmltv_id="Sky News">Sky News</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-820089" xmltv_id="CNBC">CNBC</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-939802" xmltv_id="myZen.tv">myZen.tv</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-820095" xmltv_id="Fashion TV">Fashion TV</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-820112" xmltv_id="CBS Reality">CBS Reality</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-940072" xmltv_id="MEZZO">MEZZO</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-820141" xmltv_id="VH1">VH1</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-820143" xmltv_id="VH1 Classic">VH1 Classic</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-820145" xmltv_id="iConcerts">iConcerts</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-820219" xmltv_id="MTV Music">MTV Music</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-820221" xmltv_id="MTV Hits">MTV Hits</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-820282" xmltv_id="MTV Rocks">MTV Rocks</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-820286" xmltv_id="MTV Dance">MTV Dance</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-901961" xmltv_id="MTV LIVE">MTV LIVE</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-307370" xmltv_id="SVT1">SVT1</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-820327" xmltv_id="SVT2">SVT2</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-820382" xmltv_id="TV3">TV3</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-820384" xmltv_id="TV4">TV4</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-820429" xmltv_id="TV6">TV6</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-820431" xmltv_id="SVTB /SVT24">SVTB /SVT24</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-820433" xmltv_id="Kunskapskanalen">Kunskapskanalen</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-820485" xmltv_id="ARTE">ARTE</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-820497" xmltv_id="ETV">ETV</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-820499" xmltv_id="3sat">3sat</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-820519" xmltv_id="Deutche Welle">Deutche Welle</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-820521" xmltv_id="RTL">RTL</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-820523" xmltv_id="ZDF">ZDF</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-820622" xmltv_id="TV5MONDE EUROPE">TV5MONDE EUROPE</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-901963" xmltv_id="France 2">France 2</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-820633" xmltv_id="TVE Internacional">TVE Internacional</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-820635" xmltv_id="Rai 1">Rai 1</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-820637" xmltv_id="Rai 2">Rai 2</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-820639" xmltv_id="Al Jazeera English">Al Jazeera English</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-820641" xmltv_id="Al Jazeera Arabic">Al Jazeera Arabic</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-820673" xmltv_id="Channel One Russia">Channel One Russia</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-820739" xmltv_id="Dom Kino">Dom Kino</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-823380" xmltv_id="NTV Mir">NTV Mir</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-823382" xmltv_id="Euronews">Euronews</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-823438" xmltv_id="Sky Turk">Sky Turk</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-823440" xmltv_id="beIN Gurme">beIN Gurme</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-823457" xmltv_id="BRAZZERS TV Europe">BRAZZERS TV Europe</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-823459" xmltv_id="Playboy TV">Playboy TV</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-823725" xmltv_id="Blue Hustler">Blue Hustler</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-823727" xmltv_id="Hustler TV">Hustler TV</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-823729" xmltv_id="Raisio TV">Raisio TV</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-946493" xmltv_id="Testi1">Testi1</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-946423" xmltv_id="Testi2">Testi2</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-946495" xmltv_id="Testi3">Testi3</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-946497" xmltv_id="Testi4">Testi4</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-946515" xmltv_id="Testi5">Testi5</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-816669" xmltv_id="DNA Infokanava">DNA Infokanava</channel>
+    <channel update="i" site="tvopas.dna.fi" site_id="ch-1639908" xmltv_id="Testikanava">Testikanava</channel>
+  </channels>
+</site>
