@@ -1,0 +1,843 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.4 -- Jan van Straaten" site="tvguide.com">
+  <channels>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:70#Channel:436#" xmltv_id="Quality Value Convenience Network:QVC">Quality Value Convenience Network:QVC</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:70#Channel:20971#" xmltv_id="Quality Value Convenience Network HDTV:QVCHD">Quality Value Convenience Network HDTV:QVCHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:70.1#Channel:1190#" xmltv_id="Home Shopping Network:HSN">Home Shopping Network:HSN</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:70.1#Channel:22154#" xmltv_id="Home Shopping Network HDTV:HSNHD">Home Shopping Network HDTV:HSNHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:71#Channel:10715#" xmltv_id="Audience Channel SDTV:AUDSD">Audience Channel SDTV:AUDSD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:71#Channel:22057#" xmltv_id="Audience Channel HDTV (DirecTV):AUDHD">Audience Channel HDTV (DirecTV):AUDHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:72#Channel:5072#" xmltv_id="Jewelry Television:JTV">Jewelry Television:JTV</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:73#Channel:1274#" xmltv_id="EVINE Live:EVINE">EVINE Live:EVINE</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:74#Channel:33482#" xmltv_id="SALE Network (SRN5):SALE">SALE Network (SRN5):SALE</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:75#Channel:23564#" xmltv_id="Shop LC:SHOPLC">Shop LC:SHOPLC</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:76#Channel:44522#" xmltv_id="QVC2:QVC2">QVC2:QVC2</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:79#Channel:44522#" xmltv_id="QVC2:QVC2">QVC2:QVC2</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:80#Channel:80644#" xmltv_id="GetIt:GETIT">GetIt:GETIT</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:81#Channel:74045#" xmltv_id="Revenue Frontier:REVFR">Revenue Frontier:REVFR</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:84#Channel:33487#" xmltv_id="IDEA Channel:IDEA">IDEA Channel:IDEA</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:92#Channel:80646#" xmltv_id="Go4IT:GO4IT">Go4IT:GO4IT</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:95#Channel:13976#" xmltv_id="Celebrity Shopping Network:CSNET">Celebrity Shopping Network:CSNET</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:101#Channel:10715#" xmltv_id="Audience Channel SDTV:AUDSD">Audience Channel SDTV:AUDSD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:101#Channel:22057#" xmltv_id="Audience Channel HDTV (DirecTV):AUDHD">Audience Channel HDTV (DirecTV):AUDHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:202#Channel:429#" xmltv_id="Cable News Network:CNN">Cable News Network:CNN</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:202#Channel:19994#" xmltv_id="Cable News Network HDTV:CNNHD">Cable News Network HDTV:CNNHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:204#Channel:428#" xmltv_id="HLN:HLN">HLN:HLN</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:204#Channel:23462#" xmltv_id="HLN HDTV:HLNHD">HLN HDTV:HLNHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:206#Channel:423#" xmltv_id="ESPN:ESPN">ESPN:ESPN</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:206#Channel:12206#" xmltv_id="ESPN HDTV:ESPNHD">ESPN HDTV:ESPNHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:207#Channel:4543#" xmltv_id="ESPN News:ESPNEWS">ESPN News:ESPNEWS</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:207#Channel:20777#" xmltv_id="ESPN News HDTV:ESNEWSHD">ESPN News HDTV:ESNEWSHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:208#Channel:15702#" xmltv_id="ESPNU:ESPNU">ESPNU:ESPNU</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:208#Channel:21300#" xmltv_id="ESPNU HDTV:ESPNUHD">ESPNU HDTV:ESPNUHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:209#Channel:435#" xmltv_id="ESPN2:ESPN2">ESPN2:ESPN2</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:209#Channel:15628#" xmltv_id="ESPN2 HDTV:ESPN2HD">ESPN2 HDTV:ESPN2HD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:212#Channel:12751#" xmltv_id="The NFL Network:NFL">The NFL Network:NFL</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:212#Channel:14796#" xmltv_id="The NFL Network HDTV:NFLHD">The NFL Network HDTV:NFLHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:213#Channel:22159#" xmltv_id="MLB Network:MLBN">MLB Network:MLBN</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:213#Channel:22235#" xmltv_id="MLB Network HDTV:MLBHD">MLB Network HDTV:MLBHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:214#Channel:16174#" xmltv_id="MavTV:MavTV">MavTV:MavTV</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:214#Channel:21218#" xmltv_id="Mav TV HDTV:MavHD">Mav TV HDTV:MavHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:215#Channel:20235#" xmltv_id="NHL Network US:NHLTV">NHL Network US:NHLTV</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:215#Channel:20236#" xmltv_id="NHL Network US HDTV:NHLHD">NHL Network US HDTV:NHLHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:216#Channel:11462#" xmltv_id="NBA TV:NBA TV">NBA TV:NBA TV</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:216#Channel:20765#" xmltv_id="NBA TV HDTV:NBA HD">NBA TV HDTV:NBA HD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:217#Channel:12280#" xmltv_id="Tennis Channel:TENNIS">Tennis Channel:TENNIS</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:217#Channel:20735#" xmltv_id="Tennis Channel HDTV:TNNSHD">Tennis Channel HDTV:TNNSHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:218#Channel:1185#" xmltv_id="The Golf Channel:GOLF">The Golf Channel:GOLF</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:218#Channel:20001#" xmltv_id="The Golf Channel HDTV:GLFHD">The Golf Channel HDTV:GLFHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:219#Channel:44423#" xmltv_id="Fox Sports 1:FS1">Fox Sports 1:FS1</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:219#Channel:44422#" xmltv_id="Fox Sports 1 HDTV:FS1HD">Fox Sports 1 HDTV:FS1HD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:220#Channel:1219#" xmltv_id="NBC Sports Network:NBCSN">NBC Sports Network:NBCSN</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:220#Channel:18729#" xmltv_id="NBC Sports Network HDTV:NBCSN">NBC Sports Network HDTV:NBCSN</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:221#Channel:12251#" xmltv_id="CBS Sports Network:CBSSN">CBS Sports Network:CBSSN</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:221#Channel:20764#" xmltv_id="CBS Sports Network HDTV:CBSSD">CBS Sports Network HDTV:CBSSD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:223#Channel:13976#" xmltv_id="Celebrity Shopping Network:CSNET">Celebrity Shopping Network:CSNET</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:226#Channel:23564#" xmltv_id="Shop LC:SHOPLC">Shop LC:SHOPLC</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:228#Channel:26922#" xmltv_id="Gem Shopping Network:GEMS">Gem Shopping Network:GEMS</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:229#Channel:424#" xmltv_id="Home &amp; Garden Television (East):HGTV">Home &amp; Garden Television (East):HGTV</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:229#Channel:17119#" xmltv_id="Home &amp; Garden Television HDTV (East):HGTVD">Home &amp; Garden Television HDTV (East):HGTVD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:230#Channel:6332#" xmltv_id="Do it Yourself Network (East):DIY">Do it Yourself Network (East):DIY</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:230#Channel:26971#" xmltv_id="Do It Yourself Network HDTV (East):DIYHD">Do It Yourself Network HDTV (East):DIYHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:231#Channel:2006#" xmltv_id="Food Network (East):FOOD">Food Network (East):FOOD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:231#Channel:17546#" xmltv_id="Food Network HDTV (East):FOODHD">Food Network HDTV (East):FOODHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:232#Channel:10447#" xmltv_id="The Cooking Channel:COOK">The Cooking Channel:COOK</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:232#Channel:27227#" xmltv_id="The Cooking Channel HDTV:COOKHD">The Cooking Channel HDTV:COOKHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:233#Channel:1184#" xmltv_id="GSN (East):GSN">GSN (East):GSN</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:233#Channel:27958#" xmltv_id="Game Show Network HDTV (EAST):GMSHWHD">Game Show Network HDTV (EAST):GMSHWHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:236#Channel:408#" xmltv_id="E! Entertainment Television (East):E!">E! Entertainment Television (East):E!</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:236#Channel:21294#" xmltv_id="E! Entertainment Television HDTV (East):E! HD">E! Entertainment Television HDTV (East):E! HD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:237#Channel:404#" xmltv_id="Bravo (East):BRAVO">Bravo (East):BRAVO</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:237#Channel:20065#" xmltv_id="Bravo HDTV (East):BRAVOD">Bravo HDTV (East):BRAVOD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:238#Channel:18127#" xmltv_id="ReelzChannel:REELZ">ReelzChannel:REELZ</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:238#Channel:27330#" xmltv_id="ReelzChannel HDTV:REELZH">ReelzChannel HDTV:REELZH</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:239#Channel:10715#" xmltv_id="Audience Channel SDTV:AUDSD">Audience Channel SDTV:AUDSD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:239#Channel:22057#" xmltv_id="Audience Channel HDTV (DirecTV):AUDHD">Audience Channel HDTV (DirecTV):AUDHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:240#Channel:1190#" xmltv_id="Home Shopping Network:HSN">Home Shopping Network:HSN</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:240#Channel:22154#" xmltv_id="Home Shopping Network HDTV:HSNHD">Home Shopping Network HDTV:HSNHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:241#Channel:425#" xmltv_id="Paramount Network (East):PAR">Paramount Network (East):PAR</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:241#Channel:20524#" xmltv_id="Paramount Network HDTV (East):PARHD">Paramount Network HDTV (East):PARHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:242#Channel:432#" xmltv_id="USA Network (East):USA">USA Network (East):USA</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:242#Channel:20019#" xmltv_id="USA Network HDTV (East):USAHD">USA Network HDTV (East):USAHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:244#Channel:1232#" xmltv_id="Syfy (East):SYFY">Syfy (East):SYFY</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:244#Channel:20250#" xmltv_id="Syfy HDTV:SYFYHD">Syfy HDTV:SYFYHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:245#Channel:427#" xmltv_id="Turner Network Television (East):TNT">Turner Network Television (East):TNT</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:245#Channel:13412#" xmltv_id="Turner Network Television HDTV (East):TNTHD">Turner Network Television HDTV (East):TNTHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:246#Channel:33#" xmltv_id="truTV (East):truTV">truTV (East):truTV</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:246#Channel:23561#" xmltv_id="truTV HDTV (East):TruTVD">truTV HDTV (East):TruTVD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:247#Channel:410#" xmltv_id="TBS Superstation (East):TBS">TBS Superstation (East):TBS</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:247#Channel:15662#" xmltv_id="TBS Superstation HDTV (East):TBSHD">TBS Superstation HDTV (East):TBSHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:248#Channel:398#" xmltv_id="FX (East):FX">FX (East):FX</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:248#Channel:20311#" xmltv_id="FX HDTV (East):FX HD">FX HDTV (East):FX HD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:249#Channel:26#" xmltv_id="Comedy Central (East):COMEDY">Comedy Central (East):COMEDY</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:249#Channel:21715#" xmltv_id="Comedy Central HDTV (East):CMDHD">Comedy Central HDTV (East):CMDHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:251#Channel:8172#" xmltv_id="Oxygen (East):OXYGN">Oxygen (East):OXYGN</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:251#Channel:28587#" xmltv_id="Oxygen HDTV:OXYHD">Oxygen HDTV:OXYHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:252#Channel:438#" xmltv_id="Lifetime Television (East):LIFE">Lifetime Television (East):LIFE</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:252#Channel:20995#" xmltv_id="Lifetime Television HDTV (East):LIFEH">Lifetime Television HDTV (East):LIFEH</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:253#Channel:3818#" xmltv_id="Lifetime Movies (East):LIFEMOV">Lifetime Movies (East):LIFEMOV</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:253#Channel:19433#" xmltv_id="Lifetime Movies HDTV (East):LIFEMOV">Lifetime Movies HDTV (East):LIFEMOV</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:254#Channel:433#" xmltv_id="AMC (East):AMC">AMC (East):AMC</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:254#Channel:20419#" xmltv_id="AMC HDTV (East):AMCHD">AMC HDTV (East):AMCHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:256#Channel:1263#" xmltv_id="Turner Classic Movies:TCM">Turner Classic Movies:TCM</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:256#Channel:23458#" xmltv_id="Turner Classic Movies HDTV:TCMHD">Turner Classic Movies HDTV:TCMHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:258#Channel:2419#" xmltv_id="FX Movie Channel:FXM">FX Movie Channel:FXM</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:258#Channel:27327#" xmltv_id="FX Movie Channel HDTV:FXMHD">FX Movie Channel HDTV:FXMHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:259#Channel:44425#" xmltv_id="FXX (East):FXX">FXX (East):FXX</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:259#Channel:44424#" xmltv_id="FXX HDTV (East):FXXHD">FXX HDTV (East):FXXHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:260#Channel:2193#" xmltv_id="Women's Entertainment Network (East):WE">Women's Entertainment Network (East):WE</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:260#Channel:20418#" xmltv_id="Women's Entertainment HDTV (East):WE HD">Women's Entertainment HDTV (East):WE HD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:261#Channel:5799#" xmltv_id="Discovery Life Channel:DLIF">Discovery Life Channel:DLIF</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:263#Channel:80644#" xmltv_id="GetIt:GETIT">GetIt:GETIT</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:264#Channel:3389#" xmltv_id="BBC America (East):BBC">BBC America (East):BBC</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:264#Channel:23523#" xmltv_id="BBC America HDTV (East):BBC">BBC America HDTV (East):BBC</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:265#Channel:426#" xmltv_id="A&amp;E Network (East):A&amp;E">A&amp;E Network (East):A&amp;E</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:265#Channel:17962#" xmltv_id="A&amp;E Network HDTV:A&amp;EHD">A&amp;E Network HDTV:A&amp;EHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:266#Channel:4580#" xmltv_id="FYI:FYI">FYI:FYI</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:266#Channel:20378#" xmltv_id="FYI HDTV:FYIHD">FYI HDTV:FYIHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:269#Channel:1254#" xmltv_id="History (East):HIST">History (East):HIST</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:269#Channel:19933#" xmltv_id="History HDTV (East):HISHD">History HDTV (East):HISHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:270#Channel:33487#" xmltv_id="IDEA Channel:IDEA">IDEA Channel:IDEA</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:271#Channel:4579#" xmltv_id="VICELAND:VICE">VICELAND:VICE</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:271#Channel:24167#" xmltv_id="VICELAND HDTV:VICE">VICELAND HDTV:VICE</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:272#Channel:16188#" xmltv_id="LOGO (East):LOGO">LOGO (East):LOGO</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:273#Channel:4678#" xmltv_id="Pop (East):POP">Pop (East):POP</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:273#Channel:27233#" xmltv_id="Pop HDTV (East):POPHD">Pop HDTV (East):POPHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:274#Channel:1221#" xmltv_id="Ovation Arts Network:OVATN">Ovation Arts Network:OVATN</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:274#Channel:27332#" xmltv_id="Ovation Arts Network HDTV:OVTNHD">Ovation Arts Network HDTV:OVTNHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:275#Channel:436#" xmltv_id="Quality Value Convenience Network:QVC">Quality Value Convenience Network:QVC</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:275#Channel:20971#" xmltv_id="Quality Value Convenience Network HDTV:QVCHD">Quality Value Convenience Network HDTV:QVCHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:276#Channel:9426#" xmltv_id="National Geographic Channel:NGC">National Geographic Channel:NGC</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:276#Channel:17251#" xmltv_id="National Geographic Channel HDTV:NGCHD">National Geographic Channel HDTV:NGCHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:277#Channel:1260#" xmltv_id="Travel Channel (East):TRAVEL">Travel Channel (East):TRAVEL</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:277#Channel:20519#" xmltv_id="Travel Channel HDTV (East):TRAVD">Travel Channel HDTV (East):TRAVD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:278#Channel:399#" xmltv_id="The Discovery Channel (East):DSC">The Discovery Channel (East):DSC</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:278#Channel:19978#" xmltv_id="The Discovery Channel HDTV (East):DSCHD">The Discovery Channel HDTV (East):DSCHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:279#Channel:28508#" xmltv_id="The Oprah Winfrey Network (East):OWN">The Oprah Winfrey Network (East):OWN</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:279#Channel:28442#" xmltv_id="The Oprah Winfrey Network HDTV (East):OWNHD">The Oprah Winfrey Network HDTV (East):OWNHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:280#Channel:452#" xmltv_id="The Learning Channel (East):TLC">The Learning Channel (East):TLC</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:280#Channel:19975#" xmltv_id="The Learning Channel HDTV (East):TLCHD">The Learning Channel HDTV (East):TLCHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:281#Channel:10559#" xmltv_id="Motor Trend HDTV:MTHD">Motor Trend HDTV:MTHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:282#Channel:448#" xmltv_id="Animal Planet (East):ANIMAL">Animal Planet (East):ANIMAL</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:282#Channel:19976#" xmltv_id="Animal Planet HDTV (East):APHD">Animal Planet HDTV (East):APHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:283#Channel:24417#" xmltv_id="NatGeo WILD:NGWILD">NatGeo WILD:NGWILD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:283#Channel:24471#" xmltv_id="NatGeo WILD HDTV:NGWILD">NatGeo WILD HDTV:NGWILD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:284#Channel:1164#" xmltv_id="Science:SCI">Science:SCI</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:284#Channel:19977#" xmltv_id="Science HDTV:SCIHD">Science HDTV:SCIHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:285#Channel:1161#" xmltv_id="Investigation Discovery:ID">Investigation Discovery:ID</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:285#Channel:24011#" xmltv_id="Investigation Discovery HDTV:IDHD">Investigation Discovery HDTV:IDHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:286#Channel:2250#" xmltv_id="Destination America:DESTAMER">Destination America:DESTAMER</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:286#Channel:21068#" xmltv_id="Destination America HDTV:DESTAMHD">Destination America HDTV:DESTAMHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:287#Channel:3790#" xmltv_id="American Heroes Channel:AHC">American Heroes Channel:AHC</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:287#Channel:37652#" xmltv_id="American Heroes Channel HDTV:AHCHD">American Heroes Channel HDTV:AHCHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:289#Channel:34495#" xmltv_id="Disney Junior SD East:DISJr">Disney Junior SD East:DISJr</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:289#Channel:34384#" xmltv_id="Disney Junior HDTV East:DISJr">Disney Junior HDTV East:DISJr</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:290#Channel:430#" xmltv_id="The Disney Channel (East):DISNEY">The Disney Channel (East):DISNEY</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:290#Channel:20708#" xmltv_id="The Disney Channel HDTV (East):DISHD">The Disney Channel HDTV (East):DISHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:291#Channel:2499#" xmltv_id="The Disney Channel (West):DISNEY">The Disney Channel (West):DISNEY</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:292#Channel:3474#" xmltv_id="Disney XD (East):DISXD">Disney XD (East):DISXD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:292#Channel:20965#" xmltv_id="Disney XD HDTV (East):DXDHD">Disney XD HDTV (East):DXDHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:293#Channel:18146#" xmltv_id="BabyFirst Americas:BABY1">BabyFirst Americas:BABY1</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:294#Channel:1162#" xmltv_id="Discovery Family Channel SDTV:DFCH">Discovery Family Channel SDTV:DFCH</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:294#Channel:27080#" xmltv_id="Discovery Family Channel HDTV:DFCHD">Discovery Family Channel HDTV:DFCHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:295#Channel:16397#" xmltv_id="Universal Kids:UKIDS">Universal Kids:UKIDS</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:295#Channel:27063#" xmltv_id="Universal Kids HDTV:UKIDSHD">Universal Kids HDTV:UKIDSHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:296#Channel:3460#" xmltv_id="Cartoon Network (East):TOON">Cartoon Network (East):TOON</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:296#Channel:20326#" xmltv_id="Cartoon Network HDTV (East):TOONHD">Cartoon Network HDTV (East):TOONHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:297#Channel:3461#" xmltv_id="Cartoon Network (West):TOON">Cartoon Network (West):TOON</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:298#Channel:8840#" xmltv_id="Boomerang:BOOM">Boomerang:BOOM</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:299#Channel:431#" xmltv_id="Nickelodeon (East):NIK">Nickelodeon (East):NIK</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:299#Channel:20730#" xmltv_id="Nickelodeon HDTV (East):NICHD">Nickelodeon HDTV (East):NICHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:300#Channel:2589#" xmltv_id="Nickelodeon (West):NIK">Nickelodeon (West):NIK</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:301#Channel:4968#" xmltv_id="Nick Jr.:NicJr">Nick Jr.:NicJr</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:301#Channel:44718#" xmltv_id="Nick Jr. HDTV:NJRHD">Nick Jr. HDTV:NJRHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:302#Channel:4966#" xmltv_id="Nicktoons Network (East):NICKTOON">Nicktoons Network (East):NICKTOON</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:303#Channel:5162#" xmltv_id="TeenNick (East):TNCK">TeenNick (East):TNCK</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:304#Channel:1269#" xmltv_id="TV Land (East):TVLAND">TV Land (East):TVLAND</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:304#Channel:33895#" xmltv_id="TV Land HDTV (East):TVLAND">TV Land HDTV (East):TVLAND</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:305#Channel:17689#" xmltv_id="ION DirecTV:ION E">ION DirecTV:ION E</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:305#Channel:37323#" xmltv_id="ION DirecTV HDTV (East):IONEHD">ION DirecTV HDTV (East):IONEHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:306#Channel:23629#" xmltv_id="ION (West Network):ION">ION (West Network):ION</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:307#Channel:1280#" xmltv_id="WGN America:WGNA">WGN America:WGNA</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:307#Channel:20635#" xmltv_id="WGN America HDTV:WGNA">WGN America HDTV:WGNA</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:308#Channel:80646#" xmltv_id="Go4IT:GO4IT">Go4IT:GO4IT</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:309#Channel:33482#" xmltv_id="SALE Network (SRN5):SALE">SALE Network (SRN5):SALE</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:310#Channel:33927#" xmltv_id="Home Shopping Network 2:HSN2">Home Shopping Network 2:HSN2</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:311#Channel:441#" xmltv_id="Freeform (East):FREFM">Freeform (East):FREFM</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:311#Channel:20863#" xmltv_id="Freeform HDTV (East):FRFHD">Freeform HDTV (East):FRFHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:312#Channel:1216#" xmltv_id="Hallmark Channel (East):HALMRK">Hallmark Channel (East):HALMRK</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:312#Channel:24329#" xmltv_id="Hallmark Channel HDTV (East):HALLHD">Hallmark Channel HDTV (East):HALLHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:313#Channel:5072#" xmltv_id="Jewelry Television:JTV">Jewelry Television:JTV</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:315#Channel:44522#" xmltv_id="QVC2:QVC2">QVC2:QVC2</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:316#Channel:1274#" xmltv_id="EVINE Live:EVINE">EVINE Live:EVINE</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:317#Channel:436#" xmltv_id="Quality Value Convenience Network:QVC">Quality Value Convenience Network:QVC</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:317#Channel:20971#" xmltv_id="Quality Value Convenience Network HDTV:QVCHD">Quality Value Convenience Network HDTV:QVCHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:318#Channel:85454#" xmltv_id="QVC3:QVC3">QVC3:QVC3</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:321#Channel:21660#" xmltv_id="Russia Today (North America):RT">Russia Today (North America):RT</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:323#Channel:49409#" xmltv_id="Family Entertainment:FETV">Family Entertainment:FETV</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:324#Channel:74045#" xmltv_id="Revenue Frontier:REVFR">Revenue Frontier:REVFR</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:326#Channel:3729#" xmltv_id="Great American Country:GAC">Great American Country:GAC</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:326#Channel:34774#" xmltv_id="Great American Country HDTV:GACHD">Great American Country HDTV:GACHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:327#Channel:20732#" xmltv_id="CMT HDTV (East):CMTHD">CMT HDTV (East):CMTHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:327#Channel:27#" xmltv_id="CMT (East):CMT">CMT (East):CMT</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:328#Channel:13189#" xmltv_id=":TVONE">:TVONE</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:328#Channel:22123#" xmltv_id="TV ONE HDTV:TVONEHD">TV ONE HDTV:TVONEHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:329#Channel:439#" xmltv_id="Black Entertainment Television (East):BET">Black Entertainment Television (East):BET</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:329#Channel:23186#" xmltv_id="Black Entertainment Television HDTV (East):BET-HD">Black Entertainment Television HDTV (East):BET-HD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:330#Channel:1126#" xmltv_id="BET Her:CTRC">BET Her:CTRC</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:331#Channel:440#" xmltv_id="MTV (East):MTV">MTV (East):MTV</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:331#Channel:21787#" xmltv_id="MTV HDTV (East):MTVHD">MTV HDTV (East):MTVHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:332#Channel:4331#" xmltv_id="MTV2 (East):MTV2">MTV2 (East):MTV2</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:332#Channel:33898#" xmltv_id="MTV2 HDTV (East):MTV2HD">MTV2 HDTV (East):MTV2HD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:333#Channel:1192#" xmltv_id="IFC (East):IFC">IFC (East):IFC</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:333#Channel:20420#" xmltv_id="IFC HDTV (East):IFCHD">IFC HDTV (East):IFCHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:334#Channel:10715#" xmltv_id="Audience Channel SDTV:AUDSD">Audience Channel SDTV:AUDSD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:334#Channel:22057#" xmltv_id="Audience Channel HDTV (DirecTV):AUDHD">Audience Channel HDTV (DirecTV):AUDHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:335#Channel:1275#" xmltv_id="VH1 (East):VH1">VH1 (East):VH1</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:335#Channel:21716#" xmltv_id="VH1 HDTV (East):VH1HD">VH1 HDTV (East):VH1HD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:336#Channel:5834#" xmltv_id="MTV Classic (East):MTVCL">MTV Classic (East):MTVCL</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:338#Channel:16218#" xmltv_id="UPtv:UPTV">UPtv:UPTV</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:339#Channel:1206#" xmltv_id="Fuse (East):FUSE">Fuse (East):FUSE</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:339#Channel:20423#" xmltv_id="Fuse HDTV (East):FUSED">Fuse HDTV (East):FUSED</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:340#Channel:10944#" xmltv_id="AXSTV HD:AXSTV">AXSTV HD:AXSTV</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:341#Channel:45198#" xmltv_id="El Rey Network:ElRey">El Rey Network:ElRey</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:341#Channel:45107#" xmltv_id="El Rey Network HDTV:ElRey">El Rey Network HDTV:ElRey</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:342#Channel:45997#" xmltv_id="Fusion HDTV:FUSN">Fusion HDTV:FUSN</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:344#Channel:26924#" xmltv_id="SonLife Network:SONL">SonLife Network:SONL</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:345#Channel:10890#" xmltv_id="RFD TV:RFDTV">RFD TV:RFDTV</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:345#Channel:20903#" xmltv_id="RFD HDTV:RFDHD">RFD HDTV:RFDHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:346#Channel:34805#" xmltv_id="BBC World News HDTV:BBCWNHD">BBC World News HDTV:BBCWNHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:347#Channel:45246#" xmltv_id="One America News Network:OAN">One America News Network:OAN</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:347#Channel:78870#" xmltv_id="One America News Network HDTV (East):OANHD">One America News Network HDTV (East):OANHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:348#Channel:12426#" xmltv_id="Free Speech TV:FSTV">Free Speech TV:FSTV</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:349#Channel:57475#" xmltv_id="Newsmax:NEWSM">Newsmax:NEWSM</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:350#Channel:442#" xmltv_id="Cable Satellite Public Affairs Network:CSPAN">Cable Satellite Public Affairs Network:CSPAN</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:351#Channel:1160#" xmltv_id="Cable Satellite Public Affairs Network 2:CSPAN2">Cable Satellite Public Affairs Network 2:CSPAN2</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:352#Channel:1208#" xmltv_id="NASA Television:NASA">NASA Television:NASA</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:353#Channel:29715#" xmltv_id="Bloomberg in HDTV:BTVHD">Bloomberg in HDTV:BTVHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:353#Channel:4893#" xmltv_id="Bloomberg TV:BTV">Bloomberg TV:BTV</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:354#Channel:91872#" xmltv_id="Cheddar Business HDTV:CHEDDARH">Cheddar Business HDTV:CHEDDARH</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:355#Channel:28#" xmltv_id="Consumer News &amp; Business Channel:CNBC">Consumer News &amp; Business Channel:CNBC</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:355#Channel:20279#" xmltv_id="Consumer News &amp; Business Channel HDTV:CNBCH">Consumer News &amp; Business Channel HDTV:CNBCH</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:356#Channel:1202#" xmltv_id="msnbc:msnbc">msnbc:msnbc</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:356#Channel:23408#" xmltv_id="msnbc HDTV:msnbcH">msnbc HDTV:msnbcH</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:357#Channel:28#" xmltv_id="Consumer News &amp; Business Channel:CNBC">Consumer News &amp; Business Channel:CNBC</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:358#Channel:2181#" xmltv_id="Cable News Network International:CNNI">Cable News Network International:CNNI</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:359#Channel:19810#" xmltv_id="Fox Business Network:FBN">Fox Business Network:FBN</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:359#Channel:20256#" xmltv_id="Fox Business Network HDTV:FBNHD">Fox Business Network HDTV:FBNHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:360#Channel:450#" xmltv_id="Fox News Channel:FNC">Fox News Channel:FNC</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:360#Channel:20779#" xmltv_id="Fox News Channel HDTV:FNCHD">Fox News Channel HDTV:FNCHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:361#Channel:58717#" xmltv_id="Accuweather HDTV:WTHHD">Accuweather HDTV:WTHHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:361#Channel:17334#" xmltv_id="Accuweather:ACCWTH">Accuweather:ACCWTH</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:362#Channel:434#" xmltv_id="The Weather Channel:TWC">The Weather Channel:TWC</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:362#Channel:20178#" xmltv_id="The Weather Channel HDTV:WEAHD">The Weather Channel HDTV:WEAHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:363#Channel:45986#" xmltv_id="GEB America:GEBA">GEB America:GEBA</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:364#Channel:44754#" xmltv_id="Inspirational Network HD East:INSPHD">Inspirational Network HD East:INSPHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:364#Channel:1193#" xmltv_id="Inspirational Network East:INSP">Inspirational Network East:INSP</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:365#Channel:19585#" xmltv_id="God TV:GODTV">God TV:GODTV</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:366#Channel:19497#" xmltv_id="Jewish Life TV:JLTV">Jewish Life TV:JLTV</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:367#Channel:3367#" xmltv_id="World Harvest Television:WHT">World Harvest Television:WHT</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:368#Channel:18450#" xmltv_id="HOPE:HOPE">HOPE:HOPE</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:369#Channel:9487#" xmltv_id="Daystar Television Network:DAYSTAR">Daystar Television Network:DAYSTAR</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:370#Channel:1168#" xmltv_id="Eternal Word Television Network:EWTN">Eternal Word Television Network:EWTN</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:371#Channel:10990#" xmltv_id="Hillsong Channel:HILLSNG">Hillsong Channel:HILLSNG</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:372#Channel:21923#" xmltv_id="Trinity Broadcasting Network HDTV:TBNHD">Trinity Broadcasting Network HDTV:TBNHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:372#Channel:1261#" xmltv_id="Trinity Broadcasting Network:TBN">Trinity Broadcasting Network:TBN</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:373#Channel:9478#" xmltv_id="The Word Network:TWN">The Word Network:TWN</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:374#Channel:2368#" xmltv_id="KBYU Brigham Young University TV:BYUTV">KBYU Brigham Young University TV:BYUTV</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:375#Channel:10991#" xmltv_id="Link TV:LINK">Link TV:LINK</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:376#Channel:23243#" xmltv_id="Christian Television Network:CTN">Christian Television Network:CTN</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:377#Channel:17244#" xmltv_id="TCT SDTV:TCTSD">TCT SDTV:TCTSD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:378#Channel:17233#" xmltv_id="National Religious Broadcasters:NRB">National Religious Broadcasters:NRB</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:379#Channel:57623#" xmltv_id="UPLIFTV:UPLFT">UPLIFTV:UPLFT</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:381#Channel:35824#" xmltv_id="ASPiRE SDTV:ASPIRE">ASPiRE SDTV:ASPIRE</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:382#Channel:35974#" xmltv_id="Comedy.tv HDTV:CMDYD">Comedy.tv HDTV:CMDYD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:383#Channel:37757#" xmltv_id="Justice Central HDTV:JUSHD">Justice Central HDTV:JUSHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:384#Channel:45504#" xmltv_id="Revolt HDTV:RVLTHD">Revolt HDTV:RVLTHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:386#Channel:28408#" xmltv_id="FM HDTV:FM">FM HDTV:FM</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:387#Channel:15188#" xmltv_id="A Wealth of Entertainment:AWE">A Wealth of Entertainment:AWE</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:387#Channel:15738#" xmltv_id="A Wealth of Entertainment HDTV:AWEHD">A Wealth of Entertainment HDTV:AWEHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:388#Channel:35738#" xmltv_id="Jewish Broadcasting Service:JBS">Jewish Broadcasting Service:JBS</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:389#Channel:5964#" xmltv_id="PBS:PBS">PBS:PBS</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:390#Channel:11116#" xmltv_id="WCBS HDTV:WCBSDT">WCBS HDTV:WCBSDT</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:390#Channel:102#" xmltv_id="WCBS:WCBS">WCBS:WCBS</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:391#Channel:11110#" xmltv_id="KCBS HDTV:KCBSHD">KCBS HDTV:KCBSHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:391#Channel:696#" xmltv_id="KCBS:KCBS">KCBS:KCBS</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:392#Channel:11293#" xmltv_id="WNBC HDTV:WNBC-DT">WNBC HDTV:WNBC-DT</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:392#Channel:328#" xmltv_id="WNBC:WNBC">WNBC:WNBC</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:393#Channel:873#" xmltv_id="KNBC:KNBC">KNBC:KNBC</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:393#Channel:11287#" xmltv_id="KNBC HDTV:KNBCHD">KNBC HDTV:KNBCHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:394#Channel:70#" xmltv_id="WDCW:WDCW">WDCW:WDCW</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:395#Channel:981#" xmltv_id="KTLA:KTLA">KTLA:KTLA</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:396#Channel:663#" xmltv_id="WABC:WABC">WABC:WABC</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:396#Channel:11247#" xmltv_id="WABC HDTV:WABCH">WABC HDTV:WABCH</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:397#Channel:5#" xmltv_id="KABC:KABC">KABC:KABC</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:397#Channel:11099#" xmltv_id="KABC HDTV:KABCHD">KABC HDTV:KABCHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:398#Channel:353#" xmltv_id="WNYW:WNYW">WNYW:WNYW</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:398#Channel:11129#" xmltv_id="WNYW HDTV:WNYW">WNYW HDTV:WNYW</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:399#Channel:994#" xmltv_id="KTTV:KTTV">KTTV:KTTV</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:399#Channel:11127#" xmltv_id="KTTV HDTV:KTTVHD">KTTV HDTV:KTTVHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:402#Channel:417#" xmltv_id="Univisión Network (East):UNI">Univisión Network (East):UNI</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:402#Channel:27461#" xmltv_id="Univision Network HDTV:UNIHD">Univision Network HDTV:UNIHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:403#Channel:2229#" xmltv_id="Univisión Network (Pacific):UNI">Univisión Network (Pacific):UNI</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:404#Channel:1845#" xmltv_id="Galavision (East):GALA">Galavision (East):GALA</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:404#Channel:27229#" xmltv_id="Galavision HDTV (East):GALAH">Galavision HDTV (East):GALAH</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:406#Channel:1986#" xmltv_id="Telemundo Network (East):TELMUN">Telemundo Network (East):TELMUN</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:407#Channel:3815#" xmltv_id="Telemundo Network (West):TELMUN">Telemundo Network (West):TELMUN</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:408#Channel:10341#" xmltv_id="UniMás (Pacific):UNIMAS">UniMás (Pacific):UNIMAS</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:408#Channel:35044#" xmltv_id="UniMás HDTV (Pacific):UNIMASHD">UniMás HDTV (Pacific):UNIMASHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:409#Channel:5064#" xmltv_id="Venevisión:VENVIS">Venevisión:VENVIS</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:410#Channel:3861#" xmltv_id="UNIVERSO (East):UNVRSO">UNIVERSO (East):UNVRSO</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:410#Channel:52252#" xmltv_id="UNIVERSO HDTV (East):UNVSOHD">UNIVERSO HDTV (East):UNVSOHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:411#Channel:3964#" xmltv_id="Telefe Internacional de Argentina:TELEFE">Telefe Internacional de Argentina:TELEFE</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:412#Channel:23242#" xmltv_id="Multimedios USA:MMTV">Multimedios USA:MMTV</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:413#Channel:3936#" xmltv_id="The Discovery Channel en Español:DSCE">The Discovery Channel en Español:DSCE</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:414#Channel:16187#" xmltv_id="WAPA América:WAPA">WAPA América:WAPA</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:415#Channel:8525#" xmltv_id="Video Rola:V-ROLA">Video Rola:V-ROLA</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:416#Channel:12270#" xmltv_id="RCN Nuestra Tele:NUTELE">RCN Nuestra Tele:NUTELE</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:417#Channel:12931#" xmltv_id="Caracol TV Internacional:CRC.INT">Caracol TV Internacional:CRC.INT</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:418#Channel:24395#" xmltv_id="Nuestra Tele Noticias 24:NTN24">Nuestra Tele Noticias 24:NTN24</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:419#Channel:4006#" xmltv_id="Cable News Network en Español (USA):CNNE">Cable News Network en Español (USA):CNNE</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:420#Channel:55789#" xmltv_id="Atreseries:ATRES">Atreseries:ATRES</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:421#Channel:22680#" xmltv_id="Fox Life (USA &amp; Canada):FOXLF">Fox Life (USA &amp; Canada):FOXLF</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:422#Channel:22247#" xmltv_id="Cine Estelar:CIES">Cine Estelar:CIES</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:423#Channel:22612#" xmltv_id="Cine Latino (US):CINEL">Cine Latino (US):CINEL</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:424#Channel:13007#" xmltv_id="Cine Nostalgia Mexico:CINO">Cine Nostalgia Mexico:CINO</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:425#Channel:23265#" xmltv_id="Baby TV (Latin America):BABYTV">Baby TV (Latin America):BABYTV</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:426#Channel:29909#" xmltv_id="STARZ ENCORE Español:STZES">STARZ ENCORE Español:STZES</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:427#Channel:77217#" xmltv_id="IVC Internacional:IVC">IVC Internacional:IVC</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:428#Channel:27221#" xmltv_id="Centroamérica TV:CATV">Centroamérica TV:CATV</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:429#Channel:21744#" xmltv_id="Telecentro Canal 13:TLCTO">Telecentro Canal 13:TLCTO</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:430#Channel:45869#" xmltv_id="¡Hola! TV (USA):HOLA">¡Hola! TV (USA):HOLA</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:431#Channel:30571#" xmltv_id="Perú Mágico:PMTV">Perú Mágico:PMTV</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:432#Channel:53191#" xmltv_id="ZooMoo:ZOOMOO">ZooMoo:ZOOMOO</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:433#Channel:18768#" xmltv_id="Bandamax (U.S.):BANDA">Bandamax (U.S.):BANDA</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:435#Channel:29849#" xmltv_id="Nat Geo Mundo:NGMUN">Nat Geo Mundo:NGMUN</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:436#Channel:19989#" xmltv_id="Discovery Familia (U.S. feed):DFAM">Discovery Familia (U.S. feed):DFAM</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:437#Channel:5058#" xmltv_id="TV Chile (TVN Internacional):TVCHILE">TV Chile (TVN Internacional):TVCHILE</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:438#Channel:18911#" xmltv_id="Ecuavisa Internacional:ECUAV">Ecuavisa Internacional:ECUAV</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:439#Channel:19534#" xmltv_id="Canal Sur (Peru):SPERU">Canal Sur (Peru):SPERU</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:440#Channel:19057#" xmltv_id="Vme:Vme">Vme:Vme</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:441#Channel:13166#" xmltv_id="Azteca America Network (East):AZTECA">Azteca America Network (East):AZTECA</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:442#Channel:23870#" xmltv_id="Estrella TV (East):ESTRELLA">Estrella TV (East):ESTRELLA</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:443#Channel:15137#" xmltv_id="The History Channel en Español:HISTE">The History Channel en Español:HISTE</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:444#Channel:27052#" xmltv_id="Pasiones (USA):PASN">Pasiones (USA):PASN</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:445#Channel:4330#" xmltv_id="Tr3s (East):Tr3s">Tr3s (East):Tr3s</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:446#Channel:15146#" xmltv_id="Canal 22 Internacional:C22INTL">Canal 22 Internacional:C22INTL</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:447#Channel:15145#" xmltv_id="Canal Once XEIPN Internacional:OMex">Canal Once XEIPN Internacional:OMex</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:448#Channel:12279#" xmltv_id="TBN Enlace USA:ENLAC">TBN Enlace USA:ENLAC</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:449#Channel:45137#" xmltv_id="Cine Sony Television:CSONY">Cine Sony Television:CSONY</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:450#Channel:17726#" xmltv_id="ViendoMovies (East):VMOV">ViendoMovies (East):VMOV</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:451#Channel:3749#" xmltv_id="De Película:DPELI">De Película:DPELI</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:452#Channel:13674#" xmltv_id="De Película Clásico:DPCLA">De Película Clásico:DPCLA</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:453#Channel:3114#" xmltv_id="Foro TV:FOROTV">Foro TV:FOROTV</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:454#Channel:37215#" xmltv_id="Univisión tlnovelas:TLNOV">Univisión tlnovelas:TLNOV</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:456#Channel:16319#" xmltv_id="El Sembrador Nueva Evangelización TV:ESNE">El Sembrador Nueva Evangelización TV:ESNE</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:457#Channel:23915#" xmltv_id="Ecuador TV International:ECTV">Ecuador TV International:ECTV</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:458#Channel:5003#" xmltv_id="Antena 3 (Mexico):ANTENA 3">Antena 3 (Mexico):ANTENA 3</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:460#Channel:5056#" xmltv_id="TVE Internacional (North &amp; South America):TVE">TVE Internacional (North &amp; South America):TVE</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:461#Channel:8377#" xmltv_id="HITN-TV:HITN">HITN-TV:HITN</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:462#Channel:15130#" xmltv_id="Cine Mexicano:CINE">Cine Mexicano:CINE</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:464#Channel:36136#" xmltv_id="Univisión Deportes:UNIDEP">Univisión Deportes:UNIDEP</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:464#Channel:37216#" xmltv_id="Univisión Deportes Network HDTV:UNIDEPHD">Univisión Deportes Network HDTV:UNIDEPHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:465#Channel:1173#" xmltv_id="Fox Deportes en Español (U.S.):FOXDEP">Fox Deportes en Español (U.S.):FOXDEP</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:465#Channel:30587#" xmltv_id="Fox Deportes en Español HDTV (U.S.):FXDEHD">Fox Deportes en Español HDTV (U.S.):FXDEHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:466#Channel:9976#" xmltv_id="ESPN Deportes:ESNDEP">ESPN Deportes:ESNDEP</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:466#Channel:29692#" xmltv_id="ESPN Deportes HDTV:EDEPHD">ESPN Deportes HDTV:EDEPHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:468#Channel:15169#" xmltv_id="GOLTV English:GOLTV">GOLTV English:GOLTV</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:469#Channel:12732#" xmltv_id="Torneos y Competencias (USA &amp; Mexico):TYC">Torneos y Competencias (USA &amp; Mexico):TYC</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:471#Channel:76879#" xmltv_id="MLS Direct Kick DirecTV:MLSDK">MLS Direct Kick DirecTV:MLSDK</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:471#Channel:76873#" xmltv_id="MLS Direct Kick DirecTV HDTV:MLSDK">MLS Direct Kick DirecTV HDTV:MLSDK</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:472#Channel:76880#" xmltv_id="MLS Direct Kick DirecTV:MLSDK">MLS Direct Kick DirecTV:MLSDK</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:472#Channel:76874#" xmltv_id="MLS Direct Kick DirecTV HDTV:MLSDK">MLS Direct Kick DirecTV HDTV:MLSDK</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:473#Channel:76881#" xmltv_id="MLS Direct Kick DirecTV:MLSDK">MLS Direct Kick DirecTV:MLSDK</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:473#Channel:76875#" xmltv_id="MLS Direct Kick DirecTV HDTV:MLSDK">MLS Direct Kick DirecTV HDTV:MLSDK</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:474#Channel:76882#" xmltv_id="MLS Direct Kick DirecTV:MLSDK">MLS Direct Kick DirecTV:MLSDK</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:474#Channel:76876#" xmltv_id="MLS Direct Kick DirecTV HDTV:MLSDK">MLS Direct Kick DirecTV HDTV:MLSDK</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:475#Channel:76883#" xmltv_id="MLS Direct Kick DirecTV:MLSDK">MLS Direct Kick DirecTV:MLSDK</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:475#Channel:76877#" xmltv_id="MLS Direct Kick DirecTV HDTV:MLSDK">MLS Direct Kick DirecTV HDTV:MLSDK</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:476#Channel:76884#" xmltv_id="MLS Direct Kick DirecTV:MLSDK">MLS Direct Kick DirecTV:MLSDK</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:476#Channel:76878#" xmltv_id="MLS Direct Kick DirecTV HDTV:MLSDK">MLS Direct Kick DirecTV HDTV:MLSDK</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:479#Channel:76879#" xmltv_id="MLS Direct Kick DirecTV:MLSDK">MLS Direct Kick DirecTV:MLSDK</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:479#Channel:76873#" xmltv_id="MLS Direct Kick DirecTV HDTV:MLSDK">MLS Direct Kick DirecTV HDTV:MLSDK</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:480#Channel:76880#" xmltv_id="MLS Direct Kick DirecTV:MLSDK">MLS Direct Kick DirecTV:MLSDK</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:480#Channel:76874#" xmltv_id="MLS Direct Kick DirecTV HDTV:MLSDK">MLS Direct Kick DirecTV HDTV:MLSDK</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:481#Channel:76881#" xmltv_id="MLS Direct Kick DirecTV:MLSDK">MLS Direct Kick DirecTV:MLSDK</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:481#Channel:76875#" xmltv_id="MLS Direct Kick DirecTV HDTV:MLSDK">MLS Direct Kick DirecTV HDTV:MLSDK</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:500#Channel:10715#" xmltv_id="Audience Channel SDTV:AUDSD">Audience Channel SDTV:AUDSD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:500#Channel:22057#" xmltv_id="Audience Channel HDTV (DirecTV):AUDHD">Audience Channel HDTV (DirecTV):AUDHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:501#Channel:411#" xmltv_id="HBO (East):HBO">HBO (East):HBO</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:501#Channel:11096#" xmltv_id="HBO HDTV (East):HBOHD">HBO HDTV (East):HBOHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:502#Channel:1188#" xmltv_id="HBO 2 (East):HBO2">HBO 2 (East):HBO2</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:502#Channel:20936#" xmltv_id="HBO 2 HDTV (East):HBO2HD">HBO 2 HDTV (East):HBO2HD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:503#Channel:2139#" xmltv_id="HBO Signature (East):HBOSGe">HBO Signature (East):HBOSGe</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:503#Channel:20938#" xmltv_id="HBO Signature HDTV (East):HBOSHD">HBO Signature HDTV (East):HBOSHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:504#Channel:2505#" xmltv_id="HBO (West):HBO">HBO (West):HBO</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:504#Channel:11097#" xmltv_id="HBO HDTV (West):HBOHD">HBO HDTV (West):HBOHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:505#Channel:4289#" xmltv_id="HBO 2 (West):HBO2">HBO 2 (West):HBO2</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:505#Channel:21086#" xmltv_id="HBO 2 HDTV (West):HBO2HW">HBO 2 HDTV (West):HBO2HW</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:506#Channel:20939#" xmltv_id="HBO Comedy HDTV (East):HBOCHD">HBO Comedy HDTV (East):HBOCHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:507#Channel:2174#" xmltv_id="HBO Family (East):HBOFe">HBO Family (East):HBOFe</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:507#Channel:20937#" xmltv_id="HBO Family HDTV (East):HBOFHD">HBO Family HDTV (East):HBOFHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:508#Channel:2531#" xmltv_id="HBO Family (West):HBOFw">HBO Family (West):HBOFw</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:509#Channel:21089#" xmltv_id="HBO Zone HDTV (East):HBOZHD">HBO Zone HDTV (East):HBOZHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:511#Channel:9359#" xmltv_id="HBO Latino (East):HBOLe">HBO Latino (East):HBOLe</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:511#Channel:21861#" xmltv_id="HBO Latino HDTV (East):HBOLD">HBO Latino HDTV (East):HBOLD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:515#Channel:412#" xmltv_id="Cinemax (East):MAX">Cinemax (East):MAX</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:515#Channel:12860#" xmltv_id="Cinemax HDTV (East):MAXHD">Cinemax HDTV (East):MAXHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:516#Channel:2529#" xmltv_id="Cinemax (West):MAX">Cinemax (West):MAX</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:516#Channel:12861#" xmltv_id="Cinemax HDTV (West):MAXHDW">Cinemax HDTV (West):MAXHDW</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:517#Channel:3710#" xmltv_id="More Max (East):MOMAX">More Max (East):MOMAX</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:517#Channel:20940#" xmltv_id="More Max HDTV (East):MOMXHD">More Max HDTV (East):MOMXHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:519#Channel:20941#" xmltv_id="ActionMAX HDTV (East):AMXHD">ActionMAX HDTV (East):AMXHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:520#Channel:21214#" xmltv_id="Five Star Max HDTV:5MXHD">Five Star Max HDTV:5MXHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:521#Channel:21358#" xmltv_id="MOVIEMAX HDTV:MMXHD">MOVIEMAX HDTV:MMXHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:522#Channel:21215#" xmltv_id="ThrillerMAX HDTV (East):TMXHD">ThrillerMAX HDTV (East):TMXHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:523#Channel:21213#" xmltv_id="CINEMÁX HDTV:MAXL">CINEMÁX HDTV:MAXL</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:525#Channel:420#" xmltv_id="Starz (East):STARZ">Starz (East):STARZ</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:525#Channel:12904#" xmltv_id="STARZ HD (East):STZHD">STARZ HD (East):STZHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:526#Channel:2513#" xmltv_id="Starz (West):STRZ">Starz (West):STRZ</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:526#Channel:12907#" xmltv_id="STARZ HD (West):SZHDw">STARZ HD (West):SZHDw</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:527#Channel:19917#" xmltv_id="STARZ Kids &amp; Family HD (East):SZKHD">STARZ Kids &amp; Family HD (East):SZKHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:528#Channel:19915#" xmltv_id="STARZ Comedy HD (East):SZCHD">STARZ Comedy HD (East):SZCHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:529#Channel:1245#" xmltv_id="Starz Edge (East):STZ E">Starz Edge (East):STZ E</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:529#Channel:19916#" xmltv_id="STARZ Edge HD (East):SZEHD">STARZ Edge HD (East):SZEHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:530#Channel:2085#" xmltv_id="STARZ InBlack (East):STZ B">STARZ InBlack (East):STZ B</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:530#Channel:24600#" xmltv_id="STARZ InBlack HD (East):SZBHD">STARZ InBlack HD (East):SZBHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:531#Channel:24589#" xmltv_id="STARZ Cinema HD (East):SZCIH">STARZ Cinema HD (East):SZCIH</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:535#Channel:413#" xmltv_id="STARZ ENCORE (East):STZEN">STARZ ENCORE (East):STZEN</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:535#Channel:13168#" xmltv_id="STARZ ENCORE HD (East):STZEH">STARZ ENCORE HD (East):STZEH</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:536#Channel:2500#" xmltv_id="STARZ ENCORE (West):SZENw">STARZ ENCORE (West):SZENw</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:537#Channel:2003#" xmltv_id="STARZ ENCORE Classic (East):STZCL">STARZ ENCORE Classic (East):STZCL</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:538#Channel:2005#" xmltv_id="STARZ ENCORE Westerns (East):STZWS">STARZ ENCORE Westerns (East):STZWS</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:539#Channel:2002#" xmltv_id="STARZ ENCORE Suspense (East):STZSU">STARZ ENCORE Suspense (East):STZSU</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:540#Channel:2001#" xmltv_id="STARZ ENCORE Black (East):STZBK">STARZ ENCORE Black (East):STZBK</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:541#Channel:2000#" xmltv_id="STARZ ENCORE Action (East):STZAC">STARZ ENCORE Action (East):STZAC</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:541#Channel:29910#" xmltv_id="STARZ ENCORE Action HD (East):STZAH">STARZ ENCORE Action HD (East):STZAH</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:542#Channel:2004#" xmltv_id="STARZ ENCORE Family (East):STZFM">STARZ ENCORE Family (East):STZFM</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:545#Channel:415#" xmltv_id="Showtime (East):SHO">Showtime (East):SHO</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:545#Channel:10564#" xmltv_id="Showtime HDTV (East):SHOHD">Showtime HDTV (East):SHOHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:546#Channel:2512#" xmltv_id="Showtime (West):SHO">Showtime (West):SHO</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:546#Channel:11095#" xmltv_id="Showtime HDTV (West):SHOHD">Showtime HDTV (West):SHOHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:547#Channel:2159#" xmltv_id="Showtime 2 (East):SHO2e">Showtime 2 (East):SHO2e</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:547#Channel:20280#" xmltv_id="Showtime 2 HDTV (East):SHO2HD">Showtime 2 HDTV (East):SHO2HD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:548#Channel:2161#" xmltv_id="Showtime Showcase (East):SHOCe">Showtime Showcase (East):SHOCe</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:548#Channel:21582#" xmltv_id="Showtime Showcase HDTV (East):SHOCHD">Showtime Showcase HDTV (East):SHOCHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:549#Channel:3635#" xmltv_id="Showtime Extreme (East):SHOXe">Showtime Extreme (East):SHOXe</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:549#Channel:21584#" xmltv_id="Showtime Extreme HDTV (East):SHOXHD">Showtime Extreme HDTV (East):SHOXHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:550#Channel:26999#" xmltv_id="Showtime Beyond HDTV (East):SHBYD">Showtime Beyond HDTV (East):SHBYD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:551#Channel:27058#" xmltv_id="Showtime Next East HDTV (East):SHOND">Showtime Next East HDTV (East):SHOND</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:552#Channel:27061#" xmltv_id="Showtime Women HDTV (East):SHOWD">Showtime Women HDTV (East):SHOWD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:553#Channel:1535#" xmltv_id="The Movie Channel (East):TMC">The Movie Channel (East):TMC</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:553#Channel:13067#" xmltv_id="The Movie Channel HDTV (East):TMCHD">The Movie Channel HDTV (East):TMCHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:554#Channel:2525#" xmltv_id="The Movie Channel (West):TMC">The Movie Channel (West):TMC</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:555#Channel:21586#" xmltv_id="The Movie Channel Xtra HDTV (East):TMCXHD">The Movie Channel Xtra HDTV (East):TMCXHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:556#Channel:2285#" xmltv_id="Flix (East):FLIXe">Flix (East):FLIXe</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:557#Channel:1248#" xmltv_id="SundanceTV (East):SUND">SundanceTV (East):SUND</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:557#Channel:30785#" xmltv_id="SundanceTV HDTV (East):SUNHD">SundanceTV HDTV (East):SUNHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:558#Channel:24151#" xmltv_id="EPIX HDTV (East):EPIXHD">EPIX HDTV (East):EPIXHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:559#Channel:27055#" xmltv_id="EPIX2 HDTV (East):EPIXHD">EPIX2 HDTV (East):EPIXHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:560#Channel:38464#" xmltv_id="EPIX HITS HDTV:EPIXHIT">EPIX HITS HDTV:EPIXHIT</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:562#Channel:44283#" xmltv_id="DOGTV:DOGTV">DOGTV:DOGTV</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:564#Channel:89260#" xmltv_id="Hallmark Drama HDTV:HALDRHD">Hallmark Drama HDTV:HALDRHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:565#Channel:20666#" xmltv_id="Hallmark Movies and Mysteries HDTV:HMMHD">Hallmark Movies and Mysteries HDTV:HMMHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:566#Channel:12232#" xmltv_id="HDNet Movies:HDNTM">HDNet Movies:HDNTM</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:567#Channel:20318#" xmltv_id="MGM HDTV:MGMHD">MGM HDTV:MGMHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:568#Channel:37098#" xmltv_id="Sony Movie Channel HD:SONY">Sony Movie Channel HD:SONY</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:570#Channel:20285#" xmltv_id="Smithsonian Channel HDTV (East):SMITHHD">Smithsonian Channel HDTV (East):SMITHHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:571#Channel:21956#" xmltv_id="Crime and Investigation Network HDTV:CI HD">Crime and Investigation Network HDTV:CI HD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:572#Channel:16977#" xmltv_id="MTV Live HDTV:MTVL">MTV Live HDTV:MTVL</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:573#Channel:26997#" xmltv_id="ShortsTV HDTV:SHRTHD">ShortsTV HDTV:SHRTHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:602#Channel:6207#" xmltv_id="TV Games Network:TVG">TV Games Network:TVG</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:603#Channel:1169#" xmltv_id="The Cowboy Channel:COWBOY">The Cowboy Channel:COWBOY</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:604#Channel:53139#" xmltv_id="Pursuit Channel HDTV:HUNTHD">Pursuit Channel HDTV:HUNTHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:605#Channel:12286#" xmltv_id="The Sportsman Channel:SPCHN">The Sportsman Channel:SPCHN</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:606#Channel:1220#" xmltv_id="Outdoor Channel:OUTD">Outdoor Channel:OUTD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:606#Channel:15970#" xmltv_id="Outdoor Channel HDTV:OUTHD">Outdoor Channel HDTV:OUTHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:608#Channel:34036#" xmltv_id="Fox College Sports Alternate:FCS">Fox College Sports Alternate:FCS</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:608.1#Channel:34036#" xmltv_id="Fox College Sports Alternate:FCS">Fox College Sports Alternate:FCS</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:608.2#Channel:34036#" xmltv_id="Fox College Sports Alternate:FCS">Fox College Sports Alternate:FCS</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:610#Channel:19694#" xmltv_id="Big Ten Network (National):BTN">Big Ten Network (National):BTN</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:610#Channel:19695#" xmltv_id="Big Ten Network HDTV (National):BTNHD">Big Ten Network HDTV (National):BTNHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:610.1#Channel:20229#" xmltv_id="Big Ten Network (24\/7 Overflow #1):BTFB1">Big Ten Network (24\/7 Overflow #1):BTFB1</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:610.1#Channel:27516#" xmltv_id="Big Ten Network HDTV (24\/7 Overflow #1):BTFB1">Big Ten Network HDTV (24\/7 Overflow #1):BTFB1</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:610.2#Channel:20230#" xmltv_id="Big Ten Network (24\/7 Overflow #2):BTFB2">Big Ten Network (24\/7 Overflow #2):BTFB2</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:610.2#Channel:27518#" xmltv_id="Big Ten Network HDTV (24\/7 Overflow #2):BTFB2">Big Ten Network HDTV (24\/7 Overflow #2):BTFB2</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:610.3#Channel:20231#" xmltv_id="Big Ten Network (24\/7 Overflow #3):BTFB3">Big Ten Network (24\/7 Overflow #3):BTFB3</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:610.3#Channel:27520#" xmltv_id="Big Ten Network HDTV (24\/7 Overflow #3):BTFB3">Big Ten Network HDTV (24\/7 Overflow #3):BTFB3</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:610.4#Channel:20232#" xmltv_id="Big Ten Network (24\/7 Overflow #4):BTFB4">Big Ten Network (24\/7 Overflow #4):BTFB4</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:610.4#Channel:27521#" xmltv_id="Big Ten Network HDTV (24\/7 Overflow #4):BTFB4">Big Ten Network HDTV (24\/7 Overflow #4):BTFB4</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:611#Channel:52335#" xmltv_id="SEC Network:SECN">SEC Network:SECN</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:611#Channel:52334#" xmltv_id="SEC Network HDTV:SECN">SEC Network HDTV:SECN</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:611.1#Channel:52336#" xmltv_id="SEC Network HDTV:SEC-A">SEC Network HDTV:SEC-A</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:611.1#Channel:52338#" xmltv_id="SEC Network:SEC-A">SEC Network:SEC-A</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:614#Channel:25#" xmltv_id="ESPN Classic:ESPNCLS">ESPN Classic:ESPNCLS</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:618#Channel:12472#" xmltv_id="Fox Sports 2:FS2">Fox Sports 2:FS2</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:618#Channel:29044#" xmltv_id="Fox Sports 2 HDTV:FS2HD">Fox Sports 2 HDTV:FS2HD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:621#Channel:24484#" xmltv_id="Fox Soccer Plus:FSPLUS">Fox Soccer Plus:FSPLUS</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:621.1#Channel:24486#" xmltv_id="Fox Soccer Plus HDTV 24\/7:FSPLUS">Fox Soccer Plus HDTV 24\/7:FSPLUS</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:623#Channel:33758#" xmltv_id="Eleven Sports Network:ESN">Eleven Sports Network:ESN</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:624#Channel:88465#" xmltv_id="Olympic Channel HDTV:OLYHD">Olympic Channel HDTV:OLYHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:624#Channel:88466#" xmltv_id="Olympic Channel:OLY">Olympic Channel:OLY</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:628#Channel:1212#" xmltv_id="New England Sports Network:NESN">New England Sports Network:NESN</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:628#Channel:13152#" xmltv_id="New England Sports Network HDTV:NESNHD">New England Sports Network HDTV:NESNHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:628.1#Channel:23113#" xmltv_id="New England Sports Network Plus:NESN+">New England Sports Network Plus:NESN+</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:628.1#Channel:23114#" xmltv_id="New England Sports Network Plus HDTV:NESN+">New England Sports Network Plus HDTV:NESN+</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:630#Channel:3486#" xmltv_id="NBC Sports Boston:NBCSB">NBC Sports Boston:NBCSB</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:630#Channel:16664#" xmltv_id="NBC Sports Boston 24\/7 HDTV:NBCSBHD">NBC Sports Boston 24\/7 HDTV:NBCSBHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:630.1#Channel:24672#" xmltv_id="NBC Sports Boston Plus Overflow:NBCSB+">NBC Sports Boston Plus Overflow:NBCSB+</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:630.1#Channel:24671#" xmltv_id="NBC Sports Boston Plus Overflow Part Time HDTV:NBCSB+HD">NBC Sports Boston Plus Overflow Part Time HDTV:NBCSB+HD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:631#Channel:10395#" xmltv_id="Yankees Television:YES">Yankees Television:YES</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:631#Channel:16036#" xmltv_id="Yankees Television HDTV:YESHD">Yankees Television HDTV:YESHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:634#Channel:1203#" xmltv_id="Madison Square Garden (Zone 1):MSG">Madison Square Garden (Zone 1):MSG</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:634#Channel:12497#" xmltv_id="Madison Square Garden HDTV:MSG HD">Madison Square Garden HDTV:MSG HD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:635#Channel:3406#" xmltv_id="Madison Square Garden Plus (Zone 1):MSG+">Madison Square Garden Plus (Zone 1):MSG+</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:635#Channel:12498#" xmltv_id="Madison Square Garden Plus HDTV:MSG+H">Madison Square Garden Plus HDTV:MSG+H</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:639#Channel:17095#" xmltv_id="SportsNet New York:SNY">SportsNet New York:SNY</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:639#Channel:17186#" xmltv_id="SportsNet New York HDTV:SNYHD">SportsNet New York HDTV:SNYHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:640#Channel:17252#" xmltv_id="Mid-Atlantic Sports Network:MASN">Mid-Atlantic Sports Network:MASN</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:640#Channel:20692#" xmltv_id="Mid-Atlantic Sports Network HDTV:MASHD">Mid-Atlantic Sports Network HDTV:MASHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:642#Channel:1191#" xmltv_id="NBC Sports Washington:CSN">NBC Sports Washington:CSN</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:642#Channel:12864#" xmltv_id="NBC Sports Washington HDTV 24\/7:NBCSWAHD">NBC Sports Washington HDTV 24\/7:NBCSWAHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:642.1#Channel:18710#" xmltv_id="Comcast SportsNet Mid-Atlantic (ACC Overflow):ACC">Comcast SportsNet Mid-Atlantic (ACC Overflow):ACC</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:646#Channel:8904#" xmltv_id="Fox Sports South (Atlanta DMA):FSSO">Fox Sports South (Atlanta DMA):FSSO</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:646#Channel:23748#" xmltv_id="Fox Sports South (Atlanta DMA) 24\/7 HDTV:FSN HD">Fox Sports South (Atlanta DMA) 24\/7 HDTV:FSN HD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:649#Channel:6290#" xmltv_id="Fox Sports Southeast:FSSE">Fox Sports Southeast:FSSE</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:649#Channel:23800#" xmltv_id="Fox Sports Southeast HDTV:FSSE">Fox Sports Southeast HDTV:FSSE</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:649.3#Channel:23798#" xmltv_id="Fox Sports Southeast:FSSE">Fox Sports Southeast:FSSE</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:653#Channel:2301#" xmltv_id="Fox Sports Sun South:SUN">Fox Sports Sun South:SUN</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:653#Channel:23968#" xmltv_id="Fox Sports Sun 24\/7 HDTV (South Marlins Rays Heat):SUN">Fox Sports Sun 24\/7 HDTV (South Marlins Rays Heat):SUN</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:654#Channel:2283#" xmltv_id="Fox Sports Florida:FSN">Fox Sports Florida:FSN</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:654#Channel:14038#" xmltv_id="Fox Sports Florida 24\/7 HDTV (Rays Marlins Panthers):FSNHD">Fox Sports Florida 24\/7 HDTV (Rays Marlins Panthers):FSNHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:654.2#Channel:28991#" xmltv_id="Fox Sports Florida (Out of Market) HDTV:FSFLHD">Fox Sports Florida (Out of Market) HDTV:FSFLHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:659#Channel:1179#" xmltv_id="AT&amp;T SportsNet Pittsburgh (Pittsburgh DMA):ROOT">AT&amp;T SportsNet Pittsburgh (Pittsburgh DMA):ROOT</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:659#Channel:18544#" xmltv_id="AT&amp;T SportsNet Pittsburgh HDTV (Pittsburgh DMA):ATTHD">AT&amp;T SportsNet Pittsburgh HDTV (Pittsburgh DMA):ATTHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:660#Channel:3400#" xmltv_id="Fox Sports Ohio (Cleveland):FSN">Fox Sports Ohio (Cleveland):FSN</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:660.1#Channel:49491#" xmltv_id="Fox Sports Ohio Alternate DirecTV:FSOH">Fox Sports Ohio Alternate DirecTV:FSOH</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:660.1#Channel:21595#" xmltv_id="Fox Sports Ohio (Cleveland) HDTV:FSNHD">Fox Sports Ohio (Cleveland) HDTV:FSNHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:660.2#Channel:56664#" xmltv_id="Fox Sports Ohio (Cleveland) Alternate Part Time HDTV:FSN">Fox Sports Ohio (Cleveland) Alternate Part Time HDTV:FSN</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:660.2#Channel:56665#" xmltv_id="Fox Sports Ohio (Cleveland) Alternate Part Time:FSN">Fox Sports Ohio (Cleveland) Alternate Part Time:FSN</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:661#Channel:3401#" xmltv_id="Fox Sports Ohio (Cincinnati):FSN">Fox Sports Ohio (Cincinnati):FSN</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:661.1#Channel:17083#" xmltv_id="Fox Sports Ohio (Cincinnati) HDTV:FSNHD">Fox Sports Ohio (Cincinnati) HDTV:FSNHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:661.2#Channel:24383#" xmltv_id="Fox Sports Ohio (Cincinnati) Alternate Part Time:FSN">Fox Sports Ohio (Cincinnati) Alternate Part Time:FSN</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:661.2#Channel:86509#" xmltv_id="Fox Sports Ohio (Cincinnati) Alternate Part Time HD:FSNHD">Fox Sports Ohio (Cincinnati) Alternate Part Time HD:FSNHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:662#Channel:17188#" xmltv_id="SportsTime Ohio:STO">SportsTime Ohio:STO</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:662#Channel:17248#" xmltv_id="SportsTime Ohio HDTV:STOHD">SportsTime Ohio HDTV:STOHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:663#Channel:1946#" xmltv_id="Fox Sports Detroit:FSD">Fox Sports Detroit:FSD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:663#Channel:17995#" xmltv_id="Fox Sports Detroit 24\/7 HDTV:FSD HD">Fox Sports Detroit 24\/7 HDTV:FSD HD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:663.1#Channel:19186#" xmltv_id="Fox Sports Detroit Plus:FSD+">Fox Sports Detroit Plus:FSD+</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:663.1#Channel:27968#" xmltv_id="Fox Sports Detroit Plus HDTV:FSDHD+">Fox Sports Detroit Plus HDTV:FSDHD+</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:665#Channel:14962#" xmltv_id="NBC Sports Chicago:CSNCH">NBC Sports Chicago:CSNCH</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:665#Channel:15842#" xmltv_id="NBC Sports Chicago HDTV:CSNHD">NBC Sports Chicago HDTV:CSNHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:665.1#Channel:15900#" xmltv_id="NBC Sports Chicago Plus Full Time:CSNCH">NBC Sports Chicago Plus Full Time:CSNCH</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:665.1#Channel:34101#" xmltv_id="NBC Sports Chicago Plus Full Time HDTV:CSNCHD">NBC Sports Chicago Plus Full Time HDTV:CSNCHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:668#Channel:2213#" xmltv_id="Fox Sports North:FSN">Fox Sports North:FSN</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:668#Channel:24056#" xmltv_id="Fox Sports North HDTV:FSNHD">Fox Sports North HDTV:FSNHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:669#Channel:3633#" xmltv_id="Fox Sports North Wisconsin:FSN">Fox Sports North Wisconsin:FSN</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:669#Channel:24114#" xmltv_id="Fox Sports Wisconsin 24\/7 HDTV:FSNHD">Fox Sports Wisconsin 24\/7 HDTV:FSNHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:669.1#Channel:28982#" xmltv_id="Fox Sports North Wisconsin (Out of Market):FSWIS">Fox Sports North Wisconsin (Out of Market):FSWIS</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:669.1#Channel:28981#" xmltv_id="Fox Sports Wisconsin (Out of Market) HDTV:FSWIHD">Fox Sports Wisconsin (Out of Market) HDTV:FSWIHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:671#Channel:28223#" xmltv_id="Fox Sports Midwest HDTV 24\/7:FSNHD">Fox Sports Midwest HDTV 24\/7:FSNHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:671#Channel:28225#" xmltv_id="Fox Sports Midwest:FSN">Fox Sports Midwest:FSN</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:671.1#Channel:35145#" xmltv_id="Fox Sports Midwest Paducah DMA (Cardinals Only):FSMW">Fox Sports Midwest Paducah DMA (Cardinals Only):FSMW</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:671.1#Channel:35144#" xmltv_id="Fox Sports Midwest Plus KY Part Time HDTV (Cards Only):FSMW+">Fox Sports Midwest Plus KY Part Time HDTV (Cards Only):FSMW+</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:671.1#Channel:49782#" xmltv_id="Fox Sports Midwest Plus (Illinois):FSN">Fox Sports Midwest Plus (Illinois):FSN</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:671.1#Channel:49781#" xmltv_id="Fox Sports Midwest Plus (Illinois) HDTV:FSN+HD">Fox Sports Midwest Plus (Illinois) HDTV:FSN+HD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:671.2#Channel:34480#" xmltv_id="Fox Sports Midwest Plus (Indianapolis):FSN+">Fox Sports Midwest Plus (Indianapolis):FSN+</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:671.2#Channel:34278#" xmltv_id="Fox Sports Midwest Plus (Indianapolis) HDTV:FSN+HD">Fox Sports Midwest Plus (Indianapolis) HDTV:FSN+HD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:671.3#Channel:43144#" xmltv_id="Fox Sports Midwest Plus (Kansas) HDTV:MWPls">Fox Sports Midwest Plus (Kansas) HDTV:MWPls</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:671.3#Channel:43145#" xmltv_id="Fox Sports Midwest Plus (Kansas):MWPls">Fox Sports Midwest Plus (Kansas):MWPls</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:671.4#Channel:3692#" xmltv_id="Fox Sports Midwest:FSN">Fox Sports Midwest:FSN</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:671.4#Channel:23587#" xmltv_id="Fox Sports Indiana 24\/7 HDTV:FSNHD">Fox Sports Indiana 24\/7 HDTV:FSNHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:671.5#Channel:12936#" xmltv_id="Fox Sports Midwest (Kansas City):FSN">Fox Sports Midwest (Kansas City):FSN</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:671.5#Channel:23557#" xmltv_id="Fox Sports Midwest 24\/7 HDTV (Kansas City):FSNHD">Fox Sports Midwest 24\/7 HDTV (Kansas City):FSNHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:674#Channel:36477#" xmltv_id="AT&amp;T SportsNet Southwest:ATTSN">AT&amp;T SportsNet Southwest:ATTSN</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:674#Channel:36427#" xmltv_id="AT&amp;T SportsNet Southwest HDTV:ROOTD">AT&amp;T SportsNet Southwest HDTV:ROOTD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:675#Channel:5757#" xmltv_id="Fox Sports Oklahoma (Tulsa):FSOK">Fox Sports Oklahoma (Tulsa):FSOK</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:675#Channel:24185#" xmltv_id="Fox Sports Oklahoma 24\/7 HDTV (Tulsa):FSOKHD">Fox Sports Oklahoma 24\/7 HDTV (Tulsa):FSOKHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:676#Channel:437#" xmltv_id="Fox Sports Southwest:FSSW">Fox Sports Southwest:FSSW</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:676#Channel:23340#" xmltv_id="Fox Sports Southwest HDTV 24\/7 (Main):FSSWHD">Fox Sports Southwest HDTV 24\/7 (Main):FSSWHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:677#Channel:32045#" xmltv_id="The Longhorn Network HDTV:LONG">The Longhorn Network HDTV:LONG</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:681#Channel:14958#" xmltv_id="Altitude Sports &amp; Entertainment (Colorado):ALT">Altitude Sports &amp; Entertainment (Colorado):ALT</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:681#Channel:16563#" xmltv_id="Altitude Sports &amp; Entertainment HDTV:ALTHD">Altitude Sports &amp; Entertainment HDTV:ALTHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:681.1#Channel:16937#" xmltv_id="Altitude Sports &amp; Entertainment Alternate:ALT2">Altitude Sports &amp; Entertainment Alternate:ALT2</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:681.1#Channel:34038#" xmltv_id="Altitude Alternate Feed:ALT2HD">Altitude Alternate Feed:ALT2HD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:683#Channel:3462#" xmltv_id="AT&amp;T SportsNet Rocky Mountain:ATTSN">AT&amp;T SportsNet Rocky Mountain:ATTSN</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:683#Channel:2220#" xmltv_id="AT&amp;T SportsNet Rocky Mountain:ROOT">AT&amp;T SportsNet Rocky Mountain:ROOT</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:683.1#Channel:19158#" xmltv_id="AT&amp;T SportsNet Rocky Mountain HDTV:ROOTD">AT&amp;T SportsNet Rocky Mountain HDTV:ROOTD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:683.1#Channel:27833#" xmltv_id="AT&amp;T SportsNet Rocky Mountain Alternate Feed:ATTRMa">AT&amp;T SportsNet Rocky Mountain Alternate Feed:ATTRMa</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:683.1#Channel:35802#" xmltv_id="AT&amp;T SportsNet Rocky Mountain HDTV Alternate Feed:ATTRMaD">AT&amp;T SportsNet Rocky Mountain HDTV Alternate Feed:ATTRMaD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:683.1#Channel:3462#" xmltv_id="AT&amp;T SportsNet Rocky Mountain:ATTSN">AT&amp;T SportsNet Rocky Mountain:ATTSN</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:683.1#Channel:24536#" xmltv_id="ATT SportsNet Rocky Mountain HDTV:ATTHD">ATT SportsNet Rocky Mountain HDTV:ATTHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:684#Channel:89381#" xmltv_id="AT&amp;T SportsNet Rocky Mountain ALT 2 (Nevada Arizona California) HDTV:ATTHD">AT&amp;T SportsNet Rocky Mountain ALT 2 (Nevada Arizona California) HDTV:ATTHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:684#Channel:89382#" xmltv_id="AT&amp;T SportsNet Rocky Mountain ALT 2 (Nevada Arizona California):ATTSN">AT&amp;T SportsNet Rocky Mountain ALT 2 (Nevada Arizona California):ATTSN</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:686#Channel:1174#" xmltv_id="Fox Sports Arizona:FSA">Fox Sports Arizona:FSA</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:686#Channel:17291#" xmltv_id="Fox Sports Arizona 24\/7 HDTV:FSAHD">Fox Sports Arizona 24\/7 HDTV:FSAHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:686.1#Channel:18631#" xmltv_id="Fox Sports Arizona Plus:FSA+">Fox Sports Arizona Plus:FSA+</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:686.1#Channel:33294#" xmltv_id="Fox Sports Arizona Plus HDTV:FSA+HD">Fox Sports Arizona Plus HDTV:FSA+HD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:687#Channel:1178#" xmltv_id="Root Sports Northwest:ROOT">Root Sports Northwest:ROOT</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:687#Channel:15991#" xmltv_id="Root Sports Northwest 24\/7 HDTV:ROOTD">Root Sports Northwest 24\/7 HDTV:ROOTD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:687.1#Channel:27826#" xmltv_id="Root Sports Northwest (Alternate):RTALT">Root Sports Northwest (Alternate):RTALT</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:687.1#Channel:34893#" xmltv_id="Root Sports Northwest HDTV (Alternate):RTALT">Root Sports Northwest HDTV (Alternate):RTALT</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:691#Channel:36787#" xmltv_id="Spectrum SportsNet:SPSCN">Spectrum SportsNet:SPSCN</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:691#Channel:36788#" xmltv_id="Spectrum SportsNet HDTV:SPSND">Spectrum SportsNet HDTV:SPSND</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:691.1#Channel:36787#" xmltv_id="Spectrum SportsNet:SPSCN">Spectrum SportsNet:SPSCN</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:691.1#Channel:36788#" xmltv_id="Spectrum SportsNet HDTV:SPSND">Spectrum SportsNet HDTV:SPSND</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:692#Channel:2334#" xmltv_id="Fox Sports West:FSW">Fox Sports West:FSW</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:692#Channel:23324#" xmltv_id="Fox Sports West HDTV:FSWHD">Fox Sports West HDTV:FSWHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:693#Channel:1175#" xmltv_id="Fox Sports Prime Ticket:PRIME">Fox Sports Prime Ticket:PRIME</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:693#Channel:23325#" xmltv_id="Fox Sports Prime Ticket HDTV:PRIMEHD">Fox Sports Prime Ticket HDTV:PRIMEHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:693.1#Channel:42379#" xmltv_id="Fox Sports Prime Ticket Alternate (Part Time):PRIME">Fox Sports Prime Ticket Alternate (Part Time):PRIME</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:693.1#Channel:42378#" xmltv_id="Fox Sports Prime Ticket Alternate HDTV (Part Time):PRIMEHD">Fox Sports Prime Ticket Alternate HDTV (Part Time):PRIMEHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:694#Channel:34477#" xmltv_id="Fox Sports San Diego:FSNSD">Fox Sports San Diego:FSNSD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:694#Channel:34479#" xmltv_id="Fox Sports San Diego HDTV:FSHD">Fox Sports San Diego HDTV:FSHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:694.1#Channel:34822#" xmltv_id="Fox Sports San Diego Alternate Feed:FSSD">Fox Sports San Diego Alternate Feed:FSSD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:694.1#Channel:34821#" xmltv_id="Fox Sports San Diego Alternate Feed HDTV:FSHD">Fox Sports San Diego Alternate Feed HDTV:FSHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:696#Channel:3396#" xmltv_id="NBC Sports Bay Area:CSNBA">NBC Sports Bay Area:CSNBA</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:696#Channel:22784#" xmltv_id="NBC Sports Bay Area HDTV 24\/7:CSNBD">NBC Sports Bay Area HDTV 24\/7:CSNBD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:698#Channel:15200#" xmltv_id="NBC Sports California:CSNCA">NBC Sports California:CSNCA</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:698#Channel:18143#" xmltv_id="NBC Sports California HDTV:NBCSCA">NBC Sports California HDTV:NBCSCA</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:706#Channel:12713#" xmltv_id="NFL Sunday Ticket HDTV:NFLHD">NFL Sunday Ticket HDTV:NFLHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:706#Channel:10864#" xmltv_id="NFL Sunday Ticket:NFL6">NFL Sunday Ticket:NFL6</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:707#Channel:12713#" xmltv_id="NFL Sunday Ticket HDTV:NFLHD">NFL Sunday Ticket HDTV:NFLHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:707#Channel:10865#" xmltv_id="NFL Sunday Ticket:NFL7">NFL Sunday Ticket:NFL7</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:708#Channel:15036#" xmltv_id="NFL Sunday Ticket HDTV:NFLHD">NFL Sunday Ticket HDTV:NFLHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:708#Channel:10866#" xmltv_id="NFL Sunday Ticket:NFL8">NFL Sunday Ticket:NFL8</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:709#Channel:15037#" xmltv_id="NFL Sunday Ticket HDTV:NFLHD">NFL Sunday Ticket HDTV:NFLHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:709#Channel:10867#" xmltv_id="NFL Sunday Ticket:NFL9">NFL Sunday Ticket:NFL9</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:710#Channel:15039#" xmltv_id="NFL Sunday Ticket HDTV:NFLHD">NFL Sunday Ticket HDTV:NFLHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:710#Channel:10868#" xmltv_id="NFL Sunday Ticket:NFL10">NFL Sunday Ticket:NFL10</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:711#Channel:15040#" xmltv_id="NFL Sunday Ticket HDTV:NFLHD">NFL Sunday Ticket HDTV:NFLHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:711#Channel:10869#" xmltv_id="NFL Sunday Ticket:NFL11">NFL Sunday Ticket:NFL11</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:712#Channel:15126#" xmltv_id="NFL Sunday Ticket HDTV:NFLHD">NFL Sunday Ticket HDTV:NFLHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:712#Channel:10870#" xmltv_id="NFL Sunday Ticket:NFL12">NFL Sunday Ticket:NFL12</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:713#Channel:21600#" xmltv_id="NFL Sunday Ticket HDTV:NFLHD">NFL Sunday Ticket HDTV:NFLHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:713#Channel:10871#" xmltv_id="NFL Sunday Ticket:NFL13">NFL Sunday Ticket:NFL13</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:714#Channel:21601#" xmltv_id="NFL Sunday Ticket HDTV:NFLHD">NFL Sunday Ticket HDTV:NFLHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:714#Channel:12705#" xmltv_id="NFL Sunday Ticket:NFL14">NFL Sunday Ticket:NFL14</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:715#Channel:21602#" xmltv_id="NFL Sunday Ticket HDTV:NFLHD">NFL Sunday Ticket HDTV:NFLHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:715#Channel:12706#" xmltv_id="NFL Sunday Ticket:NFL15">NFL Sunday Ticket:NFL15</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:716#Channel:21603#" xmltv_id="NFL Sunday Ticket HDTV:NFLHD">NFL Sunday Ticket HDTV:NFLHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:716#Channel:12707#" xmltv_id="NFL Sunday Ticket:NFL16">NFL Sunday Ticket:NFL16</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:717#Channel:21604#" xmltv_id="NFL Sunday Ticket HDTV:NFLHD">NFL Sunday Ticket HDTV:NFLHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:717#Channel:12708#" xmltv_id="NFL Sunday Ticket:NFL17">NFL Sunday Ticket:NFL17</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:718#Channel:21605#" xmltv_id="NFL Sunday Ticket HDTV:NFLHD">NFL Sunday Ticket HDTV:NFLHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:718#Channel:12709#" xmltv_id="NFL Sunday Ticket:NFL18">NFL Sunday Ticket:NFL18</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:719#Channel:88500#" xmltv_id="MLB Extra Innings DirecTV HDTV:MLBXI">MLB Extra Innings DirecTV HDTV:MLBXI</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:720#Channel:76740#" xmltv_id="MLB Extra Innings DirecTV HDTV:MLBXI">MLB Extra Innings DirecTV HDTV:MLBXI</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:720#Channel:76771#" xmltv_id="MLB Extra Innings DirecTV:MLBXI">MLB Extra Innings DirecTV:MLBXI</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:721#Channel:76742#" xmltv_id="MLB Extra Innings DirecTV HDTV:MLBXI">MLB Extra Innings DirecTV HDTV:MLBXI</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:721#Channel:76772#" xmltv_id="MLB Extra Innings DirecTV:MLBXI">MLB Extra Innings DirecTV:MLBXI</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:722#Channel:76743#" xmltv_id="MLB Extra Innings DirecTV HDTV:MLBXI">MLB Extra Innings DirecTV HDTV:MLBXI</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:722#Channel:76773#" xmltv_id="MLB Extra Innings DirecTV:MLBXI">MLB Extra Innings DirecTV:MLBXI</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:723#Channel:76744#" xmltv_id="MLB Extra Innings DirecTV HDTV:MLBXI">MLB Extra Innings DirecTV HDTV:MLBXI</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:723#Channel:76774#" xmltv_id="MLB Extra Innings DirecTV:MLBXI">MLB Extra Innings DirecTV:MLBXI</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:724#Channel:76745#" xmltv_id="MLB Extra Innings DirecTV HDTV:MLBXI">MLB Extra Innings DirecTV HDTV:MLBXI</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:724#Channel:76775#" xmltv_id="MLB Extra Innings DirecTV:MLBXI">MLB Extra Innings DirecTV:MLBXI</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:725#Channel:76746#" xmltv_id="MLB Extra Innings DirecTV HDTV:MLBXI">MLB Extra Innings DirecTV HDTV:MLBXI</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:725#Channel:76776#" xmltv_id="MLB Extra Innings DirecTV:MLBXI">MLB Extra Innings DirecTV:MLBXI</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:726#Channel:76747#" xmltv_id="MLB Extra Innings DirecTV HDTV:MLBXI">MLB Extra Innings DirecTV HDTV:MLBXI</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:726#Channel:76777#" xmltv_id="MLB Extra Innings DirecTV:MLBXI">MLB Extra Innings DirecTV:MLBXI</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:727#Channel:76748#" xmltv_id="MLB Extra Innings DirecTV HDTV:MLBXI">MLB Extra Innings DirecTV HDTV:MLBXI</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:727#Channel:76778#" xmltv_id="MLB Extra Innings DirecTV:MLBXI">MLB Extra Innings DirecTV:MLBXI</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:728#Channel:76749#" xmltv_id="MLB Extra Innings DirecTV HDTV:MLBXI">MLB Extra Innings DirecTV HDTV:MLBXI</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:728#Channel:76779#" xmltv_id="MLB Extra Innings DirecTV:MLBXI">MLB Extra Innings DirecTV:MLBXI</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:729#Channel:76750#" xmltv_id="MLB Extra Innings DirecTV HDTV:MLBXI">MLB Extra Innings DirecTV HDTV:MLBXI</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:729#Channel:76780#" xmltv_id="MLB Extra Innings DirecTV:MLBXI">MLB Extra Innings DirecTV:MLBXI</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:730#Channel:76751#" xmltv_id="MLB Extra Innings DirecTV HDTV:MLBXI">MLB Extra Innings DirecTV HDTV:MLBXI</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:730#Channel:76781#" xmltv_id="MLB Extra Innings DirecTV:MLBXI">MLB Extra Innings DirecTV:MLBXI</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:731#Channel:76752#" xmltv_id="MLB Extra Innings DirecTV HDTV:MLBXI">MLB Extra Innings DirecTV HDTV:MLBXI</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:731#Channel:76782#" xmltv_id="MLB Extra Innings DirecTV:MLBXI">MLB Extra Innings DirecTV:MLBXI</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:732#Channel:76753#" xmltv_id="MLB Extra Innings DirecTV HDTV:MLBXI">MLB Extra Innings DirecTV HDTV:MLBXI</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:732#Channel:76783#" xmltv_id="MLB Extra Innings DirecTV:MLBXI">MLB Extra Innings DirecTV:MLBXI</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:733#Channel:76754#" xmltv_id="MLB Extra Innings DirecTV HDTV:MLBXI">MLB Extra Innings DirecTV HDTV:MLBXI</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:733#Channel:76784#" xmltv_id="MLB Extra Innings DirecTV:MLBXI">MLB Extra Innings DirecTV:MLBXI</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:734#Channel:76755#" xmltv_id="MLB Extra Innings DirecTV HDTV:MLBXI">MLB Extra Innings DirecTV HDTV:MLBXI</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:734#Channel:76785#" xmltv_id="MLB Extra Innings DirecTV:MLBXI">MLB Extra Innings DirecTV:MLBXI</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:735#Channel:76756#" xmltv_id="MLB Extra Innings DirecTV HDTV:MLBXI">MLB Extra Innings DirecTV HDTV:MLBXI</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:735#Channel:76786#" xmltv_id="MLB Extra Innings DirecTV:MLBXI">MLB Extra Innings DirecTV:MLBXI</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:736#Channel:76757#" xmltv_id="MLB Extra Innings DirecTV HDTV:MLBXI">MLB Extra Innings DirecTV HDTV:MLBXI</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:736#Channel:76787#" xmltv_id="MLB Extra Innings DirecTV:MLBXI">MLB Extra Innings DirecTV:MLBXI</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:737#Channel:76758#" xmltv_id="MLB Extra Innings DirecTV HDTV:MLBXI">MLB Extra Innings DirecTV HDTV:MLBXI</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:737#Channel:76788#" xmltv_id="MLB Extra Innings DirecTV:MLBXI">MLB Extra Innings DirecTV:MLBXI</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:738#Channel:76759#" xmltv_id="MLB Extra Innings DirecTV HDTV:MLBXI">MLB Extra Innings DirecTV HDTV:MLBXI</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:738#Channel:76789#" xmltv_id="MLB Extra Innings DirecTV:MLBXI">MLB Extra Innings DirecTV:MLBXI</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:739#Channel:76760#" xmltv_id="MLB Extra Innings DirecTV HDTV:MLBXI">MLB Extra Innings DirecTV HDTV:MLBXI</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:739#Channel:76790#" xmltv_id="MLB Extra Innings DirecTV:MLBXI">MLB Extra Innings DirecTV:MLBXI</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:740#Channel:76761#" xmltv_id="MLB Extra Innings DirecTV HDTV:MLBXI">MLB Extra Innings DirecTV HDTV:MLBXI</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:740#Channel:76791#" xmltv_id="MLB Extra Innings DirecTV:MLBXI">MLB Extra Innings DirecTV:MLBXI</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:741#Channel:76762#" xmltv_id="MLB Extra Innings DirecTV HDTV:MLBXI">MLB Extra Innings DirecTV HDTV:MLBXI</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:741#Channel:76792#" xmltv_id="MLB Extra Innings DirecTV:MLBXI">MLB Extra Innings DirecTV:MLBXI</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:742#Channel:76763#" xmltv_id="MLB Extra Innings DirecTV HDTV:MLBXI">MLB Extra Innings DirecTV HDTV:MLBXI</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:742#Channel:76793#" xmltv_id="MLB Extra Innings DirecTV:MLBXI">MLB Extra Innings DirecTV:MLBXI</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:743#Channel:76764#" xmltv_id="MLB Extra Innings DirecTV HDTV:MLBXI">MLB Extra Innings DirecTV HDTV:MLBXI</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:743#Channel:76794#" xmltv_id="MLB Extra Innings DirecTV:MLBXI">MLB Extra Innings DirecTV:MLBXI</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:744#Channel:76765#" xmltv_id="MLB Extra Innings DirecTV HDTV:MLBXI">MLB Extra Innings DirecTV HDTV:MLBXI</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:744#Channel:76795#" xmltv_id="MLB Extra Innings DirecTV:MLBXI">MLB Extra Innings DirecTV:MLBXI</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:745#Channel:76766#" xmltv_id="MLB Extra Innings DirecTV HDTV:MLBXI">MLB Extra Innings DirecTV HDTV:MLBXI</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:745#Channel:76796#" xmltv_id="MLB Extra Innings DirecTV:MLBXI">MLB Extra Innings DirecTV:MLBXI</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:746#Channel:76767#" xmltv_id="MLB Extra Innings DirecTV HDTV:MLBXI">MLB Extra Innings DirecTV HDTV:MLBXI</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:746#Channel:76797#" xmltv_id="MLB Extra Innings DirecTV:MLBXI">MLB Extra Innings DirecTV:MLBXI</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:747#Channel:76768#" xmltv_id="MLB Extra Innings DirecTV HDTV:MLBXI">MLB Extra Innings DirecTV HDTV:MLBXI</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:747#Channel:76798#" xmltv_id="MLB Extra Innings DirecTV:MLBXI">MLB Extra Innings DirecTV:MLBXI</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:748#Channel:76769#" xmltv_id="MLB Extra Innings DirecTV HDTV:MLBXI">MLB Extra Innings DirecTV HDTV:MLBXI</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:748#Channel:76799#" xmltv_id="MLB Extra Innings DirecTV:MLBXI">MLB Extra Innings DirecTV:MLBXI</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:749#Channel:76770#" xmltv_id="MLB Extra Innings DirecTV HDTV:MLBXI">MLB Extra Innings DirecTV HDTV:MLBXI</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:749#Channel:76800#" xmltv_id="MLB Extra Innings DirecTV:MLBXI">MLB Extra Innings DirecTV:MLBXI</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:750#Channel:76835#" xmltv_id="NBA League Pass DirecTV HDTV:NBALP">NBA League Pass DirecTV HDTV:NBALP</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:750#Channel:76854#" xmltv_id="NBA League Pass DirecTV:NBALP">NBA League Pass DirecTV:NBALP</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:751#Channel:76855#" xmltv_id="NBA League Pass DirecTV:NBALP">NBA League Pass DirecTV:NBALP</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:751#Channel:76836#" xmltv_id="NBA League Pass DirecTV HDTV:NBALP">NBA League Pass DirecTV HDTV:NBALP</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:752#Channel:76856#" xmltv_id="NBA League Pass DirecTV:NBALP">NBA League Pass DirecTV:NBALP</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:752#Channel:76837#" xmltv_id="NBA League Pass DirecTV HDTV:NBALP">NBA League Pass DirecTV HDTV:NBALP</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:753#Channel:76857#" xmltv_id="NBA League Pass DirecTV:NBALP">NBA League Pass DirecTV:NBALP</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:753#Channel:76838#" xmltv_id="NBA League Pass DirecTV HDTV:NBALP">NBA League Pass DirecTV HDTV:NBALP</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:754#Channel:76839#" xmltv_id="NBA League Pass DirecTV HDTV:NBALP">NBA League Pass DirecTV HDTV:NBALP</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:754#Channel:76858#" xmltv_id="NBA League Pass DirecTV:NBALP">NBA League Pass DirecTV:NBALP</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:755#Channel:76840#" xmltv_id="NBA League Pass DirecTV HDTV:NBALP">NBA League Pass DirecTV HDTV:NBALP</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:755#Channel:76859#" xmltv_id="NBA League Pass DirecTV:NBALP">NBA League Pass DirecTV:NBALP</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:756#Channel:76860#" xmltv_id="NBA League Pass DirecTV:NBALP">NBA League Pass DirecTV:NBALP</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:756#Channel:76841#" xmltv_id="NBA League Pass DirecTV HDTV:NBALP">NBA League Pass DirecTV HDTV:NBALP</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:757#Channel:76842#" xmltv_id="NBA League Pass DirecTV HDTV:NBALP">NBA League Pass DirecTV HDTV:NBALP</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:757#Channel:76861#" xmltv_id="NBA League Pass DirecTV:NBALP">NBA League Pass DirecTV:NBALP</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:758#Channel:76862#" xmltv_id="NBA League Pass DirecTV:NBALP">NBA League Pass DirecTV:NBALP</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:758#Channel:76843#" xmltv_id="NBA League Pass DirecTV HDTV:NBALP">NBA League Pass DirecTV HDTV:NBALP</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:759#Channel:76844#" xmltv_id="NBA League Pass DirecTV HDTV:NBALP">NBA League Pass DirecTV HDTV:NBALP</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:759#Channel:76863#" xmltv_id="NBA League Pass DirecTV:NBALP">NBA League Pass DirecTV:NBALP</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:760#Channel:76845#" xmltv_id="NBA League Pass DirecTV HDTV:NBALP">NBA League Pass DirecTV HDTV:NBALP</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:760#Channel:76864#" xmltv_id="NBA League Pass DirecTV:NBALP">NBA League Pass DirecTV:NBALP</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:761#Channel:76846#" xmltv_id="NBA League Pass DirecTV HDTV:NBALP">NBA League Pass DirecTV HDTV:NBALP</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:761#Channel:76865#" xmltv_id="NBA League Pass DirecTV:NBALP">NBA League Pass DirecTV:NBALP</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:762#Channel:76847#" xmltv_id="NBA League Pass DirecTV HDTV:NBALP">NBA League Pass DirecTV HDTV:NBALP</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:762#Channel:76866#" xmltv_id="NBA League Pass DirecTV:NBALP">NBA League Pass DirecTV:NBALP</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:763#Channel:76848#" xmltv_id="NBA League Pass DirecTV HDTV:NBALP">NBA League Pass DirecTV HDTV:NBALP</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:764#Channel:76849#" xmltv_id="NBA League Pass DirecTV HDTV:NBALP">NBA League Pass DirecTV HDTV:NBALP</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:764#Channel:76868#" xmltv_id="NBA League Pass DirecTV:NBALP">NBA League Pass DirecTV:NBALP</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:765#Channel:76869#" xmltv_id="NBA League Pass DirecTV:NBALP">NBA League Pass DirecTV:NBALP</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:765#Channel:76850#" xmltv_id="NBA League Pass DirecTV HDTV:NBALP">NBA League Pass DirecTV HDTV:NBALP</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:766#Channel:76851#" xmltv_id="NBA League Pass DirecTV HDTV:NBALP">NBA League Pass DirecTV HDTV:NBALP</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:766#Channel:76870#" xmltv_id="NBA League Pass DirecTV:NBALP">NBA League Pass DirecTV:NBALP</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:767#Channel:76852#" xmltv_id="NBA League Pass DirecTV HDTV:NBALP">NBA League Pass DirecTV HDTV:NBALP</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:768#Channel:76853#" xmltv_id="NBA League Pass DirecTV HDTV:NBALP">NBA League Pass DirecTV HDTV:NBALP</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:769#Channel:76818#" xmltv_id="NHL Center Ice DirecTV:NHLCI">NHL Center Ice DirecTV:NHLCI</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:769.1#Channel:76801#" xmltv_id="NHL Center Ice DirecTV HDTV:NHLCI">NHL Center Ice DirecTV HDTV:NHLCI</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:770#Channel:76819#" xmltv_id="NHL Center Ice DirecTV:NHLCI">NHL Center Ice DirecTV:NHLCI</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:770.1#Channel:76802#" xmltv_id="NHL Center Ice DirecTV HDTV:NHLCI">NHL Center Ice DirecTV HDTV:NHLCI</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:771#Channel:76820#" xmltv_id="NHL Center Ice DirecTV:NHLCI">NHL Center Ice DirecTV:NHLCI</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:771.1#Channel:76803#" xmltv_id="NHL Center Ice DirecTV HDTV:NHLCI">NHL Center Ice DirecTV HDTV:NHLCI</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:772#Channel:76821#" xmltv_id="NHL Center Ice DirecTV:NHLCI">NHL Center Ice DirecTV:NHLCI</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:772.1#Channel:76804#" xmltv_id="NHL Center Ice DirecTV HDTV:NHLCI">NHL Center Ice DirecTV HDTV:NHLCI</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:773#Channel:76822#" xmltv_id="NHL Center Ice DirecTV:NHLCI">NHL Center Ice DirecTV:NHLCI</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:773.1#Channel:76805#" xmltv_id="NHL Center Ice DirecTV HDTV:NHLCI">NHL Center Ice DirecTV HDTV:NHLCI</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:774#Channel:76823#" xmltv_id="NHL Center Ice DirecTV:NHLCI">NHL Center Ice DirecTV:NHLCI</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:774.1#Channel:76806#" xmltv_id="NHL Center Ice DirecTV HDTV:NHLCI">NHL Center Ice DirecTV HDTV:NHLCI</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:775#Channel:76824#" xmltv_id="NHL Center Ice DirecTV:NHLCI">NHL Center Ice DirecTV:NHLCI</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:775.1#Channel:76807#" xmltv_id="NHL Center Ice DirecTV HDTV:NHLCI">NHL Center Ice DirecTV HDTV:NHLCI</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:776#Channel:76825#" xmltv_id="NHL Center Ice DirecTV:NHLCI">NHL Center Ice DirecTV:NHLCI</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:776.1#Channel:76808#" xmltv_id="NHL Center Ice DirecTV HDTV:NHLCI">NHL Center Ice DirecTV HDTV:NHLCI</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:777#Channel:76826#" xmltv_id="NHL Center Ice DirecTV:NHLCI">NHL Center Ice DirecTV:NHLCI</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:777.1#Channel:76809#" xmltv_id="NHL Center Ice DirecTV HDTV:NHLCI">NHL Center Ice DirecTV HDTV:NHLCI</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:778#Channel:76827#" xmltv_id="NHL Center Ice DirecTV:NHLCI">NHL Center Ice DirecTV:NHLCI</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:778.1#Channel:76810#" xmltv_id="NHL Center Ice DirecTV HDTV:NHLCI">NHL Center Ice DirecTV HDTV:NHLCI</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:779#Channel:76828#" xmltv_id="NHL Center Ice DirecTV:NHLCI">NHL Center Ice DirecTV:NHLCI</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:779.1#Channel:76811#" xmltv_id="NHL Center Ice DirecTV HDTV:NHLCI">NHL Center Ice DirecTV HDTV:NHLCI</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:780#Channel:76829#" xmltv_id="NHL Center Ice DirecTV:NHLCI">NHL Center Ice DirecTV:NHLCI</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:780.1#Channel:76812#" xmltv_id="NHL Center Ice DirecTV HDTV:NHLCI">NHL Center Ice DirecTV HDTV:NHLCI</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:781#Channel:76830#" xmltv_id="NHL Center Ice DirecTV:NHLCI">NHL Center Ice DirecTV:NHLCI</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:781.1#Channel:76813#" xmltv_id="NHL Center Ice DirecTV HDTV:NHLCI">NHL Center Ice DirecTV HDTV:NHLCI</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:782#Channel:76831#" xmltv_id="NHL Center Ice DirecTV:NHLCI">NHL Center Ice DirecTV:NHLCI</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:782.1#Channel:76814#" xmltv_id="NHL Center Ice DirecTV HDTV:NHLCI">NHL Center Ice DirecTV HDTV:NHLCI</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:783#Channel:76832#" xmltv_id="NHL Center Ice DirecTV:NHLCI">NHL Center Ice DirecTV:NHLCI</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:783.1#Channel:76815#" xmltv_id="NHL Center Ice DirecTV HDTV:NHLCI">NHL Center Ice DirecTV HDTV:NHLCI</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:784#Channel:76833#" xmltv_id="NHL Center Ice DirecTV:NHLCI">NHL Center Ice DirecTV:NHLCI</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:784.1#Channel:76816#" xmltv_id="NHL Center Ice DirecTV HDTV:NHLCI">NHL Center Ice DirecTV HDTV:NHLCI</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:785#Channel:76834#" xmltv_id="NHL Center Ice DirecTV:NHLCI">NHL Center Ice DirecTV:NHLCI</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:785.1#Channel:76817#" xmltv_id="NHL Center Ice DirecTV HDTV:NHLCI">NHL Center Ice DirecTV HDTV:NHLCI</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:786#Channel:76989#" xmltv_id="NHL Center Ice DirecTV HDTV:NHLCI">NHL Center Ice DirecTV HDTV:NHLCI</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:786.1#Channel:76987#" xmltv_id="NHL Center Ice DirecTV HDTV:NHLCI">NHL Center Ice DirecTV HDTV:NHLCI</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:787#Channel:76990#" xmltv_id="NHL Center Ice DirecTV HDTV:NHLCI">NHL Center Ice DirecTV HDTV:NHLCI</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:787.1#Channel:76988#" xmltv_id="NHL Center Ice DirecTV HDTV:NHLCI">NHL Center Ice DirecTV HDTV:NHLCI</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:788#Channel:14633#" xmltv_id="ESPN College Extra 1:ESCE1">ESPN College Extra 1:ESCE1</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:789#Channel:14634#" xmltv_id="ESPN College Extra 2:ESCE2">ESPN College Extra 2:ESCE2</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:790#Channel:14635#" xmltv_id="ESPN College Extra 3:ESCE3">ESPN College Extra 3:ESCE3</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:791#Channel:14636#" xmltv_id="ESPN College Extra 4:ESCE4">ESPN College Extra 4:ESCE4</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:792#Channel:14637#" xmltv_id="ESPN College Extra 5:ESCE5">ESPN College Extra 5:ESCE5</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:793#Channel:14638#" xmltv_id="ESPN College Extra 6:ESCE6">ESPN College Extra 6:ESCE6</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:794#Channel:53106#" xmltv_id="ESPN College Extra 7:ESCE7">ESPN College Extra 7:ESCE7</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:795#Channel:53107#" xmltv_id="ESPN College Extra 8:ESCE8">ESPN College Extra 8:ESCE8</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:2020#Channel:30424#" xmltv_id="Mediaset Italia (US):MEDIA">Mediaset Italia (US):MEDIA</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:2021#Channel:91034#" xmltv_id="Rai Italia Americas (West):RAIINT">Rai Italia Americas (West):RAIINT</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:2023#Channel:55260#" xmltv_id="RAI World Premium:RAIWP">RAI World Premium:RAIWP</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:2024#Channel:82282#" xmltv_id="Rai Radio 1:RAIR">Rai Radio 1:RAIR</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:2030#Channel:38416#" xmltv_id="Saigon Broadcasting Television Network:SBTN">Saigon Broadcasting Television Network:SBTN</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:2032#Channel:37634#" xmltv_id="TViet Network:TViet">TViet Network:TViet</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:2033#Channel:37633#" xmltv_id="Vietface:VFACE">Vietface:VFACE</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:2035#Channel:34896#" xmltv_id="Vien Thao:VTTV">Vien Thao:VTTV</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:2036#Channel:49765#" xmltv_id="Vietnamese Broadcasting Network:VBN">Vietnamese Broadcasting Network:VBN</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:2038#Channel:37648#" xmltv_id="HONVIETV:HONV">HONVIETV:HONV</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:2040#Channel:33957#" xmltv_id="TV Japan HDTV:TVJPNHD">TV Japan HDTV:TVJPNHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:2050#Channel:20315#" xmltv_id="Phoenix North American Chinese Channel:PSTV">Phoenix North American Chinese Channel:PSTV</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:2051#Channel:22027#" xmltv_id="Phoenix InfoNews:PHNX">Phoenix InfoNews:PHNX</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:2052#Channel:3980#" xmltv_id="China TV:CCTV-4">China TV:CCTV-4</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:2055#Channel:33505#" xmltv_id="Hua Xia Entertainment:HXTV">Hua Xia Entertainment:HXTV</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:2056#Channel:3715#" xmltv_id="CTI Zhong Tian Channel:CTI">CTI Zhong Tian Channel:CTI</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:2060#Channel:4117#" xmltv_id="The Filipino Channel (West):TFC">The Filipino Channel (West):TFC</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:2061#Channel:16208#" xmltv_id="GMA Pinoy TV (East):GMA">GMA Pinoy TV (East):GMA</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:2062#Channel:17226#" xmltv_id="ANC:ANC">ANC:ANC</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:2066#Channel:17228#" xmltv_id="DZMM Teleradyo:DZMM">DZMM Teleradyo:DZMM</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:2067#Channel:22078#" xmltv_id="MYX TV:MYXTV">MYX TV:MYXTV</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:2069#Channel:22609#" xmltv_id="GMA Life TV:GMAL">GMA Life TV:GMAL</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:2070#Channel:42400#" xmltv_id="Lifestyle Network:LSNET">Lifestyle Network:LSNET</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:2071#Channel:46316#" xmltv_id="Kapatid TV5:KTV5">Kapatid TV5:KTV5</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:2080#Channel:28156#" xmltv_id="SBS International:SBS">SBS International:SBS</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:2080#Channel:88453#" xmltv_id="SBS International HDTV:SBSHD">SBS International HDTV:SBSHD</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:2081#Channel:10066#" xmltv_id="MBC America Korean TV:MBC">MBC America Korean TV:MBC</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:2082#Channel:20640#" xmltv_id="KBS World:KBS-W">KBS World:KBS-W</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:2084#Channel:19525#" xmltv_id="SBS Plus:SBSP">SBS Plus:SBSP</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:2087#Channel:36810#" xmltv_id="EBS America:EBS">EBS America:EBS</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:2088#Channel:19461#" xmltv_id="MBN Plus:MBNP">MBN Plus:MBNP</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:2089#Channel:36814#" xmltv_id="TAN TV:TAN">TAN TV:TAN</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:2090#Channel:36813#" xmltv_id="National Geographic Channel (Korea):NGCK">National Geographic Channel (Korea):NGCK</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:2093#Channel:17234#" xmltv_id="YTN Radio Korea:RAKO">YTN Radio Korea:RAKO</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:2095#Channel:14978#" xmltv_id="Arirang Korean TV:KOREA">Arirang Korean TV:KOREA</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:2103#Channel:37635#" xmltv_id="88 TV DirecTV:88TV">88 TV DirecTV:88TV</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:2104#Channel:60736#" xmltv_id="Phoenix Hong Kong Channel:PHKC">Phoenix Hong Kong Channel:PHKC</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:2105#Channel:37636#" xmltv_id="88 Films DirecTV:88FLM">88 Films DirecTV:88FLM</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:2108#Channel:41757#" xmltv_id="iCable Financial News:ICFIN">iCable Financial News:ICFIN</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:2112#Channel:3715#" xmltv_id="CTI Zhong Tian Channel:CTI">CTI Zhong Tian Channel:CTI</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:2113#Channel:3980#" xmltv_id="China TV:CCTV-4">China TV:CCTV-4</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:2115#Channel:20315#" xmltv_id="Phoenix North American Chinese Channel:PSTV">Phoenix North American Chinese Channel:PSTV</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:2116#Channel:33505#" xmltv_id="Hua Xia Entertainment:HXTV">Hua Xia Entertainment:HXTV</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:2119#Channel:10445#" xmltv_id="CGTN News:CCTV-N">CGTN News:CCTV-N</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:2134#Channel:3721#" xmltv_id="TV Globo Internacional (LATAM &amp; United States):GLOBO">TV Globo Internacional (LATAM &amp; United States):GLOBO</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:2135#Channel:19062#" xmltv_id="Premiere Futebol Clube:PFC">Premiere Futebol Clube:PFC</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:2140#Channel:13460#" xmltv_id="Channel One Russia:C1R">Channel One Russia:C1R</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:2141#Channel:17235#" xmltv_id="RTR Planeta:RTRP">RTR Planeta:RTRP</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:2144#Channel:17225#" xmltv_id="Vremya:VREM">Vremya:VREM</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:2145#Channel:36815#" xmltv_id="Carousel:CARL">Carousel:CARL</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:2146#Channel:14645#" xmltv_id="NTV America:NTVA">NTV America:NTVA</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:2147#Channel:35239#" xmltv_id="Rossiya:R24">Rossiya:R24</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:2148#Channel:13463#" xmltv_id="RTV International:RTVi">RTV International:RTVi</channel>
+    <channel update="i" site="tvguide.com.index-only" site_id="LineUP:63891#Number:2183#Channel:17916#" xmltv_id="MHz Worldview:MHZW">MHz Worldview:MHZW</channel>
+  </channels>
+</site>
