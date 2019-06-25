@@ -1,0 +1,60 @@
+Creating a channels file is a 2 step process.
+The procedurte is the same for both the full version as the index-only.
+
+Place in the WG++ config file the following entry:
+
+<channel update="i" site="tvguide.com.index-only" site_id="10001" xmltv_id="TV Guide">TV Guide</channel>
+or
+<channel update="i" site="tvguide.com" site_id="10001" xmltv_id="TV Guide">TV Guide</channel>
+
+Replace the 10001 with your ZIP-code.
+
+Activate this section in the SiteIni
+
+**  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _
+**      #####  CHANNEL line-up FILE CREATION
+**
+** @auto_xml_channel_start
+*url_index{url ()|https://mobilelistings.tvguide.com/Listingsweb/ws/rest/serviceproviders/zipcode/|channel|?formattype=json}
+*index_site_id.scrub {regex||\"Id\":(\d*),.*?\"DeviceFlag\"(:\d*)}||}
+*index_site_id.modify {replace|\|:|.}
+*index_site_channel.scrub {regex||\"City\":\"(.*?)\",\"Id\".*?,\"Name\"(:\".*?)\",||}
+*index_site_channel.modify {replace|\|:|,}
+*index_site_channel.modify {remove|"}
+** @auto_xml_channel_end
+*
+
+Run WG++
+You will now have a tvguide.com.index-only.channels.xml file which contains the different line-Ups for your ZIP-code.  In the example New-York.
+Rename this file to tvguide.com.index-only.Line-up.xml
+
+Select one of the lines in this file which matches most clely your situation.
+Copy this line now the WG++ config file.
+Deactivate the above mentioned section, and activate this section
+
+**  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _
+**      #####  CHANNEL FILE CREATION (only to create the xxx-channel.xml file)
+**
+** @auto_xml_channel_start
+*url_index{url ()|https://mobilelistings.tvguide.com/Listingsweb/ws/rest/schedules/|channel|/start/|urldate|/duration/1440?ChannelFields=Name%2CFullName%2CNumber%2CSourceId&ScheduleFields=ProgramId%2CEndTime%2CStartTime%2CTitle%2CAiringAttrib%2CCatId&formattype=json&disableChannels=music%2Cppv%2C24hr}
+*index_temp_1.modify{set|'config_site_id'}
+*index_temp_1.modify{remove(type=regex)|(\..*)}
+*index_site_id.scrub {multi|{"Channel":{"FullName":"|"Number":"|}}
+*index_site_id.modify {remove|"}
+*index_site_id.modify {remove|,SourceId}
+*index_site_id.modify {remove|,}
+*index_site_id.modify {replace|:|#Channel:}
+*index_site_id.modify {addstart|#Number:}
+*index_site_id.modify {addstart|LineUP:'index_temp_1'}
+*index_site_id.modify {addend|#}
+*index_site_channel.scrub {multi|{"Channel":{"FullName":"||"Number"}
+*index_site_channel.modify {remove|"}
+*index_site_channel.modify {remove|,Name}
+*index_site_channel.modify {remove|,}
+*index_site_id.modify {cleanup(removeduplicates=equal,100 link="index_site_channel")}
+** @auto_xml_channel_end
+
+Run WG++ again.
+Deactivate the the above mentioned section.
+
+You can select different lin-ups and merge the channels files.
