@@ -8,11 +8,12 @@ or
 <channel update="i" site="tvguide.com" site_id="10001" xmltv_id="TV Guide">TV Guide</channel>
 
 Replace the 10001 with your ZIP-code.
+For countries outside the USA enter the country name:  f.i. Colombia
 
 Activate this section in the SiteIni
 
 **  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _
-**      #####  CHANNEL line-up FILE CREATION
+**      #####  CHANNEL line-up FILE CREATION - USA
 **
 ** @auto_xml_channel_start
 *url_index{url ()|https://mobilelistings.tvguide.com/Listingsweb/ws/rest/serviceproviders/zipcode/|channel|?formattype=json}
@@ -23,6 +24,20 @@ Activate this section in the SiteIni
 *index_site_channel.modify {remove|"}
 ** @auto_xml_channel_end
 *
+
+For countries outside of the USA activate this:
+
+**  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _
+**      #####  CHANNEL line-up FILE CREATION for countries outside USA
+**
+** @auto_xml_channel_start
+*url_index{url ()|https://mobilelistings.tvguide.com/Listingsweb/ws/rest/serviceproviders/zipcode/0?country=|channel|&formattype=json}
+*index_site_id.scrub {regex||\"Id\":(\d*),.*?\"DeviceFlag\"(:\d*)}||}
+*index_site_id.modify {replace|\|:|.}
+*index_site_channel.scrub {regex||\"City\":\"(.*?)\",\"Id\".*?,\"Name\"(:\".*?)\",||}
+*index_site_channel.modify {replace|\|:|,}
+*index_site_channel.modify {remove|"}
+** @auto_xml_channel_end
 
 Run WG++
 You will now have a tvguide.com.index-only.channels.xml file which contains the different line-Ups for your ZIP-code.  In the example New-York.
