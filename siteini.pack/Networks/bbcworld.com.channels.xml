@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.4 -- Jan van Straaten" site="wwwbbcxxx.com">
+  <channels>
+    <channel update="i" site="bbcworld.com" site_id="benelux.com/tv-gids-nederland/#BBC First" xmltv_id="BBC First">BBC First</channel>
+    <channel update="i" site="bbcworld.com" site_id="benelux.com/tv-gids-nederland/#BBC One" xmltv_id="BBC One">BBC One</channel>
+    <channel update="i" site="bbcworld.com" site_id="benelux.com/tv-gids-nederland/#BBC Two" xmltv_id="BBC Two">BBC Two</channel>
+    <channel update="i" site="bbcworld.com" site_id="benelux.com/tv-gids-nederland/#BBC Four" xmltv_id="BBC Four">BBC Four</channel>
+    <channel update="i" site="bbcworld.com" site_id="benelux.com/tv-gids-nederland/#BBC Entertainment" xmltv_id="BBC Entertainment">BBC Entertainment</channel>
+    <channel update="i" site="bbcworld.com" site_id="benelux.com/tv-gids-nederland/#Cbeebies" xmltv_id="Cbeebies">Cbeebies</channel>
+    <channel update="i" site="bbcworld.com" site_id="benelux.com/tv-gids-nederland/#CBBC" xmltv_id="CBBC">CBBC</channel>
+    <channel update="i" site="bbcworld.com" site_id="benelux.com/tv-gids-nederland/#BBC World News" xmltv_id="BBC World News">BBC World News</channel>
+    <channel update="i" site="bbcworld.com" site_id="benelux.com/tv-gids-nederland/#BBC Studios" xmltv_id="BBC Studios">BBC Studios</channel>
+    <channel update="i" site="bbcworld.com" site_id="channels.com/bbc-turkiye/tv-rehberi/#BBC Earth" xmltv_id="BBC Earth">BBC Earth</channel>
+    <channel update="i" site="bbcworld.com" site_id="channels.com/bbc-turkiye/tv-rehberi/#Cbeebies" xmltv_id="Cbeebies">Cbeebies</channel>
+    <channel update="i" site="bbcworld.com" site_id="channels.com/bbc-turkiye/tv-rehberi/#BBC Entertainment" xmltv_id="BBC Entertainment">BBC Entertainment</channel>
+    <channel update="i" site="bbcworld.com" site_id="channels.com/bbc-turkiye/tv-rehberi/#BBC HD" xmltv_id="BBC HD">BBC HD</channel>
+    <channel update="i" site="bbcworld.com" site_id="channels.com/bbc-turkiye/tv-rehberi/#BBC World News" xmltv_id="BBC World News">BBC World News</channel>
+    <channel update="i" site="bbcworld.com" site_id="benelux.com/tv-gids#BBC First" xmltv_id="BBC First">BBC First</channel>
+    <channel update="i" site="bbcworld.com" site_id="benelux.com/tv-gids#BBC One" xmltv_id="BBC One">BBC One</channel>
+    <channel update="i" site="bbcworld.com" site_id="benelux.com/tv-gids#BBC Two" xmltv_id="BBC Two">BBC Two</channel>
+    <channel update="i" site="bbcworld.com" site_id="benelux.com/tv-gids#BBC Four" xmltv_id="BBC Four">BBC Four</channel>
+    <channel update="i" site="bbcworld.com" site_id="benelux.com/tv-gids#BBC Entertainment" xmltv_id="BBC Entertainment">BBC Entertainment</channel>
+    <channel update="i" site="bbcworld.com" site_id="benelux.com/tv-gids#Cbeebies" xmltv_id="Cbeebies">Cbeebies</channel>
+    <channel update="i" site="bbcworld.com" site_id="benelux.com/tv-gids#CBBC" xmltv_id="CBBC">CBBC</channel>
+    <channel update="i" site="bbcworld.com" site_id="benelux.com/tv-gids#BBC World News" xmltv_id="BBC World News">BBC World News</channel>
+    <channel update="i" site="bbcworld.com" site_id="benelux.com/tv-gids#BBC Studios" xmltv_id="BBC Studios">BBC Studios</channel>
+    <channel update="i" site="bbcworld.com" site_id="norge.com/tv-guide/#BBC Brit" xmltv_id="BBC Brit">BBC Brit</channel>
+    <channel update="i" site="bbcworld.com" site_id="norge.com/tv-guide/#BBC Earth" xmltv_id="BBC Earth">BBC Earth</channel>
+    <channel update="i" site="bbcworld.com" site_id="norge.com/tv-guide/#BBC World News" xmltv_id="BBC World News">BBC World News</channel>
+    <channel update="i" site="bbcworld.com" site_id="polska.com/program-tv/#BBC Brit" xmltv_id="BBC Brit">BBC Brit</channel>
+    <channel update="i" site="bbcworld.com" site_id="polska.com/program-tv/#BBC Earth" xmltv_id="BBC Earth">BBC Earth</channel>
+    <channel update="i" site="bbcworld.com" site_id="polska.com/program-tv/#BBC First" xmltv_id="BBC First">BBC First</channel>
+    <channel update="i" site="bbcworld.com" site_id="polska.com/program-tv/#BBC Lifestyle" xmltv_id="BBC Lifestyle">BBC Lifestyle</channel>
+    <channel update="i" site="bbcworld.com" site_id="polska.com/program-tv/#Cbeebies" xmltv_id="Cbeebies">Cbeebies</channel>    
+    <channel update="i" site="bbcworld.com" site_id="newzealand.com/tv-guide/#BBC Earth" xmltv_id="BBC Earth">BBC Earth</channel>
+    <channel update="i" site="bbcworld.com" site_id="newzealand.com/tv-guide/#BBC UKTV" xmltv_id="BBC UKTV">BBC UKTV</channel>
+    <channel update="i" site="bbcworld.com" site_id="newzealand.com/tv-guide/#BBC World News" xmltv_id="BBC World News">BBC World News</channel>
+    <channel update="i" site="bbcworld.com" site_id="newzealand.com/tv-guide/#BBC Ww" xmltv_id="BBC Ww">BBC Ww</channel>            
+    <channel update="i" site="bbcworld.com" site_id="asia.com/tv-guide/#BBC Earth" xmltv_id="BBC Earth">BBC Earth</channel>
+    <channel update="i" site="bbcworld.com" site_id="asia.com/tv-guide/#BBC Lifestyle" xmltv_id="BBC Lifestyle">BBC Lifestyle</channel>
+    <channel update="i" site="bbcworld.com" site_id="asia.com/tv-guide/#Cbeebies" xmltv_id="Cbeebies">Cbeebies</channel>
+    <channel update="i" site="bbcworld.com" site_id="asia.com/tv-guide/#BBC First" xmltv_id="BBC First">BBC First</channel>
+    <channel update="i" site="bbcworld.com" site_id="asia.com/tv-guide/#BBC World News" xmltv_id="BBC World News">BBC World News</channel>
+    <channel update="i" site="bbcworld.com" site_id="channels.com/bbc-middle-east/tv-guide/#BBC First" xmltv_id="BBC First">BBC First</channel>
+    <channel update="i" site="bbcworld.com" site_id="channels.com/bbc-middle-east/tv-guide/#Cbeebies" xmltv_id="Cbeebies">Cbeebies</channel>
+    <channel update="i" site="bbcworld.com" site_id="nordic.com/tv-guide/#BBC Brit" xmltv_id="BBC Brit">BBC Brit</channel>
+    <channel update="i" site="bbcworld.com" site_id="nordic.com/tv-guide/#BBC Earth" xmltv_id="BBC Earth">BBC Earth</channel>
+    <channel update="i" site="bbcworld.com" site_id="nordic.com/tv-guide/#BBC World News" xmltv_id="BBC World News">BBC World News</channel>        
+        
+    
+    
+  </channels>
+</site>
