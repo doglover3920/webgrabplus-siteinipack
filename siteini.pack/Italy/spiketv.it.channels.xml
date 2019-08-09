@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.4 -- Jan van Straaten" site="spiketv.it">
+  <channels>
+    <channel update="i" site="spiketv.it" site_id="spike" xmltv_id="Spike">Spike</channel>
+    <channel update="i" site="spiketv.it" site_id="paramount" xmltv_id="Paramount">Paramount</channel>
+    <channel update="i" site="spiketv.it" site_id="vh1" xmltv_id="VH1">VH1</channel>
+  </channels>
+</site>
