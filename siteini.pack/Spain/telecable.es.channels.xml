@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.4 -- Jan van Straaten" site="telecable.es">
+  <channels>
+    <channel update="i" site="telecable.es" site_id="TV5" xmltv_id="TV5">TV5</channel>
+    <channel update="i" site="telecable.es" site_id="Sol Música" xmltv_id="Sol Música">Sol Música</channel>
+    <channel update="i" site="telecable.es" site_id="Calle 13" xmltv_id="Calle 13">Calle 13</channel>
+    <channel update="i" site="telecable.es" site_id="Canal Cocina" xmltv_id="Canal Cocina">Canal Cocina</channel>
+    <channel update="i" site="telecable.es" site_id="Canal Panda" xmltv_id="Canal Panda">Canal Panda</channel>
+    <channel update="i" site="telecable.es" site_id="Crimen + Invest." xmltv_id="Crimen + Invest.">Crimen + Invest.</channel>
+    <channel update="i" site="telecable.es" site_id="Disney XD" xmltv_id="Disney XD">Disney XD</channel>
+    <channel update="i" site="telecable.es" site_id="LaLiga 123 Max 1" xmltv_id="LaLiga 123 Max 1">LaLiga 123 Max 1</channel>
+    <channel update="i" site="telecable.es" site_id="LaLiga 123 Max 2" xmltv_id="LaLiga 123 Max 2">LaLiga 123 Max 2</channel>
+    <channel update="i" site="telecable.es" site_id="Historia" xmltv_id="Historia">Historia</channel>
+    <channel update="i" site="telecable.es" site_id="MTV Live HD" xmltv_id="MTV Live HD">MTV Live HD</channel>
+    <channel update="i" site="telecable.es" site_id="Nat Geo Wild" xmltv_id="Nat Geo Wild">Nat Geo Wild</channel>
+    <channel update="i" site="telecable.es" site_id="VH1 Classic" xmltv_id="VH1 Classic">VH1 Classic</channel>
+    <channel update="i" site="telecable.es" site_id="VH1" xmltv_id="VH1">VH1</channel>
+    <channel update="i" site="telecable.es" site_id="Canal Hollywood" xmltv_id="Canal Hollywood">Canal Hollywood</channel>
+    <channel update="i" site="telecable.es" site_id="Sundance TV" xmltv_id="Sundance TV">Sundance TV</channel>
+    <channel update="i" site="telecable.es" site_id="Viajar HD" xmltv_id="Viajar HD">Viajar HD</channel>
+    <channel update="i" site="telecable.es" site_id="MTV Hits" xmltv_id="MTV Hits">MTV Hits</channel>
+    <channel update="i" site="telecable.es" site_id="MTV Dance" xmltv_id="MTV Dance">MTV Dance</channel>
+    <channel update="i" site="telecable.es" site_id="MTV Rocks" xmltv_id="MTV Rocks">MTV Rocks</channel>
+    <channel update="i" site="telecable.es" site_id="Somos" xmltv_id="Somos">Somos</channel>
+    <channel update="i" site="telecable.es" site_id="Fox" xmltv_id="Fox">Fox</channel>
+    <channel update="i" site="telecable.es" site_id="Nickelodeon" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel update="i" site="telecable.es" site_id="AMC HD" xmltv_id="AMC HD">AMC HD</channel>
+    <channel update="i" site="telecable.es" site_id="Dark/Dorcel TV" xmltv_id="Dark/Dorcel TV">Dark/Dorcel TV</channel>
+    <channel update="i" site="telecable.es" site_id="Comedy Central" xmltv_id="Comedy Central">Comedy Central</channel>
+    <channel update="i" site="telecable.es" site_id="MTV" xmltv_id="MTV">MTV</channel>
+    <channel update="i" site="telecable.es" site_id="Disney Junior" xmltv_id="Disney Junior">Disney Junior</channel>
+    <channel update="i" site="telecable.es" site_id="Decasa" xmltv_id="Decasa">Decasa</channel>
+    <channel update="i" site="telecable.es" site_id="M. Estrenos" xmltv_id="M. Estrenos">M. Estrenos</channel>
+    <channel update="i" site="telecable.es" site_id="Nick Jr" xmltv_id="Nick Jr">Nick Jr</channel>
+    <channel update="i" site="telecable.es" site_id="LaLiga TV Max 1" xmltv_id="LaLiga TV Max 1">LaLiga TV Max 1</channel>
+    <channel update="i" site="telecable.es" site_id="LaLiga TV Max 2" xmltv_id="LaLiga TV Max 2">LaLiga TV Max 2</channel>
+    <channel update="i" site="telecable.es" site_id="LaLiga TV Max 3" xmltv_id="LaLiga TV Max 3">LaLiga TV Max 3</channel>
+    <channel update="i" site="telecable.es" site_id="LaLiga TV Max 4" xmltv_id="LaLiga TV Max 4">LaLiga TV Max 4</channel>
+    <channel update="i" site="telecable.es" site_id="LaLiga TV Max 5" xmltv_id="LaLiga TV Max 5">LaLiga TV Max 5</channel>
+    <channel update="i" site="telecable.es" site_id="LaLiga TV Max 6" xmltv_id="LaLiga TV Max 6">LaLiga TV Max 6</channel>
+    <channel update="i" site="telecable.es" site_id="LaLiga TV Max 7" xmltv_id="LaLiga TV Max 7">LaLiga TV Max 7</channel>
+    <channel update="i" site="telecable.es" site_id="LaLiga TV Max 8" xmltv_id="LaLiga TV Max 8">LaLiga TV Max 8</channel>
+    <channel update="i" site="telecable.es" site_id="BLAZE" xmltv_id="BLAZE">BLAZE</channel>
+    <channel update="i" site="telecable.es" site_id="Syfy HD" xmltv_id="Syfy HD">Syfy HD</channel>
+    <channel update="i" site="telecable.es" site_id="National Geographic" xmltv_id="National Geographic">National Geographic</channel>
+    <channel update="i" site="telecable.es" site_id="XTRM HD" xmltv_id="XTRM HD">XTRM HD</channel>
+    <channel update="i" site="telecable.es" site_id="AXN White HD" xmltv_id="AXN White HD">AXN White HD</channel>
+    <channel update="i" site="telecable.es" site_id="Fox Life" xmltv_id="Fox Life">Fox Life</channel>
+    <channel update="i" site="telecable.es" site_id="COSMO HD" xmltv_id="COSMO HD">COSMO HD</channel>
+    <channel update="i" site="telecable.es" site_id="Vaughan TV" xmltv_id="Vaughan TV">Vaughan TV</channel>
+    <channel update="i" site="telecable.es" site_id="Odisea" xmltv_id="Odisea">Odisea</channel>
+    <channel update="i" site="telecable.es" site_id="DKiss" xmltv_id="DKiss">DKiss</channel>
+    <channel update="i" site="telecable.es" site_id="AXN" xmltv_id="AXN">AXN</channel>
+    <channel update="i" site="telecable.es" site_id="+ Galeria" xmltv_id="+ Galeria">+ Galeria</channel>
+    <channel update="i" site="telecable.es" site_id="ETB" xmltv_id="ETB">ETB</channel>
+    <channel update="i" site="telecable.es" site_id="Al Jazeera" xmltv_id="Al Jazeera">Al Jazeera</channel>
+    <channel update="i" site="telecable.es" site_id="France 24h" xmltv_id="France 24h">France 24h</channel>
+    <channel update="i" site="telecable.es" site_id="Intereconomía" xmltv_id="Intereconomía">Intereconomía</channel>
+    <channel update="i" site="telecable.es" site_id="La Sexta HD" xmltv_id="La Sexta HD">La Sexta HD</channel>
+    <channel update="i" site="telecable.es" site_id="Antena 3 HD" xmltv_id="Antena 3 HD">Antena 3 HD</channel>
+    <channel update="i" site="telecable.es" site_id="Libertad Digital" xmltv_id="Libertad Digital">Libertad Digital</channel>
+    <channel update="i" site="telecable.es" site_id="TRECE" xmltv_id="TRECE">TRECE</channel>
+    <channel update="i" site="telecable.es" site_id="TV Record" xmltv_id="TV Record">TV Record</channel>
+    <channel update="i" site="telecable.es" site_id="RT" xmltv_id="RT">RT</channel>
+    <channel update="i" site="telecable.es" site_id="TV3" xmltv_id="TV3">TV3</channel>
+    <channel update="i" site="telecable.es" site_id="Canal 10" xmltv_id="Canal 10">Canal 10</channel>
+    <channel update="i" site="telecable.es" site_id="Andalucía TV" xmltv_id="Andalucía TV">Andalucía TV</channel>
+    <channel update="i" site="telecable.es" site_id="Real Madrid TV HD" xmltv_id="Real Madrid TV HD">Real Madrid TV HD</channel>
+    <channel update="i" site="telecable.es" site_id="Taroteame" xmltv_id="Taroteame">Taroteame</channel>
+    <channel update="i" site="telecable.es" site_id="TEN" xmltv_id="TEN">TEN</channel>
+    <channel update="i" site="telecable.es" site_id="Neox" xmltv_id="Neox">Neox</channel>
+    <channel update="i" site="telecable.es" site_id="Cubavisión" xmltv_id="Cubavisión">Cubavisión</channel>
+    <channel update="i" site="telecable.es" site_id="CNN" xmltv_id="CNN">CNN</channel>
+    <channel update="i" site="telecable.es" site_id="La 1 HD" xmltv_id="La 1 HD">La 1 HD</channel>
+    <channel update="i" site="telecable.es" site_id="La 2" xmltv_id="La 2">La 2</channel>
+    <channel update="i" site="telecable.es" site_id="24 Horas" xmltv_id="24 Horas">24 Horas</channel>
+    <channel update="i" site="telecable.es" site_id="DW" xmltv_id="DW">DW</channel>
+    <channel update="i" site="telecable.es" site_id="TNT" xmltv_id="TNT">TNT</channel>
+    <channel update="i" site="telecable.es" site_id="TPA" xmltv_id="TPA">TPA</channel>
+    <channel update="i" site="telecable.es" site_id="TPA 2" xmltv_id="TPA 2">TPA 2</channel>
+    <channel update="i" site="telecable.es" site_id="EsAsturias TV" xmltv_id="EsAsturias TV">EsAsturias TV</channel>
+    <channel update="i" site="telecable.es" site_id="Discovery Channel" xmltv_id="Discovery Channel">Discovery Channel</channel>
+    <channel update="i" site="telecable.es" site_id="TCM" xmltv_id="TCM">TCM</channel>
+    <channel update="i" site="telecable.es" site_id="Divinity" xmltv_id="Divinity">Divinity</channel>
+    <channel update="i" site="telecable.es" site_id="FDF" xmltv_id="FDF">FDF</channel>
+    <channel update="i" site="telecable.es" site_id="Energy" xmltv_id="Energy">Energy</channel>
+    <channel update="i" site="telecable.es" site_id="Pro TV" xmltv_id="Pro TV">Pro TV</channel>
+    <channel update="i" site="telecable.es" site_id="Garage TV" xmltv_id="Garage TV">Garage TV</channel>
+    <channel update="i" site="telecable.es" site_id="U-Beat" xmltv_id="U-Beat">U-Beat</channel>
+    <channel update="i" site="telecable.es" site_id="Caracol TV" xmltv_id="Caracol TV">Caracol TV</channel>
+    <channel update="i" site="telecable.es" site_id="M. Series" xmltv_id="M. Series">M. Series</channel>
+    <channel update="i" site="telecable.es" site_id="Disney Channel HD" xmltv_id="Disney Channel HD">Disney Channel HD</channel>
+    <channel update="i" site="telecable.es" site_id="LaLiga 123" xmltv_id="LaLiga 123">LaLiga 123</channel>
+    <channel update="i" site="telecable.es" site_id="Bloomberg" xmltv_id="Bloomberg">Bloomberg</channel>
+    <channel update="i" site="telecable.es" site_id="Eurosport 1" xmltv_id="Eurosport 1">Eurosport 1</channel>
+    <channel update="i" site="telecable.es" site_id="Eurosport 2" xmltv_id="Eurosport 2">Eurosport 2</channel>
+    <channel update="i" site="telecable.es" site_id="VINX" xmltv_id="VINX">VINX</channel>
+    <channel update="i" site="telecable.es" site_id="beIN LaLiga." xmltv_id="beIN LaLiga.">beIN LaLiga.</channel>
+    <channel update="i" site="telecable.es" site_id="Clan" xmltv_id="Clan">Clan</channel>
+    <channel update="i" site="telecable.es" site_id="Aragón TV" xmltv_id="Aragón TV">Aragón TV</channel>
+    <channel update="i" site="telecable.es" site_id="GOL" xmltv_id="GOL">GOL</channel>
+    <channel update="i" site="telecable.es" site_id="BBC World News" xmltv_id="BBC World News">BBC World News</channel>
+    <channel update="i" site="telecable.es" site_id="Euronews" xmltv_id="Euronews">Euronews</channel>
+    <channel update="i" site="telecable.es" site_id="TVG" xmltv_id="TVG">TVG</channel>
+    <channel update="i" site="telecable.es" site_id="MTV Music" xmltv_id="MTV Music">MTV Music</channel>
+    <channel update="i" site="telecable.es" site_id="La Liga TV" xmltv_id="La Liga TV">La Liga TV</channel>
+    <channel update="i" site="telecable.es" site_id="Iberalia HD" xmltv_id="Iberalia HD">Iberalia HD</channel>
+    <channel update="i" site="telecable.es" site_id="Paramount Network" xmltv_id="Paramount Network">Paramount Network</channel>
+    <channel update="i" site="telecable.es" site_id="Telecinco HD" xmltv_id="Telecinco HD">Telecinco HD</channel>
+    <channel update="i" site="telecable.es" site_id="Nova" xmltv_id="Nova">Nova</channel>
+    <channel update="i" site="telecable.es" site_id="Atreseries" xmltv_id="Atreseries">Atreseries</channel>
+    <channel update="i" site="telecable.es" site_id="DMAX" xmltv_id="DMAX">DMAX</channel>
+    <channel update="i" site="telecable.es" site_id="Teledeporte" xmltv_id="Teledeporte">Teledeporte</channel>
+    <channel update="i" site="telecable.es" site_id="Cuatro HD" xmltv_id="Cuatro HD">Cuatro HD</channel>
+    <channel update="i" site="telecable.es" site_id="Be Mad" xmltv_id="Be Mad">Be Mad</channel>
+    <channel update="i" site="telecable.es" site_id="Mega" xmltv_id="Mega">Mega</channel>
+    <channel update="i" site="telecable.es" site_id="Barça TV" xmltv_id="Barça TV">Barça TV</channel>
+    <channel update="i" site="telecable.es" site_id="Extremadura TV" xmltv_id="Extremadura TV">Extremadura TV</channel>
+    <channel update="i" site="telecable.es" site_id="Boing" xmltv_id="Boing">Boing</channel>
+    <channel update="i" site="telecable.es" site_id="LaLiga 123 Max 3" xmltv_id="LaLiga 123 Max 3">LaLiga 123 Max 3</channel>
+    <channel update="i" site="telecable.es" site_id="LaLiga 123 Max 4" xmltv_id="LaLiga 123 Max 4">LaLiga 123 Max 4</channel>
+  </channels>
+</site>
