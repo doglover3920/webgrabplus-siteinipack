@@ -1,5 +1,5 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V1.56.23 -- Jan van Straaten" site="programmi-tv.eu">
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.4 -- Jan van Straaten" site="programmi-tv.eu">
   <channels>
     <channel update="i" site="programmi-tv.eu" site_id="raiuno" xmltv_id="Rai Uno">Rai Uno</channel>
     <channel update="i" site="programmi-tv.eu" site_id="raidue" xmltv_id="Rai Due">Rai Due</channel>
@@ -9,7 +9,9 @@
     <channel update="i" site="programmi-tv.eu" site_id="italia1" xmltv_id="Italia 1">Italia 1</channel>
     <channel update="i" site="programmi-tv.eu" site_id="la7" xmltv_id="La7">La7</channel>
     <channel update="i" site="programmi-tv.eu" site_id="tv8" xmltv_id="TV8">TV8</channel>
-    <channel update="i" site="programmi-tv.eu" site_id="deejaytv" xmltv_id="DeeJay TV - NOVE">DeeJay TV - NOVE</channel>
+    <channel update="i" site="programmi-tv.eu" site_id="nove" xmltv_id="Nove">Nove</channel>
+    <channel update="i" site="programmi-tv.eu" site_id="videolina" xmltv_id="Videolina">Videolina</channel>
+    <channel update="i" site="programmi-tv.eu" site_id="20-mediaset" xmltv_id="20 Mediaset">20 Mediaset</channel>
     <channel update="i" site="programmi-tv.eu" site_id="rai4" xmltv_id="Rai 4">Rai 4</channel>
     <channel update="i" site="programmi-tv.eu" site_id="iris" xmltv_id="Iris">Iris</channel>
     <channel update="i" site="programmi-tv.eu" site_id="rai5" xmltv_id="Rai 5">Rai 5</channel>
@@ -22,8 +24,9 @@
     <channel update="i" site="programmi-tv.eu" site_id="la5" xmltv_id="La5">La5</channel>
     <channel update="i" site="programmi-tv.eu" site_id="realtime" xmltv_id="Real Time">Real Time</channel>
     <channel update="i" site="programmi-tv.eu" site_id="qvc" xmltv_id="QVC">QVC</channel>
+    <channel update="i" site="programmi-tv.eu" site_id="food-network" xmltv_id="Food Network">Food Network</channel>
     <channel update="i" site="programmi-tv.eu" site_id="mediasetextra" xmltv_id="Mediaset Extra">Mediaset Extra</channel>
-    <channel update="i" site="programmi-tv.eu" site_id="italia2" xmltv_id="Italia 2">Italia 2</channel>
+    <channel update="i" site="programmi-tv.eu" site_id="focus" xmltv_id="Focus">Focus</channel>
     <channel update="i" site="programmi-tv.eu" site_id="rtl1025tv" xmltv_id="RTL 102.5 TV">RTL 102.5 TV</channel>
     <channel update="i" site="programmi-tv.eu" site_id="hse24" xmltv_id="HSE24">HSE24</channel>
     <channel update="i" site="programmi-tv.eu" site_id="giallo" xmltv_id="Giallo">Giallo</channel>
@@ -33,21 +36,52 @@
     <channel update="i" site="programmi-tv.eu" site_id="raigulp" xmltv_id="Rai Gulp">Rai Gulp</channel>
     <channel update="i" site="programmi-tv.eu" site_id="raiyoyo" xmltv_id="Rai Yoyo">Rai Yoyo</channel>
     <channel update="i" site="programmi-tv.eu" site_id="frisbee" xmltv_id="Frisbee">Frisbee</channel>
+    <channel update="i" site="programmi-tv.eu" site_id="pop" xmltv_id="Pop">Pop</channel>
     <channel update="i" site="programmi-tv.eu" site_id="cartoonito" xmltv_id="Cartoonito">Cartoonito</channel>
     <channel update="i" site="programmi-tv.eu" site_id="super" xmltv_id="Super!">Super!</channel>
     <channel update="i" site="programmi-tv.eu" site_id="rainews24" xmltv_id="Rai News 24">Rai News 24</channel>
-    <channel update="i" site="programmi-tv.eu" site_id="fineliving" xmltv_id="Fine Living">Fine Living</channel>
+    <channel update="i" site="programmi-tv.eu" site_id="spike" xmltv_id="Spike TV">Spike TV</channel>
     <channel update="i" site="programmi-tv.eu" site_id="skytg24" xmltv_id="Sky TG 24">Sky TG 24</channel>
     <channel update="i" site="programmi-tv.eu" site_id="tgcom24" xmltv_id="Tgcom24">Tgcom24</channel>
     <channel update="i" site="programmi-tv.eu" site_id="dmax" xmltv_id="DMax">DMax</channel>
+    <channel update="i" site="programmi-tv.eu" site_id="italia-53" xmltv_id="Italia 53">Italia 53</channel>
     <channel update="i" site="programmi-tv.eu" site_id="raistoria" xmltv_id="Rai Storia">Rai Storia</channel>
-    <channel update="i" site="programmi-tv.eu" site_id="focus" xmltv_id="Focus">Focus</channel>
-    <channel update="i" site="programmi-tv.eu" site_id="raisport" xmltv_id="Rai Sport 1">Rai Sport 1</channel>
-    <channel update="i" site="programmi-tv.eu" site_id="raisport2" xmltv_id="Rai Sport 2">Rai Sport 2</channel>
-    <channel update="i" site="programmi-tv.eu" site_id="super-tennis" xmltv_id="Super Tennis">Super Tennis</channel>
-    <channel update="i" site="programmi-tv.eu" site_id="mtvmusic" xmltv_id="MTV Music">MTV Music</channel>
-    <channel update="i" site="programmi-tv.eu" site_id="la3" xmltv_id="La3">La3</channel>
-    <channel update="i" site="programmi-tv.eu" site_id="raiscuola" xmltv_id="Rai Scuola">Rai Scuola</channel>
+    <channel update="i" site="programmi-tv.eu" site_id="motor-trend" xmltv_id="Motor Trend">Motor Trend</channel>
+    <channel update="i" site="programmi-tv.eu" site_id="raisport" xmltv_id="Rai Sport + HD">Rai Sport + HD</channel>
+    <channel update="i" site="programmi-tv.eu" site_id="raisport2" xmltv_id="Rai Sport">Rai Sport</channel>
     <channel update="i" site="programmi-tv.eu" site_id="sportitalia" xmltv_id="Sportitalia">Sportitalia</channel>
+    <channel update="i" site="programmi-tv.eu" site_id="super-tennis" xmltv_id="Super Tennis">Super Tennis</channel>
+    <channel update="i" site="programmi-tv.eu" site_id="retecapri" xmltv_id="Rete Capri">Rete Capri</channel>
+    <channel update="i" site="programmi-tv.eu" site_id="vh1" xmltv_id="VH1">VH1</channel>
+    <channel update="i" site="programmi-tv.eu" site_id="deejaytv" xmltv_id="Deejay TV">Deejay TV</channel>
+    <channel update="i" site="programmi-tv.eu" site_id="radioitaliatv" xmltv_id="Radio Italia TV">Radio Italia TV</channel>
+    <channel update="i" site="programmi-tv.eu" site_id="italia2" xmltv_id="Italia 2">Italia 2</channel>
+    <channel update="i" site="programmi-tv.eu" site_id="raiscuola" xmltv_id="Rai Scuola">Rai Scuola</channel>
+    <channel update="i" site="programmi-tv.eu" site_id="alice" xmltv_id="Alice">Alice</channel>
+    <channel update="i" site="programmi-tv.eu" site_id="marcopolo" xmltv_id="Marcopolo">Marcopolo</channel>
+    <channel update="i" site="programmi-tv.eu" site_id="casedesignstili" xmltv_id="Case Design Stili (ex Leonardo TV)">Case Design Stili (ex Leonardo TV)</channel>
+    <channel update="i" site="programmi-tv.eu" site_id="investigation-discovery" xmltv_id="Investigation Discovery">Investigation Discovery</channel>
+    <channel update="i" site="programmi-tv.eu" site_id="sky-arte" xmltv_id="Sky Arte">Sky Arte</channel>
+    <channel update="i" site="programmi-tv.eu" site_id="sky-uno" xmltv_id="Sky Uno">Sky Uno</channel>
+    <channel update="i" site="programmi-tv.eu" site_id="sky-atlantic" xmltv_id="Sky Atlantic">Sky Atlantic</channel>
+    <channel update="i" site="programmi-tv.eu" site_id="fox" xmltv_id="Fox">Fox</channel>
+    <channel update="i" site="programmi-tv.eu" site_id="fox-life" xmltv_id="Fox Life">Fox Life</channel>
+    <channel update="i" site="programmi-tv.eu" site_id="fox-crime" xmltv_id="Fox Crime">Fox Crime</channel>
+    <channel update="i" site="programmi-tv.eu" site_id="premium-crime" xmltv_id="Premium Crime">Premium Crime</channel>
+    <channel update="i" site="programmi-tv.eu" site_id="crime-investigation" xmltv_id="Crime Investigation">Crime Investigation</channel>
+    <channel update="i" site="programmi-tv.eu" site_id="premium-stories" xmltv_id="Premium Stories">Premium Stories</channel>
+    <channel update="i" site="programmi-tv.eu" site_id="blaze" xmltv_id="Blaze">Blaze</channel>
+    <channel update="i" site="programmi-tv.eu" site_id="premium-action" xmltv_id="Premium Action">Premium Action</channel>
+    <channel update="i" site="programmi-tv.eu" site_id="fox-animation" xmltv_id="Fox Animation">Fox Animation</channel>
+    <channel update="i" site="programmi-tv.eu" site_id="comedy-central" xmltv_id="Comedy Central">Comedy Central</channel>
+    <channel update="i" site="programmi-tv.eu" site_id="fox-comedy" xmltv_id="Fox Comedy">Fox Comedy</channel>
+    <channel update="i" site="programmi-tv.eu" site_id="eurosport" xmltv_id="Eurosport">Eurosport</channel>
+    <channel update="i" site="programmi-tv.eu" site_id="eurosport2" xmltv_id="Eurosport 2">Eurosport 2</channel>
+    <channel update="i" site="programmi-tv.eu" site_id="premium-cinema" xmltv_id="Premium Cinema">Premium Cinema</channel>
+    <channel update="i" site="programmi-tv.eu" site_id="premium-cinema-energy" xmltv_id="Premium Cinema Energy">Premium Cinema Energy</channel>
+    <channel update="i" site="programmi-tv.eu" site_id="premium-cinema-emotion" xmltv_id="Premium Cinema Emotion">Premium Cinema Emotion</channel>
+    <channel update="i" site="programmi-tv.eu" site_id="premium-cinema-comedy" xmltv_id="Premium Cinema Comedy">Premium Cinema Comedy</channel>
+    <channel update="i" site="programmi-tv.eu" site_id="premium-joi" xmltv_id="Premium Joi">Premium Joi</channel>
+    <channel update="i" site="programmi-tv.eu" site_id="national-geographic" xmltv_id="National Geographic">National Geographic</channel>
   </channels>
 </site>
