@@ -1,18 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V1.57 -- Jan van Straaten" site="https://beinconnect.es">
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.4 -- Jan van Straaten" site="beinconnect.es">
   <channels>
-    <channel update="i" site="beinconnect.es" site_id="LIGA" xmltv_id="LIGA">LIGA</channel>
-    <channel update="i" site="beinconnect.es" site_id="BEIN" xmltv_id="BEIN">BEIN</channel>
-    <channel update="i" site="beinconnect.es" site_id="LIGA123" xmltv_id="LIGA123">LIGA123</channel>
-    <channel update="i" site="beinconnect.es" site_id="GOL" xmltv_id="GOL">GOL</channel>
-    <channel update="i" site="beinconnect.es" site_id="AXNHD" xmltv_id="AXNHD">AXNHD</channel>
-    <channel update="i" site="beinconnect.es" site_id="HISTORIA" xmltv_id="HISTORIA">HISTORIA</channel>
-    <channel update="i" site="beinconnect.es" site_id="NATIONALGEOGRAPHIC" xmltv_id="NATIONALGEOGRAPHIC">NATIONALGEOGRAPHIC</channel>
-    <channel update="i" site="beinconnect.es" site_id="NICKELODEON" xmltv_id="NICKELODEON">NICKELODEON</channel>
-    <channel update="i" site="beinconnect.es" site_id="FOXHD" xmltv_id="FOXHD">FOXHD</channel>
-    <channel update="i" site="beinconnect.es" site_id="COMEDY" xmltv_id="COMEDY">COMEDY</channel>
-    <channel update="i" site="beinconnect.es" site_id="TNT" xmltv_id="TNT">TNT</channel>
-    <channel update="i" site="beinconnect.es" site_id="FOXLIFE" xmltv_id="FOXLIFE">FOXLIFE</channel>
-    <channel update="i" site="beinconnect.es" site_id="TCMHD" xmltv_id="TCMHD">TCMHD</channel>
+    <channel update="i" site="beinconnect.es" site_id="ch_4" xmltv_id="GOL HD">GOL HD</channel>
+    <channel update="i" site="beinconnect.es" site_id="ch_41" xmltv_id="U-BEAT">U-BEAT</channel>
+    <channel update="i" site="beinconnect.es" site_id="ch_5" xmltv_id="FOX HD">FOX HD</channel>
+    <channel update="i" site="beinconnect.es" site_id="ch_6" xmltv_id="AXN HD">AXN HD</channel>
+    <channel update="i" site="beinconnect.es" site_id="ch_7" xmltv_id="TNT">TNT</channel>
+    <channel update="i" site="beinconnect.es" site_id="ch_8" xmltv_id="FOX LIFE">FOX LIFE</channel>
+    <channel update="i" site="beinconnect.es" site_id="ch_9" xmltv_id="TCM HD">TCM HD</channel>
+    <channel update="i" site="beinconnect.es" site_id="ch_11" xmltv_id="COMEDY CENTRAL">COMEDY CENTRAL</channel>
+    <channel update="i" site="beinconnect.es" site_id="ch_10" xmltv_id="NATIONAL GEOGRAPHIC">NATIONAL GEOGRAPHIC</channel>
+    <channel update="i" site="beinconnect.es" site_id="ch_12" xmltv_id="Historia">Historia</channel>
+    <channel update="i" site="beinconnect.es" site_id="ch_13" xmltv_id="Nickelodeon">Nickelodeon</channel>
   </channels>
 </site>
