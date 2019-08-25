@@ -1,7 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version 1.1.1/50 -- Jan van Straaten" site="foxcrime.es">
   <channels>
-    <channel update="i" site="fox.es" site_id="foxcrime.es" xmltv_id="Fox Crime">Fox Crime</channel>
-    <channel update="i" site="fox.es" site_id="foxtv.es" xmltv_id="Fox">Fox</channel>
-  </channels>
+    <channel update="i" site="fox.es" site_id="fox-life" xmltv_id="Fox Life">Fox Life</channel>
+    <channel update="i" site="fox.es" site_id="fox" xmltv_id="Fox">Fox</channel>
 </site>
