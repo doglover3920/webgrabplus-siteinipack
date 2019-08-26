@@ -1,5 +1,5 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V1.56.24 -- Jan van Straaten" site="rtve.es">
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.4 -- Jan van Straaten" site="rtve.es">
   <channels>
     <channel update="i" site="rtve.es" site_id="CTV_LA1" xmltv_id="La 1">La 1</channel>
     <channel update="i" site="rtve.es" site_id="CTV_LA2" xmltv_id="La 2">La 2</channel>
@@ -19,16 +19,17 @@
     <channel update="i" site="rtve.es" site_id="COT_TM3" xmltv_id="Tele Madrid">Tele Madrid</channel>
     <channel update="i" site="rtve.es" site_id="COT_CMT" xmltv_id="Castilla - La Mancha TV">Castilla - La Mancha TV</channel>
     <channel update="i" site="rtve.es" site_id="COT_ARAGON" xmltv_id="Aragón Televisión">Aragón Televisión</channel>
-    <channel update="i" site="rtve.es" site_id="COT_ETB1" xmltv_id="ETB1">ETB1</channel>
     <channel update="i" site="rtve.es" site_id="COT_ETB2" xmltv_id="ETB2">ETB2</channel>
     <channel update="i" site="rtve.es" site_id="COT_CEXTRE" xmltv_id="Canal Extremadura TV">Canal Extremadura TV</channel>
+    <channel update="i" site="rtve.es" site_id="COT_NAVTV" xmltv_id="NavarraTV">NavarraTV</channel>
+    <channel update="i" site="rtve.es" site_id="COT_C7RM" xmltv_id="7 Región de Murcia">7 Región de Murcia</channel>
     <channel update="i" site="rtve.es" site_id="COT_CSUR" xmltv_id="Canal Sur">Canal Sur</channel>
     <channel update="i" site="rtve.es" site_id="COT_TVCAN" xmltv_id="TV Canarias">TV Canarias</channel>
     <channel update="i" site="rtve.es" site_id="COT_TPA" xmltv_id="TPA">TPA</channel>
     <channel update="i" site="rtve.es" site_id="COT_C2A" xmltv_id="Canal Sur 2">Canal Sur 2</channel>
+    <channel update="i" site="rtve.es" site_id="COT_K333" xmltv_id="Super3/33">Super3/33</channel>
     <channel update="i" site="rtve.es" site_id="COT_IB3" xmltv_id="IB 3">IB 3</channel>
     <channel update="i" site="rtve.es" site_id="COT_TV3" xmltv_id="TV3">TV3</channel>
-    <channel update="i" site="rtve.es" site_id="COT_TVG" xmltv_id="TVG">TVG</channel>
     <channel update="i" site="rtve.es" site_id="COT_NEO" xmltv_id="Antena.Neox">Antena.Neox</channel>
     <channel update="i" site="rtve.es" site_id="COT_NOV" xmltv_id="Antena.Nova">Antena.Nova</channel>
     <channel update="i" site="rtve.es" site_id="COT_FDF" xmltv_id="FDF Telecinco">FDF Telecinco</channel>
@@ -41,7 +42,11 @@
     <channel update="i" site="rtve.es" site_id="COT_PARAM" xmltv_id="Paramount Channel">Paramount Channel</channel>
     <channel update="i" site="rtve.es" site_id="COT_ESPOR" xmltv_id="Esport 3">Esport 3</channel>
     <channel update="i" site="rtve.es" site_id="COT_CYLTV" xmltv_id="CYLTV">CYLTV</channel>
-    <channel update="i" site="rtve.es" site_id="COT_INTER" xmltv_id="Intereconomía">Intereconomía</channel>
     <channel update="i" site="rtve.es" site_id="COT_DISNE" xmltv_id="Disney Channel">Disney Channel</channel>
+    <channel update="i" site="rtve.es" site_id="COT_MEGA" xmltv_id="MEGA">MEGA</channel>
+    <channel update="i" site="rtve.es" site_id="COT_A3SERI" xmltv_id="Atreseries">Atreseries</channel>
+    <channel update="i" site="rtve.es" site_id="COT_TE" xmltv_id="TEN">TEN</channel>
+    <channel update="i" site="rtve.es" site_id="COT_BEMAD" xmltv_id="Be Mad">Be Mad</channel>
+    <channel update="i" site="rtve.es" site_id="COT_DKISS" xmltv_id="DKISS">DKISS</channel>
   </channels>
 </site>
