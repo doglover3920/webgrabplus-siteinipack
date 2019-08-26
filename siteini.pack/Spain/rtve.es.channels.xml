@@ -1,14 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V1.56.24 -- Jan van Straaten" site="rtve.es">
   <channels>
-    <!-- Radio -->
-    <channel update="i" site="rtve.es" site_id="CRN_RADIO1" xmltv_id="Radio Nacional">Radio Nacional</channel>
-    <channel update="i" site="rtve.es" site_id="CRN_RADIOC" xmltv_id="Radio Clásica">Radio Clásica</channel>
-    <channel update="i" site="rtve.es" site_id="CRN_RADIO3" xmltv_id="Radio 3">Radio 3</channel>
-    <channel update="i" site="rtve.es" site_id="CRN_RADIO4" xmltv_id="Ràdio 4">Ràdio 4</channel>
-    <channel update="i" site="rtve.es" site_id="CRN_RADIO5" xmltv_id="Radio 5">Radio 5</channel>
-    <channel update="i" site="rtve.es" site_id="CRN_RADIOE" xmltv_id="Radio Exterior">Radio Exterior</channel>
-    <!-- Television -->
     <channel update="i" site="rtve.es" site_id="CTV_LA1" xmltv_id="La 1">La 1</channel>
     <channel update="i" site="rtve.es" site_id="CTV_LA2" xmltv_id="La 2">La 2</channel>
     <channel update="i" site="rtve.es" site_id="CTV_C24H" xmltv_id="Canal 24H">Canal 24H</channel>
