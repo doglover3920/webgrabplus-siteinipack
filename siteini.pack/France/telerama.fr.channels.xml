@@ -1,5 +1,5 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.5 -- Jan van Straaten" site="telerama.fr">
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.4 -- Jan van Straaten" site="telerama.fr">
   <channels>
     <channel update="i" site="telerama.fr" site_id="6ter,1403" xmltv_id="6ter">6ter</channel>
     <channel update="i" site="telerama.fr" site_id="arte,111" xmltv_id="Arte">Arte</channel>
@@ -199,7 +199,7 @@
     <channel update="i" site="telerama.fr" site_id="a-international-france,2049" xmltv_id="A+ International France">A+ International France</channel>
     <channel update="i" site="telerama.fr" site_id="alsace-20,524" xmltv_id="Alsace 20">Alsace 20</channel>
     <channel update="i" site="telerama.fr" site_id="altice-studio,2320" xmltv_id="Altice Studio">Altice Studio</channel>
-    <channel update="i" site="telerama.fr" site_id="arte-belgique,516" xmltv_id="Arte Belgique">Arte Belgique</channel>
+    <channel update="i" site="telerama.fr" site_id="arte-belgique,2544" xmltv_id="Arte Belgique">Arte Belgique</channel>
     <channel update="i" site="telerama.fr" site_id="atv-martinique,295" xmltv_id="ATV Martinique">ATV Martinique</channel>
     <channel update="i" site="telerama.fr" site_id="automoto,15" xmltv_id="Automoto">Automoto</channel>
     <channel update="i" site="telerama.fr" site_id="bet,1960" xmltv_id="BET">BET</channel>
@@ -272,7 +272,7 @@
     <channel update="i" site="telerama.fr" site_id="multisports-5,105" xmltv_id="Multisports 5">Multisports 5</channel>
     <channel update="i" site="telerama.fr" site_id="multisports-6,106" xmltv_id="Multisports 6">Multisports 6</channel>
     <channel update="i" site="telerama.fr" site_id="museum,1072" xmltv_id="Museum">Museum</channel>
-    <channel update="i" site="telerama.fr" site_id="nat-geo-wild,719" xmltv_id="Nat Geo Wild">Nat Geo Wild</channel>
+    <channel update="i" site="telerama.fr" site_id="national-geographic-wild,719" xmltv_id="National Geographic Wild">National Geographic Wild</channel>
     <channel update="i" site="telerama.fr" site_id="nickelodeon-junior,888" xmltv_id="Nickelodeon Junior">Nickelodeon Junior</channel>
     <channel update="i" site="telerama.fr" site_id="nickelodeon-teen,1746" xmltv_id="Nickelodéon Teen">Nickelodéon Teen</channel>
     <channel update="i" site="telerama.fr" site_id="nolife,787" xmltv_id="Nolife">Nolife</channel>
