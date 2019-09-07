@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.4 -- Jan van Straaten" site="mysports.ch">
+  <channels>
+    <channel update="i" site="mysports.ch" site_id="b8ffeec2-ac79-48ce-9269-82980921067c" xmltv_id="MYSPORTS5F">MYSPORTS5F</channel>
+    <channel update="i" site="mysports.ch" site_id="fd4c1c63-b3d7-4238-bfc7-250e74a60930" xmltv_id="MYSPORTS7F">MYSPORTS7F</channel>
+    <channel update="i" site="mysports.ch" site_id="e3f708b2-f66c-47e6-869f-db11ea3cde87" xmltv_id="MYSPORTS9F">MYSPORTS9F</channel>
+    <channel update="i" site="mysports.ch" site_id="ad17f679-94aa-46bd-ab39-ecc5c621ee70" xmltv_id="MYSPORTS3F">MYSPORTS3F</channel>
+    <channel update="i" site="mysports.ch" site_id="2deb6be5-ec55-4807-862f-8c9f6e9cdd0a" xmltv_id="MYSPORTS6F">MYSPORTS6F</channel>
+    <channel update="i" site="mysports.ch" site_id="51c3d574-c0d8-4504-8515-6534ba31768a" xmltv_id="MYSPORTS8F">MYSPORTS8F</channel>
+    <channel update="i" site="mysports.ch" site_id="7e5849b0-0c78-4fef-a84c-2716abf28315" xmltv_id="MYSPORTS1F">MYSPORTS1F</channel>
+    <channel update="i" site="mysports.ch" site_id="9d1195c8-8ba5-4d32-8ae0-2737975b59fb" xmltv_id="MYSPORTS2F">MYSPORTS2F</channel>
+    <channel update="i" site="mysports.ch" site_id="f45b45d4-9359-4755-a594-ea38ad686346" xmltv_id="MYSPORTSF">MYSPORTSF</channel>
+    <channel update="i" site="mysports.ch" site_id="86b1795b-30b7-4043-b7bd-48adf2ebdce6" xmltv_id="MYSPORTS4F">MYSPORTS4F</channel>
+    <channel update="i" site="mysports.ch" site_id="2c7b361e-da19-4a1b-a690-9bbbbf80176a" xmltv_id="MYSPORTS8D">MYSPORTS8D</channel>
+    <channel update="i" site="mysports.ch" site_id="c52ffc29-6558-4741-a561-ad47b004170c" xmltv_id="MYSPORTS3D">MYSPORTS3D</channel>
+    <channel update="i" site="mysports.ch" site_id="8b271b7e-8fa5-4e18-b41a-26b86069393e" xmltv_id="MYSPORTS5D">MYSPORTS5D</channel>
+    <channel update="i" site="mysports.ch" site_id="20f16865-d925-463c-ad28-c7b2c84b750c" xmltv_id="MYSPORTS7D">MYSPORTS7D</channel>
+    <channel update="i" site="mysports.ch" site_id="e3577d2a-77f2-43a4-bf67-ef79ea4e01fb" xmltv_id="MYSPORTSD">MYSPORTSD</channel>
+    <channel update="i" site="mysports.ch" site_id="67e29fbb-d875-470e-b488-d1271783e2b3" xmltv_id="MYSPORTS9D">MYSPORTS9D</channel>
+    <channel update="i" site="mysports.ch" site_id="507bc4c5-880f-40a5-a64e-877c8da41281" xmltv_id="MYSPORTS6D">MYSPORTS6D</channel>
+    <channel update="i" site="mysports.ch" site_id="07964d2c-7dc3-4d04-b515-3176e2bea529" xmltv_id="MYSPORTS4D">MYSPORTS4D</channel>
+    <channel update="i" site="mysports.ch" site_id="0d0f3b3b-9d2a-4fd4-b74a-a69bdcecdf0a" xmltv_id="MYSPORTS2D">MYSPORTS2D</channel>
+    <channel update="i" site="mysports.ch" site_id="4dccc6ea-0743-440e-b5f6-2f4325c8800f" xmltv_id="MYSPORTS1D">MYSPORTS1D</channel>
+  </channels>
+</site>
