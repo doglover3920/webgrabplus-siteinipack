@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.4 -- Jan van Straaten" site="discoveryuk.com">
+  <channels>
+    <channel update="i" site="discoveryuk.com" site_id="discovery-channel" xmltv_id="Discovery Channel">Discovery Channel</channel>
+    <channel update="i" site="discoveryuk.com" site_id="quest" xmltv_id="Quest">Quest</channel>
+    <channel update="i" site="discoveryuk.com" site_id="dmax" xmltv_id="DMAX">DMAX</channel>
+    <channel update="i" site="discoveryuk.com" site_id="tlc" xmltv_id="TLC">TLC</channel>
+    <channel update="i" site="discoveryuk.com" site_id="quest-red" xmltv_id="Quest Red">Quest Red</channel>
+    <channel update="i" site="discoveryuk.com" site_id="id" xmltv_id="ID">ID</channel>
+    <channel update="i" site="discoveryuk.com" site_id="animal-planet" xmltv_id="Animal Planet">Animal Planet</channel>
+    <channel update="i" site="discoveryuk.com" site_id="science" xmltv_id="Discovery Science">Discovery Science</channel>
+    <channel update="i" site="discoveryuk.com" site_id="turbo" xmltv_id="Turbo">Turbo</channel>
+    <channel update="i" site="discoveryuk.com" site_id="shed" xmltv_id="Shed">Shed</channel>
+    <channel update="i" site="discoveryuk.com" site_id="discovery-history" xmltv_id="Discovery History">Discovery History</channel>
+    <channel update="i" site="discoveryuk.com" site_id="home-health" xmltv_id="Home Health">Home Health</channel>
+  </channels>
+</site>
