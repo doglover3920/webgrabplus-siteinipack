@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.4 -- Jan van Straaten" site="pl.canalplus.com">
+  <channels>
+    <channel update="i" site="pl.canalplus.com" site_id="0" xmltv_id="HGTV Home &amp; Garden">HGTV Home &amp; Garden</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="80" xmltv_id="TVN 7">TVN 7</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="84" xmltv_id="WP">WP</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="100" xmltv_id="Planete+ HD">Planete+ HD</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="101" xmltv_id="Kuchnia+ HD">Kuchnia+ HD</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="134" xmltv_id="Baby TV">Baby TV</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="147" xmltv_id="Polsat News">Polsat News</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="200" xmltv_id="Dorcel TV">Dorcel TV</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="242" xmltv_id="Mango 24">Mango 24</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="271" xmltv_id="TVP 1 HD">TVP 1 HD</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="272" xmltv_id="4 FUN.tv">4 FUN.tv</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="273" xmltv_id="Discovery Life HD">Discovery Life HD</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="274" xmltv_id="AXN HD">AXN HD</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="275" xmltv_id="AXN White">AXN White</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="276" xmltv_id="AXN Black">AXN Black</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="277" xmltv_id="Boomerang HD">Boomerang HD</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="279" xmltv_id="Cinemax HD">Cinemax HD</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="280" xmltv_id="Cinemax 2 HD">Cinemax 2 HD</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="281" xmltv_id="CNN HD">CNN HD</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="282" xmltv_id="COMEDY CENTRAL HD">COMEDY CENTRAL HD</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="284" xmltv_id="DTX">DTX</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="285" xmltv_id="Discovery Channel HD">Discovery Channel HD</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="286" xmltv_id="Discovery Historia">Discovery Historia</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="287" xmltv_id="D. SCIENCE HD">D. SCIENCE HD</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="288" xmltv_id="TLC HD">TLC HD</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="289" xmltv_id="Eurosport 1 HD">Eurosport 1 HD</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="290" xmltv_id="Eurosport 2 HD">Eurosport 2 HD</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="292" xmltv_id="TO!TV">TO!TV</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="295" xmltv_id="Kino Polska HD">Kino Polska HD</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="296" xmltv_id="AMC HD">AMC HD</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="297" xmltv_id="MTV Rocks">MTV Rocks</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="298" xmltv_id="MTV Polska HD">MTV Polska HD</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="300" xmltv_id="nSport+ HD">nSport+ HD</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="301" xmltv_id="Polonia 1">Polonia 1</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="302" xmltv_id="Polsat 2 HD">Polsat 2 HD</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="303" xmltv_id="TV Puls HD">TV Puls HD</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="304" xmltv_id="Sportklub HD">Sportklub HD</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="305" xmltv_id="Tele5">Tele5</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="307" xmltv_id="Polsat News 2">Polsat News 2</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="308" xmltv_id="TVN">TVN</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="309" xmltv_id="TVN24 HD">TVN24 HD</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="312" xmltv_id="TVN STYLE HD">TVN STYLE HD</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="313" xmltv_id="TVN TURBO HD">TVN TURBO HD</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="314" xmltv_id="TVP 2 HD">TVP 2 HD</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="316" xmltv_id="TVP Kultura">TVP Kultura</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="318" xmltv_id="TVP Sport HD">TVP Sport HD</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="320" xmltv_id="MTV Music Polska">MTV Music Polska</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="329" xmltv_id="HGTV">HGTV</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="331" xmltv_id="TVN24 BiS HD">TVN24 BiS HD</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="515" xmltv_id="TVP Info HD">TVP Info HD</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="519" xmltv_id="Kino TV HD">Kino TV HD</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="525" xmltv_id="HBO3 HD">HBO3 HD</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="526" xmltv_id="HBO HD">HBO HD</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="527" xmltv_id="HBO2 HD">HBO2 HD</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="535" xmltv_id="FilmBox Premium HD">FilmBox Premium HD</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="536" xmltv_id="Filmbox Extra HD">Filmbox Extra HD</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="538" xmltv_id="TVP Polonia">TVP Polonia</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="556" xmltv_id="TVP HD">TVP HD</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="557" xmltv_id="Disney Channel HD">Disney Channel HD</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="558" xmltv_id="Polsat JimJam">Polsat JimJam</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="559" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="570" xmltv_id="Cbeebies">Cbeebies</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="571" xmltv_id="BBC Brit HD">BBC Brit HD</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="573" xmltv_id="BBC Lifestyle HD">BBC Lifestyle HD</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="586" xmltv_id="CANAL+ HD">CANAL+ HD</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="588" xmltv_id="CANAL+ Sport HD">CANAL+ Sport HD</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="590" xmltv_id="Cartoon Network HD">Cartoon Network HD</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="592" xmltv_id="CANAL+ HD">CANAL+ HD</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="605" xmltv_id="E! Entertainment HD">E! Entertainment HD</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="613" xmltv_id="Extreme Sports HD">Extreme Sports HD</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="635" xmltv_id="Mezzo">Mezzo</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="646" xmltv_id="NATIONAL GEO HD">NATIONAL GEO HD</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="662" xmltv_id="Polsat News HD">Polsat News HD</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="683" xmltv_id="CANAL+ NOW">CANAL+ NOW</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="694" xmltv_id="Superstacja">Superstacja</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="696" xmltv_id="TNT HD">TNT HD</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="702" xmltv_id="Travel Channel HD">Travel Channel HD</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="706" xmltv_id="TV4 HD">TV4 HD</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="713" xmltv_id="TVP Historia">TVP Historia</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="744" xmltv_id="Filmbox Family">Filmbox Family</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="745" xmltv_id="MTV Live HD">MTV Live HD</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="746" xmltv_id="TVN 7 HD">TVN 7 HD</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="756" xmltv_id="TVN HD">TVN HD</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="758" xmltv_id="Eska TV extra">Eska TV extra</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="760" xmltv_id="ID HD">ID HD</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="761" xmltv_id="BBC World News">BBC World News</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="762" xmltv_id="Universal Channel SD">Universal Channel SD</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="766" xmltv_id="TVS">TVS</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="768" xmltv_id="NATIONAL GEOGRAPHIC WILD HD">NATIONAL GEOGRAPHIC WILD HD</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="769" xmltv_id="Animal Planet HD">Animal Planet HD</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="770" xmltv_id="Disney XD">Disney XD</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="772" xmltv_id="Blue Hustler">Blue Hustler</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="773" xmltv_id="Private TV">Private TV</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="779" xmltv_id="BBC First">BBC First</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="780" xmltv_id="FOX HD">FOX HD</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="782" xmltv_id="VH1">VH1</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="783" xmltv_id="TVP Seriale">TVP Seriale</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="785" xmltv_id="Comedy Central Family HD">Comedy Central Family HD</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="786" xmltv_id="BBC Earth HD">BBC Earth HD</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="788" xmltv_id="Polsat Cafe HD">Polsat Cafe HD</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="789" xmltv_id="Polsat Film HD">Polsat Film HD</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="790" xmltv_id="Polsat HD">Polsat HD</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="791" xmltv_id="Polsat Play HD">Polsat Play HD</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="792" xmltv_id="TV6 HD">TV6 HD</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="793" xmltv_id="Romance TV HD">Romance TV HD</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="794" xmltv_id="Paramount Channel HD">Paramount Channel HD</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="795" xmltv_id="Super Polsat HD">Super Polsat HD</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="796" xmltv_id="TVN Turbo HD">TVN Turbo HD</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="806" xmltv_id="Hustler 3D HD">Hustler 3D HD</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="807" xmltv_id="TTV HD">TTV HD</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="808" xmltv_id="Nick Jr.">Nick Jr.</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="809" xmltv_id="NickToons HD">NickToons HD</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="810" xmltv_id="Disney Junior">Disney Junior</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="811" xmltv_id="Crime+Investigation Polsat HD">Crime+Investigation Polsat HD</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="814" xmltv_id="History HD">History HD</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="817" xmltv_id="Sundance TV HD">Sundance TV HD</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="819" xmltv_id="Redlight HD">Redlight HD</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="820" xmltv_id="4 FUN HITS GOLD">4 FUN HITS GOLD</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="825" xmltv_id="Polsat">Polsat</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="826" xmltv_id="TVP 1">TVP 1</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="827" xmltv_id="TVP 2">TVP 2</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="833" xmltv_id="MiniMini+ HD">MiniMini+ HD</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="834" xmltv_id="Planete+ HD">Planete+ HD</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="836" xmltv_id="AXN SPIN HD">AXN SPIN HD</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="837" xmltv_id="Stars.TV">Stars.TV</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="838" xmltv_id="Kuchnia+ HD">Kuchnia+ HD</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="839" xmltv_id="Filmbox Action">Filmbox Action</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="841" xmltv_id="Domo+ HD">Domo+ HD</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="842" xmltv_id="teleTOON+ HD">teleTOON+ HD</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="843" xmltv_id="Eleven Sports 1 HD">Eleven Sports 1 HD</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="844" xmltv_id="FightBox HD">FightBox HD</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="845" xmltv_id="CANAL+ Film HD">CANAL+ Film HD</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="846" xmltv_id="Ale kino+ HD">Ale kino+ HD</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="847" xmltv_id="Eleven Sports 2 HD">Eleven Sports 2 HD</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="848" xmltv_id="Kuchnia+ HD">Kuchnia+ HD</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="849" xmltv_id="Ale kino+ HD">Ale kino+ HD</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="850" xmltv_id="MiniMini+ HD">MiniMini+ HD</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="851" xmltv_id="teleTOON+ HD">teleTOON+ HD</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="852" xmltv_id="Planete+ HD">Planete+ HD</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="853" xmltv_id="Domo+ HD">Domo+ HD</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="854" xmltv_id="CANAL+ Sport HD">CANAL+ Sport HD</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="855" xmltv_id="nSport+ HD">nSport+ HD</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="858" xmltv_id="CANAL+ Family HD">CANAL+ Family HD</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="861" xmltv_id="TVP Rozrywka">TVP Rozrywka</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="862" xmltv_id="TV Puls">TV Puls</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="864" xmltv_id="Mango 24">Mango 24</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="865" xmltv_id="Polo TV">Polo TV</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="866" xmltv_id="Puls2">Puls2</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="867" xmltv_id="Nat Geo People HD">Nat Geo People HD</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="868" xmltv_id="TVP Regionalna">TVP Regionalna</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="869" xmltv_id="ATM Rozrywka">ATM Rozrywka</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="871" xmltv_id="Kino Polska Muzyka">Kino Polska Muzyka</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="872" xmltv_id="CBS Action">CBS Action</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="874" xmltv_id="CBS Europa HD">CBS Europa HD</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="875" xmltv_id="4 FUN DANCE">4 FUN DANCE</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="876" xmltv_id="Trace Urban">Trace Urban</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="877" xmltv_id="CBS Reality">CBS Reality</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="879" xmltv_id="Polsat Romans">Polsat Romans</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="880" xmltv_id="Sci Fi HD">Sci Fi HD</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="881" xmltv_id="Zest TV">Zest TV</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="882" xmltv_id="Universal Channel HD">Universal Channel HD</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="883" xmltv_id="13 Ulica HD">13 Ulica HD</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="884" xmltv_id="Motowizja TV">Motowizja TV</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="885" xmltv_id="Stopklatka TV">Stopklatka TV</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="886" xmltv_id="Da Vinci">Da Vinci</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="887" xmltv_id="Fokus TV">Fokus TV</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="888" xmltv_id="Disco Polo Music">Disco Polo Music</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="889" xmltv_id="NTL Radomsko">NTL Radomsko</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="890" xmltv_id="VOX Music TV">VOX Music TV</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="891" xmltv_id="TVP ABC">TVP ABC</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="900" xmltv_id="Power TV">Power TV</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="901" xmltv_id="Adventure HD">Adventure HD</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="902" xmltv_id="TV Republika">TV Republika</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="903" xmltv_id="Polsat Music HD">Polsat Music HD</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="904" xmltv_id="HISTORY 2 HD">HISTORY 2 HD</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="905" xmltv_id="Lifetime HD">Lifetime HD</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="906" xmltv_id="FOX Comedy HD">FOX Comedy HD</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="907" xmltv_id="Active Family">Active Family</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="921" xmltv_id="Wellbeing Network">Wellbeing Network</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="925" xmltv_id="TVN Fabula HD">TVN Fabula HD</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="926" xmltv_id="CANAL+ 1 HD">CANAL+ 1 HD</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="927" xmltv_id="CANAL+ Seriale HD">CANAL+ Seriale HD</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="928" xmltv_id="CANAL+ Sport 2 HD">CANAL+ Sport 2 HD</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="929" xmltv_id="CANAL+ Sport 2">CANAL+ Sport 2</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="930" xmltv_id="CANAL+ Dokument HD">CANAL+ Dokument HD</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="941" xmltv_id="France24 ang">France24 ang</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="961" xmltv_id="Filmbox Arthouse">Filmbox Arthouse</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="1001" xmltv_id="Polsat Viasat History HD">Polsat Viasat History HD</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="1002" xmltv_id="Polsat Viasat Nature HD">Polsat Viasat Nature HD</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="1003" xmltv_id="Polsat Viasat Explore HD">Polsat Viasat Explore HD</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="1021" xmltv_id="Fightklub HD">Fightklub HD</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="1041" xmltv_id="Eleven Sports 3 HD">Eleven Sports 3 HD</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="1042" xmltv_id="ESKA ROCK TV">ESKA ROCK TV</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="1043" xmltv_id="Eska TV">Eska TV</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="1044" xmltv_id="Nowa TV">Nowa TV</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="1062" xmltv_id="Food Network">Food Network</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="1144" xmltv_id="Tenis Premium 1 HD">Tenis Premium 1 HD</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="1149" xmltv_id="Tenis Premium 2 HD">Tenis Premium 2 HD</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="1162" xmltv_id="UA-TV">UA-TV</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="1163" xmltv_id="NUTA.TV">NUTA.TV</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="1181" xmltv_id="Zoom TV">Zoom TV</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="1201" xmltv_id="Metro TV">Metro TV</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="1262" xmltv_id="TBN Polska">TBN Polska</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="1282" xmltv_id="Eleven Sports 4 HD">Eleven Sports 4 HD</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="1301" xmltv_id="Epic Drama HD">Epic Drama HD</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="1322" xmltv_id="Eurosport 3 HD">Eurosport 3 HD</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="1323" xmltv_id="Eurosport 4 HD">Eurosport 4 HD</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="1324" xmltv_id="Eurosport 5 HD">Eurosport 5 HD</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="1402" xmltv_id="CANAL+ 4K ULTRA HD">CANAL+ 4K ULTRA HD</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="1404" xmltv_id="CANAL+ 4K ULTRA HD">CANAL+ 4K ULTRA HD</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="1422" xmltv_id="TVP 4K">TVP 4K</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="1461" xmltv_id="Polsat Sport Premium 1">Polsat Sport Premium 1</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="1462" xmltv_id="Polsat Sport Premium 2">Polsat Sport Premium 2</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="1463" xmltv_id="Polsat Sport Premium PPV3">Polsat Sport Premium PPV3</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="1464" xmltv_id="Polsat Sport Premium PPV4">Polsat Sport Premium PPV4</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="1465" xmltv_id="Polsat Sport Premium PPV5">Polsat Sport Premium PPV5</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="1466" xmltv_id="Polsat Sport Premium PPV6">Polsat Sport Premium PPV6</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="1481" xmltv_id="Red Carpet TV">Red Carpet TV</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="1501" xmltv_id="TVR">TVR</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="1541" xmltv_id="TV Okazje">TV Okazje</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="1561" xmltv_id="CANAL+ HD F">CANAL+ HD F</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="1562" xmltv_id="CANAL+ HD S">CANAL+ HD S</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="1563" xmltv_id="CANAL+ 1 HD F">CANAL+ 1 HD F</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="1564" xmltv_id="CANAL+ 1 HD S">CANAL+ 1 HD S</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="1581" xmltv_id="CANAL+ SPORT 3 HD">CANAL+ SPORT 3 HD</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="1583" xmltv_id="CANAL+ SPORT 4 HD">CANAL+ SPORT 4 HD</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="1621" xmltv_id="StudioMed TV">StudioMed TV</channel>
+  </channels>
+</site>
