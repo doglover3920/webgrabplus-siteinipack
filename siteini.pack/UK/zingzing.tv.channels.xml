@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.4 -- Jan van Straaten" site="zingzing.co.uk">
   <channels>
-    <channel update="i" site="zingzing.tv" site_id="1040" xmltv_id="BBC One London">BBC One London</channel>
-    <channel update="i" site="zingzing.tv" site_id="1042" xmltv_id="ITV London">ITV London</channel>
     <channel update="i" site="zingzing.tv" site_id="1043" xmltv_id="Channel 4">Channel 4</channel>
     <channel update="i" site="zingzing.tv" site_id="1044" xmltv_id="Channel 5">Channel 5</channel>
     <channel update="i" site="zingzing.tv" site_id="1045" xmltv_id="ITV2">ITV2</channel>
@@ -18,7 +16,6 @@
     <channel update="i" site="zingzing.tv" site_id="1064" xmltv_id="E4+1">E4+1</channel>
     <channel update="i" site="zingzing.tv" site_id="1065" xmltv_id="5 STAR">5 STAR</channel>
     <channel update="i" site="zingzing.tv" site_id="1066" xmltv_id="5 USA">5 USA</channel>
-    <channel update="i" site="zingzing.tv" site_id="1067" xmltv_id="ITV +1 London">ITV +1 London</channel>
     <channel update="i" site="zingzing.tv" site_id="1069" xmltv_id="CBS Drama">CBS Drama</channel>
     <channel update="i" site="zingzing.tv" site_id="1071" xmltv_id="QUEST">QUEST</channel>
     <channel update="i" site="zingzing.tv" site_id="1075" xmltv_id="CITV">CITV</channel>
@@ -29,7 +26,6 @@
     <channel update="i" site="zingzing.tv" site_id="1180" xmltv_id="ITV2 +1">ITV2 +1</channel>
     <channel update="i" site="zingzing.tv" site_id="1181" xmltv_id="BBC Two HD">BBC Two HD</channel>
     <channel update="i" site="zingzing.tv" site_id="1182" xmltv_id="BBC One HD">BBC One HD</channel>
-    <channel update="i" site="zingzing.tv" site_id="1183" xmltv_id="ITV HD">ITV HD</channel>
     <channel update="i" site="zingzing.tv" site_id="1184" xmltv_id="Channel 4 HD">Channel 4 HD</channel>
     <channel update="i" site="zingzing.tv" site_id="1189" xmltv_id="Quest Red">Quest Red</channel>
     <channel update="i" site="zingzing.tv" site_id="1202" xmltv_id="Dave Ja Vu">Dave Ja Vu</channel>
@@ -69,7 +65,6 @@
     <channel update="i" site="zingzing.tv" site_id="17361427" xmltv_id="5 USA +1">5 USA +1</channel>
     <channel update="i" site="zingzing.tv" site_id="19623967" xmltv_id="Jewellery Maker">Jewellery Maker</channel>
     <channel update="i" site="zingzing.tv" site_id="20084531" xmltv_id="ITVBe +1">ITVBe +1</channel>
-    <channel update="i" site="zingzing.tv" site_id="20864495" xmltv_id="True Movies">True Movies</channel>
     <channel update="i" site="zingzing.tv" site_id="21589019" xmltv_id="5Spike">5Spike</channel>
     <channel update="i" site="zingzing.tv" site_id="21704782" xmltv_id="QVC HD">QVC HD</channel>
     <channel update="i" site="zingzing.tv" site_id="21726040" xmltv_id="QVC Beauty HD">QVC Beauty HD</channel>
@@ -112,5 +107,114 @@
     <channel update="i" site="zingzing.tv" site_id="52815933" xmltv_id="Keep It Country">Keep It Country</channel>
     <channel update="i" site="zingzing.tv" site_id="53314930" xmltv_id="Smithsonian Channel">Smithsonian Channel</channel>
     <channel update="i" site="zingzing.tv" site_id="53697655" xmltv_id="Now 90s">Now 90s</channel>
+    <channel update="i" site="zingzing.tv" site_id="1123" xmltv_id="BBC One North East &amp; Cumbria">BBC One North East &amp; Cumbria</channel>
+    <channel update="i" site="zingzing.tv" site_id="1152" xmltv_id="ITV Border England">ITV Border England</channel>
+    <channel update="i" site="zingzing.tv" site_id="50919" xmltv_id="ITV +1 Border">ITV +1 Border</channel>
+    <channel update="i" site="zingzing.tv" site_id="8453445" xmltv_id="ITV HD Border">ITV HD Border</channel>
+    <channel update="i" site="zingzing.tv" site_id="20864495" xmltv_id="True Movies">True Movies</channel>
+    <channel update="i" site="zingzing.tv" site_id="40844828" xmltv_id="That's TV">That's TV</channel>
+    <channel update="i" site="zingzing.tv" site_id="1165" xmltv_id="ITV North East">ITV North East</channel>
+    <channel update="i" site="zingzing.tv" site_id="53612" xmltv_id="ITV +1 Tyne Tees">ITV +1 Tyne Tees</channel>
+    <channel update="i" site="zingzing.tv" site_id="99833" xmltv_id="ITV HD">ITV HD</channel>
+    <channel update="i" site="zingzing.tv" site_id="17224315" xmltv_id="Tyne &amp; Wear TV">Tyne &amp; Wear TV</channel>
+    <channel update="i" site="zingzing.tv" site_id="1128" xmltv_id="BBC One Yorks &amp; Lincs">BBC One Yorks &amp; Lincs</channel>
+    <channel update="i" site="zingzing.tv" site_id="1169" xmltv_id="ITV Yorkshire South">ITV Yorkshire South</channel>
+    <channel update="i" site="zingzing.tv" site_id="54530" xmltv_id="ITV +1 Yorkshire">ITV +1 Yorkshire</channel>
+    <channel update="i" site="zingzing.tv" site_id="12563336" xmltv_id="That's TV">That's TV</channel>
+    <channel update="i" site="zingzing.tv" site_id="1124" xmltv_id="BBC One Yorkshire">BBC One Yorkshire</channel>
+    <channel update="i" site="zingzing.tv" site_id="17488511" xmltv_id="Sheffield Live">Sheffield Live</channel>
+    <channel update="i" site="zingzing.tv" site_id="1168" xmltv_id="ITV Yorkshire">ITV Yorkshire</channel>
+    <channel update="i" site="zingzing.tv" site_id="17224314" xmltv_id="Leeds TV">Leeds TV</channel>
+    <channel update="i" site="zingzing.tv" site_id="40766955" xmltv_id="That's TV">That's TV</channel>
+    <channel update="i" site="zingzing.tv" site_id="1122" xmltv_id="BBC One North West">BBC One North West</channel>
+    <channel update="i" site="zingzing.tv" site_id="8924" xmltv_id="ITV HD">ITV HD</channel>
+    <channel update="i" site="zingzing.tv" site_id="1158" xmltv_id="ITV North West">ITV North West</channel>
+    <channel update="i" site="zingzing.tv" site_id="52113" xmltv_id="ITV +1 Granada">ITV +1 Granada</channel>
+    <channel update="i" site="zingzing.tv" site_id="9767467" xmltv_id="True Crime">True Crime</channel>
+    <channel update="i" site="zingzing.tv" site_id="11690211" xmltv_id="TV Warehouse">TV Warehouse</channel>
+    <channel update="i" site="zingzing.tv" site_id="12988270" xmltv_id="Clubland TV">Clubland TV</channel>
+    <channel update="i" site="zingzing.tv" site_id="16548156" xmltv_id="POP+1">POP+1</channel>
+    <channel update="i" site="zingzing.tv" site_id="17224316" xmltv_id="Liverpool TV">Liverpool TV</channel>
+    <channel update="i" site="zingzing.tv" site_id="22574651" xmltv_id="That's TV">That's TV</channel>
+    <channel update="i" site="zingzing.tv" site_id="25045768" xmltv_id="That's TV">That's TV</channel>
+    <channel update="i" site="zingzing.tv" site_id="30703601" xmltv_id="True Movies +1">True Movies +1</channel>
+    <channel update="i" site="zingzing.tv" site_id="48049694" xmltv_id="True Crime +1">True Crime +1</channel>
+    <channel update="i" site="zingzing.tv" site_id="1120" xmltv_id="BBC One East Midlands">BBC One East Midlands</channel>
+    <channel update="i" site="zingzing.tv" site_id="1155" xmltv_id="ITV East Midlands">ITV East Midlands</channel>
+    <channel update="i" site="zingzing.tv" site_id="8620" xmltv_id="ITV HD">ITV HD</channel>
+    <channel update="i" site="zingzing.tv" site_id="51526" xmltv_id="ITV +1 Central">ITV +1 Central</channel>
+    <channel update="i" site="zingzing.tv" site_id="15623284" xmltv_id="Notts TV">Notts TV</channel>
+    <channel update="i" site="zingzing.tv" site_id="1119" xmltv_id="BBC One West Midlands">BBC One West Midlands</channel>
+    <channel update="i" site="zingzing.tv" site_id="1153" xmltv_id="ITV West Midlands">ITV West Midlands</channel>
+    <channel update="i" site="zingzing.tv" site_id="1159" xmltv_id="ITV West">ITV West</channel>
+    <channel update="i" site="zingzing.tv" site_id="20084982" xmltv_id="Birmingham TV">Birmingham TV</channel>
+    <channel update="i" site="zingzing.tv" site_id="1125" xmltv_id="BBC One Oxfordshire">BBC One Oxfordshire</channel>
+    <channel update="i" site="zingzing.tv" site_id="1162" xmltv_id="ITV Berks + North">ITV Berks + North</channel>
+    <channel update="i" site="zingzing.tv" site_id="8013" xmltv_id="ITV HD">ITV HD</channel>
+    <channel update="i" site="zingzing.tv" site_id="53025" xmltv_id="ITV +1 Meridian">ITV +1 Meridian</channel>
+    <channel update="i" site="zingzing.tv" site_id="19608077" xmltv_id="That's TV">That's TV</channel>
+    <channel update="i" site="zingzing.tv" site_id="1118" xmltv_id="BBC One South">BBC One South</channel>
+    <channel update="i" site="zingzing.tv" site_id="1163" xmltv_id="ITV Kent/East Sussex">ITV Kent/East Sussex</channel>
+    <channel update="i" site="zingzing.tv" site_id="1161" xmltv_id="ITV South">ITV South</channel>
+    <channel update="i" site="zingzing.tv" site_id="17224313" xmltv_id="That's TV">That's TV</channel>
+    <channel update="i" site="zingzing.tv" site_id="1121" xmltv_id="BBC One East">BBC One East</channel>
+    <channel update="i" site="zingzing.tv" site_id="1150" xmltv_id="ITV East Anglia">ITV East Anglia</channel>
+    <channel update="i" site="zingzing.tv" site_id="50615" xmltv_id="ITV +1 Anglia">ITV +1 Anglia</channel>
+    <channel update="i" site="zingzing.tv" site_id="14601470" xmltv_id="That's TV">That's TV</channel>
+    <channel update="i" site="zingzing.tv" site_id="1127" xmltv_id="BBC One Cambridgeshire">BBC One Cambridgeshire</channel>
+    <channel update="i" site="zingzing.tv" site_id="1151" xmltv_id="ITV Sandy Heath">ITV Sandy Heath</channel>
+    <channel update="i" site="zingzing.tv" site_id="1040" xmltv_id="BBC One London">BBC One London</channel>
+    <channel update="i" site="zingzing.tv" site_id="1042" xmltv_id="ITV London">ITV London</channel>
+    <channel update="i" site="zingzing.tv" site_id="1067" xmltv_id="ITV +1 London">ITV +1 London</channel>
+    <channel update="i" site="zingzing.tv" site_id="1183" xmltv_id="ITV HD">ITV HD</channel>
+    <channel update="i" site="zingzing.tv" site_id="14376311" xmltv_id="London Live">London Live</channel>
+    <channel update="i" site="zingzing.tv" site_id="1116" xmltv_id="BBC One West">BBC One West</channel>
+    <channel update="i" site="zingzing.tv" site_id="9228" xmltv_id="ITV HD">ITV HD</channel>
+    <channel update="i" site="zingzing.tv" site_id="52417" xmltv_id="ITV +1 West">ITV +1 West</channel>
+    <channel update="i" site="zingzing.tv" site_id="17224276" xmltv_id="Bristol TV">Bristol TV</channel>
+    <channel update="i" site="zingzing.tv" site_id="1117" xmltv_id="BBC One South West">BBC One South West</channel>
+    <channel update="i" site="zingzing.tv" site_id="49139" xmltv_id="ITV South West">ITV South West</channel>
+    <channel update="i" site="zingzing.tv" site_id="54226" xmltv_id="ITV +1 Wescountry">ITV +1 Wescountry</channel>
+    <channel update="i" site="zingzing.tv" site_id="1126" xmltv_id="BBC One South East">BBC One South East</channel>
+    <channel update="i" site="zingzing.tv" site_id="17141293" xmltv_id="Latest TV">Latest TV</channel>
+    <channel update="i" site="zingzing.tv" site_id="1129" xmltv_id="BBC One Scotland">BBC One Scotland</channel>
+    <channel update="i" site="zingzing.tv" site_id="7339" xmltv_id="BBC One Scotland HD">BBC One Scotland HD</channel>
+    <channel update="i" site="zingzing.tv" site_id="37397" xmltv_id="BBC ALBA">BBC ALBA</channel>
+    <channel update="i" site="zingzing.tv" site_id="53188431" xmltv_id="CBBC HD">CBBC HD</channel>
+    <channel update="i" site="zingzing.tv" site_id="53188433" xmltv_id="BBC Scotland HD">BBC Scotland HD</channel>
+    <channel update="i" site="zingzing.tv" site_id="53188527" xmltv_id="BBC Scotland">BBC Scotland</channel>
+    <channel update="i" site="zingzing.tv" site_id="12646593" xmltv_id="ITV Border Scotland">ITV Border Scotland</channel>
+    <channel update="i" site="zingzing.tv" site_id="1157" xmltv_id="STV">STV</channel>
+    <channel update="i" site="zingzing.tv" site_id="10441" xmltv_id="STV HD">STV HD</channel>
+    <channel update="i" site="zingzing.tv" site_id="51830" xmltv_id="STV+1">STV+1</channel>
+    <channel update="i" site="zingzing.tv" site_id="15741790" xmltv_id="That's Scotland">That's Scotland</channel>
+    <channel update="i" site="zingzing.tv" site_id="1164" xmltv_id="STV">STV</channel>
+    <channel update="i" site="zingzing.tv" site_id="53329" xmltv_id="STV+1">STV+1</channel>
+    <channel update="i" site="zingzing.tv" site_id="1131" xmltv_id="BBC One Wales">BBC One Wales</channel>
+    <channel update="i" site="zingzing.tv" site_id="1145" xmltv_id="BBC Two Wales">BBC Two Wales</channel>
+    <channel update="i" site="zingzing.tv" site_id="1160" xmltv_id="ITV Wales">ITV Wales</channel>
+    <channel update="i" site="zingzing.tv" site_id="1220" xmltv_id="E4">E4</channel>
+    <channel update="i" site="zingzing.tv" site_id="7676" xmltv_id="BBC One Wales HD">BBC One Wales HD</channel>
+    <channel update="i" site="zingzing.tv" site_id="52721" xmltv_id="ITV +1 Wales">ITV +1 Wales</channel>
+    <channel update="i" site="zingzing.tv" site_id="56251" xmltv_id="S4C">S4C</channel>
+    <channel update="i" site="zingzing.tv" site_id="17224317" xmltv_id="Cardiff TV">Cardiff TV</channel>
+    <channel update="i" site="zingzing.tv" site_id="25068427" xmltv_id="ITV Wales HD">ITV Wales HD</channel>
+    <channel update="i" site="zingzing.tv" site_id="33162864" xmltv_id="That's TV">That's TV</channel>
+    <channel update="i" site="zingzing.tv" site_id="38991210" xmltv_id="North Wales TV">North Wales TV</channel>
+    <channel update="i" site="zingzing.tv" site_id="51391656" xmltv_id="BBC Two Wales HD">BBC Two Wales HD</channel>
+    <channel update="i" site="zingzing.tv" site_id="1130" xmltv_id="BBC One Northern Ireland">BBC One Northern Ireland</channel>
+    <channel update="i" site="zingzing.tv" site_id="1144" xmltv_id="BBC Two Northern Ireland">BBC Two Northern Ireland</channel>
+    <channel update="i" site="zingzing.tv" site_id="1167" xmltv_id="UTV">UTV</channel>
+    <channel update="i" site="zingzing.tv" site_id="53916" xmltv_id="UTV +1">UTV +1</channel>
+    <channel update="i" site="zingzing.tv" site_id="6738476" xmltv_id="RTÉ One">RTÉ One</channel>
+    <channel update="i" site="zingzing.tv" site_id="6738477" xmltv_id="RTÉ Two">RTÉ Two</channel>
+    <channel update="i" site="zingzing.tv" site_id="6738747" xmltv_id="TG4">TG4</channel>
+    <channel update="i" site="zingzing.tv" site_id="7060373" xmltv_id="BBC One Northern Ireland HD">BBC One Northern Ireland HD</channel>
+    <channel update="i" site="zingzing.tv" site_id="7272537" xmltv_id="UTV HD">UTV HD</channel>
+    <channel update="i" site="zingzing.tv" site_id="51391657" xmltv_id="BBC Two Northern Ireland HD">BBC Two Northern Ireland HD</channel>
+    <channel update="i" site="zingzing.tv" site_id="17224275" xmltv_id="NVTV">NVTV</channel>
+    <channel update="i" site="zingzing.tv" site_id="1156" xmltv_id="ITV Channel Islands">ITV Channel Islands</channel>
+    <channel update="i" site="zingzing.tv" site_id="25494" xmltv_id="BBC One Channel Islands">BBC One Channel Islands</channel>
+    <channel update="i" site="zingzing.tv" site_id="44869870" xmltv_id="ITVBe">ITVBe</channel>
   </channels>
 </site>
