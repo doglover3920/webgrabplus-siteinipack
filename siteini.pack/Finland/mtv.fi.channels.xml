@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.4 -- Jan van Straaten" site="mtv.fi">
+  <channels>
+    <channel update="i" site="mtv.fi" site_id="261752" xmltv_id="MTV3">MTV3</channel>
+    <channel update="i" site="mtv.fi" site_id="261753" xmltv_id="Sub">Sub</channel>
+    <channel update="i" site="mtv.fi" site_id="261756" xmltv_id="Ava">Ava</channel>
+    <channel update="i" site="mtv.fi" site_id="159418" xmltv_id="C More Max">C More Max</channel>
+    <channel update="i" site="mtv.fi" site_id="159412" xmltv_id="C More Sport 1">C More Sport 1</channel>
+    <channel update="i" site="mtv.fi" site_id="159414" xmltv_id="C More Sport 2">C More Sport 2</channel>
+    <channel update="i" site="mtv.fi" site_id="720181" xmltv_id="C More First">C More First</channel>
+    <channel update="i" site="mtv.fi" site_id="720182" xmltv_id="C More Series">C More Series</channel>
+    <channel update="i" site="mtv.fi" site_id="720183" xmltv_id="C More Hits">C More Hits</channel>
+    <channel update="i" site="mtv.fi" site_id="720185" xmltv_id="C More Stars">C More Stars</channel>
+    <channel update="i" site="mtv.fi" site_id="712390" xmltv_id="C More Juniori">C More Juniori</channel>
+  </channels>
+</site>
