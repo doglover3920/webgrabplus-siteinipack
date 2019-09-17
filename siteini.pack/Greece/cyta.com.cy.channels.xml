@@ -1,97 +1,135 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V1.56.23.1 -- Jan van Straaten" site="cyta.com.cy">
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.4 -- Jan van Straaten" site="cyta.com.cy">
   <channels>
-    <channel update="i" site="cyta.com.cy" site_id="1" xmltv_id="Rik1">Rik1</channel>
-    <channel update="i" site="cyta.com.cy" site_id="2" xmltv_id="Rik2">Rik2</channel>
-    <channel update="i" site="cyta.com.cy" site_id="3" xmltv_id="Mega">Mega</channel>
-    <channel update="i" site="cyta.com.cy" site_id="4" xmltv_id="Ant1">Ant1</channel>
-    <channel update="i" site="cyta.com.cy" site_id="5" xmltv_id="Sigma">Sigma</channel>
-    <channel update="i" site="cyta.com.cy" site_id="6" xmltv_id="Cncp">Cncp</channel>
-    <channel update="i" site="cyta.com.cy" site_id="7" xmltv_id="Extra">Extra</channel>
-    <channel update="i" site="cyta.com.cy" site_id="8" xmltv_id="Capital Tv">Capital Tv</channel>
-    <channel update="i" site="cyta.com.cy" site_id="9" xmltv_id="Alfagr">Alfagr</channel>
-    <channel update="i" site="cyta.com.cy" site_id="10" xmltv_id="Ertw">Ertw</channel>
-    <channel update="i" site="cyta.com.cy" site_id="11" xmltv_id="Ve">Ve</channel>
-    <channel update="i" site="cyta.com.cy" site_id="12" xmltv_id="4e">4e</channel>
-    <channel update="i" site="cyta.com.cy" site_id="13" xmltv_id="Tvmall">Tvmall</channel>
-    <channel update="i" site="cyta.com.cy" site_id="14" xmltv_id="Tv5monde">Tv5monde</channel>
-    <channel update="i" site="cyta.com.cy" site_id="15" xmltv_id="Planeta">Planeta</channel>
-    <channel update="i" site="cyta.com.cy" site_id="16" xmltv_id="Dewe">Dewe</channel>
-    <channel update="i" site="cyta.com.cy" site_id="17" xmltv_id="Dewe">Dewe</channel>
-    <channel update="i" site="cyta.com.cy" site_id="18" xmltv_id="Babytv">Babytv</channel>
-    <channel update="i" site="cyta.com.cy" site_id="19" xmltv_id="Boomerang">Boomerang</channel>
-    <channel update="i" site="cyta.com.cy" site_id="20" xmltv_id="Cartoon Network">Cartoon Network</channel>
-    <channel update="i" site="cyta.com.cy" site_id="21" xmltv_id="Dsnch">Dsnch</channel>
-    <channel update="i" site="cyta.com.cy" site_id="22" xmltv_id="Dsnxd">Dsnxd</channel>
-    <channel update="i" site="cyta.com.cy" site_id="23" xmltv_id="Dsnjr">Dsnjr</channel>
-    <channel update="i" site="cyta.com.cy" site_id="24" xmltv_id="Nckd">Nckd</channel>
-    <channel update="i" site="cyta.com.cy" site_id="25" xmltv_id="Novacinema1">Novacinema1</channel>
-    <channel update="i" site="cyta.com.cy" site_id="26" xmltv_id="Novacinema2">Novacinema2</channel>
-    <channel update="i" site="cyta.com.cy" site_id="27" xmltv_id="Novacinema3">Novacinema3</channel>
-    <channel update="i" site="cyta.com.cy" site_id="28" xmltv_id="Novacinema4">Novacinema4</channel>
-    <channel update="i" site="cyta.com.cy" site_id="29" xmltv_id="Foxlf">Foxlf</channel>
-    <channel update="i" site="cyta.com.cy" site_id="30" xmltv_id="Fox">Fox</channel>
-    <channel update="i" site="cyta.com.cy" site_id="31" xmltv_id="Tcm">Tcm</channel>
-    <channel update="i" site="cyta.com.cy" site_id="32" xmltv_id="Grcine">Grcine</channel>
-    <channel update="i" site="cyta.com.cy" site_id="33" xmltv_id="Cnn V2">Cnn V2</channel>
-    <channel update="i" site="cyta.com.cy" site_id="34" xmltv_id="Bbc">Bbc</channel>
-    <channel update="i" site="cyta.com.cy" site_id="35" xmltv_id="Euronews">Euronews</channel>
-    <channel update="i" site="cyta.com.cy" site_id="36" xmltv_id="Skynews">Skynews</channel>
-    <channel update="i" site="cyta.com.cy" site_id="37" xmltv_id="Bloomberg">Bloomberg</channel>
-    <channel update="i" site="cyta.com.cy" site_id="38" xmltv_id="France24">France24</channel>
-    <channel update="i" site="cyta.com.cy" site_id="39" xmltv_id="Aljazeera">Aljazeera</channel>
-    <channel update="i" site="cyta.com.cy" site_id="40" xmltv_id="Vesti">Vesti</channel>
-    <channel update="i" site="cyta.com.cy" site_id="41" xmltv_id="Rt">Rt</channel>
-    <channel update="i" site="cyta.com.cy" site_id="42" xmltv_id="France24">France24</channel>
-    <channel update="i" site="cyta.com.cy" site_id="43" xmltv_id="Discovery">Discovery</channel>
-    <channel update="i" site="cyta.com.cy" site_id="44" xmltv_id="Discovery Science">Discovery Science</channel>
-    <channel update="i" site="cyta.com.cy" site_id="45" xmltv_id="Idisc">Idisc</channel>
-    <channel update="i" site="cyta.com.cy" site_id="46" xmltv_id="Anipl">Anipl</channel>
-    <channel update="i" site="cyta.com.cy" site_id="47" xmltv_id="Ng">Ng</channel>
-    <channel update="i" site="cyta.com.cy" site_id="48" xmltv_id="Natgeowild">Natgeowild</channel>
-    <channel update="i" site="cyta.com.cy" site_id="49" xmltv_id="Hstr">Hstr</channel>
-    <channel update="i" site="cyta.com.cy" site_id="50" xmltv_id="Travel">Travel</channel>
-    <channel update="i" site="cyta.com.cy" site_id="51" xmltv_id="Reality">Reality</channel>
-    <channel update="i" site="cyta.com.cy" site_id="52" xmltv_id="Tlc">Tlc</channel>
-    <channel update="i" site="cyta.com.cy" site_id="53" xmltv_id="Foodnet">Foodnet</channel>
-    <channel update="i" site="cyta.com.cy" site_id="54" xmltv_id="Wfsh">Wfsh</channel>
-    <channel update="i" site="cyta.com.cy" site_id="55" xmltv_id="Eentert">Eentert</channel>
-    <channel update="i" site="cyta.com.cy" site_id="56" xmltv_id="Vh1cl">Vh1cl</channel>
-    <channel update="i" site="cyta.com.cy" site_id="57" xmltv_id="Mvtv">Mvtv</channel>
-    <channel update="i" site="cyta.com.cy" site_id="58" xmltv_id="Madcy">Madcy</channel>
-    <channel update="i" site="cyta.com.cy" site_id="59" xmltv_id="Iconts">Iconts</channel>
-    <channel update="i" site="cyta.com.cy" site_id="60" xmltv_id="Ctvshd">Ctvshd</channel>
-    <channel update="i" site="cyta.com.cy" site_id="61" xmltv_id="Cytavisionsports1">Cytavisionsports1</channel>
-    <channel update="i" site="cyta.com.cy" site_id="62" xmltv_id="Cytavisionsports2">Cytavisionsports2</channel>
-    <channel update="i" site="cyta.com.cy" site_id="63" xmltv_id="Cytavisionsports3">Cytavisionsports3</channel>
-    <channel update="i" site="cyta.com.cy" site_id="64" xmltv_id="Cytavisionsports4">Cytavisionsports4</channel>
-    <channel update="i" site="cyta.com.cy" site_id="65" xmltv_id="Cytavisionsports5">Cytavisionsports5</channel>
-    <channel update="i" site="cyta.com.cy" site_id="66" xmltv_id="Novasports1">Novasports1</channel>
-    <channel update="i" site="cyta.com.cy" site_id="67" xmltv_id="Novasports2">Novasports2</channel>
-    <channel update="i" site="cyta.com.cy" site_id="68" xmltv_id="Novasports3">Novasports3</channel>
-    <channel update="i" site="cyta.com.cy" site_id="69" xmltv_id="Novasports4">Novasports4</channel>
-    <channel update="i" site="cyta.com.cy" site_id="70" xmltv_id="Novasports6">Novasports6</channel>
-    <channel update="i" site="cyta.com.cy" site_id="71" xmltv_id="Novasports7">Novasports7</channel>
-    <channel update="i" site="cyta.com.cy" site_id="72" xmltv_id="Cysports">Cysports</channel>
-    <channel update="i" site="cyta.com.cy" site_id="73" xmltv_id="Ese1.2015">Ese1.2015</channel>
-    <channel update="i" site="cyta.com.cy" site_id="74" xmltv_id="Ese2.2015">Ese2.2015</channel>
-    <channel update="i" site="cyta.com.cy" site_id="75" xmltv_id="Ltvsphd">Ltvsphd</channel>
-    <channel update="i" site="cyta.com.cy" site_id="76" xmltv_id="Ltvs1">Ltvs1</channel>
-    <channel update="i" site="cyta.com.cy" site_id="77" xmltv_id="Ltvs2">Ltvs2</channel>
-    <channel update="i" site="cyta.com.cy" site_id="78" xmltv_id="Alpha">Alpha</channel>
-    <channel update="i" site="cyta.com.cy" site_id="79" xmltv_id="Nbatv">Nbatv</channel>
-    <channel update="i" site="cyta.com.cy" site_id="80" xmltv_id="Foxsp">Foxsp</channel>
-    <channel update="i" site="cyta.com.cy" site_id="81" xmltv_id="Motovs">Motovs</channel>
-    <channel update="i" site="cyta.com.cy" site_id="82" xmltv_id="Chapec">Chapec</channel>
-    <channel update="i" site="cyta.com.cy" site_id="83" xmltv_id="Dischd">Dischd</channel>
-    <channel update="i" site="cyta.com.cy" site_id="84" xmltv_id="Ngwlhd">Ngwlhd</channel>
-    <channel update="i" site="cyta.com.cy" site_id="85" xmltv_id="Nghd">Nghd</channel>
-    <channel update="i" site="cyta.com.cy" site_id="86" xmltv_id="Animhd">Animhd</channel>
-    <channel update="i" site="cyta.com.cy" site_id="87" xmltv_id="Hstrhd">Hstrhd</channel>
-    <channel update="i" site="cyta.com.cy" site_id="88" xmltv_id="Rikhd">Rikhd</channel>
-    <channel update="i" site="cyta.com.cy" site_id="89" xmltv_id="Hstb">Hstb</channel>
-    <channel update="i" site="cyta.com.cy" site_id="90" xmltv_id="Drng">Drng</channel>
-    <channel update="i" site="cyta.com.cy" site_id="91" xmltv_id="Dorcel">Dorcel</channel>
-    <channel update="i" site="cyta.com.cy" site_id="92" xmltv_id="Hustlertv">Hustlertv</channel>
+    <channel update="i" site="cyta.com.cy" site_id="CyBC 1" xmltv_id="CyBC 1">CyBC 1</channel>
+    <channel update="i" site="cyta.com.cy" site_id="CyBC 2" xmltv_id="CyBC 2">CyBC 2</channel>
+    <channel update="i" site="cyta.com.cy" site_id="OMEGA" xmltv_id="OMEGA">OMEGA</channel>
+    <channel update="i" site="cyta.com.cy" site_id="ANT1" xmltv_id="ANT1">ANT1</channel>
+    <channel update="i" site="cyta.com.cy" site_id="Sigma TV" xmltv_id="Sigma TV">Sigma TV</channel>
+    <channel update="i" site="cyta.com.cy" site_id="ALPHA CYPRUS" xmltv_id="ALPHA CYPRUS">ALPHA CYPRUS</channel>
+    <channel update="i" site="cyta.com.cy" site_id="Plus TV" xmltv_id="Plus TV">Plus TV</channel>
+    <channel update="i" site="cyta.com.cy" site_id="Capital TV" xmltv_id="Capital TV">Capital TV</channel>
+    <channel update="i" site="cyta.com.cy" site_id="Extra" xmltv_id="Extra">Extra</channel>
+    <channel update="i" site="cyta.com.cy" site_id="ERT World" xmltv_id="ERT World">ERT World</channel>
+    <channel update="i" site="cyta.com.cy" site_id="Hellenic Parliament" xmltv_id="Hellenic Parliament">Hellenic Parliament</channel>
+    <channel update="i" site="cyta.com.cy" site_id="4E" xmltv_id="4E">4E</channel>
+    <channel update="i" site="cyta.com.cy" site_id="cbc TV MALL" xmltv_id="cbc TV MALL">cbc TV MALL</channel>
+    <channel update="i" site="cyta.com.cy" site_id="Action24" xmltv_id="Action24">Action24</channel>
+    <channel update="i" site="cyta.com.cy" site_id="TNT Cyprus" xmltv_id="TNT Cyprus">TNT Cyprus</channel>
+    <channel update="i" site="cyta.com.cy" site_id="Baby TV" xmltv_id="Baby TV">Baby TV</channel>
+    <channel update="i" site="cyta.com.cy" site_id="Boomerang" xmltv_id="Boomerang">Boomerang</channel>
+    <channel update="i" site="cyta.com.cy" site_id="Cartoon Network" xmltv_id="Cartoon Network">Cartoon Network</channel>
+    <channel update="i" site="cyta.com.cy" site_id="Disney Channel" xmltv_id="Disney Channel">Disney Channel</channel>
+    <channel update="i" site="cyta.com.cy" site_id="Disney XD" xmltv_id="Disney XD">Disney XD</channel>
+    <channel update="i" site="cyta.com.cy" site_id="Disney Junior" xmltv_id="Disney Junior">Disney Junior</channel>
+    <channel update="i" site="cyta.com.cy" site_id="Nickelodeon" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel update="i" site="cyta.com.cy" site_id="SmileTV" xmltv_id="SmileTV">SmileTV</channel>
+    <channel update="i" site="cyta.com.cy" site_id="Novacinema 1" xmltv_id="Novacinema 1">Novacinema 1</channel>
+    <channel update="i" site="cyta.com.cy" site_id="Novacinema 2" xmltv_id="Novacinema 2">Novacinema 2</channel>
+    <channel update="i" site="cyta.com.cy" site_id="Novacinema 3" xmltv_id="Novacinema 3">Novacinema 3</channel>
+    <channel update="i" site="cyta.com.cy" site_id="Novacinema 4" xmltv_id="Novacinema 4">Novacinema 4</channel>
+    <channel update="i" site="cyta.com.cy" site_id="Novalifε" xmltv_id="Novalifε">Novalifε</channel>
+    <channel update="i" site="cyta.com.cy" site_id="Foxlife" xmltv_id="Foxlife">Foxlife</channel>
+    <channel update="i" site="cyta.com.cy" site_id="FOX" xmltv_id="FOX">FOX</channel>
+    <channel update="i" site="cyta.com.cy" site_id="Village Cinema HD" xmltv_id="Village Cinema HD">Village Cinema HD</channel>
+    <channel update="i" site="cyta.com.cy" site_id="Movies Best HD" xmltv_id="Movies Best HD">Movies Best HD</channel>
+    <channel update="i" site="cyta.com.cy" site_id="TCM" xmltv_id="TCM">TCM</channel>
+    <channel update="i" site="cyta.com.cy" site_id="Greek Cinema" xmltv_id="Greek Cinema">Greek Cinema</channel>
+    <channel update="i" site="cyta.com.cy" site_id="Discovery channel" xmltv_id="Discovery channel">Discovery channel</channel>
+    <channel update="i" site="cyta.com.cy" site_id="Discovery Science" xmltv_id="Discovery Science">Discovery Science</channel>
+    <channel update="i" site="cyta.com.cy" site_id="Animal Planet" xmltv_id="Animal Planet">Animal Planet</channel>
+    <channel update="i" site="cyta.com.cy" site_id="National Geographic Channel" xmltv_id="National Geographic Channel">National Geographic Channel</channel>
+    <channel update="i" site="cyta.com.cy" site_id="Nat Geo Wild" xmltv_id="Nat Geo Wild">Nat Geo Wild</channel>
+    <channel update="i" site="cyta.com.cy" site_id="BBC Earth" xmltv_id="BBC Earth">BBC Earth</channel>
+    <channel update="i" site="cyta.com.cy" site_id="Cosmote History" xmltv_id="Cosmote History">Cosmote History</channel>
+    <channel update="i" site="cyta.com.cy" site_id="Viasat History" xmltv_id="Viasat History">Viasat History</channel>
+    <channel update="i" site="cyta.com.cy" site_id="History Channel" xmltv_id="History Channel">History Channel</channel>
+    <channel update="i" site="cyta.com.cy" site_id="Investigation Discovery" xmltv_id="Investigation Discovery">Investigation Discovery</channel>
+    <channel update="i" site="cyta.com.cy" site_id="CBS Reality" xmltv_id="CBS Reality">CBS Reality</channel>
+    <channel update="i" site="cyta.com.cy" site_id="TLC" xmltv_id="TLC">TLC</channel>
+    <channel update="i" site="cyta.com.cy" site_id="Travel Channel" xmltv_id="Travel Channel">Travel Channel</channel>
+    <channel update="i" site="cyta.com.cy" site_id="Food Network" xmltv_id="Food Network">Food Network</channel>
+    <channel update="i" site="cyta.com.cy" site_id="E! Entertainment" xmltv_id="E! Entertainment">E! Entertainment</channel>
+    <channel update="i" site="cyta.com.cy" site_id="Fashion TV" xmltv_id="Fashion TV">Fashion TV</channel>
+    <channel update="i" site="cyta.com.cy" site_id="Chasse et Peche" xmltv_id="Chasse et Peche">Chasse et Peche</channel>
+    <channel update="i" site="cyta.com.cy" site_id="VH1 Classic" xmltv_id="VH1 Classic">VH1 Classic</channel>
+    <channel update="i" site="cyta.com.cy" site_id="MTV HITS" xmltv_id="MTV HITS">MTV HITS</channel>
+    <channel update="i" site="cyta.com.cy" site_id="Mad" xmltv_id="Mad">Mad</channel>
+    <channel update="i" site="cyta.com.cy" site_id="MAD Hits" xmltv_id="MAD Hits">MAD Hits</channel>
+    <channel update="i" site="cyta.com.cy" site_id="MAD GreekZ" xmltv_id="MAD GreekZ">MAD GreekZ</channel>
+    <channel update="i" site="cyta.com.cy" site_id="Mezzo Live HD" xmltv_id="Mezzo Live HD">Mezzo Live HD</channel>
+    <channel update="i" site="cyta.com.cy" site_id="CNN" xmltv_id="CNN">CNN</channel>
+    <channel update="i" site="cyta.com.cy" site_id="BBC World" xmltv_id="BBC World">BBC World</channel>
+    <channel update="i" site="cyta.com.cy" site_id="Sky News" xmltv_id="Sky News">Sky News</channel>
+    <channel update="i" site="cyta.com.cy" site_id="EuroNews (Gr)" xmltv_id="EuroNews (Gr)">EuroNews (Gr)</channel>
+    <channel update="i" site="cyta.com.cy" site_id="EuroNews (En)" xmltv_id="EuroNews (En)">EuroNews (En)</channel>
+    <channel update="i" site="cyta.com.cy" site_id="Al Jazeera" xmltv_id="Al Jazeera">Al Jazeera</channel>
+    <channel update="i" site="cyta.com.cy" site_id="Bloomberg" xmltv_id="Bloomberg">Bloomberg</channel>
+    <channel update="i" site="cyta.com.cy" site_id="France24" xmltv_id="France24">France24</channel>
+    <channel update="i" site="cyta.com.cy" site_id="TV5 Monde" xmltv_id="TV5 Monde">TV5 Monde</channel>
+    <channel update="i" site="cyta.com.cy" site_id="Deutsce Welle" xmltv_id="Deutsce Welle">Deutsce Welle</channel>
+    <channel update="i" site="cyta.com.cy" site_id="Channel One Russia" xmltv_id="Channel One Russia">Channel One Russia</channel>
+    <channel update="i" site="cyta.com.cy" site_id="Россия 24" xmltv_id="Россия 24">Россия 24</channel>
+    <channel update="i" site="cyta.com.cy" site_id="RT" xmltv_id="RT">RT</channel>
+    <channel update="i" site="cyta.com.cy" site_id="RTR Planeta" xmltv_id="RTR Planeta">RTR Planeta</channel>
+    <channel update="i" site="cyta.com.cy" site_id="EuroNews (Ru)" xmltv_id="EuroNews (Ru)">EuroNews (Ru)</channel>
+    <channel update="i" site="cyta.com.cy" site_id="Cytavision Sports 1 HD" xmltv_id="Cytavision Sports 1 HD">Cytavision Sports 1 HD</channel>
+    <channel update="i" site="cyta.com.cy" site_id="Cytavision Sports 2 HD" xmltv_id="Cytavision Sports 2 HD">Cytavision Sports 2 HD</channel>
+    <channel update="i" site="cyta.com.cy" site_id="Cytavision Sports 3 HD" xmltv_id="Cytavision Sports 3 HD">Cytavision Sports 3 HD</channel>
+    <channel update="i" site="cyta.com.cy" site_id="Cytavision Sports 4 HD" xmltv_id="Cytavision Sports 4 HD">Cytavision Sports 4 HD</channel>
+    <channel update="i" site="cyta.com.cy" site_id="Cytavision Sports 5 HD" xmltv_id="Cytavision Sports 5 HD">Cytavision Sports 5 HD</channel>
+    <channel update="i" site="cyta.com.cy" site_id="Cytavision Sports 6 HD" xmltv_id="Cytavision Sports 6 HD">Cytavision Sports 6 HD</channel>
+    <channel update="i" site="cyta.com.cy" site_id="Novasports 1" xmltv_id="Novasports 1">Novasports 1</channel>
+    <channel update="i" site="cyta.com.cy" site_id="Novasports 2" xmltv_id="Novasports 2">Novasports 2</channel>
+    <channel update="i" site="cyta.com.cy" site_id="Novasports 3" xmltv_id="Novasports 3">Novasports 3</channel>
+    <channel update="i" site="cyta.com.cy" site_id="Novasports 4" xmltv_id="Novasports 4">Novasports 4</channel>
+    <channel update="i" site="cyta.com.cy" site_id="Novasports 5" xmltv_id="Novasports 5">Novasports 5</channel>
+    <channel update="i" site="cyta.com.cy" site_id="Eurosport 1" xmltv_id="Eurosport 1">Eurosport 1</channel>
+    <channel update="i" site="cyta.com.cy" site_id="Eurosport 2" xmltv_id="Eurosport 2">Eurosport 2</channel>
+    <channel update="i" site="cyta.com.cy" site_id="NBA TV" xmltv_id="NBA TV">NBA TV</channel>
+    <channel update="i" site="cyta.com.cy" site_id="Motorvision" xmltv_id="Motorvision">Motorvision</channel>
+    <channel update="i" site="cyta.com.cy" site_id="GINX Esports TV" xmltv_id="GINX Esports TV">GINX Esports TV</channel>
+    <channel update="i" site="cyta.com.cy" site_id="RIK HD" xmltv_id="RIK HD">RIK HD</channel>
+    <channel update="i" site="cyta.com.cy" site_id="Novacinema 1 HD" xmltv_id="Novacinema 1 HD">Novacinema 1 HD</channel>
+    <channel update="i" site="cyta.com.cy" site_id="Novacinema 2 HD" xmltv_id="Novacinema 2 HD">Novacinema 2 HD</channel>
+    <channel update="i" site="cyta.com.cy" site_id="Novacinema 3 HD" xmltv_id="Novacinema 3 HD">Novacinema 3 HD</channel>
+    <channel update="i" site="cyta.com.cy" site_id="Novacinema 4 HD" xmltv_id="Novacinema 4 HD">Novacinema 4 HD</channel>
+    <channel update="i" site="cyta.com.cy" site_id="Novalifε HD" xmltv_id="Novalifε HD">Novalifε HD</channel>
+    <channel update="i" site="cyta.com.cy" site_id="Foxlife HD" xmltv_id="Foxlife HD">Foxlife HD</channel>
+    <channel update="i" site="cyta.com.cy" site_id="FOX HD" xmltv_id="FOX HD">FOX HD</channel>
+    <channel update="i" site="cyta.com.cy" site_id="Village Cinema HD" xmltv_id="Village Cinema HD">Village Cinema HD</channel>
+    <channel update="i" site="cyta.com.cy" site_id="Movies Best HD" xmltv_id="Movies Best HD">Movies Best HD</channel>
+    <channel update="i" site="cyta.com.cy" site_id="TCM HD" xmltv_id="TCM HD">TCM HD</channel>
+    <channel update="i" site="cyta.com.cy" site_id="Discovery Showcase HD" xmltv_id="Discovery Showcase HD">Discovery Showcase HD</channel>
+    <channel update="i" site="cyta.com.cy" site_id="National Geographic HD" xmltv_id="National Geographic HD">National Geographic HD</channel>
+    <channel update="i" site="cyta.com.cy" site_id="National Geographic Wild HD" xmltv_id="National Geographic Wild HD">National Geographic Wild HD</channel>
+    <channel update="i" site="cyta.com.cy" site_id="BBC Earth HD" xmltv_id="BBC Earth HD">BBC Earth HD</channel>
+    <channel update="i" site="cyta.com.cy" site_id="Cosmote History HD" xmltv_id="Cosmote History HD">Cosmote History HD</channel>
+    <channel update="i" site="cyta.com.cy" site_id="History HD" xmltv_id="History HD">History HD</channel>
+    <channel update="i" site="cyta.com.cy" site_id="Travel Channel HD" xmltv_id="Travel Channel HD">Travel Channel HD</channel>
+    <channel update="i" site="cyta.com.cy" site_id="E! Entertainment HD" xmltv_id="E! Entertainment HD">E! Entertainment HD</channel>
+    <channel update="i" site="cyta.com.cy" site_id="Fashion TV UHD" xmltv_id="Fashion TV UHD">Fashion TV UHD</channel>
+    <channel update="i" site="cyta.com.cy" site_id="Mezzo Live HD" xmltv_id="Mezzo Live HD">Mezzo Live HD</channel>
+    <channel update="i" site="cyta.com.cy" site_id="CNN HD" xmltv_id="CNN HD">CNN HD</channel>
+    <channel update="i" site="cyta.com.cy" site_id="BBC World HD" xmltv_id="BBC World HD">BBC World HD</channel>
+    <channel update="i" site="cyta.com.cy" site_id="Cytavision Sports 1 HD" xmltv_id="Cytavision Sports 1 HD">Cytavision Sports 1 HD</channel>
+    <channel update="i" site="cyta.com.cy" site_id="Cytavision Sports 2 HD" xmltv_id="Cytavision Sports 2 HD">Cytavision Sports 2 HD</channel>
+    <channel update="i" site="cyta.com.cy" site_id="Cytavision Sports 3 HD" xmltv_id="Cytavision Sports 3 HD">Cytavision Sports 3 HD</channel>
+    <channel update="i" site="cyta.com.cy" site_id="Cytavision Sports 4 HD" xmltv_id="Cytavision Sports 4 HD">Cytavision Sports 4 HD</channel>
+    <channel update="i" site="cyta.com.cy" site_id="Cytavision Sports 5 HD" xmltv_id="Cytavision Sports 5 HD">Cytavision Sports 5 HD</channel>
+    <channel update="i" site="cyta.com.cy" site_id="Cytavision Sports 6 HD" xmltv_id="Cytavision Sports 6 HD">Cytavision Sports 6 HD</channel>
+    <channel update="i" site="cyta.com.cy" site_id="Novasports 1 HD" xmltv_id="Novasports 1 HD">Novasports 1 HD</channel>
+    <channel update="i" site="cyta.com.cy" site_id="Novasports 2 HD" xmltv_id="Novasports 2 HD">Novasports 2 HD</channel>
+    <channel update="i" site="cyta.com.cy" site_id="Novasports 3 HD" xmltv_id="Novasports 3 HD">Novasports 3 HD</channel>
+    <channel update="i" site="cyta.com.cy" site_id="Novasports 4 HD" xmltv_id="Novasports 4 HD">Novasports 4 HD</channel>
+    <channel update="i" site="cyta.com.cy" site_id="Novasports 5 HD" xmltv_id="Novasports 5 HD">Novasports 5 HD</channel>
+    <channel update="i" site="cyta.com.cy" site_id="Motorvision HD" xmltv_id="Motorvision HD">Motorvision HD</channel>
+    <channel update="i" site="cyta.com.cy" site_id="Eurosport 1 HD" xmltv_id="Eurosport 1 HD">Eurosport 1 HD</channel>
+    <channel update="i" site="cyta.com.cy" site_id="Eurosport 2 HD" xmltv_id="Eurosport 2 HD">Eurosport 2 HD</channel>
+    <channel update="i" site="cyta.com.cy" site_id="Adult Channel - Blue Hustler" xmltv_id="Adult Channel - Blue Hustler">Adult Channel - Blue Hustler</channel>
+    <channel update="i" site="cyta.com.cy" site_id="Adult Channel - Sirina TV" xmltv_id="Adult Channel - Sirina TV">Adult Channel - Sirina TV</channel>
+    <channel update="i" site="cyta.com.cy" site_id="Adult Channel - Hustler HD" xmltv_id="Adult Channel - Hustler HD">Adult Channel - Hustler HD</channel>
+    <channel update="i" site="cyta.com.cy" site_id="Adult Channel - Redlight TV" xmltv_id="Adult Channel - Redlight TV">Adult Channel - Redlight TV</channel>
+    <channel update="i" site="cyta.com.cy" site_id="Adult Channel - Private TV" xmltv_id="Adult Channel - Private TV">Adult Channel - Private TV</channel>
   </channels>
 </site>
