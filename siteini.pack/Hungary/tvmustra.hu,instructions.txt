@@ -1,4 +1,4 @@
-Th SiteIni requires the use of a PHP script.
+The SiteIni requires the use of a PHP script.
 (At least, I could not find a way to do it directly in WG++)
 
 You can use any webserver which is PHP and curl enabled.  You can run one yourself on your PC.
