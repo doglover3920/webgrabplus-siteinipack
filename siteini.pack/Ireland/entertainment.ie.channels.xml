@@ -1,73 +1,102 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus version 1.0.9 -- Jan van Straaten" site="entertainment.ie">
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.4 -- Jan van Straaten" site="entertainment.ie">
   <channels>
-    <channel update="i" site="entertainment.ie" site_id="81" xmltv_id="RTE One">RTE One</channel>
-    <channel update="i" site="entertainment.ie" site_id="82" xmltv_id="RTE Two">RTE Two</channel>
-    <channel update="i" site="entertainment.ie" site_id="84" xmltv_id="TV3">TV3</channel>
-    <channel update="i" site="entertainment.ie" site_id="83" xmltv_id="TG4">TG4</channel>
-    <channel update="i" site="entertainment.ie" site_id="1209" xmltv_id="3e">3e</channel>
-    <channel update="i" site="entertainment.ie" site_id="1" xmltv_id="BBC One">BBC One</channel>
-    <channel update="i" site="entertainment.ie" site_id="19" xmltv_id="BBC Two">BBC Two</channel>
-    <channel update="i" site="entertainment.ie" site_id="39" xmltv_id="UTV">UTV</channel>
-    <channel update="i" site="entertainment.ie" site_id="53" xmltv_id="Channel 4">Channel 4</channel>
-    <channel update="i" site="entertainment.ie" site_id="605" xmltv_id="E4">E4</channel>
-    <channel update="i" site="entertainment.ie" site_id="1167" xmltv_id="More4">More4</channel>
-    <channel update="i" site="entertainment.ie" site_id="222" xmltv_id="Sky1">Sky1</channel>
-    <channel update="i" site="entertainment.ie" site_id="919" xmltv_id="Sky2">Sky2</channel>
-    <channel update="i" site="entertainment.ie" site_id="1172" xmltv_id="Pick TV">Pick TV</channel>
-    <channel update="i" site="entertainment.ie" site_id="935" xmltv_id="BBC Three">BBC Three</channel>
-    <channel update="i" site="entertainment.ie" site_id="742" xmltv_id="BBC Four">BBC Four</channel>
-    <channel update="i" site="entertainment.ie" site_id="451" xmltv_id="ITV2">ITV2</channel>
-    <channel update="i" site="entertainment.ie" site_id="1065" xmltv_id="ITV3">ITV3</channel>
-    <channel update="i" site="entertainment.ie" site_id="1174" xmltv_id="ITV4">ITV4</channel>
-    <channel update="i" site="entertainment.ie" site_id="185" xmltv_id="Comedy Central">Comedy Central</channel>
-    <channel update="i" site="entertainment.ie" site_id="974" xmltv_id="Comedy Central Extra">Comedy Central Extra</channel>
-    <channel update="i" site="entertainment.ie" site_id="1628" xmltv_id="Sky Atlantic">Sky Atlantic</channel>
-    <channel update="i" site="entertainment.ie" site_id="934" xmltv_id="E! Entertainment">E! Entertainment</channel>
-    <channel update="i" site="entertainment.ie" site_id="122" xmltv_id="Sky Living">Sky Living</channel>
-    <channel update="i" site="entertainment.ie" site_id="984" xmltv_id="FX">FX</channel>
-    <channel update="i" site="entertainment.ie" site_id="134" xmltv_id="GOLD">GOLD</channel>
-    <channel update="i" site="entertainment.ie" site_id="74" xmltv_id="Dave">Dave</channel>
-    <channel update="i" site="entertainment.ie" site_id="54" xmltv_id="Channel 5">Channel 5</channel>
-    <channel update="i" site="entertainment.ie" site_id="1441" xmltv_id="Watch">Watch</channel>
-    <channel update="i" site="entertainment.ie" site_id="154" xmltv_id="Alibi">Alibi</channel>
-    <channel update="i" site="entertainment.ie" site_id="161" xmltv_id="Syfy">Syfy</channel>
-    <channel update="i" site="entertainment.ie" site_id="170" xmltv_id="Challenge TV">Challenge TV</channel>
-    <channel update="i" site="entertainment.ie" site_id="155" xmltv_id="Universal Channel">Universal Channel</channel>
-    <channel update="i" site="entertainment.ie" site_id="169" xmltv_id="Discovery Channel">Discovery Channel</channel>
-    <channel update="i" site="entertainment.ie" site_id="177" xmltv_id="National Geographic">National Geographic</channel>
-    <channel update="i" site="entertainment.ie" site_id="474" xmltv_id="Biography Channel">Biography Channel</channel>
-    <channel update="i" site="entertainment.ie" site_id="171" xmltv_id="History Channel">History Channel</channel>
-    <channel update="i" site="entertainment.ie" site_id="1320" xmltv_id="Sky Movies Premiere">Sky Movies Premiere</channel>
-    <channel update="i" site="entertainment.ie" site_id="1321" xmltv_id="Sky Movies Premiere +1">Sky Movies Premiere +1</channel>
-    <channel update="i" site="entertainment.ie" site_id="1322" xmltv_id="Sky Movies Comedy">Sky Movies Comedy</channel>
-    <channel update="i" site="entertainment.ie" site_id="1328" xmltv_id="Sky Movies Action &amp; Adventure/HD">Sky Movies Action &amp; Adventure/HD</channel>
-    <channel update="i" site="entertainment.ie" site_id="1323" xmltv_id="Sky Movies Family">Sky Movies Family</channel>
-    <channel update="i" site="entertainment.ie" site_id="1324" xmltv_id="Sky Movies Drama &amp; Romance/HD">Sky Movies Drama &amp; Romance/HD</channel>
-    <channel update="i" site="entertainment.ie" site_id="1329" xmltv_id="Sky Movies Sci-Fi/Horror">Sky Movies Sci-Fi/Horror</channel>
-    <channel update="i" site="entertainment.ie" site_id="1325" xmltv_id="Sky Movies Classics">Sky Movies Classics</channel>
-    <channel update="i" site="entertainment.ie" site_id="1326" xmltv_id="Sky Movies Modern Greats">Sky Movies Modern Greats</channel>
-    <channel update="i" site="entertainment.ie" site_id="1327" xmltv_id="Sky Movies Indie">Sky Movies Indie</channel>
-    <channel update="i" site="entertainment.ie" site_id="1318" xmltv_id="Sky Movies Showcase">Sky Movies Showcase</channel>
-    <channel update="i" site="entertainment.ie" site_id="1319" xmltv_id="Sky Movies Crime &amp; Thriller/HD">Sky Movies Crime &amp; Thriller/HD</channel>
-    <channel update="i" site="entertainment.ie" site_id="220" xmltv_id="FilmFour">FilmFour</channel>
-    <channel update="i" site="entertainment.ie" site_id="187" xmltv_id="Turner Classic Movies">Turner Classic Movies</channel>
-    <channel update="i" site="entertainment.ie" site_id="1513" xmltv_id="MGM">MGM</channel>
-    <channel update="i" site="entertainment.ie" site_id="188" xmltv_id="Nickelodeon">Nickelodeon</channel>
-    <channel update="i" site="entertainment.ie" site_id="733" xmltv_id="CBBC">CBBC</channel>
-    <channel update="i" site="entertainment.ie" site_id="102" xmltv_id="Cartoon Network">Cartoon Network</channel>
-    <channel update="i" site="entertainment.ie" site_id="215" xmltv_id="Boomerang">Boomerang</channel>
-    <channel update="i" site="entertainment.ie" site_id="64" xmltv_id="MTV">MTV</channel>
-    <channel update="i" site="entertainment.ie" site_id="120" xmltv_id="MTV Rocks">MTV Rocks</channel>
-    <channel update="i" site="entertainment.ie" site_id="150" xmltv_id="VH1">VH1</channel>
-    <channel update="i" site="entertainment.ie" site_id="431" xmltv_id="Sky Sports 1">Sky Sports 1</channel>
-    <channel update="i" site="entertainment.ie" site_id="433" xmltv_id="Sky Sports 2">Sky Sports 2</channel>
-    <channel update="i" site="entertainment.ie" site_id="435" xmltv_id="Sky Sports 3">Sky Sports 3</channel>
-    <channel update="i" site="entertainment.ie" site_id="437" xmltv_id="Sky Sports 4">Sky Sports 4</channel>
-    <channel update="i" site="entertainment.ie" site_id="1061" xmltv_id="Setanta Ireland">Setanta Ireland</channel>
-    <channel update="i" site="entertainment.ie" site_id="1375" xmltv_id="Setanta Sports 1">Setanta Sports 1</channel>
-    <channel update="i" site="entertainment.ie" site_id="275" xmltv_id="Eurosport">Eurosport</channel>
-    <channel update="i" site="entertainment.ie" site_id="1076" xmltv_id="Eurosport 2">Eurosport 2</channel>
-    <channel update="i" site="entertainment.ie" site_id="1492" xmltv_id="ESPN">ESPN</channel>
+    <channel update="i" site="entertainment.ie" site_id="RT\u00c9 One" xmltv_id="RTÉ One">RTÉ One</channel>
+    <channel update="i" site="entertainment.ie" site_id="RT\u00c92" xmltv_id="RTÉ2">RTÉ2</channel>
+    <channel update="i" site="entertainment.ie" site_id="Virgin Media One" xmltv_id="Virgin Media One">Virgin Media One</channel>
+    <channel update="i" site="entertainment.ie" site_id="TG4" xmltv_id="TG4">TG4</channel>
+    <channel update="i" site="entertainment.ie" site_id="Virgin Media Two" xmltv_id="Virgin Media Two">Virgin Media Two</channel>
+    <channel update="i" site="entertainment.ie" site_id="Sky One" xmltv_id="Sky One">Sky One</channel>
+    <channel update="i" site="entertainment.ie" site_id="Sky Witness" xmltv_id="Sky Witness">Sky Witness</channel>
+    <channel update="i" site="entertainment.ie" site_id="Sky Atlantic" xmltv_id="Sky Atlantic">Sky Atlantic</channel>
+    <channel update="i" site="entertainment.ie" site_id="W" xmltv_id="W">W</channel>
+    <channel update="i" site="entertainment.ie" site_id="GOLD" xmltv_id="GOLD">GOLD</channel>
+    <channel update="i" site="entertainment.ie" site_id="Dave" xmltv_id="Dave">Dave</channel>
+    <channel update="i" site="entertainment.ie" site_id="Comedy Central" xmltv_id="Comedy Central">Comedy Central</channel>
+    <channel update="i" site="entertainment.ie" site_id="Universal TV" xmltv_id="Universal TV">Universal TV</channel>
+    <channel update="i" site="entertainment.ie" site_id="Syfy" xmltv_id="Syfy">Syfy</channel>
+    <channel update="i" site="entertainment.ie" site_id="Virgin Media Three" xmltv_id="Virgin Media Three">Virgin Media Three</channel>
+    <channel update="i" site="entertainment.ie" site_id="Sky Sports Mix" xmltv_id="Sky Sports Mix">Sky Sports Mix</channel>
+    <channel update="i" site="entertainment.ie" site_id="Sky Arts" xmltv_id="Sky Arts">Sky Arts</channel>
+    <channel update="i" site="entertainment.ie" site_id="E! Entertainment" xmltv_id="E! Entertainment">E! Entertainment</channel>
+    <channel update="i" site="entertainment.ie" site_id="FOX" xmltv_id="FOX">FOX</channel>
+    <channel update="i" site="entertainment.ie" site_id="Comedy Central Extra" xmltv_id="Comedy Central Extra">Comedy Central Extra</channel>
+    <channel update="i" site="entertainment.ie" site_id="National Geographic" xmltv_id="National Geographic">National Geographic</channel>
+    <channel update="i" site="entertainment.ie" site_id="History" xmltv_id="History">History</channel>
+    <channel update="i" site="entertainment.ie" site_id="Alibi" xmltv_id="Alibi">Alibi</channel>
+    <channel update="i" site="entertainment.ie" site_id="Good Food" xmltv_id="Good Food">Good Food</channel>
+    <channel update="i" site="entertainment.ie" site_id="Channel 4" xmltv_id="Channel 4">Channel 4</channel>
+    <channel update="i" site="entertainment.ie" site_id="E4" xmltv_id="E4">E4</channel>
+    <channel update="i" site="entertainment.ie" site_id="More4" xmltv_id="More4">More4</channel>
+    <channel update="i" site="entertainment.ie" site_id="TLC" xmltv_id="TLC">TLC</channel>
+    <channel update="i" site="entertainment.ie" site_id="BBC One NI" xmltv_id="BBC One NI">BBC One NI</channel>
+    <channel update="i" site="entertainment.ie" site_id="BBC Two NI" xmltv_id="BBC Two NI">BBC Two NI</channel>
+    <channel update="i" site="entertainment.ie" site_id="Challenge" xmltv_id="Challenge">Challenge</channel>
+    <channel update="i" site="entertainment.ie" site_id="CBS Reality" xmltv_id="CBS Reality">CBS Reality</channel>
+    <channel update="i" site="entertainment.ie" site_id="CBS Drama" xmltv_id="CBS Drama">CBS Drama</channel>
+    <channel update="i" site="entertainment.ie" site_id="Sky Two" xmltv_id="Sky Two">Sky Two</channel>
+    <channel update="i" site="entertainment.ie" site_id="Pick" xmltv_id="Pick">Pick</channel>
+    <channel update="i" site="entertainment.ie" site_id="Investigation Discovery" xmltv_id="Investigation Discovery">Investigation Discovery</channel>
+    <channel update="i" site="entertainment.ie" site_id="Really" xmltv_id="Really">Really</channel>
+    <channel update="i" site="entertainment.ie" site_id="Drama" xmltv_id="Drama">Drama</channel>
+    <channel update="i" site="entertainment.ie" site_id="VH1" xmltv_id="VH1">VH1</channel>
+    <channel update="i" site="entertainment.ie" site_id="Yesterday" xmltv_id="Yesterday">Yesterday</channel>
+    <channel update="i" site="entertainment.ie" site_id="Home" xmltv_id="Home">Home</channel>
+    <channel update="i" site="entertainment.ie" site_id="National Geographic Wild" xmltv_id="National Geographic Wild">National Geographic Wild</channel>
+    <channel update="i" site="entertainment.ie" site_id="Eden" xmltv_id="Eden">Eden</channel>
+    <channel update="i" site="entertainment.ie" site_id="Discovery Science" xmltv_id="Discovery Science">Discovery Science</channel>
+    <channel update="i" site="entertainment.ie" site_id="Real Lives" xmltv_id="Real Lives">Real Lives</channel>
+    <channel update="i" site="entertainment.ie" site_id="Discovery History" xmltv_id="Discovery History">Discovery History</channel>
+    <channel update="i" site="entertainment.ie" site_id="Discovery Home &amp; Health" xmltv_id="Discovery Home &amp; Health">Discovery Home &amp; Health</channel>
+    <channel update="i" site="entertainment.ie" site_id="DMAX" xmltv_id="DMAX">DMAX</channel>
+    <channel update="i" site="entertainment.ie" site_id="Discovery Turbo" xmltv_id="Discovery Turbo">Discovery Turbo</channel>
+    <channel update="i" site="entertainment.ie" site_id="Animal Planet" xmltv_id="Animal Planet">Animal Planet</channel>
+    <channel update="i" site="entertainment.ie" site_id="Discovery Shed" xmltv_id="Discovery Shed">Discovery Shed</channel>
+    <channel update="i" site="entertainment.ie" site_id="Travel Channel" xmltv_id="Travel Channel">Travel Channel</channel>
+    <channel update="i" site="entertainment.ie" site_id="Sky Cinema Premiere" xmltv_id="Sky Cinema Premiere">Sky Cinema Premiere</channel>
+    <channel update="i" site="entertainment.ie" site_id="Sky Cinema Hits" xmltv_id="Sky Cinema Hits">Sky Cinema Hits</channel>
+    <channel update="i" site="entertainment.ie" site_id="Sky Cinema Disney" xmltv_id="Sky Cinema Disney">Sky Cinema Disney</channel>
+    <channel update="i" site="entertainment.ie" site_id="Sky Cinema Family" xmltv_id="Sky Cinema Family">Sky Cinema Family</channel>
+    <channel update="i" site="entertainment.ie" site_id="Sky Cinema Action" xmltv_id="Sky Cinema Action">Sky Cinema Action</channel>
+    <channel update="i" site="entertainment.ie" site_id="Sky Cinema Comedy" xmltv_id="Sky Cinema Comedy">Sky Cinema Comedy</channel>
+    <channel update="i" site="entertainment.ie" site_id="Sky Cinema Thriller" xmltv_id="Sky Cinema Thriller">Sky Cinema Thriller</channel>
+    <channel update="i" site="entertainment.ie" site_id="Sky Cinema True Stories" xmltv_id="Sky Cinema True Stories">Sky Cinema True Stories</channel>
+    <channel update="i" site="entertainment.ie" site_id="Sky Cinema Sci-Fi" xmltv_id="Sky Cinema Sci-Fi">Sky Cinema Sci-Fi</channel>
+    <channel update="i" site="entertainment.ie" site_id="Sky Cinema Select" xmltv_id="Sky Cinema Select">Sky Cinema Select</channel>
+    <channel update="i" site="entertainment.ie" site_id="FilmFour" xmltv_id="FilmFour">FilmFour</channel>
+    <channel update="i" site="entertainment.ie" site_id="Turner Classic Movies" xmltv_id="Turner Classic Movies">Turner Classic Movies</channel>
+    <channel update="i" site="entertainment.ie" site_id="Horror Channel" xmltv_id="Horror Channel">Horror Channel</channel>
+    <channel update="i" site="entertainment.ie" site_id="True Movies" xmltv_id="True Movies">True Movies</channel>
+    <channel update="i" site="entertainment.ie" site_id="Sony Movie Channel" xmltv_id="Sony Movie Channel">Sony Movie Channel</channel>
+    <channel update="i" site="entertainment.ie" site_id="MTV OMG" xmltv_id="MTV OMG">MTV OMG</channel>
+    <channel update="i" site="entertainment.ie" site_id="MTV Rocks" xmltv_id="MTV Rocks">MTV Rocks</channel>
+    <channel update="i" site="entertainment.ie" site_id="Sky Sports Main Event" xmltv_id="Sky Sports Main Event">Sky Sports Main Event</channel>
+    <channel update="i" site="entertainment.ie" site_id="Sky Sports Premier League ROI" xmltv_id="Sky Sports Premier League ROI">Sky Sports Premier League ROI</channel>
+    <channel update="i" site="entertainment.ie" site_id="Sky Sports Football" xmltv_id="Sky Sports Football">Sky Sports Football</channel>
+    <channel update="i" site="entertainment.ie" site_id="Sky Sports Cricket" xmltv_id="Sky Sports Cricket">Sky Sports Cricket</channel>
+    <channel update="i" site="entertainment.ie" site_id="Sky Sports Golf" xmltv_id="Sky Sports Golf">Sky Sports Golf</channel>
+    <channel update="i" site="entertainment.ie" site_id="Sky Sports Action" xmltv_id="Sky Sports Action">Sky Sports Action</channel>
+    <channel update="i" site="entertainment.ie" site_id="Eurosport 1" xmltv_id="Eurosport 1">Eurosport 1</channel>
+    <channel update="i" site="entertainment.ie" site_id="Eurosport 2" xmltv_id="Eurosport 2">Eurosport 2</channel>
+    <channel update="i" site="entertainment.ie" site_id="BT Sport 1" xmltv_id="BT Sport 1">BT Sport 1</channel>
+    <channel update="i" site="entertainment.ie" site_id="BT Sport 2" xmltv_id="BT Sport 2">BT Sport 2</channel>
+    <channel update="i" site="entertainment.ie" site_id="BT Sport 3" xmltv_id="BT Sport 3">BT Sport 3</channel>
+    <channel update="i" site="entertainment.ie" site_id="eir Sport 1" xmltv_id="eir Sport 1">eir Sport 1</channel>
+    <channel update="i" site="entertainment.ie" site_id="eir Sport 2" xmltv_id="eir Sport 2">eir Sport 2</channel>
+    <channel update="i" site="entertainment.ie" site_id="BT Sport\/ESPN" xmltv_id="BT Sport\/ESPN">BT Sport\/ESPN</channel>
+    <channel update="i" site="entertainment.ie" site_id="Cartoon Network" xmltv_id="Cartoon Network">Cartoon Network</channel>
+    <channel update="i" site="entertainment.ie" site_id="Nicktoons" xmltv_id="Nicktoons">Nicktoons</channel>
+    <channel update="i" site="entertainment.ie" site_id="Disney Channel" xmltv_id="Disney Channel">Disney Channel</channel>
+    <channel update="i" site="entertainment.ie" site_id="CBBC" xmltv_id="CBBC">CBBC</channel>
+    <channel update="i" site="entertainment.ie" site_id="CBeebies" xmltv_id="CBeebies">CBeebies</channel>
+    <channel update="i" site="entertainment.ie" site_id="RT\u00c9 Jr" xmltv_id="RTÉ Jr">RTÉ Jr</channel>
+    <channel update="i" site="entertainment.ie" site_id="Nickelodeon" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel update="i" site="entertainment.ie" site_id="BBC Four" xmltv_id="BBC Four">BBC Four</channel>
+    <channel update="i" site="entertainment.ie" site_id="Sky Sports Arena HD" xmltv_id="Sky Sports Arena HD">Sky Sports Arena HD</channel>
+    <channel update="i" site="entertainment.ie" site_id="UTV" xmltv_id="UTV">UTV</channel>
+    <channel update="i" site="entertainment.ie" site_id="ITV2" xmltv_id="ITV2">ITV2</channel>
+    <channel update="i" site="entertainment.ie" site_id="ITV3" xmltv_id="ITV3">ITV3</channel>
+    <channel update="i" site="entertainment.ie" site_id="ITV4" xmltv_id="ITV4">ITV4</channel>
+    <channel update="i" site="entertainment.ie" site_id="Channel 5" xmltv_id="Channel 5">Channel 5</channel>
   </channels>
 </site>
