@@ -97,7 +97,7 @@ The rex.config.xml file to use is:
   <filename>'source_file'_rex.xml</filename>
 
   <sub-title>{['category'] } {'title[lang="xx"]' }{'subtitle' }{('episode') }{('productiondate') }{'rating'}</sub-title>
-  <desc>{'description[cleanup, max_chars=60]'}{\n'director(, )'}{\n'actor(\n)'}{\n'presenter(, )'}</desc>
+  <desc>{'description[cleanup]'}{\n'director(, )'}{\n'actor(\n)'}{\n'presenter(, )'}</desc>
 
   <credits></credits>
   <episode-num></episode-num>
