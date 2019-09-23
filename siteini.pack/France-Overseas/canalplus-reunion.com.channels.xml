@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.4 -- Jan van Straaten" site="canalplus-reunion.com">
+  <channels>
+    <channel update="i" site="canalplus-reunion.com" site_id="60020" xmltv_id="CANAL+ HD">CANAL+ HD</channel>
+    <channel update="i" site="canalplus-reunion.com" site_id="60014" xmltv_id="CANAL+ CINEMA HD">CANAL+ CINEMA HD</channel>
+    <channel update="i" site="canalplus-reunion.com" site_id="60312" xmltv_id="CANAL+ SERIES HD">CANAL+ SERIES HD</channel>
+    <channel update="i" site="canalplus-reunion.com" site_id="60401" xmltv_id="CANAL+ FAMILY HD">CANAL+ FAMILY HD</channel>
+    <channel update="i" site="canalplus-reunion.com" site_id="60022" xmltv_id="CANAL+ SPORT HD">CANAL+ SPORT HD</channel>
+    <channel update="i" site="canalplus-reunion.com" site_id="60709" xmltv_id="CANAL+ SPORT WEEK-END">CANAL+ SPORT WEEK-END</channel>
+    <channel update="i" site="canalplus-reunion.com" site_id="60095" xmltv_id="TF1 HD">TF1 HD</channel>
+    <channel update="i" site="canalplus-reunion.com" site_id="60188" xmltv_id="FRANCE 2">FRANCE 2</channel>
+    <channel update="i" site="canalplus-reunion.com" site_id="60045" xmltv_id="FRANCE 3">FRANCE 3</channel>
+    <channel update="i" site="canalplus-reunion.com" site_id="60046" xmltv_id="FRANCE 5">FRANCE 5</channel>
+    <channel update="i" site="canalplus-reunion.com" site_id="60057" xmltv_id="M6 HD">M6 HD</channel>
+    <channel update="i" site="canalplus-reunion.com" site_id="60007" xmltv_id="ARTE">ARTE</channel>
+    <channel update="i" site="canalplus-reunion.com" site_id="60584" xmltv_id="CANAL OUTREMER HD">CANAL OUTREMER HD</channel>
+    <channel update="i" site="canalplus-reunion.com" site_id="60005" xmltv_id="ANTENNE REUNION">ANTENNE REUNION</channel>
+    <channel update="i" site="canalplus-reunion.com" site_id="60088" xmltv_id="REUNION 1ERE">REUNION 1ERE</channel>
+    <channel update="i" site="canalplus-reunion.com" site_id="60203" xmltv_id="TELE KREOL">TELE KREOL</channel>
+    <channel update="i" site="canalplus-reunion.com" site_id="60153" xmltv_id="KANALAUSTRAL.TV">KANALAUSTRAL.TV</channel>
+    <channel update="i" site="canalplus-reunion.com" site_id="60206" xmltv_id="MAYOTTE 1ERE">MAYOTTE 1ERE</channel>
+    <channel update="i" site="canalplus-reunion.com" site_id="60195" xmltv_id="ORTC">ORTC</channel>
+    <channel update="i" site="canalplus-reunion.com" site_id="60343" xmltv_id="MBC">MBC</channel>
+    <channel update="i" site="canalplus-reunion.com" site_id="60547" xmltv_id="NOVELAS TV">NOVELAS TV</channel>
+    <channel update="i" site="canalplus-reunion.com" site_id="60418" xmltv_id="NOLLYWOOD TV">NOLLYWOOD TV</channel>
+    <channel update="i" site="canalplus-reunion.com" site_id="60416" xmltv_id="A+">A+</channel>
+    <channel update="i" site="canalplus-reunion.com" site_id="60120" xmltv_id="C8">C8</channel>
+    <channel update="i" site="canalplus-reunion.com" site_id="60140" xmltv_id="W9">W9</channel>
+    <channel update="i" site="canalplus-reunion.com" site_id="60098" xmltv_id="TMC">TMC</channel>
+    <channel update="i" site="canalplus-reunion.com" site_id="60216" xmltv_id="NRJ12">NRJ12</channel>
+    <channel update="i" site="canalplus-reunion.com" site_id="60196" xmltv_id="FRANCE 4">FRANCE 4</channel>
+    <channel update="i" site="canalplus-reunion.com" site_id="60047" xmltv_id="FRANCE O">FRANCE O</channel>
+    <channel update="i" site="canalplus-reunion.com" site_id="60067" xmltv_id="TFX">TFX</channel>
+    <channel update="i" site="canalplus-reunion.com" site_id="60065" xmltv_id="MTV">MTV</channel>
+    <channel update="i" site="canalplus-reunion.com" site_id="60036" xmltv_id="E! ENTERTAINMENT">E! ENTERTAINMENT</channel>
+    <channel update="i" site="canalplus-reunion.com" site_id="60624" xmltv_id="6TER">6TER</channel>
+    <channel update="i" site="canalplus-reunion.com" site_id="60033" xmltv_id="COMEDIE+">COMEDIE+</channel>
+    <channel update="i" site="canalplus-reunion.com" site_id="60104" xmltv_id="TV BREIZH">TV BREIZH</channel>
+    <channel update="i" site="canalplus-reunion.com" site_id="60078" xmltv_id="SYFY">SYFY</channel>
+    <channel update="i" site="canalplus-reunion.com" site_id="60001" xmltv_id="13EME RUE">13EME RUE</channel>
+    <channel update="i" site="canalplus-reunion.com" site_id="60080" xmltv_id="SERIE CLUB">SERIE CLUB</channel>
+    <channel update="i" site="canalplus-reunion.com" site_id="60070" xmltv_id="PARIS PREMIERE">PARIS PREMIERE</channel>
+    <channel update="i" site="canalplus-reunion.com" site_id="60094" xmltv_id="TEVA">TEVA</channel>
+    <channel update="i" site="canalplus-reunion.com" site_id="60136" xmltv_id="GAME ONE">GAME ONE</channel>
+    <channel update="i" site="canalplus-reunion.com" site_id="60077" xmltv_id="RTL9">RTL9</channel>
+    <channel update="i" site="canalplus-reunion.com" site_id="60048" xmltv_id="CNEWS">CNEWS</channel>
+    <channel update="i" site="canalplus-reunion.com" site_id="60054" xmltv_id="LCI">LCI</channel>
+    <channel update="i" site="canalplus-reunion.com" site_id="60114" xmltv_id="FRANCE 24">FRANCE 24</channel>
+    <channel update="i" site="canalplus-reunion.com" site_id="60704" xmltv_id="FRANCEINFO:">FRANCEINFO:</channel>
+    <channel update="i" site="canalplus-reunion.com" site_id="60055" xmltv_id="LCP">LCP</channel>
+    <channel update="i" site="canalplus-reunion.com" site_id="60008" xmltv_id="BBC WORLD">BBC WORLD</channel>
+    <channel update="i" site="canalplus-reunion.com" site_id="60309" xmltv_id="CGTN-FRANCAIS">CGTN-FRANCAIS</channel>
+    <channel update="i" site="canalplus-reunion.com" site_id="60278" xmltv_id="KTO">KTO</channel>
+    <channel update="i" site="canalplus-reunion.com" site_id="60279" xmltv_id="IQRAA">IQRAA</channel>
+    <channel update="i" site="canalplus-reunion.com" site_id="60050" xmltv_id="INFOSPORT+">INFOSPORT+</channel>
+    <channel update="i" site="canalplus-reunion.com" site_id="60041" xmltv_id="EUROSPORT 1 HD">EUROSPORT 1 HD</channel>
+    <channel update="i" site="canalplus-reunion.com" site_id="60042" xmltv_id="EUROSPORT 2">EUROSPORT 2</channel>
+    <channel update="i" site="canalplus-reunion.com" site_id="60056" xmltv_id="L'EQUIPE">L'EQUIPE</channel>
+    <channel update="i" site="canalplus-reunion.com" site_id="60037" xmltv_id="EQUIDIA">EQUIDIA</channel>
+    <channel update="i" site="canalplus-reunion.com" site_id="60565" xmltv_id="AUTOMOTO">AUTOMOTO</channel>
+    <channel update="i" site="canalplus-reunion.com" site_id="60566" xmltv_id="TREK">TREK</channel>
+    <channel update="i" site="canalplus-reunion.com" site_id="60629" xmltv_id="RMC SPORT 1">RMC SPORT 1</channel>
+    <channel update="i" site="canalplus-reunion.com" site_id="60630" xmltv_id="RMC SPORT 2">RMC SPORT 2</channel>
+    <channel update="i" site="canalplus-reunion.com" site_id="60631" xmltv_id="RMC SPORT 3">RMC SPORT 3</channel>
+    <channel update="i" site="canalplus-reunion.com" site_id="60267" xmltv_id="RMC SPORT 4">RMC SPORT 4</channel>
+    <channel update="i" site="canalplus-reunion.com" site_id="60414" xmltv_id="GOLF+ HD">GOLF+ HD</channel>
+    <channel update="i" site="canalplus-reunion.com" site_id="60115" xmltv_id="BEIN SPORTS 1 HD">BEIN SPORTS 1 HD</channel>
+    <channel update="i" site="canalplus-reunion.com" site_id="60243" xmltv_id="BEIN SPORTS 2 HD">BEIN SPORTS 2 HD</channel>
+    <channel update="i" site="canalplus-reunion.com" site_id="60347" xmltv_id="BEIN SPORTS 3 HD">BEIN SPORTS 3 HD</channel>
+    <channel update="i" site="canalplus-reunion.com" site_id="60148" xmltv_id="TELETOON+">TELETOON+</channel>
+    <channel update="i" site="canalplus-reunion.com" site_id="60128" xmltv_id="PIWI+">PIWI+</channel>
+    <channel update="i" site="canalplus-reunion.com" site_id="60146" xmltv_id="GULLI">GULLI</channel>
+    <channel update="i" site="canalplus-reunion.com" site_id="60224" xmltv_id="NICKELODEON">NICKELODEON</channel>
+    <channel update="i" site="canalplus-reunion.com" site_id="60023" xmltv_id="CARTOON NETWORK">CARTOON NETWORK</channel>
+    <channel update="i" site="canalplus-reunion.com" site_id="60035" xmltv_id="DISNEY CHANNEL">DISNEY CHANNEL</channel>
+    <channel update="i" site="canalplus-reunion.com" site_id="60159" xmltv_id="DISNEY XD">DISNEY XD</channel>
+    <channel update="i" site="canalplus-reunion.com" site_id="60075" xmltv_id="DISNEY JUNIOR">DISNEY JUNIOR</channel>
+    <channel update="i" site="canalplus-reunion.com" site_id="60099" xmltv_id="DISNEY CINEMA HD">DISNEY CINEMA HD</channel>
+    <channel update="i" site="canalplus-reunion.com" site_id="60217" xmltv_id="CSTAR">CSTAR</channel>
+    <channel update="i" site="canalplus-reunion.com" site_id="60102" xmltv_id="TRACE URBAN">TRACE URBAN</channel>
+    <channel update="i" site="canalplus-reunion.com" site_id="60155" xmltv_id="TRACE TROPICAL">TRACE TROPICAL</channel>
+    <channel update="i" site="canalplus-reunion.com" site_id="60214" xmltv_id="TRACE AFRICA">TRACE AFRICA</channel>
+    <channel update="i" site="canalplus-reunion.com" site_id="60147" xmltv_id="MTV HITS">MTV HITS</channel>
+    <channel update="i" site="canalplus-reunion.com" site_id="60061" xmltv_id="RFM TV">RFM TV</channel>
+    <channel update="i" site="canalplus-reunion.com" site_id="60063" xmltv_id="MEZZO">MEZZO</channel>
+    <channel update="i" site="canalplus-reunion.com" site_id="60162" xmltv_id="CANAL EVENEMENT HD">CANAL EVENEMENT HD</channel>
+    <channel update="i" site="canalplus-reunion.com" site_id="60072" xmltv_id="PLANETE+">PLANETE+</channel>
+    <channel update="i" site="canalplus-reunion.com" site_id="60073" xmltv_id="PLANETE+ A&amp;E">PLANETE+ A&amp;E</channel>
+    <channel update="i" site="canalplus-reunion.com" site_id="60142" xmltv_id="PLANETE+ CI">PLANETE+ CI</channel>
+    <channel update="i" site="canalplus-reunion.com" site_id="60109" xmltv_id="VOYAGE">VOYAGE</channel>
+    <channel update="i" site="canalplus-reunion.com" site_id="60158" xmltv_id="HISTOIRE">HISTOIRE</channel>
+    <channel update="i" site="canalplus-reunion.com" site_id="60138" xmltv_id="USHUAIA TV HD">USHUAIA TV HD</channel>
+    <channel update="i" site="canalplus-reunion.com" site_id="60145" xmltv_id="NATIONAL GEOGRAPHIC HD">NATIONAL GEOGRAPHIC HD</channel>
+    <channel update="i" site="canalplus-reunion.com" site_id="60223" xmltv_id="NAT GEO WILD HD">NAT GEO WILD HD</channel>
+    <channel update="i" site="canalplus-reunion.com" site_id="60079" xmltv_id="SEASONS">SEASONS</channel>
+    <channel update="i" site="canalplus-reunion.com" site_id="60248" xmltv_id="DISCOVERY CHANNEL">DISCOVERY CHANNEL</channel>
+    <channel update="i" site="canalplus-reunion.com" site_id="60249" xmltv_id="DISCOVERY SCIENCE">DISCOVERY SCIENCE</channel>
+    <channel update="i" site="canalplus-reunion.com" site_id="60374" xmltv_id="ENGLISH CLUB TV">ENGLISH CLUB TV</channel>
+    <channel update="i" site="canalplus-reunion.com" site_id="60028" xmltv_id="CINE+ PREMIER HD">CINE+ PREMIER HD</channel>
+    <channel update="i" site="canalplus-reunion.com" site_id="60027" xmltv_id="CINE+ FRISSON">CINE+ FRISSON</channel>
+    <channel update="i" site="canalplus-reunion.com" site_id="60025" xmltv_id="CINE+ EMOTION">CINE+ EMOTION</channel>
+    <channel update="i" site="canalplus-reunion.com" site_id="60026" xmltv_id="CINE+ FAMIZ">CINE+ FAMIZ</channel>
+    <channel update="i" site="canalplus-reunion.com" site_id="60024" xmltv_id="CINE+ CLUB">CINE+ CLUB</channel>
+    <channel update="i" site="canalplus-reunion.com" site_id="60328" xmltv_id="CINE+ CLASSIC">CINE+ CLASSIC</channel>
+    <channel update="i" site="canalplus-reunion.com" site_id="60303" xmltv_id="PARAMOUNT">PARAMOUNT</channel>
+    <channel update="i" site="canalplus-reunion.com" site_id="60004" xmltv_id="ACTION">ACTION</channel>
+    <channel update="i" site="canalplus-reunion.com" site_id="60316" xmltv_id="OCS MAX HD">OCS MAX HD</channel>
+    <channel update="i" site="canalplus-reunion.com" site_id="60317" xmltv_id="OCS CITY">OCS CITY</channel>
+    <channel update="i" site="canalplus-reunion.com" site_id="60318" xmltv_id="OCS CHOC">OCS CHOC</channel>
+    <channel update="i" site="canalplus-reunion.com" site_id="60319" xmltv_id="OCS GEANTS">OCS GEANTS</channel>
+    <channel update="i" site="canalplus-reunion.com" site_id="60218" xmltv_id="COLORS">COLORS</channel>
+    <channel update="i" site="canalplus-reunion.com" site_id="60342" xmltv_id="MTV INDIA">MTV INDIA</channel>
+    <channel update="i" site="canalplus-reunion.com" site_id="60119" xmltv_id="ZEE TV">ZEE TV</channel>
+    <channel update="i" site="canalplus-reunion.com" site_id="60117" xmltv_id="ZEE CINEMA HD">ZEE CINEMA HD</channel>
+    <channel update="i" site="canalplus-reunion.com" site_id="60118" xmltv_id="ZING">ZING</channel>
+    <channel update="i" site="canalplus-reunion.com" site_id="60348" xmltv_id="ZEE TAMIL">ZEE TAMIL</channel>
+    <channel update="i" site="canalplus-reunion.com" site_id="60349" xmltv_id="LIVING FOODZ">LIVING FOODZ</channel>
+    <channel update="i" site="canalplus-reunion.com" site_id="60194" xmltv_id="TVM">TVM</channel>
+    <channel update="i" site="canalplus-reunion.com" site_id="60331" xmltv_id="KOLO TV">KOLO TV</channel>
+    <channel update="i" site="canalplus-reunion.com" site_id="60329" xmltv_id="MA TV">MA TV</channel>
+    <channel update="i" site="canalplus-reunion.com" site_id="60330" xmltv_id="TV PLUS">TV PLUS</channel>
+    <channel update="i" site="canalplus-reunion.com" site_id="60333" xmltv_id="VIVA">VIVA</channel>
+    <channel update="i" site="canalplus-reunion.com" site_id="60413" xmltv_id="RECORD">RECORD</channel>
+    <channel update="i" site="canalplus-reunion.com" site_id="60596" xmltv_id="SKYONE TV">SKYONE TV</channel>
+    <channel update="i" site="canalplus-reunion.com" site_id="60154" xmltv_id="DORCEL HD">DORCEL HD</channel>
+    <channel update="i" site="canalplus-reunion.com" site_id="60220" xmltv_id="LIBIDO TV">LIBIDO TV</channel>
+    <channel update="i" site="canalplus-reunion.com" site_id="60564" xmltv_id="COLMAX TV">COLMAX TV</channel>
+    <channel update="i" site="canalplus-reunion.com" site_id="60110" xmltv_id="XXL">XXL</channel>
+    <channel update="i" site="canalplus-reunion.com" site_id="60280" xmltv_id="PENTHOUSE BLACK">PENTHOUSE BLACK</channel>
+  </channels>
+</site>
