@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.4 -- Jan van Straaten" site="parabolemaurice.com">
+  <channels>
+    <channel update="i" site="parabolemaurice.com" site_id="160" xmltv_id="Antenne Réunion">Antenne Réunion</channel>
+    <channel update="i" site="parabolemaurice.com" site_id="23" xmltv_id="ARTE">ARTE</channel>
+    <channel update="i" site="parabolemaurice.com" site_id="326" xmltv_id="Bet TV">Bet TV</channel>
+    <channel update="i" site="parabolemaurice.com" site_id="15" xmltv_id="BFM TV">BFM TV</channel>
+    <channel update="i" site="parabolemaurice.com" site_id="2" xmltv_id="Ciné+Premier HD">Ciné+Premier HD</channel>
+    <channel update="i" site="parabolemaurice.com" site_id="334" xmltv_id="Ciné+Frisson">Ciné+Frisson</channel>
+    <channel update="i" site="parabolemaurice.com" site_id="108" xmltv_id="Ciné+Emotion">Ciné+Emotion</channel>
+    <channel update="i" site="parabolemaurice.com" site_id="98" xmltv_id="Ciné+Famiz">Ciné+Famiz</channel>
+    <channel update="i" site="parabolemaurice.com" site_id="27" xmltv_id="Ciné+Club">Ciné+Club</channel>
+    <channel update="i" site="parabolemaurice.com" site_id="190" xmltv_id="Ciné+Classic">Ciné+Classic</channel>
+    <channel update="i" site="parabolemaurice.com" site_id="149" xmltv_id="Dream in">Dream in</channel>
+    <channel update="i" site="parabolemaurice.com" site_id="63" xmltv_id="Disney Channel">Disney Channel</channel>
+    <channel update="i" site="parabolemaurice.com" site_id="100" xmltv_id="Discovery HD">Discovery HD</channel>
+    <channel update="i" site="parabolemaurice.com" site_id="84" xmltv_id="EXO TV">EXO TV</channel>
+    <channel update="i" site="parabolemaurice.com" site_id="54" xmltv_id="Eurosport 1 HD">Eurosport 1 HD</channel>
+    <channel update="i" site="parabolemaurice.com" site_id="60" xmltv_id="Eurosport 2">Eurosport 2</channel>
+    <channel update="i" site="parabolemaurice.com" site_id="11" xmltv_id="France24">France24</channel>
+    <channel update="i" site="parabolemaurice.com" site_id="125" xmltv_id="J-ONE">J-ONE</channel>
+    <channel update="i" site="parabolemaurice.com" site_id="138" xmltv_id="KTV">KTV</channel>
+    <channel update="i" site="parabolemaurice.com" site_id="223" xmltv_id="M6 Haute Définition">M6 Haute Définition</channel>
+    <channel update="i" site="parabolemaurice.com" site_id="70" xmltv_id="Mangas">Mangas</channel>
+    <channel update="i" site="parabolemaurice.com" site_id="118" xmltv_id="M6 Music">M6 Music</channel>
+    <channel update="i" site="parabolemaurice.com" site_id="31" xmltv_id="NRJ12">NRJ12</channel>
+    <channel update="i" site="parabolemaurice.com" site_id="187" xmltv_id="OCS Max HD">OCS Max HD</channel>
+    <channel update="i" site="parabolemaurice.com" site_id="104" xmltv_id="OCS Choc">OCS Choc</channel>
+    <channel update="i" site="parabolemaurice.com" site_id="62" xmltv_id="OCS Geants">OCS Geants</channel>
+    <channel update="i" site="parabolemaurice.com" site_id="133" xmltv_id="RTL9">RTL9</channel>
+    <channel update="i" site="parabolemaurice.com" site_id="109" xmltv_id="RTA">RTA</channel>
+    <channel update="i" site="parabolemaurice.com" site_id="192" xmltv_id="Série Club">Série Club</channel>
+    <channel update="i" site="parabolemaurice.com" site_id="193" xmltv_id="TF1 Haute Définition">TF1 Haute Définition</channel>
+    <channel update="i" site="parabolemaurice.com" site_id="91" xmltv_id="TELE KREOL">TELE KREOL</channel>
+    <channel update="i" site="parabolemaurice.com" site_id="73" xmltv_id="Téva">Téva</channel>
+    <channel update="i" site="parabolemaurice.com" site_id="10" xmltv_id="TV Breizh">TV Breizh</channel>
+    <channel update="i" site="parabolemaurice.com" site_id="30" xmltv_id="TVM">TVM</channel>
+    <channel update="i" site="parabolemaurice.com" site_id="72" xmltv_id="TRACE URBAN">TRACE URBAN</channel>
+    <channel update="i" site="parabolemaurice.com" site_id="25" xmltv_id="TELLYTRACK2 INT.">TELLYTRACK2 INT.</channel>
+    <channel update="i" site="parabolemaurice.com" site_id="22" xmltv_id="Ushuaïa TV">Ushuaïa TV</channel>
+    <channel update="i" site="parabolemaurice.com" site_id="9" xmltv_id="W9">W9</channel>
+  </channels>
+</site>
