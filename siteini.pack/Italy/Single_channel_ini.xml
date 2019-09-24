@@ -8,3 +8,4 @@
 <channel update="i" site="radiozeta.it" site_id="dummy" xmltv_id="radiozeta.it">radiozeta.tv</channel>
 <channel update="i" site="donnatv.com" site_id="dummy" xmltv_id="DonnaTV.it">Donna TV</channel>
 <channel update="i" site="italianfishingtv.it" site_id="dummy" xmltv_id="ItalianFishingTv.it">Italian Fishing TV</channel>
+<channel update="i" site="telecupole.com" site_id="dummy" xmltv_id="Telecupole.it">Telecupole</channel>
