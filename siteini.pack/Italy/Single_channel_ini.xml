@@ -10,3 +10,4 @@
 <channel update="i" site="italianfishingtv.it" site_id="dummy" xmltv_id="ItalianFishingTv.it">Italian Fishing TV</channel>
 <channel update="i" site="telecupole.com" site_id="dummy" xmltv_id="Telecupole.it">Telecupole</channel>
 <channel update="i" site="tvavicenza.it" site_id="dummy" xmltv_id="TVAVicenza.it">TVA Vicenza</channel>
+<channel update="i" site="rete7.cloud" site_id="dummy" xmltv_id="PeopleTVRete7.it">People TV-Rete7</channel>
