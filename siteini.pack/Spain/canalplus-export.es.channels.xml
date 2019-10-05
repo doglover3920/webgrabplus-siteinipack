@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.4 -- Jan van Straaten" site="movistarplus.es">
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.11.0 -- Jan van Straaten" site="Nomentero_EPG.es">
   <channels>
     <channel update="i" site="canalplus-export.es" site_id="13TV" xmltv_id="13 TV">13 TV</channel>
     <channel update="i" site="canalplus-export.es" site_id="24H" xmltv_id="24 Horas">24 Horas</channel>
@@ -33,7 +33,6 @@
     <channel update="i" site="canalplus-export.es" site_id="CANSUR" xmltv_id="Canal Sur">Canal Sur</channel>
     <channel update="i" site="canalplus-export.es" site_id="CASMAN" xmltv_id="Castilla la Mancha TV">Castilla la Mancha TV</channel>
     <channel update="i" site="canalplus-export.es" site_id="CAZPES" xmltv_id="Caza y Pesca">Caza y Pesca</channel>
-    <channel update="i" site="canalplus-export.es" site_id="CCLUB" xmltv_id="La tienda en casa">La tienda en casa</channel>
     <channel update="i" site="canalplus-export.es" site_id="CCTV-E" xmltv_id="CGTN Español">CGTN Español</channel>
     <channel update="i" site="canalplus-export.es" site_id="CDISHD" xmltv_id="Canal Distribuidores HD">Canal Distribuidores HD</channel>
     <channel update="i" site="canalplus-export.es" site_id="CDIST" xmltv_id="Canal Distribuidores">Canal Distribuidores</channel>
@@ -114,7 +113,6 @@
     <channel update="i" site="canalplus-export.es" site_id="LA2" xmltv_id="LA 2">LA 2</channel>
     <channel update="i" site="canalplus-export.es" site_id="LIBDIG" xmltv_id="Libertad Digital">Libertad Digital</channel>
     <channel update="i" site="canalplus-export.es" site_id="M1HDF1" xmltv_id="Multi F1 HD">Multi F1 HD</channel>
-    <channel update="i" site="canalplus-export.es" site_id="M2" xmltv_id="MTV ROCKS">MTV ROCKS</channel>
     <channel update="i" site="canalplus-export.es" site_id="M2HDF1" xmltv_id="Multi2 HD F1">Multi2 HD F1</channel>
     <channel update="i" site="canalplus-export.es" site_id="M5HDF1" xmltv_id="Multi5 HD F1">Multi5 HD F1</channel>
     <channel update="i" site="canalplus-export.es" site_id="MC1HDF" xmltv_id="Multicámara1 HD F1">Multicámara1 HD F1</channel>
@@ -201,7 +199,7 @@
     <channel update="i" site="canalplus-export.es" site_id="TEST" xmltv_id="TEST (canal pruebas)">TEST (canal pruebas)</channel>
     <channel update="i" site="canalplus-export.es" site_id="TEST16" xmltv_id="Test 16">Test 16</channel>
     <channel update="i" site="canalplus-export.es" site_id="TEST2P" xmltv_id="Test 2">Test 2</channel>
-    <channel update="i" site="canalplus-export.es" site_id="TEST3" xmltv_id="Test 3">Test 3</channel>
+    <channel update="i" site="canalplus-export.es" site_id="TEST3" xmltv_id="Prueba DTS">Prueba DTS</channel>
     <channel update="i" site="canalplus-export.es" site_id="TLESUR" xmltv_id="Telesur">Telesur</channel>
     <channel update="i" site="canalplus-export.es" site_id="TNT" xmltv_id="TNT">TNT</channel>
     <channel update="i" site="canalplus-export.es" site_id="TPA" xmltv_id="TPA">TPA</channel>
@@ -218,6 +216,7 @@
     <channel update="i" site="canalplus-export.es" site_id="TVG" xmltv_id="TV Galicia">TV Galicia</channel>
     <channel update="i" site="canalplus-export.es" site_id="TVGAL" xmltv_id="TVG - TV Galicia">TVG - TV Galicia</channel>
     <channel update="i" site="canalplus-export.es" site_id="TVREC" xmltv_id="TV RECORD">TV RECORD</channel>
+    <channel update="i" site="canalplus-export.es" site_id="UBEAT" xmltv_id="Ubeat">Ubeat</channel>
     <channel update="i" site="canalplus-export.es" site_id="USOP11" xmltv_id="M. Deportes 4">M. Deportes 4</channel>
     <channel update="i" site="canalplus-export.es" site_id="USOP2" xmltv_id="M. Deportes 2">M. Deportes 2</channel>
     <channel update="i" site="canalplus-export.es" site_id="USOP3" xmltv_id="M. Deportes 3">M. Deportes 3</channel>
