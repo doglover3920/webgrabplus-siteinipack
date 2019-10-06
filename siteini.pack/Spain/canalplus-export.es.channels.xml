@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.11.0 -- Jan van Straaten" site="Nomentero_EPG.es">
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.11.0 -- Jan van Straaten" site="movistarplus.es">
   <channels>
     <channel update="i" site="canalplus-export.es" site_id="13TV" xmltv_id="13 TV">13 TV</channel>
     <channel update="i" site="canalplus-export.es" site_id="24H" xmltv_id="24 Horas">24 Horas</channel>
