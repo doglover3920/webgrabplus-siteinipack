@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.4 -- Jan van Straaten" site="openwebif">
+  <channels>
+    <channel update="i" site="openwebif-org.v2" site_id="1:0:1:4291:2BC0:13E:820000:0:0:0:" xmltv_id="Zoom TV">Zoom TV</channel>
+  </channels>
+</site>
+
+<!--
+Place the above channel line in webgrab++.confif.xml, and activate the channels creation mode
+to obtain a channels list for your situation.
+-->
