@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.4 -- Jan van Straaten" site="pl.canalplus.com">
   <channels>
-    <channel update="i" site="pl.canalplus.com" site_id="0" xmltv_id="HGTV Home &amp; Garden">HGTV Home &amp; Garden</channel>
     <channel update="i" site="pl.canalplus.com" site_id="80" xmltv_id="TVN 7">TVN 7</channel>
     <channel update="i" site="pl.canalplus.com" site_id="84" xmltv_id="WP">WP</channel>
     <channel update="i" site="pl.canalplus.com" site_id="100" xmltv_id="Planete+ HD">Planete+ HD</channel>
@@ -228,5 +227,6 @@
     <channel update="i" site="pl.canalplus.com" site_id="1581" xmltv_id="CANAL+ SPORT 3 HD">CANAL+ SPORT 3 HD</channel>
     <channel update="i" site="pl.canalplus.com" site_id="1583" xmltv_id="CANAL+ SPORT 4 HD">CANAL+ SPORT 4 HD</channel>
     <channel update="i" site="pl.canalplus.com" site_id="1621" xmltv_id="StudioMed TV">StudioMed TV</channel>
+    <channel update="i" site="pl.canalplus.com" site_id="1641" xmltv_id="Playboy TV HD">Playboy TV HD</channel>
   </channels>
 </site>
