@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.4 -- Jan van Straaten" site="tvspored.delo.si">
+  <channels>
+    <channel update="i" site="tvspored.delo.si" site_id="slovenija1" xmltv_id="Slovenija 1">Slovenija 1</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="slovenija2" xmltv_id="Slovenija 2">Slovenija 2</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="poptv" xmltv_id="Pop TV">Pop TV</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="kanala" xmltv_id="Kanal A">Kanal A</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="planettv" xmltv_id="Planet TV">Planet TV</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="planettv2" xmltv_id="Planet TV 2">Planet TV 2</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="kino" xmltv_id="Kino">Kino</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="brio" xmltv_id="Brio">Brio</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="tv3medias" xmltv_id="TV3 medias">TV3 medias</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="oto" xmltv_id="Oto">Oto</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="hrt1" xmltv_id="Hrvatska radiotelevizija 1">Hrvatska radiotelevizija 1</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="hrt2" xmltv_id="Hrvatska radiotelevizija 2">Hrvatska radiotelevizija 2</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="hbo" xmltv_id="HBO">HBO</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="hbo2" xmltv_id="HBO 2">HBO 2</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="sk1" xmltv_id="SK 1">SK 1</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="sk2" xmltv_id="SK 2">SK 2</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="eurosport1" xmltv_id="Eurosport 1">Eurosport 1</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="eurosport2" xmltv_id="Eurosport 2">Eurosport 2</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="sporttv1" xmltv_id="Šport TV 1">Šport TV 1</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="sporttv2" xmltv_id="Šport TV 2">Šport TV 2</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="fox" xmltv_id="Fox">Fox</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="foxcrime" xmltv_id="Fox Crime">Fox Crime</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="foxlife" xmltv_id="Fox Life">Fox Life</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="foxmovies" xmltv_id="Fox Movies">Fox Movies</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="cinemax" xmltv_id="Cinemax">Cinemax</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="cinemax2" xmltv_id="Cinemax 2">Cinemax 2</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="discoverychannel" xmltv_id="Discovery Channel Europe">Discovery Channel Europe</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="nationalgeographic" xmltv_id="National Geographic">National Geographic</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="travelchannel" xmltv_id="Travel Channel">Travel Channel</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="24kitchen" xmltv_id="24Kitchen">24Kitchen</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="3sat" xmltv_id="3SAT">3SAT</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="aljazeerabalkans" xmltv_id="Al Jazeera Balkans">Al Jazeera Balkans</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="amc" xmltv_id="AMC">AMC</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="animalplanet" xmltv_id="Animal Planet">Animal Planet</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="anixe" xmltv_id="Anixe">Anixe</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="ard" xmltv_id="ARD">ARD</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="arenatv" xmltv_id="Arena TV">Arena TV</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="arte" xmltv_id="ARTE">ARTE</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="atmtvkranjskagora" xmltv_id="ATM TV Kranjska Gora">ATM TV Kranjska Gora</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="axnadria" xmltv_id="AXN Adria">AXN Adria</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="axnspin" xmltv_id="AXN Spin">AXN Spin</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="bbcearth" xmltv_id="BBC Earth">BBC Earth</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="bbcentertainment" xmltv_id="BBC Entertainment">BBC Entertainment</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="bbcfirst" xmltv_id="BBC First">BBC First</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="bbcworld" xmltv_id="BBC World">BBC World</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="bktv" xmltv_id="BK TV">BK TV</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="bloomberg" xmltv_id="Bloomberg">Bloomberg</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="boomerang" xmltv_id="Boomerang">Boomerang</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="canale5" xmltv_id="Canale 5">Canale 5</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="cartoonnetwork" xmltv_id="Cartoon Network">Cartoon Network</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="cbsreality" xmltv_id="CBS Reality">CBS Reality</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="channelonerussia" xmltv_id="Channel One Russia">Channel One Russia</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="cinestaractionandthriller" xmltv_id="CineStar Action and Thriller">CineStar Action and Thriller</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="cinestarfamily" xmltv_id="Cinestar Family">Cinestar Family</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="cinestarpremiere1" xmltv_id="CineStar Premiere 1">CineStar Premiere 1</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="cinestarpremiere2" xmltv_id="CineStar Premiere 2">CineStar Premiere 2</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="cinestartv" xmltv_id="CineStar TV">CineStar TV</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="cinestartvfantasy" xmltv_id="Cinestar TV Fantasy">Cinestar TV Fantasy</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="cnninternational" xmltv_id="CNN International">CNN International</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="comedycentral" xmltv_id="Comedy Central">Comedy Central</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="crimeandinvestigation" xmltv_id="Crime and Investigation Network">Crime and Investigation Network</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="davincilearning" xmltv_id="Da Vinci Learning">Da Vinci Learning</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="discoveryidxtra" xmltv_id="Discovery ID Xtra">Discovery ID Xtra</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="discoveryscience" xmltv_id="Discovery Science">Discovery Science</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="discoverytlc" xmltv_id="Discovery TLC">Discovery TLC</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="discoveryworld" xmltv_id="Discovery World">Discovery World</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="disneychannel" xmltv_id="Disney Channel">Disney Channel</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="disneyjunior" xmltv_id="Disney Junior">Disney Junior</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="disneyxd" xmltv_id="Disney XD">Disney XD</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="diva" xmltv_id="Diva">Diva</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="dtx" xmltv_id="DTX">DTX</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="dunaworld" xmltv_id="Duna World">Duna World</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="eeurope" xmltv_id="E! Europe">E! Europe</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="esportstvslovenia" xmltv_id="ESportsTV Slovenia">ESportsTV Slovenia</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="eurochannel" xmltv_id="Eurochannel">Eurochannel</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="ewtn" xmltv_id="EWTN">EWTN</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="exodus" xmltv_id="Exodus">Exodus</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="extremechannel" xmltv_id="Extreme Channel">Extreme Channel</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="finelivingnetwork" xmltv_id="Fight Channel">Fight Channel</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="france2" xmltv_id="Fine Living Network">Fine Living Network</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="france24" xmltv_id="France 2">France 2</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="geatv" xmltv_id="France 24">France 24</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="ginxesportstv" xmltv_id="Gea TV">Gea TV</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="gotv" xmltv_id="Ginx eSports TV">Ginx eSports TV</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="gtv" xmltv_id="GO TV">GO TV</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="h2" xmltv_id="GTV">GTV</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="hayatplus" xmltv_id="H2">H2</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="hbo3" xmltv_id="Hayat Plus">Hayat Plus</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="historychannel" xmltv_id="HBO 3">HBO 3</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="hrt3" xmltv_id="History Channel">History Channel</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="ideatvkanal10" xmltv_id="Hrvatska radiotelevizija 3">Hrvatska radiotelevizija 3</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="italia1" xmltv_id="Idea TV (Kanal 10)">Idea TV (Kanal 10)</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="jimjam" xmltv_id="Italia 1">Italia 1</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="kabel1" xmltv_id="JimJam">JimJam</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="klasiktv" xmltv_id="Kabel 1">Kabel 1</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="la7" xmltv_id="Klasik TV">Klasik TV</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="magyartelevizio2hd" xmltv_id="LA7">LA7</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="mediasetinternational" xmltv_id="Magyar Televízió 2 HD">Magyar Televízió 2 HD</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="mezzo" xmltv_id="Mediaset International">Mediaset International</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="mezzolivehd" xmltv_id="Mezzo">Mezzo</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="minimax" xmltv_id="Mezzo Live HD">Mezzo Live HD</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="motorvisiontv" xmltv_id="Minimax">Minimax</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="n24" xmltv_id="Motorvision TV">Motorvision TV</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="nationalgeographicwild" xmltv_id="N24">N24</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="nettv" xmltv_id="National Geographic Wild">National Geographic Wild</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="nickelodeon" xmltv_id="NET TV">NET TV</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="novatv" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="orf1" xmltv_id="Nova TV">Nova TV</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="orf2" xmltv_id="ORF 1">ORF 1</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="outdoorchannel" xmltv_id="ORF2">ORF2</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="pinkplussat" xmltv_id="Outdoor Channel">Outdoor Channel</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="planetplus" xmltv_id="Pink Plus SAT">Pink Plus SAT</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="pro7" xmltv_id="Planet PLUS">Planet PLUS</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="ptujskatv" xmltv_id="Pro 7">Pro 7</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="rai1" xmltv_id="Ptujska TV">Ptujska TV</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="rai2" xmltv_id="RAI 1">RAI 1</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="rai3" xmltv_id="RAI 2">RAI 2</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="rete4" xmltv_id="RAI 3">RAI 3</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="rtcrnagora" xmltv_id="Rete 4">Rete 4</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="rtl" xmltv_id="RT Crna Gora">RT Crna Gora</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="rtl2" xmltv_id="RTL">RTL</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="rtlhrvatska" xmltv_id="RTL 2">RTL 2</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="rtlhrvatska2" xmltv_id="RTL Hrvatska">RTL Hrvatska</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="rtvsrbijasat" xmltv_id="RTL Hrvatska 2">RTL Hrvatska 2</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="russiatoday" xmltv_id="RTV Srbija SAT">RTV Srbija SAT</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="sat1" xmltv_id="Russia Today">Russia Today</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="scifi" xmltv_id="SAT 1">SAT 1</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="sk3" xmltv_id="Sci-Fi">Sci-Fi</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="sk4" xmltv_id="SK 3">SK 3</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="sk5" xmltv_id="SK 4">SK 4</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="sk6" xmltv_id="SK 5">SK 5</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="slovenija3" xmltv_id="SK 6">SK 6</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="sporttv3" xmltv_id="Slovenija 3">Slovenija 3</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="sundancetv" xmltv_id="Šport TV 3">Šport TV 3</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="superrtl" xmltv_id="Sundance TV">Sundance TV</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="telem" xmltv_id="Super RTL">Super RTL</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="tvas" xmltv_id="Tele M">Tele M</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="tvcelje" xmltv_id="TV As">TV As</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="tvespana" xmltv_id="TV Celje">TV Celje</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="tvkopercapodistria" xmltv_id="TV Espana">TV Espana</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="tv1000" xmltv_id="TV Koper Capodistria">TV Koper Capodistria</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="vaskanal" xmltv_id="TV1000">TV1000</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="viasatepicdrama" xmltv_id="Vas Kanal">Vas Kanal</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="viasatexplore" xmltv_id="Viasat Epic Drama">Viasat Epic Drama</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="viasathistory" xmltv_id="Viasat Explore">Viasat Explore</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="viasatnature" xmltv_id="Viasat History">Viasat History</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="vox" xmltv_id="Viasat Nature">Viasat Nature</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="vtv" xmltv_id="Vox">Vox</channel>
+    <channel update="i" site="tvspored.delo.si" site_id="zdf" xmltv_id="VTV">VTV</channel>
+  </channels>
+</site>
