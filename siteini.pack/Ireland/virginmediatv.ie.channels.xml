@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.4 -- Jan van Straaten" site="virginmedia.com">
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.9 -- Jan van Straaten" site="virginmedia.ie">
   <channels>
     <channel update="i" site="virginmediatv.ie" site_id="753737255275" xmltv_id="RTE One HD">RTE One HD</channel>
     <channel update="i" site="virginmediatv.ie" site_id="753737255272" xmltv_id="RTE2 HD">RTE2 HD</channel>
@@ -129,6 +129,7 @@
     <channel update="i" site="virginmediatv.ie" site_id="800960039267" xmltv_id="Sky Sports Football">Sky Sports Football</channel>
     <channel update="i" site="virginmediatv.ie" site_id="753737255300" xmltv_id="Sky Sports News">Sky Sports News</channel>
     <channel update="i" site="virginmediatv.ie" site_id="753737255376" xmltv_id="Sky Sports Mix">Sky Sports Mix</channel>
+    <channel update="i" site="virginmediatv.ie" site_id="896724519143" xmltv_id="Eir Sports 1 HD">Eir Sports 1 HD</channel>
     <channel update="i" site="virginmediatv.ie" site_id="753737255260" xmltv_id="Racing UK">Racing UK</channel>
     <channel update="i" site="virginmediatv.ie" site_id="753737255317" xmltv_id="At the Races">At the Races</channel>
     <channel update="i" site="virginmediatv.ie" site_id="753737255211" xmltv_id="Eurosport HD">Eurosport HD</channel>
