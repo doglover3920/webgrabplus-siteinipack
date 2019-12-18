@@ -1,33 +1,213 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V1.56.25 -- Jan van Straaten" site="mojportal.si">
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.9 -- Jan van Straaten" site="mojportal.si">
   <channels>
-    <channel update="i" site="mojportal.si" site_id="19/tv-slovenija-1" xmltv_id="TV Slovenija 1">TV Slovenija 1</channel>
-    <channel update="i" site="mojportal.si" site_id="20/tv-slovenija-2" xmltv_id="TV Slovenija 2">TV Slovenija 2</channel>
-    <channel update="i" site="mojportal.si" site_id="221/tv-slovenija-3" xmltv_id="TV Slovenija 3">TV Slovenija 3</channel>
-    <channel update="i" site="mojportal.si" site_id="17/pop-tv" xmltv_id="Pop TV">Pop TV</channel>
-    <channel update="i" site="mojportal.si" site_id="18/kanal-a" xmltv_id="Kanal A">Kanal A</channel>
-    <channel update="i" site="mojportal.si" site_id="220/brio" xmltv_id="Brio">Brio</channel>
-    <channel update="i" site="mojportal.si" site_id="273/kino" xmltv_id="Kino">Kino</channel>
-    <channel update="i" site="mojportal.si" site_id="276/oto" xmltv_id="Oto">Oto</channel>
-    <channel update="i" site="mojportal.si" site_id="23/tv3-medias" xmltv_id="TV3 Medias">TV3 Medias</channel>
-    <channel update="i" site="mojportal.si" site_id="21/tv-koper" xmltv_id="TV Koper">TV Koper</channel>
-    <channel update="i" site="mojportal.si" site_id="22/tv-maribor" xmltv_id="TV Maribor">TV Maribor</channel>
-    <channel update="i" site="mojportal.si" site_id="325/planet-tv" xmltv_id="Planet TV">Planet TV</channel>
-    <channel update="i" site="mojportal.si" site_id="326/planet-tv-hd" xmltv_id="Planet TV HD">Planet TV HD</channel>
-    <channel update="i" site="mojportal.si" site_id="251/gtv" xmltv_id="GTV">GTV</channel>
-    <channel update="i" site="mojportal.si" site_id="235/sponka-tv" xmltv_id="Sponka TV">Sponka TV</channel>
-    <channel update="i" site="mojportal.si" site_id="236/sponka-arena" xmltv_id="Sponka Arena">Sponka Arena</channel>
-    <channel update="i" site="mojportal.si" site_id="231/rts" xmltv_id="RTS">RTS</channel>
-    <channel update="i" site="mojportal.si" site_id="230/net-tv" xmltv_id="Net TV">Net TV</channel>
-    <channel update="i" site="mojportal.si" site_id="232/vtv" xmltv_id="VTV">VTV</channel>
-    <channel update="i" site="mojportal.si" site_id="233/tv-celje" xmltv_id="TV Celje">TV Celje</channel>
-    <channel update="i" site="mojportal.si" site_id="234/vas-kanal" xmltv_id="Vaš Kanal">Vaš Kanal</channel>
-    <channel update="i" site="mojportal.si" site_id="237/tv-primorka" xmltv_id="TV Primorka">TV Primorka</channel>
-    <channel update="i" site="mojportal.si" site_id="238/tv-as" xmltv_id="TV AS">TV AS</channel>
-    <channel update="i" site="mojportal.si" site_id="239/veseljak-tv" xmltv_id="Veseljak TV">Veseljak TV</channel>
-    <channel update="i" site="mojportal.si" site_id="228/gea-tv" xmltv_id="GEA TV">GEA TV</channel>
-    <channel update="i" site="mojportal.si" site_id="229/info-tv" xmltv_id="Info TV">Info TV</channel>
-    <channel update="i" site="mojportal.si" site_id="332/tv-golica" xmltv_id="TV Golica">TV Golica</channel>
-    <channel update="i" site="mojportal.si" site_id="333/carli-tv" xmltv_id="Čarli TV">Čarli TV</channel>
+    <channel update="i" site="mojportal.si" site_id="247/24kitchen" xmltv_id="247/24kitchen">247/24kitchen</channel>
+    <channel update="i" site="mojportal.si" site_id="97/3sat" xmltv_id="97/3sat">97/3sat</channel>
+    <channel update="i" site="mojportal.si" site_id="131/adult-channel" xmltv_id="131/adult-channel">131/adult-channel</channel>
+    <channel update="i" site="mojportal.si" site_id="270/al-jazeera-balkans" xmltv_id="270/al-jazeera-balkans">270/al-jazeera-balkans</channel>
+    <channel update="i" site="mojportal.si" site_id="271/al-jazeera-int" xmltv_id="271/al-jazeera-int">271/al-jazeera-int</channel>
+    <channel update="i" site="mojportal.si" site_id="212/animal-planet" xmltv_id="212/animal-planet">212/animal-planet</channel>
+    <channel update="i" site="mojportal.si" site_id="346/animal-planet-hd" xmltv_id="346/animal-planet-hd">346/animal-planet-hd</channel>
+    <channel update="i" site="mojportal.si" site_id="126/arte" xmltv_id="126/arte">126/arte</channel>
+    <channel update="i" site="mojportal.si" site_id="157/arte-hd" xmltv_id="157/arte-hd">157/arte-hd</channel>
+    <channel update="i" site="mojportal.si" site_id="39/atv" xmltv_id="39/atv">39/atv</channel>
+    <channel update="i" site="mojportal.si" site_id="167/baby-tv" xmltv_id="167/baby-tv">167/baby-tv</channel>
+    <channel update="i" site="mojportal.si" site_id="44/bbc-entertainment" xmltv_id="44/bbc-entertainment">44/bbc-entertainment</channel>
+    <channel update="i" site="mojportal.si" site_id="678/bbc-first" xmltv_id="678/bbc-first">678/bbc-first</channel>
+    <channel update="i" site="mojportal.si" site_id="266/bbc-world" xmltv_id="266/bbc-world">266/bbc-world</channel>
+    <channel update="i" site="mojportal.si" site_id="24/bht1" xmltv_id="24/bht1">24/bht1</channel>
+    <channel update="i" site="mojportal.si" site_id="80/bloomberg" xmltv_id="80/bloomberg">80/bloomberg</channel>
+    <channel update="i" site="mojportal.si" site_id="129/blue-hustler" xmltv_id="129/blue-hustler">129/blue-hustler</channel>
+    <channel update="i" site="mojportal.si" site_id="283/bn-sat" xmltv_id="283/bn-sat">283/bn-sat</channel>
+    <channel update="i" site="mojportal.si" site_id="263/bn-televizija" xmltv_id="263/bn-televizija">263/bn-televizija</channel>
+    <channel update="i" site="mojportal.si" site_id="149/body-in-balance" xmltv_id="149/body-in-balance">149/body-in-balance</channel>
+    <channel update="i" site="mojportal.si" site_id="54/boomerang" xmltv_id="54/boomerang">54/boomerang</channel>
+    <channel update="i" site="mojportal.si" site_id="476/brava-hd" xmltv_id="476/brava-hd">476/brava-hd</channel>
+    <channel update="i" site="mojportal.si" site_id="130/brazzers-tv" xmltv_id="130/brazzers-tv">130/brazzers-tv</channel>
+    <channel update="i" site="mojportal.si" site_id="220/brio" xmltv_id="220/brio">220/brio</channel>
+    <channel update="i" site="mojportal.si" site_id="163/canale-5" xmltv_id="163/canale-5">163/canale-5</channel>
+    <channel update="i" site="mojportal.si" site_id="248/cartoon-network-rse" xmltv_id="248/cartoon-network-rse">248/cartoon-network-rse</channel>
+    <channel update="i" site="mojportal.si" site_id="268/cctv" xmltv_id="268/cctv">268/cctv</channel>
+    <channel update="i" site="mojportal.si" site_id="203/cinemax" xmltv_id="203/cinemax">203/cinemax</channel>
+    <channel update="i" site="mojportal.si" site_id="204/cinemax-2" xmltv_id="204/cinemax-2">204/cinemax-2</channel>
+    <channel update="i" site="mojportal.si" site_id="439/cinestar-action--thriller" xmltv_id="439/cinestar-action--thriller">439/cinestar-action--thriller</channel>
+    <channel update="i" site="mojportal.si" site_id="440/cinestar-premiere-1" xmltv_id="440/cinestar-premiere-1">440/cinestar-premiere-1</channel>
+    <channel update="i" site="mojportal.si" site_id="441/cinestar-premiere-2" xmltv_id="441/cinestar-premiere-2">441/cinestar-premiere-2</channel>
+    <channel update="i" site="mojportal.si" site_id="438/cinestar-tv" xmltv_id="438/cinestar-tv">438/cinestar-tv</channel>
+    <channel update="i" site="mojportal.si" site_id="474/classica-hd" xmltv_id="474/classica-hd">474/classica-hd</channel>
+    <channel update="i" site="mojportal.si" site_id="135/cmusic" xmltv_id="135/cmusic">135/cmusic</channel>
+    <channel update="i" site="mojportal.si" site_id="79/cnbc" xmltv_id="79/cnbc">79/cnbc</channel>
+    <channel update="i" site="mojportal.si" site_id="323/comedy-central-extra" xmltv_id="323/comedy-central-extra">323/comedy-central-extra</channel>
+    <channel update="i" site="mojportal.si" site_id="333/carli-tv" xmltv_id="333/carli-tv">333/carli-tv</channel>
+    <channel update="i" site="mojportal.si" site_id="269/da-vinci-learning" xmltv_id="269/da-vinci-learning">269/da-vinci-learning</channel>
+    <channel update="i" site="mojportal.si" site_id="305/dance-trippin" xmltv_id="305/dance-trippin">305/dance-trippin</channel>
+    <channel update="i" site="mojportal.si" site_id="226/daring-tv" xmltv_id="226/daring-tv">226/daring-tv</channel>
+    <channel update="i" site="mojportal.si" site_id="150/das-erste" xmltv_id="150/das-erste">150/das-erste</channel>
+    <channel update="i" site="mojportal.si" site_id="170/das-erste-hd" xmltv_id="170/das-erste-hd">170/das-erste-hd</channel>
+    <channel update="i" site="mojportal.si" site_id="288/deutsche-welle" xmltv_id="288/deutsche-welle">288/deutsche-welle</channel>
+    <channel update="i" site="mojportal.si" site_id="211/discovery-channel" xmltv_id="211/discovery-channel">211/discovery-channel</channel>
+    <channel update="i" site="mojportal.si" site_id="213/discovery-science" xmltv_id="213/discovery-science">213/discovery-science</channel>
+    <channel update="i" site="mojportal.si" site_id="345/discovery-showcase-hd" xmltv_id="345/discovery-showcase-hd">345/discovery-showcase-hd</channel>
+    <channel update="i" site="mojportal.si" site_id="215/discovery-travel" xmltv_id="215/discovery-travel">215/discovery-travel</channel>
+    <channel update="i" site="mojportal.si" site_id="214/discovery-world" xmltv_id="214/discovery-world">214/discovery-world</channel>
+    <channel update="i" site="mojportal.si" site_id="297/disney-channel" xmltv_id="297/disney-channel">297/disney-channel</channel>
+    <channel update="i" site="mojportal.si" site_id="298/disney-junior" xmltv_id="298/disney-junior">298/disney-junior</channel>
+    <channel update="i" site="mojportal.si" site_id="316/disney-xd" xmltv_id="316/disney-xd">316/disney-xd</channel>
+    <channel update="i" site="mojportal.si" site_id="225/diva" xmltv_id="225/diva">225/diva</channel>
+    <channel update="i" site="mojportal.si" site_id="475/djazztv" xmltv_id="475/djazztv">475/djazztv</channel>
+    <channel update="i" site="mojportal.si" site_id="185/doma-tv" xmltv_id="185/doma-tv">185/doma-tv</channel>
+    <channel update="i" site="mojportal.si" site_id="259/dorcel-tv" xmltv_id="259/dorcel-tv">259/dorcel-tv</channel>
+    <channel update="i" site="mojportal.si" site_id="347/dorcel-xxx" xmltv_id="347/dorcel-xxx">347/dorcel-xxx</channel>
+    <channel update="i" site="mojportal.si" site_id="144/duck-tv" xmltv_id="144/duck-tv">144/duck-tv</channel>
+    <channel update="i" site="mojportal.si" site_id="482/dusk" xmltv_id="482/dusk">482/dusk</channel>
+    <channel update="i" site="mojportal.si" site_id="82/e-entertainment" xmltv_id="82/e-entertainment">82/e-entertainment</channel>
+    <channel update="i" site="mojportal.si" site_id="78/euronews" xmltv_id="78/euronews">78/euronews</channel>
+    <channel update="i" site="mojportal.si" site_id="50/eurosport" xmltv_id="50/eurosport">50/eurosport</channel>
+    <channel update="i" site="mojportal.si" site_id="51/eurosport-2" xmltv_id="51/eurosport-2">51/eurosport-2</channel>
+    <channel update="i" site="mojportal.si" site_id="188/eurosport-hd" xmltv_id="188/eurosport-hd">188/eurosport-hd</channel>
+    <channel update="i" site="mojportal.si" site_id="169/eurosportnews" xmltv_id="169/eurosportnews">169/eurosportnews</channel>
+    <channel update="i" site="mojportal.si" site_id="66/extreme-sports" xmltv_id="66/extreme-sports">66/extreme-sports</channel>
+    <channel update="i" site="mojportal.si" site_id="679/fashion-one" xmltv_id="679/fashion-one">679/fashion-one</channel>
+    <channel update="i" site="mojportal.si" site_id="81/fashion-tv" xmltv_id="81/fashion-tv">81/fashion-tv</channel>
+    <channel update="i" site="mojportal.si" site_id="318/fine-living-network" xmltv_id="318/fine-living-network">318/fine-living-network</channel>
+    <channel update="i" site="mojportal.si" site_id="284/fishing-and-hunting" xmltv_id="284/fishing-and-hunting">284/fishing-and-hunting</channel>
+    <channel update="i" site="mojportal.si" site_id="265/food-network" xmltv_id="265/food-network">265/food-network</channel>
+    <channel update="i" site="mojportal.si" site_id="320/fox" xmltv_id="320/fox">320/fox</channel>
+    <channel update="i" site="mojportal.si" site_id="199/fox-crime" xmltv_id="199/fox-crime">199/fox-crime</channel>
+    <channel update="i" site="mojportal.si" site_id="198/fox-life" xmltv_id="198/fox-life">198/fox-life</channel>
+    <channel update="i" site="mojportal.si" site_id="290/fox-movies" xmltv_id="290/fox-movies">290/fox-movies</channel>
+    <channel update="i" site="mojportal.si" site_id="334/fox-news" xmltv_id="334/fox-news">334/fox-news</channel>
+    <channel update="i" site="mojportal.si" site_id="272/france-24" xmltv_id="272/france-24">272/france-24</channel>
+    <channel update="i" site="mojportal.si" site_id="25/ftv" xmltv_id="25/ftv">25/ftv</channel>
+    <channel update="i" site="mojportal.si" site_id="228/gea-tv" xmltv_id="228/gea-tv">228/gea-tv</channel>
+    <channel update="i" site="mojportal.si" site_id="311/ginx" xmltv_id="311/ginx">311/ginx</channel>
+    <channel update="i" site="mojportal.si" site_id="224/golf-klub" xmltv_id="224/golf-klub">224/golf-klub</channel>
+    <channel update="i" site="mojportal.si" site_id="251/gtv" xmltv_id="251/gtv">251/gtv</channel>
+    <channel update="i" site="mojportal.si" site_id="278/happy-tv" xmltv_id="278/happy-tv">278/happy-tv</channel>
+    <channel update="i" site="mojportal.si" site_id="35/hayat-tv" xmltv_id="35/hayat-tv">35/hayat-tv</channel>
+    <channel update="i" site="mojportal.si" site_id="201/hbo" xmltv_id="201/hbo">201/hbo</channel>
+    <channel update="i" site="mojportal.si" site_id="202/hbo2" xmltv_id="202/hbo2">202/hbo2</channel>
+    <channel update="i" site="mojportal.si" site_id="516/hbo3" xmltv_id="516/hbo3">516/hbo3</channel>
+    <channel update="i" site="mojportal.si" site_id="216/history-channel" xmltv_id="216/history-channel">216/history-channel</channel>
+    <channel update="i" site="mojportal.si" site_id="382/horror-channel" xmltv_id="382/horror-channel">382/horror-channel</channel>
+    <channel update="i" site="mojportal.si" site_id="1/htv1" xmltv_id="1/htv1">1/htv1</channel>
+    <channel update="i" site="mojportal.si" site_id="2/htv2" xmltv_id="2/htv2">2/htv2</channel>
+    <channel update="i" site="mojportal.si" site_id="310/htv3" xmltv_id="310/htv3">310/htv3</channel>
+    <channel update="i" site="mojportal.si" site_id="128/hustler" xmltv_id="128/hustler">128/hustler</channel>
+    <channel update="i" site="mojportal.si" site_id="348/hustler-hd" xmltv_id="348/hustler-hd">348/hustler-hd</channel>
+    <channel update="i" site="mojportal.si" site_id="229/info-tv" xmltv_id="229/info-tv">229/info-tv</channel>
+    <channel update="i" site="mojportal.si" site_id="256/investigation-discovery" xmltv_id="256/investigation-discovery">256/investigation-discovery</channel>
+    <channel update="i" site="mojportal.si" site_id="162/italia-1" xmltv_id="162/italia-1">162/italia-1</channel>
+    <channel update="i" site="mojportal.si" site_id="154/jimjam" xmltv_id="154/jimjam">154/jimjam</channel>
+    <channel update="i" site="mojportal.si" site_id="18/kanal-a" xmltv_id="18/kanal-a">18/kanal-a</channel>
+    <channel update="i" site="mojportal.si" site_id="478/kerrang" xmltv_id="478/kerrang">478/kerrang</channel>
+    <channel update="i" site="mojportal.si" site_id="99/kika" xmltv_id="99/kika">99/kika</channel>
+    <channel update="i" site="mojportal.si" site_id="273/kino" xmltv_id="273/kino">273/kino</channel>
+    <channel update="i" site="mojportal.si" site_id="479/kiss" xmltv_id="479/kiss">479/kiss</channel>
+    <channel update="i" site="mojportal.si" site_id="409/lov-i-ribolov" xmltv_id="409/lov-i-ribolov">409/lov-i-ribolov</channel>
+    <channel update="i" site="mojportal.si" site_id="480/magic" xmltv_id="480/magic">480/magic</channel>
+    <channel update="i" site="mojportal.si" site_id="330/mediaset-italia" xmltv_id="330/mediaset-italia">330/mediaset-italia</channel>
+    <channel update="i" site="mojportal.si" site_id="227/mezzo" xmltv_id="227/mezzo">227/mezzo</channel>
+    <channel update="i" site="mojportal.si" site_id="89/mini-tv" xmltv_id="89/mini-tv">89/mini-tv</channel>
+    <channel update="i" site="mojportal.si" site_id="45/mtv-base" xmltv_id="45/mtv-base">45/mtv-base</channel>
+    <channel update="i" site="mojportal.si" site_id="329/mtv-classic" xmltv_id="329/mtv-classic">329/mtv-classic</channel>
+    <channel update="i" site="mojportal.si" site_id="121/mtv-dance" xmltv_id="121/mtv-dance">121/mtv-dance</channel>
+    <channel update="i" site="mojportal.si" site_id="46/mtv-hits" xmltv_id="46/mtv-hits">46/mtv-hits</channel>
+    <channel update="i" site="mojportal.si" site_id="324/mtv-live-hd" xmltv_id="324/mtv-live-hd">324/mtv-live-hd</channel>
+    <channel update="i" site="mojportal.si" site_id="267/mtv-music" xmltv_id="267/mtv-music">267/mtv-music</channel>
+    <channel update="i" site="mojportal.si" site_id="127/mtv-rocks" xmltv_id="127/mtv-rocks">127/mtv-rocks</channel>
+    <channel update="i" site="mojportal.si" site_id="134/myzentv" xmltv_id="134/myzentv">134/myzentv</channel>
+    <channel update="i" site="mojportal.si" site_id="77/n1" xmltv_id="77/n1">77/n1</channel>
+    <channel update="i" site="mojportal.si" site_id="206/nat-geo-wild" xmltv_id="206/nat-geo-wild">206/nat-geo-wild</channel>
+    <channel update="i" site="mojportal.si" site_id="205/national-geographic" xmltv_id="205/national-geographic">205/national-geographic</channel>
+    <channel update="i" site="mojportal.si" site_id="230/net-tv" xmltv_id="230/net-tv">230/net-tv</channel>
+    <channel update="i" site="mojportal.si" site_id="315/nick-jr" xmltv_id="315/nick-jr">315/nick-jr</channel>
+    <channel update="i" site="mojportal.si" site_id="88/nickelodeon" xmltv_id="88/nickelodeon">88/nickelodeon</channel>
+    <channel update="i" site="mojportal.si" site_id="314/nickelodeon-hd" xmltv_id="314/nickelodeon-hd">314/nickelodeon-hd</channel>
+    <channel update="i" site="mojportal.si" site_id="28/nova-bh" xmltv_id="28/nova-bh">28/nova-bh</channel>
+    <channel update="i" site="mojportal.si" site_id="393/nova-m" xmltv_id="393/nova-m">393/nova-m</channel>
+    <channel update="i" site="mojportal.si" site_id="3/nova-tv" xmltv_id="3/nova-tv">3/nova-tv</channel>
+    <channel update="i" site="mojportal.si" site_id="31/o2-tv" xmltv_id="31/o2-tv">31/o2-tv</channel>
+    <channel update="i" site="mojportal.si" site_id="26/obn" xmltv_id="26/obn">26/obn</channel>
+    <channel update="i" site="mojportal.si" site_id="90/orf1" xmltv_id="90/orf1">90/orf1</channel>
+    <channel update="i" site="mojportal.si" site_id="91/orf2" xmltv_id="91/orf2">91/orf2</channel>
+    <channel update="i" site="mojportal.si" site_id="276/oto" xmltv_id="276/oto">276/oto</channel>
+    <channel update="i" site="mojportal.si" site_id="27/pink" xmltv_id="27/pink">27/pink</channel>
+    <channel update="i" site="mojportal.si" site_id="391/pink-2" xmltv_id="391/pink-2">391/pink-2</channel>
+    <channel update="i" site="mojportal.si" site_id="29/pink-plus" xmltv_id="29/pink-plus">29/pink-plus</channel>
+    <channel update="i" site="mojportal.si" site_id="325/planet-tv" xmltv_id="325/planet-tv">325/planet-tv</channel>
+    <channel update="i" site="mojportal.si" site_id="326/planet-tv-hd" xmltv_id="326/planet-tv-hd">326/planet-tv-hd</channel>
+    <channel update="i" site="mojportal.si" site_id="132/playboy-tv" xmltv_id="132/playboy-tv">132/playboy-tv</channel>
+    <channel update="i" site="mojportal.si" site_id="137/player-channel" xmltv_id="137/player-channel">137/player-channel</channel>
+    <channel update="i" site="mojportal.si" site_id="17/pop-tv" xmltv_id="17/pop-tv">17/pop-tv</channel>
+    <channel update="i" site="mojportal.si" site_id="95/pro7" xmltv_id="95/pro7">95/pro7</channel>
+    <channel update="i" site="mojportal.si" site_id="38/prva-srpska-televizija" xmltv_id="38/prva-srpska-televizija">38/prva-srpska-televizija</channel>
+    <channel update="i" site="mojportal.si" site_id="103/rai-due" xmltv_id="103/rai-due">103/rai-due</channel>
+    <channel update="i" site="mojportal.si" site_id="107/rai-sport" xmltv_id="107/rai-sport">107/rai-sport</channel>
+    <channel update="i" site="mojportal.si" site_id="104/rai-tre" xmltv_id="104/rai-tre">104/rai-tre</channel>
+    <channel update="i" site="mojportal.si" site_id="102/rai-uno" xmltv_id="102/rai-uno">102/rai-uno</channel>
+    <channel update="i" site="mojportal.si" site_id="164/rete-4" xmltv_id="164/rete-4">164/rete-4</channel>
+    <channel update="i" site="mojportal.si" site_id="172/rtcg-sat" xmltv_id="172/rtcg-sat">172/rtcg-sat</channel>
+    <channel update="i" site="mojportal.si" site_id="173/rtcg1" xmltv_id="173/rtcg1">173/rtcg1</channel>
+    <channel update="i" site="mojportal.si" site_id="174/rtcg2" xmltv_id="174/rtcg2">174/rtcg2</channel>
+    <channel update="i" site="mojportal.si" site_id="96/rtl" xmltv_id="96/rtl">96/rtl</channel>
+    <channel update="i" site="mojportal.si" site_id="4/rtl" xmltv_id="4/rtl">4/rtl</channel>
+    <channel update="i" site="mojportal.si" site_id="458/rtl-crime" xmltv_id="458/rtl-crime">458/rtl-crime</channel>
+    <channel update="i" site="mojportal.si" site_id="370/rtl-kockica" xmltv_id="370/rtl-kockica">370/rtl-kockica</channel>
+    <channel update="i" site="mojportal.si" site_id="459/rtl-living" xmltv_id="459/rtl-living">459/rtl-living</channel>
+    <channel update="i" site="mojportal.si" site_id="457/rtl-passion" xmltv_id="457/rtl-passion">457/rtl-passion</channel>
+    <channel update="i" site="mojportal.si" site_id="186/rtl2" xmltv_id="186/rtl2">186/rtl2</channel>
+    <channel update="i" site="mojportal.si" site_id="36/rtrs" xmltv_id="36/rtrs">36/rtrs</channel>
+    <channel update="i" site="mojportal.si" site_id="231/rts" xmltv_id="231/rts">231/rts</channel>
+    <channel update="i" site="mojportal.si" site_id="65/rts-sat" xmltv_id="65/rts-sat">65/rts-sat</channel>
+    <channel update="i" site="mojportal.si" site_id="33/rts1" xmltv_id="33/rts1">33/rts1</channel>
+    <channel update="i" site="mojportal.si" site_id="34/rts2" xmltv_id="34/rts2">34/rts2</channel>
+    <channel update="i" site="mojportal.si" site_id="182/rtv-1" xmltv_id="182/rtv-1">182/rtv-1</channel>
+    <channel update="i" site="mojportal.si" site_id="183/rtv-2" xmltv_id="183/rtv-2">183/rtv-2</channel>
+    <channel update="i" site="mojportal.si" site_id="279/russia-today" xmltv_id="279/russia-today">279/russia-today</channel>
+    <channel update="i" site="mojportal.si" site_id="94/sat1" xmltv_id="94/sat1">94/sat1</channel>
+    <channel update="i" site="mojportal.si" site_id="453/servus-tv" xmltv_id="453/servus-tv">453/servus-tv</channel>
+    <channel update="i" site="mojportal.si" site_id="261/sky-news" xmltv_id="261/sky-news">261/sky-news</channel>
+    <channel update="i" site="mojportal.si" site_id="481/smash-hits" xmltv_id="481/smash-hits">481/smash-hits</channel>
+    <channel update="i" site="mojportal.si" site_id="155/smile-of-a-child" xmltv_id="155/smile-of-a-child">155/smile-of-a-child</channel>
+    <channel update="i" site="mojportal.si" site_id="236/sponka-arena" xmltv_id="236/sponka-arena">236/sponka-arena</channel>
+    <channel update="i" site="mojportal.si" site_id="235/sponka-tv" xmltv_id="235/sponka-tv">235/sponka-tv</channel>
+    <channel update="i" site="mojportal.si" site_id="52/sport-1" xmltv_id="52/sport-1">52/sport-1</channel>
+    <channel update="i" site="mojportal.si" site_id="222/sport-klub" xmltv_id="222/sport-klub">222/sport-klub</channel>
+    <channel update="i" site="mojportal.si" site_id="223/sport-klub-plus" xmltv_id="223/sport-klub-plus">223/sport-klub-plus</channel>
+    <channel update="i" site="mojportal.si" site_id="281/style-network" xmltv_id="281/style-network">281/style-network</channel>
+    <channel update="i" site="mojportal.si" site_id="101/super-rtl" xmltv_id="101/super-rtl">101/super-rtl</channel>
+    <channel update="i" site="mojportal.si" site_id="196/sport-tv-1" xmltv_id="196/sport-tv-1">196/sport-tv-1</channel>
+    <channel update="i" site="mojportal.si" site_id="197/sport-tv-2" xmltv_id="197/sport-tv-2">197/sport-tv-2</channel>
+    <channel update="i" site="mojportal.si" site_id="125/tcmcartoon" xmltv_id="125/tcmcartoon">125/tcmcartoon</channel>
+    <channel update="i" site="mojportal.si" site_id="153/tiji" xmltv_id="153/tiji">153/tiji</channel>
+    <channel update="i" site="mojportal.si" site_id="260/tlc" xmltv_id="260/tlc">260/tlc</channel>
+    <channel update="i" site="mojportal.si" site_id="146/trace-urban" xmltv_id="146/trace-urban">146/trace-urban</channel>
+    <channel update="i" site="mojportal.si" site_id="365/travel-channel" xmltv_id="365/travel-channel">365/travel-channel</channel>
+    <channel update="i" site="mojportal.si" site_id="238/tv-as" xmltv_id="238/tv-as">238/tv-as</channel>
+    <channel update="i" site="mojportal.si" site_id="233/tv-celje" xmltv_id="233/tv-celje">233/tv-celje</channel>
+    <channel update="i" site="mojportal.si" site_id="332/tv-golica" xmltv_id="332/tv-golica">332/tv-golica</channel>
+    <channel update="i" site="mojportal.si" site_id="21/tv-koper" xmltv_id="21/tv-koper">21/tv-koper</channel>
+    <channel update="i" site="mojportal.si" site_id="22/tv-maribor" xmltv_id="22/tv-maribor">22/tv-maribor</channel>
+    <channel update="i" site="mojportal.si" site_id="237/tv-primorka" xmltv_id="237/tv-primorka">237/tv-primorka</channel>
+    <channel update="i" site="mojportal.si" site_id="19/tv-slovenija-1" xmltv_id="19/tv-slovenija-1">19/tv-slovenija-1</channel>
+    <channel update="i" site="mojportal.si" site_id="20/tv-slovenija-2" xmltv_id="20/tv-slovenija-2">20/tv-slovenija-2</channel>
+    <channel update="i" site="mojportal.si" site_id="221/tv-slovenija-3" xmltv_id="221/tv-slovenija-3">221/tv-slovenija-3</channel>
+    <channel update="i" site="mojportal.si" site_id="123/tv-tk-tuzla" xmltv_id="123/tv-tk-tuzla">123/tv-tk-tuzla</channel>
+    <channel update="i" site="mojportal.si" site_id="208/tv1000" xmltv_id="208/tv1000">208/tv1000</channel>
+    <channel update="i" site="mojportal.si" site_id="23/tv3-medias" xmltv_id="23/tv3-medias">23/tv3-medias</channel>
+    <channel update="i" site="mojportal.si" site_id="234/vas-kanal" xmltv_id="234/vas-kanal">234/vas-kanal</channel>
+    <channel update="i" site="mojportal.si" site_id="239/veseljak-tv" xmltv_id="239/veseljak-tv">239/veseljak-tv</channel>
+    <channel update="i" site="mojportal.si" site_id="87/vh1" xmltv_id="87/vh1">87/vh1</channel>
+    <channel update="i" site="mojportal.si" site_id="133/vh1-classic" xmltv_id="133/vh1-classic">133/vh1-classic</channel>
+    <channel update="i" site="mojportal.si" site_id="209/viasat-explorer" xmltv_id="209/viasat-explorer">209/viasat-explorer</channel>
+    <channel update="i" site="mojportal.si" site_id="210/viasat-history" xmltv_id="210/viasat-history">210/viasat-history</channel>
+    <channel update="i" site="mojportal.si" site_id="322/viasat-nature" xmltv_id="322/viasat-nature">322/viasat-nature</channel>
+    <channel update="i" site="mojportal.si" site_id="152/viva" xmltv_id="152/viva">152/viva</channel>
+    <channel update="i" site="mojportal.si" site_id="98/vox" xmltv_id="98/vox">98/vox</channel>
+    <channel update="i" site="mojportal.si" site_id="232/vtv" xmltv_id="232/vtv">232/vtv</channel>
+    <channel update="i" site="mojportal.si" site_id="258/welt" xmltv_id="258/welt">258/welt</channel>
+    <channel update="i" site="mojportal.si" site_id="93/zdf" xmltv_id="93/zdf">93/zdf</channel>
+    <channel update="i" site="mojportal.si" site_id="156/zdf-hd" xmltv_id="156/zdf-hd">156/zdf-hd</channel>
   </channels>
 </site>
