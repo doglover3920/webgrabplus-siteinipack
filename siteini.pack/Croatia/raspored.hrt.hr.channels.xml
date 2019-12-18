@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.4 -- Jan van Straaten" site="raspored.hrt.hr">
+  <channels>
+    <channel update="i" site="raspored.hrt.hr" site_id="2" xmltv_id="HTV1">HTV1</channel>
+    <channel update="i" site="raspored.hrt.hr" site_id="3" xmltv_id="HTV2">HTV2</channel>
+    <channel update="i" site="raspored.hrt.hr" site_id="4" xmltv_id="HTV3">HTV3</channel>
+    <channel update="i" site="raspored.hrt.hr" site_id="40" xmltv_id="HTV4">HTV4</channel>
+    <channel update="i" site="raspored.hrt.hr" site_id="58" xmltv_id="HTV International">HTV International</channel>
+  </channels>
+</site>
