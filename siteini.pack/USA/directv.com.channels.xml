@@ -1,0 +1,1367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.4 -- Jan van Straaten" site="directv.com">
+  <channels>
+    <channel update="i" site="directv.com" site_id="1#_#238" xmltv_id="Infomercial Channel (1)">Infomercial Channel (1)</channel>
+    <channel update="i" site="directv.com" site_id="2#_#8635" xmltv_id="A3 New York 02 WCBS CBS">A3 New York 02 WCBS CBS</channel>
+    <channel update="i" site="directv.com" site_id="2#_#903" xmltv_id="New York WCBS 2 CBS">New York WCBS 2 CBS</channel>
+    <channel update="i" site="directv.com" site_id="4#_#8636" xmltv_id="A3 New York 04 WNBC NBC">A3 New York 04 WNBC NBC</channel>
+    <channel update="i" site="directv.com" site_id="4#_#904" xmltv_id="New York WNBC 4 NBC">New York WNBC 4 NBC</channel>
+    <channel update="i" site="directv.com" site_id="5#_#8637" xmltv_id="A3 New York 05 WNYW Fox">A3 New York 05 WNYW Fox</channel>
+    <channel update="i" site="directv.com" site_id="5#_#905" xmltv_id="New York WNYW 5 Fox">New York WNYW 5 Fox</channel>
+    <channel update="i" site="directv.com" site_id="7#_#8638" xmltv_id="A3 New York 07 WABC ABC">A3 New York 07 WABC ABC</channel>
+    <channel update="i" site="directv.com" site_id="7#_#906" xmltv_id="New York WABC 7 ABC">New York WABC 7 ABC</channel>
+    <channel update="i" site="directv.com" site_id="9#_#3284" xmltv_id="New York, NY WWOR MNT 9 A3 HD">New York, NY WWOR MNT 9 A3 HD</channel>
+    <channel update="i" site="directv.com" site_id="9#_#907" xmltv_id="New York, NY WWOR MNT 9 SD">New York, NY WWOR MNT 9 SD</channel>
+    <channel update="i" site="directv.com" site_id="11#_#3285" xmltv_id="New York, NY WPIX CW 11 A3 HD">New York, NY WPIX CW 11 A3 HD</channel>
+    <channel update="i" site="directv.com" site_id="11#_#908" xmltv_id="New York, NY WPIX CW 11 SD">New York, NY WPIX CW 11 SD</channel>
+    <channel update="i" site="directv.com" site_id="13#_#3286" xmltv_id="New York, NY WNET PBS 13 A3 HD">New York, NY WNET PBS 13 A3 HD</channel>
+    <channel update="i" site="directv.com" site_id="13#_#1000" xmltv_id="New York, NY WNET PBS 13 SD">New York, NY WNET PBS 13 SD</channel>
+    <channel update="i" site="directv.com" site_id="21#_#5516" xmltv_id="New York, NY WLIW PBS 21 A3 HD">New York, NY WLIW PBS 21 A3 HD</channel>
+    <channel update="i" site="directv.com" site_id="21#_#1001" xmltv_id="New York, NY WLIW PBS 21 SD">New York, NY WLIW PBS 21 SD</channel>
+    <channel update="i" site="directv.com" site_id="25#_#3253" xmltv_id="New York, NY WNYE ETV 25 A3 HD">New York, NY WNYE ETV 25 A3 HD</channel>
+    <channel update="i" site="directv.com" site_id="25#_#1002" xmltv_id="New York, NY WNYE ETV 25 SD">New York, NY WNYE ETV 25 SD</channel>
+    <channel update="i" site="directv.com" site_id="31#_#1041" xmltv_id="New York, NY WPXN ION 31 A3 HD">New York, NY WPXN ION 31 A3 HD</channel>
+    <channel update="i" site="directv.com" site_id="31#_#1366" xmltv_id="New York, NY WPXN ION 31 SD">New York, NY WPXN ION 31 SD</channel>
+    <channel update="i" site="directv.com" site_id="33#_#5512" xmltv_id="New York, NY WJLP IND 33 A3 HD">New York, NY WJLP IND 33 A3 HD</channel>
+    <channel update="i" site="directv.com" site_id="33#_#5513" xmltv_id="New York, NY WJLP IND 33 SD">New York, NY WJLP IND 33 SD</channel>
+    <channel update="i" site="directv.com" site_id="41#_#3466" xmltv_id="New York, NY WXTV UNI 41 A3 HD">New York, NY WXTV UNI 41 A3 HD</channel>
+    <channel update="i" site="directv.com" site_id="41#_#1003" xmltv_id="New York, NY WXTV UNI 41 SD">New York, NY WXTV UNI 41 SD</channel>
+    <channel update="i" site="directv.com" site_id="42#_#116" xmltv_id="New York, NY WKOB AZA 42 SD">New York, NY WKOB AZA 42 SD</channel>
+    <channel update="i" site="directv.com" site_id="43#_#4241" xmltv_id="New York, NY WZME IND 43 A3 HD">New York, NY WZME IND 43 A3 HD</channel>
+    <channel update="i" site="directv.com" site_id="43#_#3087" xmltv_id="New York, NY WZME IND 43 SD">New York, NY WZME IND 43 SD</channel>
+    <channel update="i" site="directv.com" site_id="47#_#1947" xmltv_id="New York, NY WNJU TMO 47 A3 HD">New York, NY WNJU TMO 47 A3 HD</channel>
+    <channel update="i" site="directv.com" site_id="47#_#1004" xmltv_id="New York, NY WNJU TMO 47 SD">New York, NY WNJU TMO 47 SD</channel>
+    <channel update="i" site="directv.com" site_id="49#_#3443" xmltv_id="New York, NY WEDW PBS 49 A3 HD">New York, NY WEDW PBS 49 A3 HD</channel>
+    <channel update="i" site="directv.com" site_id="50#_#1039" xmltv_id="New York, NY WNJN PBS 50 A3 HD">New York, NY WNJN PBS 50 A3 HD</channel>
+    <channel update="i" site="directv.com" site_id="50#_#1483" xmltv_id="New York, NY WNJN PBS 50 SD">New York, NY WNJN PBS 50 SD</channel>
+    <channel update="i" site="directv.com" site_id="55#_#1594" xmltv_id="New York, NY WLNY IND 55 A3 HD">New York, NY WLNY IND 55 A3 HD</channel>
+    <channel update="i" site="directv.com" site_id="55#_#1007" xmltv_id="New York, NY WLNY IND 55 SD">New York, NY WLNY IND 55 SD</channel>
+    <channel update="i" site="directv.com" site_id="62#_#5514" xmltv_id="New York, NY WRNN IND 62 A3">New York, NY WRNN IND 62 A3</channel>
+    <channel update="i" site="directv.com" site_id="62#_#1008" xmltv_id="New York, NY WRNN IND 62 SD">New York, NY WRNN IND 62 SD</channel>
+    <channel update="i" site="directv.com" site_id="63#_#592" xmltv_id="New York, NY WMBC IND 63 A3 HD">New York, NY WMBC IND 63 A3 HD</channel>
+    <channel update="i" site="directv.com" site_id="63#_#613" xmltv_id="New York, NY WMBC IND 63 SD">New York, NY WMBC IND 63 SD</channel>
+    <channel update="i" site="directv.com" site_id="68#_#3571" xmltv_id="New York, NY WFUT UMas 68 A3 HD">New York, NY WFUT UMas 68 A3 HD</channel>
+    <channel update="i" site="directv.com" site_id="68#_#1010" xmltv_id="New York, NY WFUT UMas 68 SD">New York, NY WFUT UMas 68 SD</channel>
+    <channel update="i" site="directv.com" site_id="70#_#4063" xmltv_id="Home Shopping Network 70-1 (HD)">Home Shopping Network 70-1 (HD)</channel>
+    <channel update="i" site="directv.com" site_id="70#_#6111" xmltv_id="QVC HD (70)">QVC HD (70)</channel>
+    <channel update="i" site="directv.com" site_id="70#_#3849" xmltv_id="QVC (70)">QVC (70)</channel>
+    <channel update="i" site="directv.com" site_id="70#_#4062" xmltv_id="Home Shopping Network 70-1">Home Shopping Network 70-1</channel>
+    <channel update="i" site="directv.com" site_id="71#_#1016" xmltv_id="AUDIENCE (71) HD">AUDIENCE (71) HD</channel>
+    <channel update="i" site="directv.com" site_id="71#_#1904" xmltv_id="AUDIENCE (71)">AUDIENCE (71)</channel>
+    <channel update="i" site="directv.com" site_id="72#_#1977" xmltv_id="Jewelry Television (72)">Jewelry Television (72)</channel>
+    <channel update="i" site="directv.com" site_id="73#_#6209" xmltv_id="SHOP HQ (73)">SHOP HQ (73)</channel>
+    <channel update="i" site="directv.com" site_id="74#_#1978" xmltv_id="SALE Network.">SALE Network.</channel>
+    <channel update="i" site="directv.com" site_id="75#_#354" xmltv_id="Infomercial Channel (75)">Infomercial Channel (75)</channel>
+    <channel update="i" site="directv.com" site_id="76#_#4328" xmltv_id="QVC2 (76)">QVC2 (76)</channel>
+    <channel update="i" site="directv.com" site_id="77#_#553" xmltv_id="NEW TV (77)">NEW TV (77)</channel>
+    <channel update="i" site="directv.com" site_id="78#_#219" xmltv_id="LOOK Network 78">LOOK Network 78</channel>
+    <channel update="i" site="directv.com" site_id="79#_#5239" xmltv_id="QVC2 (79)">QVC2 (79)</channel>
+    <channel update="i" site="directv.com" site_id="80#_#348" xmltv_id="Get IT Infomercial 80">Get IT Infomercial 80</channel>
+    <channel update="i" site="directv.com" site_id="81#_#332" xmltv_id="RENEW TV 81">RENEW TV 81</channel>
+    <channel update="i" site="directv.com" site_id="82#_#1975" xmltv_id="HOME TV (82)">HOME TV (82)</channel>
+    <channel update="i" site="directv.com" site_id="83#_#358" xmltv_id="WOW TV 83">WOW TV 83</channel>
+    <channel update="i" site="directv.com" site_id="84#_#361" xmltv_id="IDEA Channel 84">IDEA Channel 84</channel>
+    <channel update="i" site="directv.com" site_id="85#_#1974" xmltv_id="Mercury Media Channel 85">Mercury Media Channel 85</channel>
+    <channel update="i" site="directv.com" site_id="86#_#6177" xmltv_id="VALU">VALU</channel>
+    <channel update="i" site="directv.com" site_id="87#_#315" xmltv_id="Infomercial Channel (87)">Infomercial Channel (87)</channel>
+    <channel update="i" site="directv.com" site_id="88#_#349" xmltv_id="BEST Channel 88">BEST Channel 88</channel>
+    <channel update="i" site="directv.com" site_id="89#_#390" xmltv_id="MALL TV Channel 89">MALL TV Channel 89</channel>
+    <channel update="i" site="directv.com" site_id="91#_#1311" xmltv_id="FRESH (91)">FRESH (91)</channel>
+    <channel update="i" site="directv.com" site_id="92#_#656" xmltv_id="CRAVE (92)">CRAVE (92)</channel>
+    <channel update="i" site="directv.com" site_id="95#_#1979" xmltv_id="Celebrity Shopping TV 95">Celebrity Shopping TV 95</channel>
+    <channel update="i" site="directv.com" site_id="97#_#496" xmltv_id="CASH HD 97">CASH HD 97</channel>
+    <channel update="i" site="directv.com" site_id="98#_#498" xmltv_id="Interactive Advertising Channel HD (98)">Interactive Advertising Channel HD (98)</channel>
+    <channel update="i" site="directv.com" site_id="99#_#8915" xmltv_id="XTRA (99)">XTRA (99)</channel>
+    <channel update="i" site="directv.com" site_id="100#_#113" xmltv_id="Seasonal Sport Offer Channel">Seasonal Sport Offer Channel</channel>
+    <channel update="i" site="directv.com" site_id="101#_#8213" xmltv_id="AUDIENCE HD">AUDIENCE HD</channel>
+    <channel update="i" site="directv.com" site_id="101#_#101" xmltv_id="AUDIENCE">AUDIENCE</channel>
+    <channel update="i" site="directv.com" site_id="104#_#6633" xmltv_id="DTV4K">DTV4K</channel>
+    <channel update="i" site="directv.com" site_id="105#_#6002" xmltv_id="LIVE4K 105">LIVE4K 105</channel>
+    <channel update="i" site="directv.com" site_id="106#_#510" xmltv_id="4K Live Events/Sports 106">4K Live Events/Sports 106</channel>
+    <channel update="i" site="directv.com" site_id="107#_#6634" xmltv_id="CINE4K 107">CINE4K 107</channel>
+    <channel update="i" site="directv.com" site_id="110#_#1581" xmltv_id="Holiday Countdown">Holiday Countdown</channel>
+    <channel update="i" site="directv.com" site_id="111#_#111" xmltv_id="Interactive Advertising Channel HD 111">Interactive Advertising Channel HD 111</channel>
+    <channel update="i" site="directv.com" site_id="113#_#106" xmltv_id="Seasonal Sports Offer Channel">Seasonal Sports Offer Channel</channel>
+    <channel update="i" site="directv.com" site_id="115#_#108" xmltv_id="Sports Authorization Channel 115">Sports Authorization Channel 115</channel>
+    <channel update="i" site="directv.com" site_id="119#_#119" xmltv_id="DTV Cinema 119 HD">DTV Cinema 119 HD</channel>
+    <channel update="i" site="directv.com" site_id="120#_#120" xmltv_id="DTV Cinema 120">DTV Cinema 120</channel>
+    <channel update="i" site="directv.com" site_id="121#_#121" xmltv_id="DTV Cinema 121 HD">DTV Cinema 121 HD</channel>
+    <channel update="i" site="directv.com" site_id="122#_#122" xmltv_id="DTV Cinema 122">DTV Cinema 122</channel>
+    <channel update="i" site="directv.com" site_id="123#_#123" xmltv_id="DTV Cinema 123 HD">DTV Cinema 123 HD</channel>
+    <channel update="i" site="directv.com" site_id="124#_#124" xmltv_id="DTV Cinema 124">DTV Cinema 124</channel>
+    <channel update="i" site="directv.com" site_id="126#_#126" xmltv_id="DTV Cinema 126 HD">DTV Cinema 126 HD</channel>
+    <channel update="i" site="directv.com" site_id="127#_#127" xmltv_id="DTV Cinema 127 HD">DTV Cinema 127 HD</channel>
+    <channel update="i" site="directv.com" site_id="128#_#128" xmltv_id="DTV Cinema 128 HD">DTV Cinema 128 HD</channel>
+    <channel update="i" site="directv.com" site_id="129#_#129" xmltv_id="DTV Cinema 129 HD">DTV Cinema 129 HD</channel>
+    <channel update="i" site="directv.com" site_id="130#_#130" xmltv_id="DTV Cinema 130 HD">DTV Cinema 130 HD</channel>
+    <channel update="i" site="directv.com" site_id="131#_#131" xmltv_id="DTV Cinema 131 HD">DTV Cinema 131 HD</channel>
+    <channel update="i" site="directv.com" site_id="132#_#132" xmltv_id="DTV Cinema 132 HD">DTV Cinema 132 HD</channel>
+    <channel update="i" site="directv.com" site_id="133#_#133" xmltv_id="DTV Cinema 133 HD">DTV Cinema 133 HD</channel>
+    <channel update="i" site="directv.com" site_id="134#_#134" xmltv_id="DTV Cinema 134 HD">DTV Cinema 134 HD</channel>
+    <channel update="i" site="directv.com" site_id="135#_#135" xmltv_id="DTV Cinema 135 HD">DTV Cinema 135 HD</channel>
+    <channel update="i" site="directv.com" site_id="136#_#136" xmltv_id="DTV Cinema 136 HD">DTV Cinema 136 HD</channel>
+    <channel update="i" site="directv.com" site_id="137#_#137" xmltv_id="DTV Cinema 137 HD">DTV Cinema 137 HD</channel>
+    <channel update="i" site="directv.com" site_id="138#_#138" xmltv_id="DTV Cinema 138 HD">DTV Cinema 138 HD</channel>
+    <channel update="i" site="directv.com" site_id="139#_#139" xmltv_id="DTV Cinema 139 HD">DTV Cinema 139 HD</channel>
+    <channel update="i" site="directv.com" site_id="140#_#140" xmltv_id="DTV Cinema 140 HD">DTV Cinema 140 HD</channel>
+    <channel update="i" site="directv.com" site_id="141#_#141" xmltv_id="DTV Cinema 141 HD">DTV Cinema 141 HD</channel>
+    <channel update="i" site="directv.com" site_id="142#_#142" xmltv_id="DTV Cinema 142 HD">DTV Cinema 142 HD</channel>
+    <channel update="i" site="directv.com" site_id="143#_#143" xmltv_id="DTV Cinema 143 HD">DTV Cinema 143 HD</channel>
+    <channel update="i" site="directv.com" site_id="144#_#144" xmltv_id="DTV Cinema 144 HD">DTV Cinema 144 HD</channel>
+    <channel update="i" site="directv.com" site_id="145#_#145" xmltv_id="DTV Cinema 145 HD">DTV Cinema 145 HD</channel>
+    <channel update="i" site="directv.com" site_id="146#_#146" xmltv_id="DTV Cinema 146 HD">DTV Cinema 146 HD</channel>
+    <channel update="i" site="directv.com" site_id="147#_#147" xmltv_id="DTV Cinema 147 HD">DTV Cinema 147 HD</channel>
+    <channel update="i" site="directv.com" site_id="148#_#148" xmltv_id="DTV Cinema 148 HD">DTV Cinema 148 HD</channel>
+    <channel update="i" site="directv.com" site_id="149#_#149" xmltv_id="DTV Cinema 149 HD">DTV Cinema 149 HD</channel>
+    <channel update="i" site="directv.com" site_id="150#_#150" xmltv_id="DTV Cinema 150 HD">DTV Cinema 150 HD</channel>
+    <channel update="i" site="directv.com" site_id="151#_#151" xmltv_id="DTV Cinema 151 HD">DTV Cinema 151 HD</channel>
+    <channel update="i" site="directv.com" site_id="152#_#152" xmltv_id="DTV Cinema 152 HD">DTV Cinema 152 HD</channel>
+    <channel update="i" site="directv.com" site_id="153#_#153" xmltv_id="DTV Cinema 153 HD">DTV Cinema 153 HD</channel>
+    <channel update="i" site="directv.com" site_id="154#_#154" xmltv_id="DTV Cinema 154 HD">DTV Cinema 154 HD</channel>
+    <channel update="i" site="directv.com" site_id="155#_#155" xmltv_id="DTV Cinema 155 HD">DTV Cinema 155 HD</channel>
+    <channel update="i" site="directv.com" site_id="156#_#8389" xmltv_id="DTV Cinema 156 HD">DTV Cinema 156 HD</channel>
+    <channel update="i" site="directv.com" site_id="157#_#157" xmltv_id="DTV Cinema 157 HD">DTV Cinema 157 HD</channel>
+    <channel update="i" site="directv.com" site_id="158#_#158" xmltv_id="DTV Cinema 158 HD">DTV Cinema 158 HD</channel>
+    <channel update="i" site="directv.com" site_id="159#_#159" xmltv_id="DTV Cinema 159">DTV Cinema 159</channel>
+    <channel update="i" site="directv.com" site_id="160#_#160" xmltv_id="DTV Cinema 160">DTV Cinema 160</channel>
+    <channel update="i" site="directv.com" site_id="161#_#161" xmltv_id="DTV Cinema 161">DTV Cinema 161</channel>
+    <channel update="i" site="directv.com" site_id="162#_#162" xmltv_id="DTV Cinema 162">DTV Cinema 162</channel>
+    <channel update="i" site="directv.com" site_id="163#_#163" xmltv_id="DTV Cinema 163">DTV Cinema 163</channel>
+    <channel update="i" site="directv.com" site_id="164#_#164" xmltv_id="DTV Cinema 164">DTV Cinema 164</channel>
+    <channel update="i" site="directv.com" site_id="165#_#165" xmltv_id="DTV Cinema 165">DTV Cinema 165</channel>
+    <channel update="i" site="directv.com" site_id="166#_#166" xmltv_id="DTV Cinema 166">DTV Cinema 166</channel>
+    <channel update="i" site="directv.com" site_id="167#_#167" xmltv_id="DTV Cinema 167">DTV Cinema 167</channel>
+    <channel update="i" site="directv.com" site_id="168#_#168" xmltv_id="DTV Cinema 168">DTV Cinema 168</channel>
+    <channel update="i" site="directv.com" site_id="169#_#169" xmltv_id="DTV Cinema 169">DTV Cinema 169</channel>
+    <channel update="i" site="directv.com" site_id="170#_#170" xmltv_id="DTV Cinema 170">DTV Cinema 170</channel>
+    <channel update="i" site="directv.com" site_id="171#_#171" xmltv_id="DTV Cinema 171">DTV Cinema 171</channel>
+    <channel update="i" site="directv.com" site_id="172#_#172" xmltv_id="DTV Cinema 172">DTV Cinema 172</channel>
+    <channel update="i" site="directv.com" site_id="173#_#173" xmltv_id="DTV Cinema 173">DTV Cinema 173</channel>
+    <channel update="i" site="directv.com" site_id="174#_#174" xmltv_id="DTV Cinema 174">DTV Cinema 174</channel>
+    <channel update="i" site="directv.com" site_id="175#_#175" xmltv_id="DTV Cinema 175">DTV Cinema 175</channel>
+    <channel update="i" site="directv.com" site_id="176#_#176" xmltv_id="DTV Cinema 176">DTV Cinema 176</channel>
+    <channel update="i" site="directv.com" site_id="177#_#177" xmltv_id="DTV Cinema 177">DTV Cinema 177</channel>
+    <channel update="i" site="directv.com" site_id="178#_#178" xmltv_id="DTV Cinema 178">DTV Cinema 178</channel>
+    <channel update="i" site="directv.com" site_id="179#_#179" xmltv_id="DTV Cinema 179">DTV Cinema 179</channel>
+    <channel update="i" site="directv.com" site_id="199#_#8111" xmltv_id="Kids Mix Channel">Kids Mix Channel</channel>
+    <channel update="i" site="directv.com" site_id="202#_#8249" xmltv_id="CNN HD">CNN HD</channel>
+    <channel update="i" site="directv.com" site_id="202#_#202" xmltv_id="CNN">CNN</channel>
+    <channel update="i" site="directv.com" site_id="203#_#217" xmltv_id="LOOK Network 203">LOOK Network 203</channel>
+    <channel update="i" site="directv.com" site_id="204#_#6218" xmltv_id="HLN HD">HLN HD</channel>
+    <channel update="i" site="directv.com" site_id="204#_#204" xmltv_id="HLN">HLN</channel>
+    <channel update="i" site="directv.com" site_id="205#_#5205" xmltv_id="SPORTS MIX HD (205)">SPORTS MIX HD (205)</channel>
+    <channel update="i" site="directv.com" site_id="206#_#1964" xmltv_id="ESPN HD">ESPN HD</channel>
+    <channel update="i" site="directv.com" site_id="206#_#206" xmltv_id="ESPN">ESPN</channel>
+    <channel update="i" site="directv.com" site_id="207#_#8235" xmltv_id="ESPNews HD">ESPNews HD</channel>
+    <channel update="i" site="directv.com" site_id="207#_#207" xmltv_id="ESPNews">ESPNews</channel>
+    <channel update="i" site="directv.com" site_id="208#_#2355" xmltv_id="ESPNU HD">ESPNU HD</channel>
+    <channel update="i" site="directv.com" site_id="208#_#2614" xmltv_id="ESPNU">ESPNU</channel>
+    <channel update="i" site="directv.com" site_id="209#_#1965" xmltv_id="ESPN2 HD">ESPN2 HD</channel>
+    <channel update="i" site="directv.com" site_id="209#_#209" xmltv_id="ESPN2">ESPN2</channel>
+    <channel update="i" site="directv.com" site_id="212#_#8225" xmltv_id="NFL Network HD">NFL Network HD</channel>
+    <channel update="i" site="directv.com" site_id="212#_#212" xmltv_id="NFL Network">NFL Network</channel>
+    <channel update="i" site="directv.com" site_id="213#_#3228" xmltv_id="MLB Network HD">MLB Network HD</channel>
+    <channel update="i" site="directv.com" site_id="213#_#3227" xmltv_id="MLB Network">MLB Network</channel>
+    <channel update="i" site="directv.com" site_id="214#_#574" xmltv_id="MAVTV HD">MAVTV HD</channel>
+    <channel update="i" site="directv.com" site_id="214#_#5519" xmltv_id="MAVTV">MAVTV</channel>
+    <channel update="i" site="directv.com" site_id="215#_#5509" xmltv_id="NHL Network Alternate HD">NHL Network Alternate HD</channel>
+    <channel update="i" site="directv.com" site_id="215#_#8230" xmltv_id="NHL Network HD">NHL Network HD</channel>
+    <channel update="i" site="directv.com" site_id="215#_#2468" xmltv_id="NHL Network">NHL Network</channel>
+    <channel update="i" site="directv.com" site_id="215#_#5508" xmltv_id="NHL Network Alternate">NHL Network Alternate</channel>
+    <channel update="i" site="directv.com" site_id="216#_#8220" xmltv_id="NBA TV HD">NBA TV HD</channel>
+    <channel update="i" site="directv.com" site_id="216#_#601" xmltv_id="NBA TV">NBA TV</channel>
+    <channel update="i" site="directv.com" site_id="217#_#8240" xmltv_id="Tennis Channel HD">Tennis Channel HD</channel>
+    <channel update="i" site="directv.com" site_id="217#_#3088" xmltv_id="Tennis Channel">Tennis Channel</channel>
+    <channel update="i" site="directv.com" site_id="218#_#5605" xmltv_id="Golf Channel HD">Golf Channel HD</channel>
+    <channel update="i" site="directv.com" site_id="218#_#605" xmltv_id="Golf Channel">Golf Channel</channel>
+    <channel update="i" site="directv.com" site_id="219#_#8242" xmltv_id="FOX Sports 1 HD">FOX Sports 1 HD</channel>
+    <channel update="i" site="directv.com" site_id="219#_#607" xmltv_id="FOX Sports 1">FOX Sports 1</channel>
+    <channel update="i" site="directv.com" site_id="220#_#5603" xmltv_id="NBC Sports Network HD">NBC Sports Network HD</channel>
+    <channel update="i" site="directv.com" site_id="220#_#608" xmltv_id="NBC Sports Network">NBC Sports Network</channel>
+    <channel update="i" site="directv.com" site_id="221#_#5613" xmltv_id="CBS Sports Network HD">CBS Sports Network HD</channel>
+    <channel update="i" site="directv.com" site_id="221#_#2613" xmltv_id="CBS Sports Network">CBS Sports Network</channel>
+    <channel update="i" site="directv.com" site_id="222#_#222" xmltv_id="Save 222 (Infomercial)">Save 222 (Infomercial)</channel>
+    <channel update="i" site="directv.com" site_id="223#_#239" xmltv_id="Celebrity Shopping TV">Celebrity Shopping TV</channel>
+    <channel update="i" site="directv.com" site_id="224#_#340" xmltv_id="AVC 224 (Infomercial)">AVC 224 (Infomercial)</channel>
+    <channel update="i" site="directv.com" site_id="225#_#341" xmltv_id="HOME TV (225)">HOME TV (225)</channel>
+    <channel update="i" site="directv.com" site_id="226#_#226" xmltv_id="Shop LC">Shop LC</channel>
+    <channel update="i" site="directv.com" site_id="227#_#227" xmltv_id="Paid Programming 227">Paid Programming 227</channel>
+    <channel update="i" site="directv.com" site_id="228#_#228" xmltv_id="GEM Shopping Network">GEM Shopping Network</channel>
+    <channel update="i" site="directv.com" site_id="229#_#8244" xmltv_id="HGTV HD">HGTV HD</channel>
+    <channel update="i" site="directv.com" site_id="229#_#229" xmltv_id="HGTV">HGTV</channel>
+    <channel update="i" site="directv.com" site_id="230#_#8086" xmltv_id="DIY Network HD">DIY Network HD</channel>
+    <channel update="i" site="directv.com" site_id="230#_#230" xmltv_id="Do It Yourself Network">Do It Yourself Network</channel>
+    <channel update="i" site="directv.com" site_id="231#_#8278" xmltv_id="Food Network HD">Food Network HD</channel>
+    <channel update="i" site="directv.com" site_id="231#_#231" xmltv_id="Food Network">Food Network</channel>
+    <channel update="i" site="directv.com" site_id="232#_#6216" xmltv_id="Cooking Channel HD">Cooking Channel HD</channel>
+    <channel update="i" site="directv.com" site_id="232#_#232" xmltv_id="Cooking Channel">Cooking Channel</channel>
+    <channel update="i" site="directv.com" site_id="233#_#8987" xmltv_id="Game Show Network HD">Game Show Network HD</channel>
+    <channel update="i" site="directv.com" site_id="233#_#309" xmltv_id="Game Show Network">Game Show Network</channel>
+    <channel update="i" site="directv.com" site_id="234#_#234" xmltv_id="WOW TV 234">WOW TV 234</channel>
+    <channel update="i" site="directv.com" site_id="236#_#8179" xmltv_id="E! HD">E! HD</channel>
+    <channel update="i" site="directv.com" site_id="236#_#236" xmltv_id="E!">E!</channel>
+    <channel update="i" site="directv.com" site_id="237#_#8258" xmltv_id="Bravo HD">Bravo HD</channel>
+    <channel update="i" site="directv.com" site_id="237#_#273" xmltv_id="Bravo">Bravo</channel>
+    <channel update="i" site="directv.com" site_id="238#_#3507" xmltv_id="ReelzChannel HD">ReelzChannel HD</channel>
+    <channel update="i" site="directv.com" site_id="238#_#225" xmltv_id="ReelzChannel">ReelzChannel</channel>
+    <channel update="i" site="directv.com" site_id="239#_#3304" xmltv_id="AUDIENCE (239) HD">AUDIENCE (239) HD</channel>
+    <channel update="i" site="directv.com" site_id="239#_#246" xmltv_id="AUDIENCE (239)">AUDIENCE (239)</channel>
+    <channel update="i" site="directv.com" site_id="240#_#6133" xmltv_id="Home Shopping Network HD">Home Shopping Network HD</channel>
+    <channel update="i" site="directv.com" site_id="240#_#240" xmltv_id="Home Shopping Network">Home Shopping Network</channel>
+    <channel update="i" site="directv.com" site_id="241#_#8245" xmltv_id="Paramount Network HD">Paramount Network HD</channel>
+    <channel update="i" site="directv.com" site_id="241#_#325" xmltv_id="Paramount Network">Paramount Network</channel>
+    <channel update="i" site="directv.com" site_id="242#_#8273" xmltv_id="USA Network HD">USA Network HD</channel>
+    <channel update="i" site="directv.com" site_id="242#_#242" xmltv_id="USA Network">USA Network</channel>
+    <channel update="i" site="directv.com" site_id="243#_#243" xmltv_id="BUZZ TV">BUZZ TV</channel>
+    <channel update="i" site="directv.com" site_id="244#_#8268" xmltv_id="Syfy HD">Syfy HD</channel>
+    <channel update="i" site="directv.com" site_id="244#_#244" xmltv_id="Syfy">Syfy</channel>
+    <channel update="i" site="directv.com" site_id="245#_#1966" xmltv_id="TNT HD">TNT HD</channel>
+    <channel update="i" site="directv.com" site_id="245#_#2602" xmltv_id="TNT West HD">TNT West HD</channel>
+    <channel update="i" site="directv.com" site_id="245#_#245" xmltv_id="TNT">TNT</channel>
+    <channel update="i" site="directv.com" site_id="246#_#1363" xmltv_id="truTV HD">truTV HD</channel>
+    <channel update="i" site="directv.com" site_id="246#_#203" xmltv_id="truTV">truTV</channel>
+    <channel update="i" site="directv.com" site_id="247#_#2603" xmltv_id="TBS West HD">TBS West HD</channel>
+    <channel update="i" site="directv.com" site_id="247#_#8254" xmltv_id="TBS HD">TBS HD</channel>
+    <channel update="i" site="directv.com" site_id="247#_#247" xmltv_id="TBS Superstation">TBS Superstation</channel>
+    <channel update="i" site="directv.com" site_id="248#_#8208" xmltv_id="FX HD">FX HD</channel>
+    <channel update="i" site="directv.com" site_id="248#_#248" xmltv_id="FX">FX</channel>
+    <channel update="i" site="directv.com" site_id="249#_#2598" xmltv_id="Comedy Central West HD">Comedy Central West HD</channel>
+    <channel update="i" site="directv.com" site_id="249#_#3035" xmltv_id="Comedy Central HD">Comedy Central HD</channel>
+    <channel update="i" site="directv.com" site_id="249#_#249" xmltv_id="Comedy Central">Comedy Central</channel>
+    <channel update="i" site="directv.com" site_id="250#_#3094" xmltv_id="SECRET TV (250)">SECRET TV (250)</channel>
+    <channel update="i" site="directv.com" site_id="251#_#275" xmltv_id="Oxygen HD">Oxygen HD</channel>
+    <channel update="i" site="directv.com" site_id="251#_#251" xmltv_id="Oxygen">Oxygen</channel>
+    <channel update="i" site="directv.com" site_id="252#_#3780" xmltv_id="Lifetime HD">Lifetime HD</channel>
+    <channel update="i" site="directv.com" site_id="252#_#252" xmltv_id="Lifetime">Lifetime</channel>
+    <channel update="i" site="directv.com" site_id="253#_#6217" xmltv_id="LMN HD">LMN HD</channel>
+    <channel update="i" site="directv.com" site_id="253#_#253" xmltv_id="LMN">LMN</channel>
+    <channel update="i" site="directv.com" site_id="254#_#4217" xmltv_id="AMC HD">AMC HD</channel>
+    <channel update="i" site="directv.com" site_id="254#_#254" xmltv_id="AMC">AMC</channel>
+    <channel update="i" site="directv.com" site_id="255#_#4190" xmltv_id="XTRA Network">XTRA Network</channel>
+    <channel update="i" site="directv.com" site_id="256#_#4316" xmltv_id="TCM HD">TCM HD</channel>
+    <channel update="i" site="directv.com" site_id="256#_#256" xmltv_id="TCM">TCM</channel>
+    <channel update="i" site="directv.com" site_id="258#_#310" xmltv_id="FX Movie Channel HD">FX Movie Channel HD</channel>
+    <channel update="i" site="directv.com" site_id="258#_#258" xmltv_id="FX Movie">FX Movie</channel>
+    <channel update="i" site="directv.com" site_id="259#_#8138" xmltv_id="FXX HD">FXX HD</channel>
+    <channel update="i" site="directv.com" site_id="259#_#2619" xmltv_id="FXX">FXX</channel>
+    <channel update="i" site="directv.com" site_id="260#_#2056" xmltv_id="WE tv HD">WE tv HD</channel>
+    <channel update="i" site="directv.com" site_id="260#_#260" xmltv_id="WE tv">WE tv</channel>
+    <channel update="i" site="directv.com" site_id="261#_#368" xmltv_id="Discovery Life">Discovery Life</channel>
+    <channel update="i" site="directv.com" site_id="262#_#262" xmltv_id="MALL TV Channel 262">MALL TV Channel 262</channel>
+    <channel update="i" site="directv.com" site_id="263#_#347" xmltv_id="Get It Infomercial">Get It Infomercial</channel>
+    <channel update="i" site="directv.com" site_id="264#_#6053" xmltv_id="BBC America HD">BBC America HD</channel>
+    <channel update="i" site="directv.com" site_id="264#_#264" xmltv_id="BBC America">BBC America</channel>
+    <channel update="i" site="directv.com" site_id="265#_#8223" xmltv_id="A&amp;E HD">A&amp;E HD</channel>
+    <channel update="i" site="directv.com" site_id="265#_#265" xmltv_id="A&amp;E">A&amp;E</channel>
+    <channel update="i" site="directv.com" site_id="266#_#8396" xmltv_id="FYI HD">FYI HD</channel>
+    <channel update="i" site="directv.com" site_id="266#_#266" xmltv_id="FYI">FYI</channel>
+    <channel update="i" site="directv.com" site_id="268#_#268" xmltv_id="BEST Channel 268">BEST Channel 268</channel>
+    <channel update="i" site="directv.com" site_id="269#_#8233" xmltv_id="History HD">History HD</channel>
+    <channel update="i" site="directv.com" site_id="269#_#269" xmltv_id="History">History</channel>
+    <channel update="i" site="directv.com" site_id="270#_#261" xmltv_id="IDEA Channel 270">IDEA Channel 270</channel>
+    <channel update="i" site="directv.com" site_id="271#_#6215" xmltv_id="VICE HD">VICE HD</channel>
+    <channel update="i" site="directv.com" site_id="271#_#271" xmltv_id="VICE">VICE</channel>
+    <channel update="i" site="directv.com" site_id="272#_#263" xmltv_id="Logo">Logo</channel>
+    <channel update="i" site="directv.com" site_id="273#_#572" xmltv_id="POP HD">POP HD</channel>
+    <channel update="i" site="directv.com" site_id="273#_#224" xmltv_id="POP">POP</channel>
+    <channel update="i" site="directv.com" site_id="274#_#4638" xmltv_id="Ovation HD">Ovation HD</channel>
+    <channel update="i" site="directv.com" site_id="274#_#274" xmltv_id="Ovation">Ovation</channel>
+    <channel update="i" site="directv.com" site_id="275#_#8033" xmltv_id="QVC HD">QVC HD</channel>
+    <channel update="i" site="directv.com" site_id="275#_#317" xmltv_id="QVC">QVC</channel>
+    <channel update="i" site="directv.com" site_id="276#_#8215" xmltv_id="National Geographic HD">National Geographic HD</channel>
+    <channel update="i" site="directv.com" site_id="276#_#276" xmltv_id="National Geographic">National Geographic</channel>
+    <channel update="i" site="directv.com" site_id="277#_#3529" xmltv_id="Travel Channel HD">Travel Channel HD</channel>
+    <channel update="i" site="directv.com" site_id="277#_#233" xmltv_id="Travel Channel">Travel Channel</channel>
+    <channel update="i" site="directv.com" site_id="278#_#8238" xmltv_id="Discovery HD">Discovery HD</channel>
+    <channel update="i" site="directv.com" site_id="278#_#278" xmltv_id="Discovery">Discovery</channel>
+    <channel update="i" site="directv.com" site_id="279#_#8851" xmltv_id="OWN HD">OWN HD</channel>
+    <channel update="i" site="directv.com" site_id="279#_#3692" xmltv_id="OWN">OWN</channel>
+    <channel update="i" site="directv.com" site_id="280#_#8262" xmltv_id="TLC HD">TLC HD</channel>
+    <channel update="i" site="directv.com" site_id="280#_#280" xmltv_id="TLC">TLC</channel>
+    <channel update="i" site="directv.com" site_id="281#_#3505" xmltv_id="MotorTrend HD">MotorTrend HD</channel>
+    <channel update="i" site="directv.com" site_id="282#_#8205" xmltv_id="Animal Planet HD">Animal Planet HD</channel>
+    <channel update="i" site="directv.com" site_id="282#_#282" xmltv_id="Animal Planet">Animal Planet</channel>
+    <channel update="i" site="directv.com" site_id="283#_#6054" xmltv_id="Nat Geo Wild HD">Nat Geo Wild HD</channel>
+    <channel update="i" site="directv.com" site_id="283#_#3098" xmltv_id="Nat Geo WILD">Nat Geo WILD</channel>
+    <channel update="i" site="directv.com" site_id="284#_#8232" xmltv_id="Science HD">Science HD</channel>
+    <channel update="i" site="directv.com" site_id="284#_#284" xmltv_id="Science">Science</channel>
+    <channel update="i" site="directv.com" site_id="285#_#6212" xmltv_id="Investigation Discovery HD">Investigation Discovery HD</channel>
+    <channel update="i" site="directv.com" site_id="285#_#285" xmltv_id="Investigation Discovery">Investigation Discovery</channel>
+    <channel update="i" site="directv.com" site_id="286#_#4230" xmltv_id="Destination America HD">Destination America HD</channel>
+    <channel update="i" site="directv.com" site_id="286#_#286" xmltv_id="Destination America">Destination America</channel>
+    <channel update="i" site="directv.com" site_id="287#_#288" xmltv_id="American Heroes HD">American Heroes HD</channel>
+    <channel update="i" site="directv.com" site_id="287#_#287" xmltv_id="American Heroes Channel">American Heroes Channel</channel>
+    <channel update="i" site="directv.com" site_id="288#_#8134" xmltv_id="BUZZ TV (288)">BUZZ TV (288)</channel>
+    <channel update="i" site="directv.com" site_id="289#_#6055" xmltv_id="Disney Junior HD">Disney Junior HD</channel>
+    <channel update="i" site="directv.com" site_id="289#_#289" xmltv_id="Disney Junior">Disney Junior</channel>
+    <channel update="i" site="directv.com" site_id="290#_#8398" xmltv_id="Disney Channel HD">Disney Channel HD</channel>
+    <channel update="i" site="directv.com" site_id="290#_#290" xmltv_id="Disney Channel (East)">Disney Channel (East)</channel>
+    <channel update="i" site="directv.com" site_id="291#_#291" xmltv_id="Disney Channel (West)">Disney Channel (West)</channel>
+    <channel update="i" site="directv.com" site_id="292#_#8397" xmltv_id="Disney XD HD">Disney XD HD</channel>
+    <channel update="i" site="directv.com" site_id="292#_#292" xmltv_id="Disney XD">Disney XD</channel>
+    <channel update="i" site="directv.com" site_id="293#_#293" xmltv_id="BabyFirst">BabyFirst</channel>
+    <channel update="i" site="directv.com" site_id="294#_#283" xmltv_id="Discovery Family Channel HD">Discovery Family Channel HD</channel>
+    <channel update="i" site="directv.com" site_id="294#_#294" xmltv_id="Discovery Family Channel">Discovery Family Channel</channel>
+    <channel update="i" site="directv.com" site_id="295#_#3501" xmltv_id="Universal Kids HD">Universal Kids HD</channel>
+    <channel update="i" site="directv.com" site_id="295#_#295" xmltv_id="Universal Kids">Universal Kids</channel>
+    <channel update="i" site="directv.com" site_id="296#_#8255" xmltv_id="Cartoon Network HD">Cartoon Network HD</channel>
+    <channel update="i" site="directv.com" site_id="296#_#296" xmltv_id="Cartoon Network">Cartoon Network</channel>
+    <channel update="i" site="directv.com" site_id="297#_#8193" xmltv_id="Cartoon Network West">Cartoon Network West</channel>
+    <channel update="i" site="directv.com" site_id="298#_#297" xmltv_id="Boomerang">Boomerang</channel>
+    <channel update="i" site="directv.com" site_id="299#_#8274" xmltv_id="Nickelodeon East HD">Nickelodeon East HD</channel>
+    <channel update="i" site="directv.com" site_id="299#_#299" xmltv_id="Nickelodeon East">Nickelodeon East</channel>
+    <channel update="i" site="directv.com" site_id="300#_#300" xmltv_id="Nickelodeon West">Nickelodeon West</channel>
+    <channel update="i" site="directv.com" site_id="301#_#3621" xmltv_id="Nick Jr. HD">Nick Jr. HD</channel>
+    <channel update="i" site="directv.com" site_id="301#_#298" xmltv_id="Nick Jr.">Nick Jr.</channel>
+    <channel update="i" site="directv.com" site_id="302#_#302" xmltv_id="Nicktoons">Nicktoons</channel>
+    <channel update="i" site="directv.com" site_id="303#_#3504" xmltv_id="TeenNick">TeenNick</channel>
+    <channel update="i" site="directv.com" site_id="304#_#6213" xmltv_id="TV Land HD">TV Land HD</channel>
+    <channel update="i" site="directv.com" site_id="304#_#301" xmltv_id="TV Land">TV Land</channel>
+    <channel update="i" site="directv.com" site_id="305#_#6056" xmltv_id="ION Television East HD">ION Television East HD</channel>
+    <channel update="i" site="directv.com" site_id="305#_#255" xmltv_id="ION Television">ION Television</channel>
+    <channel update="i" site="directv.com" site_id="306#_#8442" xmltv_id="ION Television West">ION Television West</channel>
+    <channel update="i" site="directv.com" site_id="307#_#3528" xmltv_id="WGN America HD">WGN America HD</channel>
+    <channel update="i" site="directv.com" site_id="307#_#307" xmltv_id="WGN America">WGN America</channel>
+    <channel update="i" site="directv.com" site_id="308#_#343" xmltv_id="CRAVE">CRAVE</channel>
+    <channel update="i" site="directv.com" site_id="309#_#328" xmltv_id="SALE Network">SALE Network</channel>
+    <channel update="i" site="directv.com" site_id="310#_#4069" xmltv_id="HSN2">HSN2</channel>
+    <channel update="i" site="directv.com" site_id="311#_#4211" xmltv_id="Freeform HD">Freeform HD</channel>
+    <channel update="i" site="directv.com" site_id="311#_#311" xmltv_id="Freeform">Freeform</channel>
+    <channel update="i" site="directv.com" site_id="312#_#3771" xmltv_id="Hallmark Channel HD">Hallmark Channel HD</channel>
+    <channel update="i" site="directv.com" site_id="312#_#312" xmltv_id="Hallmark">Hallmark</channel>
+    <channel update="i" site="directv.com" site_id="313#_#367" xmltv_id="Jewelry Television">Jewelry Television</channel>
+    <channel update="i" site="directv.com" site_id="314#_#306" xmltv_id="VALU Ch. 314">VALU Ch. 314</channel>
+    <channel update="i" site="directv.com" site_id="315#_#4060" xmltv_id="QVC2">QVC2</channel>
+    <channel update="i" site="directv.com" site_id="316#_#1371" xmltv_id="Shop HQ">Shop HQ</channel>
+    <channel update="i" site="directv.com" site_id="317#_#8019" xmltv_id="QVC HD (317)">QVC HD (317)</channel>
+    <channel update="i" site="directv.com" site_id="317#_#345" xmltv_id="QVC Channel 317">QVC Channel 317</channel>
+    <channel update="i" site="directv.com" site_id="318#_#277" xmltv_id="QVC3">QVC3</channel>
+    <channel update="i" site="directv.com" site_id="319#_#319" xmltv_id="NEW TV (319)">NEW TV (319)</channel>
+    <channel update="i" site="directv.com" site_id="320#_#323" xmltv_id="Scientology Network">Scientology Network</channel>
+    <channel update="i" site="directv.com" site_id="321#_#110" xmltv_id="Russia Today TV">Russia Today TV</channel>
+    <channel update="i" site="directv.com" site_id="322#_#517" xmltv_id="NHK World News">NHK World News</channel>
+    <channel update="i" site="directv.com" site_id="323#_#1983" xmltv_id="Family Entertainment Television">Family Entertainment Television</channel>
+    <channel update="i" site="directv.com" site_id="324#_#324" xmltv_id="RENEW TV">RENEW TV</channel>
+    <channel update="i" site="directv.com" site_id="324#_#3095" xmltv_id="SECRET TV">SECRET TV</channel>
+    <channel update="i" site="directv.com" site_id="325#_#1307" xmltv_id="FRESH">FRESH</channel>
+    <channel update="i" site="directv.com" site_id="325#_#8075" xmltv_id="Jewish Life TV">Jewish Life TV</channel>
+    <channel update="i" site="directv.com" site_id="326#_#573" xmltv_id="Great American Country HD">Great American Country HD</channel>
+    <channel update="i" site="directv.com" site_id="326#_#326" xmltv_id="Great American Country">Great American Country</channel>
+    <channel update="i" site="directv.com" site_id="327#_#8395" xmltv_id="CMT HD">CMT HD</channel>
+    <channel update="i" site="directv.com" site_id="327#_#327" xmltv_id="CMT">CMT</channel>
+    <channel update="i" site="directv.com" site_id="328#_#1512" xmltv_id="TV One HD">TV One HD</channel>
+    <channel update="i" site="directv.com" site_id="328#_#241" xmltv_id="TV One">TV One</channel>
+    <channel update="i" site="directv.com" site_id="329#_#1917" xmltv_id="BET HD">BET HD</channel>
+    <channel update="i" site="directv.com" site_id="329#_#2599" xmltv_id="BET West HD">BET West HD</channel>
+    <channel update="i" site="directv.com" site_id="329#_#329" xmltv_id="BET">BET</channel>
+    <channel update="i" site="directv.com" site_id="330#_#330" xmltv_id="BET Her">BET Her</channel>
+    <channel update="i" site="directv.com" site_id="331#_#2600" xmltv_id="MTV West HD">MTV West HD</channel>
+    <channel update="i" site="directv.com" site_id="331#_#8218" xmltv_id="MTV HD">MTV HD</channel>
+    <channel update="i" site="directv.com" site_id="331#_#331" xmltv_id="MTV">MTV</channel>
+    <channel update="i" site="directv.com" site_id="332#_#2455" xmltv_id="MTV2 HD">MTV2 HD</channel>
+    <channel update="i" site="directv.com" site_id="332#_#333" xmltv_id="MTV2">MTV2</channel>
+    <channel update="i" site="directv.com" site_id="333#_#6214" xmltv_id="IFC HD">IFC HD</channel>
+    <channel update="i" site="directv.com" site_id="333#_#550" xmltv_id="IFC">IFC</channel>
+    <channel update="i" site="directv.com" site_id="334#_#3303" xmltv_id="AUDIENCE (334) HD">AUDIENCE (334) HD</channel>
+    <channel update="i" site="directv.com" site_id="334#_#334" xmltv_id="AUDIENCE (334)">AUDIENCE (334)</channel>
+    <channel update="i" site="directv.com" site_id="335#_#8279" xmltv_id="VH1 HD">VH1 HD</channel>
+    <channel update="i" site="directv.com" site_id="335#_#335" xmltv_id="VH1">VH1</channel>
+    <channel update="i" site="directv.com" site_id="336#_#337" xmltv_id="MTV Classic">MTV Classic</channel>
+    <channel update="i" site="directv.com" site_id="337#_#102" xmltv_id="CASH (HD)">CASH (HD)</channel>
+    <channel update="i" site="directv.com" site_id="338#_#3511" xmltv_id="UP">UP</channel>
+    <channel update="i" site="directv.com" site_id="339#_#365" xmltv_id="Fuse HD">Fuse HD</channel>
+    <channel update="i" site="directv.com" site_id="339#_#339" xmltv_id="Fuse">Fuse</channel>
+    <channel update="i" site="directv.com" site_id="340#_#4209" xmltv_id="AXS TV">AXS TV</channel>
+    <channel update="i" site="directv.com" site_id="341#_#3472" xmltv_id="El Rey HD">El Rey HD</channel>
+    <channel update="i" site="directv.com" site_id="341#_#482" xmltv_id="Important Information About El Rey &amp; Fusion">Important Information About El Rey &amp; Fusion</channel>
+    <channel update="i" site="directv.com" site_id="341#_#3482" xmltv_id="El Rey">El Rey</channel>
+    <channel update="i" site="directv.com" site_id="342#_#6208" xmltv_id="Fusion HD">Fusion HD</channel>
+    <channel update="i" site="directv.com" site_id="343#_#499" xmltv_id="i24 News">i24 News</channel>
+    <channel update="i" site="directv.com" site_id="344#_#344" xmltv_id="Son Life Broadcasting HD">Son Life Broadcasting HD</channel>
+    <channel update="i" site="directv.com" site_id="345#_#551" xmltv_id="RFD HD TV">RFD HD TV</channel>
+    <channel update="i" site="directv.com" site_id="345#_#379" xmltv_id="RFD-TV">RFD-TV</channel>
+    <channel update="i" site="directv.com" site_id="346#_#2063" xmltv_id="BBC World News HD">BBC World News HD</channel>
+    <channel update="i" site="directv.com" site_id="347#_#392" xmltv_id="One America News Network HD">One America News Network HD</channel>
+    <channel update="i" site="directv.com" site_id="347#_#393" xmltv_id="One America News Network">One America News Network</channel>
+    <channel update="i" site="directv.com" site_id="348#_#3776" xmltv_id="Free Speech TV">Free Speech TV</channel>
+    <channel update="i" site="directv.com" site_id="349#_#2282" xmltv_id="NewsMax">NewsMax</channel>
+    <channel update="i" site="directv.com" site_id="350#_#350" xmltv_id="CSPAN">CSPAN</channel>
+    <channel update="i" site="directv.com" site_id="351#_#351" xmltv_id="CSPAN 2">CSPAN 2</channel>
+    <channel update="i" site="directv.com" site_id="352#_#223" xmltv_id="NASA TV">NASA TV</channel>
+    <channel update="i" site="directv.com" site_id="353#_#8609" xmltv_id="Bloomberg TV HD">Bloomberg TV HD</channel>
+    <channel update="i" site="directv.com" site_id="353#_#353" xmltv_id="Bloomberg TV">Bloomberg TV</channel>
+    <channel update="i" site="directv.com" site_id="354#_#586" xmltv_id="Cheddar Business">Cheddar Business</channel>
+    <channel update="i" site="directv.com" site_id="355#_#8277" xmltv_id="CNBC HD">CNBC HD</channel>
+    <channel update="i" site="directv.com" site_id="355#_#355" xmltv_id="CNBC">CNBC</channel>
+    <channel update="i" site="directv.com" site_id="356#_#3526" xmltv_id="MSNBC HD">MSNBC HD</channel>
+    <channel update="i" site="directv.com" site_id="356#_#356" xmltv_id="MSNBC">MSNBC</channel>
+    <channel update="i" site="directv.com" site_id="357#_#357" xmltv_id="CNBC World">CNBC World</channel>
+    <channel update="i" site="directv.com" site_id="358#_#2601" xmltv_id="CNNi">CNNi</channel>
+    <channel update="i" site="directv.com" site_id="359#_#8394" xmltv_id="Fox Business Network HD">Fox Business Network HD</channel>
+    <channel update="i" site="directv.com" site_id="359#_#3142" xmltv_id="Fox Business Network">Fox Business Network</channel>
+    <channel update="i" site="directv.com" site_id="360#_#3474" xmltv_id="FOX News Channel HD">FOX News Channel HD</channel>
+    <channel update="i" site="directv.com" site_id="360#_#360" xmltv_id="FOX News Channel">FOX News Channel</channel>
+    <channel update="i" site="directv.com" site_id="361#_#6067" xmltv_id="AccuWeather HD">AccuWeather HD</channel>
+    <channel update="i" site="directv.com" site_id="361#_#363" xmltv_id="AccuWeather">AccuWeather</channel>
+    <channel update="i" site="directv.com" site_id="362#_#8253" xmltv_id="The Weather Channel HD">The Weather Channel HD</channel>
+    <channel update="i" site="directv.com" site_id="362#_#362" xmltv_id="The Weather Channel">The Weather Channel</channel>
+    <channel update="i" site="directv.com" site_id="363#_#3775" xmltv_id="GEB America">GEB America</channel>
+    <channel update="i" site="directv.com" site_id="364#_#359" xmltv_id="INSP HD">INSP HD</channel>
+    <channel update="i" site="directv.com" site_id="364#_#364" xmltv_id="INSP">INSP</channel>
+    <channel update="i" site="directv.com" site_id="365#_#1579" xmltv_id="God TV">God TV</channel>
+    <channel update="i" site="directv.com" site_id="366#_#8320" xmltv_id="LWUSA">LWUSA</channel>
+    <channel update="i" site="directv.com" site_id="367#_#321" xmltv_id="World Harvest Television">World Harvest Television</channel>
+    <channel update="i" site="directv.com" site_id="368#_#8479" xmltv_id="Hope Channel">Hope Channel</channel>
+    <channel update="i" site="directv.com" site_id="369#_#369" xmltv_id="Daystar">Daystar</channel>
+    <channel update="i" site="directv.com" site_id="370#_#422" xmltv_id="EWTN">EWTN</channel>
+    <channel update="i" site="directv.com" site_id="371#_#371" xmltv_id="The Hillsong Channel">The Hillsong Channel</channel>
+    <channel update="i" site="directv.com" site_id="372#_#394" xmltv_id="Trinity Broadcast Network HD">Trinity Broadcast Network HD</channel>
+    <channel update="i" site="directv.com" site_id="372#_#372" xmltv_id="Trinity Broadcast Network">Trinity Broadcast Network</channel>
+    <channel update="i" site="directv.com" site_id="373#_#373" xmltv_id="The WORD Network">The WORD Network</channel>
+    <channel update="i" site="directv.com" site_id="374#_#374" xmltv_id="BYUtv">BYUtv</channel>
+    <channel update="i" site="directv.com" site_id="375#_#375" xmltv_id="LinkTV">LinkTV</channel>
+    <channel update="i" site="directv.com" site_id="376#_#3144" xmltv_id="Christian Television Net">Christian Television Net</channel>
+    <channel update="i" site="directv.com" site_id="377#_#377" xmltv_id="TCT Network">TCT Network</channel>
+    <channel update="i" site="directv.com" site_id="378#_#378" xmltv_id="NRB">NRB</channel>
+    <channel update="i" site="directv.com" site_id="379#_#6071" xmltv_id="Uplift">Uplift</channel>
+    <channel update="i" site="directv.com" site_id="380#_#401" xmltv_id="IMPACT TV">IMPACT TV</channel>
+    <channel update="i" site="directv.com" site_id="381#_#4707" xmltv_id="ASPIRE (HD)">ASPIRE (HD)</channel>
+    <channel update="i" site="directv.com" site_id="382#_#8445" xmltv_id="Comedy TV HD">Comedy TV HD</channel>
+    <channel update="i" site="directv.com" site_id="383#_#8433" xmltv_id="Justice Central HD">Justice Central HD</channel>
+    <channel update="i" site="directv.com" site_id="384#_#8446" xmltv_id="Revolt HD">Revolt HD</channel>
+    <channel update="i" site="directv.com" site_id="386#_#8983" xmltv_id="FM HD">FM HD</channel>
+    <channel update="i" site="directv.com" site_id="387#_#352" xmltv_id="A Wealth of Entertainment HD">A Wealth of Entertainment HD</channel>
+    <channel update="i" site="directv.com" site_id="387#_#342" xmltv_id="A Wealth of Entertainment">A Wealth of Entertainment</channel>
+    <channel update="i" site="directv.com" site_id="388#_#366" xmltv_id="JBS">JBS</channel>
+    <channel update="i" site="directv.com" site_id="389#_#384" xmltv_id="PBSNET">PBSNET</channel>
+    <channel update="i" site="directv.com" site_id="390#_#4240" xmltv_id="WCBS (New York) CBS HD East">WCBS (New York) CBS HD East</channel>
+    <channel update="i" site="directv.com" site_id="390#_#380" xmltv_id="WCBS (New York) CBS East">WCBS (New York) CBS East</channel>
+    <channel update="i" site="directv.com" site_id="391#_#8204" xmltv_id="KCBS (Los Angeles) CBS HD West">KCBS (Los Angeles) CBS HD West</channel>
+    <channel update="i" site="directv.com" site_id="391#_#381" xmltv_id="KCBS (Los Angeles) CBS West">KCBS (Los Angeles) CBS West</channel>
+    <channel update="i" site="directv.com" site_id="392#_#4237" xmltv_id="WNBC (New York) NBC HD East">WNBC (New York) NBC HD East</channel>
+    <channel update="i" site="directv.com" site_id="392#_#382" xmltv_id="WNBC (New York) NBC East">WNBC (New York) NBC East</channel>
+    <channel update="i" site="directv.com" site_id="393#_#8209" xmltv_id="KNBC (Los Angeles) NBC HD West">KNBC (Los Angeles) NBC HD West</channel>
+    <channel update="i" site="directv.com" site_id="393#_#383" xmltv_id="KNBC (Los Angeles) NBC West">KNBC (Los Angeles) NBC West</channel>
+    <channel update="i" site="directv.com" site_id="394#_#385" xmltv_id="WDCW (Washington D.C.) CW">WDCW (Washington D.C.) CW</channel>
+    <channel update="i" site="directv.com" site_id="395#_#8955" xmltv_id="KTLA CW West">KTLA CW West</channel>
+    <channel update="i" site="directv.com" site_id="396#_#4239" xmltv_id="WABC (New York) ABC HD East">WABC (New York) ABC HD East</channel>
+    <channel update="i" site="directv.com" site_id="396#_#386" xmltv_id="WABC (New York) ABC East">WABC (New York) ABC East</channel>
+    <channel update="i" site="directv.com" site_id="397#_#8210" xmltv_id="KABC (Los Angeles) ABC HD West">KABC (Los Angeles) ABC HD West</channel>
+    <channel update="i" site="directv.com" site_id="397#_#387" xmltv_id="KABC (Los Angeles) ABC West">KABC (Los Angeles) ABC West</channel>
+    <channel update="i" site="directv.com" site_id="398#_#4238" xmltv_id="WNYW (New York) FOX HD East">WNYW (New York) FOX HD East</channel>
+    <channel update="i" site="directv.com" site_id="398#_#388" xmltv_id="WNYW (New York) FOX East">WNYW (New York) FOX East</channel>
+    <channel update="i" site="directv.com" site_id="399#_#8272" xmltv_id="KTTV (Los Angeles) FOX HD West">KTTV (Los Angeles) FOX HD West</channel>
+    <channel update="i" site="directv.com" site_id="399#_#389" xmltv_id="KTTV (Los Angeles) FOX West">KTTV (Los Angeles) FOX West</channel>
+    <channel update="i" site="directv.com" site_id="400#_#400" xmltv_id="DTV Cinema 400">DTV Cinema 400</channel>
+    <channel update="i" site="directv.com" site_id="401#_#370" xmltv_id="Aqui">Aqui</channel>
+    <channel update="i" site="directv.com" site_id="401#_#2543" xmltv_id="INFO Temp 6 103A">INFO Temp 6 103A</channel>
+    <channel update="i" site="directv.com" site_id="402#_#3247" xmltv_id="Univision East HD">Univision East HD</channel>
+    <channel update="i" site="directv.com" site_id="402#_#402" xmltv_id="Univision East">Univision East</channel>
+    <channel update="i" site="directv.com" site_id="403#_#403" xmltv_id="Univision West">Univision West</channel>
+    <channel update="i" site="directv.com" site_id="403#_#5539" xmltv_id="Univision West (103A)">Univision West (103A)</channel>
+    <channel update="i" site="directv.com" site_id="404#_#8031" xmltv_id="Galavision HD">Galavision HD</channel>
+    <channel update="i" site="directv.com" site_id="404#_#404" xmltv_id="Galavision">Galavision</channel>
+    <channel update="i" site="directv.com" site_id="405#_#8373" xmltv_id="MegaTV HD">MegaTV HD</channel>
+    <channel update="i" site="directv.com" site_id="405#_#2407" xmltv_id="MegaTV HD (103A)">MegaTV HD (103A)</channel>
+    <channel update="i" site="directv.com" site_id="405#_#3141" xmltv_id="MegaTV">MegaTV</channel>
+    <channel update="i" site="directv.com" site_id="405#_#5540" xmltv_id="megaTV (103A)">megaTV (103A)</channel>
+    <channel update="i" site="directv.com" site_id="406#_#405" xmltv_id="Telemundo East">Telemundo East</channel>
+    <channel update="i" site="directv.com" site_id="406#_#2546" xmltv_id="Telemundo East (103A)">Telemundo East (103A)</channel>
+    <channel update="i" site="directv.com" site_id="407#_#406" xmltv_id="Telemundo West">Telemundo West</channel>
+    <channel update="i" site="directv.com" site_id="407#_#2545" xmltv_id="Telemundo West (103A)">Telemundo West (103A)</channel>
+    <channel update="i" site="directv.com" site_id="408#_#8030" xmltv_id="UniMas West HD">UniMas West HD</channel>
+    <channel update="i" site="directv.com" site_id="408#_#431" xmltv_id="UniMas">UniMas</channel>
+    <channel update="i" site="directv.com" site_id="408#_#2414" xmltv_id="UniMas West HD (103A)">UniMas West HD (103A)</channel>
+    <channel update="i" site="directv.com" site_id="408#_#5003" xmltv_id="UniMas SD West (103A)">UniMas SD West (103A)</channel>
+    <channel update="i" site="directv.com" site_id="409#_#1608" xmltv_id="VePlus">VePlus</channel>
+    <channel update="i" site="directv.com" site_id="409#_#6120" xmltv_id="VePlus (103A)">VePlus (103A)</channel>
+    <channel update="i" site="directv.com" site_id="410#_#3841" xmltv_id="Universo HD">Universo HD</channel>
+    <channel update="i" site="directv.com" site_id="410#_#410" xmltv_id="UNIVERSO">UNIVERSO</channel>
+    <channel update="i" site="directv.com" site_id="410#_#2473" xmltv_id="Universo (103A)">Universo (103A)</channel>
+    <channel update="i" site="directv.com" site_id="411#_#411" xmltv_id="Telefe">Telefe</channel>
+    <channel update="i" site="directv.com" site_id="411#_#5670" xmltv_id="Telefe (103A)">Telefe (103A)</channel>
+    <channel update="i" site="directv.com" site_id="412#_#5442" xmltv_id="Multimedios (103A)">Multimedios (103A)</channel>
+    <channel update="i" site="directv.com" site_id="412#_#8474" xmltv_id="Multimedios">Multimedios</channel>
+    <channel update="i" site="directv.com" site_id="413#_#413" xmltv_id="Discovery en Espanol">Discovery en Espanol</channel>
+    <channel update="i" site="directv.com" site_id="413#_#2552" xmltv_id="Discovery en Espanol (103A)">Discovery en Espanol (103A)</channel>
+    <channel update="i" site="directv.com" site_id="414#_#414" xmltv_id="WAPA America">WAPA America</channel>
+    <channel update="i" site="directv.com" site_id="414#_#2828" xmltv_id="WAPA America (103A)">WAPA America (103A)</channel>
+    <channel update="i" site="directv.com" site_id="415#_#1264" xmltv_id="Videorola">Videorola</channel>
+    <channel update="i" site="directv.com" site_id="415#_#4025" xmltv_id="Videorola (103A)">Videorola (103A)</channel>
+    <channel update="i" site="directv.com" site_id="416#_#4294" xmltv_id="Nuestra Tele">Nuestra Tele</channel>
+    <channel update="i" site="directv.com" site_id="416#_#6065" xmltv_id="Nuestra Tele (103A)">Nuestra Tele (103A)</channel>
+    <channel update="i" site="directv.com" site_id="417#_#417" xmltv_id="Caracol TV">Caracol TV</channel>
+    <channel update="i" site="directv.com" site_id="417#_#2547" xmltv_id="Caracol TV (103A)">Caracol TV (103A)</channel>
+    <channel update="i" site="directv.com" site_id="418#_#3760" xmltv_id="NTN24">NTN24</channel>
+    <channel update="i" site="directv.com" site_id="418#_#5112" xmltv_id="NTN 24 (103A)">NTN 24 (103A)</channel>
+    <channel update="i" site="directv.com" site_id="419#_#419" xmltv_id="CNN en Espanol">CNN en Espanol</channel>
+    <channel update="i" site="directv.com" site_id="419#_#2553" xmltv_id="CNN en Espanol (103A)">CNN en Espanol (103A)</channel>
+    <channel update="i" site="directv.com" site_id="420#_#420" xmltv_id="Atres Series">Atres Series</channel>
+    <channel update="i" site="directv.com" site_id="420#_#3635" xmltv_id="Atres Series (103A)">Atres Series (103A)</channel>
+    <channel update="i" site="directv.com" site_id="421#_#3585" xmltv_id="FOX Life">FOX Life</channel>
+    <channel update="i" site="directv.com" site_id="421#_#5453" xmltv_id="Fox Life (103A)">Fox Life (103A)</channel>
+    <channel update="i" site="directv.com" site_id="422#_#3460" xmltv_id="Cine Estelar (103A)">Cine Estelar (103A)</channel>
+    <channel update="i" site="directv.com" site_id="422#_#8014" xmltv_id="Cine Estelar">Cine Estelar</channel>
+    <channel update="i" site="directv.com" site_id="423#_#423" xmltv_id="Cinelatino">Cinelatino</channel>
+    <channel update="i" site="directv.com" site_id="423#_#3800" xmltv_id="Cinelatino (103A)">Cinelatino (103A)</channel>
+    <channel update="i" site="directv.com" site_id="424#_#487" xmltv_id="Cine Nostalgia">Cine Nostalgia</channel>
+    <channel update="i" site="directv.com" site_id="424#_#2528" xmltv_id="Cine Nostalgia (103A)">Cine Nostalgia (103A)</channel>
+    <channel update="i" site="directv.com" site_id="425#_#1283" xmltv_id="BabyTV">BabyTV</channel>
+    <channel update="i" site="directv.com" site_id="426#_#1306" xmltv_id="Starz Encore En Español">Starz Encore En Español</channel>
+    <channel update="i" site="directv.com" site_id="426#_#6129" xmltv_id="Starz Encore en Espanol (103A)">Starz Encore en Espanol (103A)</channel>
+    <channel update="i" site="directv.com" site_id="427#_#259" xmltv_id="IVC Net">IVC Net</channel>
+    <channel update="i" site="directv.com" site_id="427#_#3459" xmltv_id="IVC Net (103A)">IVC Net (103A)</channel>
+    <channel update="i" site="directv.com" site_id="428#_#2466" xmltv_id="Centroamerica TV">Centroamerica TV</channel>
+    <channel update="i" site="directv.com" site_id="428#_#3025" xmltv_id="Centroamerica TV (103A)">Centroamerica TV (103A)</channel>
+    <channel update="i" site="directv.com" site_id="429#_#3404" xmltv_id="TeleCentro">TeleCentro</channel>
+    <channel update="i" site="directv.com" site_id="429#_#4008" xmltv_id="TeleCentro (103A)">TeleCentro (103A)</channel>
+    <channel update="i" site="directv.com" site_id="430#_#2796" xmltv_id="Hola TV">Hola TV</channel>
+    <channel update="i" site="directv.com" site_id="430#_#3710" xmltv_id="Hola TV (103A)">Hola TV (103A)</channel>
+    <channel update="i" site="directv.com" site_id="431#_#3445" xmltv_id="Peru Magico (103A)">Peru Magico (103A)</channel>
+    <channel update="i" site="directv.com" site_id="431#_#8104" xmltv_id="Peru Magico">Peru Magico</channel>
+    <channel update="i" site="directv.com" site_id="432#_#430" xmltv_id="ZooMoo">ZooMoo</channel>
+    <channel update="i" site="directv.com" site_id="432#_#5616" xmltv_id="ZooMoo (103A)">ZooMoo (103A)</channel>
+    <channel update="i" site="directv.com" site_id="433#_#5446" xmltv_id="Bandamax (103A)">Bandamax (103A)</channel>
+    <channel update="i" site="directv.com" site_id="433#_#8027" xmltv_id="Bandamax">Bandamax</channel>
+    <channel update="i" site="directv.com" site_id="435#_#2551" xmltv_id="Nat Geo Mundo (103A)">Nat Geo Mundo (103A)</channel>
+    <channel update="i" site="directv.com" site_id="435#_#6073" xmltv_id="NatGeo Mundo">NatGeo Mundo</channel>
+    <channel update="i" site="directv.com" site_id="436#_#2529" xmltv_id="Discovery Familia (103A)">Discovery Familia (103A)</channel>
+    <channel update="i" site="directv.com" site_id="436#_#3083" xmltv_id="Discovery Familia">Discovery Familia</channel>
+    <channel update="i" site="directv.com" site_id="437#_#408" xmltv_id="TV Chile">TV Chile</channel>
+    <channel update="i" site="directv.com" site_id="437#_#2556" xmltv_id="TV Chile (103A)">TV Chile (103A)</channel>
+    <channel update="i" site="directv.com" site_id="438#_#421" xmltv_id="Ecuavisa Internacional">Ecuavisa Internacional</channel>
+    <channel update="i" site="directv.com" site_id="438#_#5447" xmltv_id="Ecuavisa Internacional (103A)">Ecuavisa Internacional (103A)</channel>
+    <channel update="i" site="directv.com" site_id="439#_#429" xmltv_id="SUR Peru">SUR Peru</channel>
+    <channel update="i" site="directv.com" site_id="439#_#2544" xmltv_id="SUR Peru (103A)">SUR Peru (103A)</channel>
+    <channel update="i" site="directv.com" site_id="440#_#440" xmltv_id="Vme">Vme</channel>
+    <channel update="i" site="directv.com" site_id="440#_#3818" xmltv_id="Vme (103A)">Vme (103A)</channel>
+    <channel update="i" site="directv.com" site_id="441#_#2549" xmltv_id="Azteca America (103A)">Azteca America (103A)</channel>
+    <channel update="i" site="directv.com" site_id="441#_#3510" xmltv_id="Azteca">Azteca</channel>
+    <channel update="i" site="directv.com" site_id="442#_#448" xmltv_id="Estrella TV">Estrella TV</channel>
+    <channel update="i" site="directv.com" site_id="442#_#2550" xmltv_id="Estrella TV (103A)">Estrella TV (103A)</channel>
+    <channel update="i" site="directv.com" site_id="443#_#2554" xmltv_id="History en Espanol (103A)">History en Espanol (103A)</channel>
+    <channel update="i" site="directv.com" site_id="443#_#3475" xmltv_id="History en Espanol">History en Espanol</channel>
+    <channel update="i" site="directv.com" site_id="444#_#3712" xmltv_id="Pasiones (103A)">Pasiones (103A)</channel>
+    <channel update="i" site="directv.com" site_id="444#_#4297" xmltv_id="Pasiones">Pasiones</channel>
+    <channel update="i" site="directv.com" site_id="445#_#416" xmltv_id="Tr3s">Tr3s</channel>
+    <channel update="i" site="directv.com" site_id="445#_#2800" xmltv_id="Tr3S (103A)">Tr3S (103A)</channel>
+    <channel update="i" site="directv.com" site_id="446#_#418" xmltv_id="Canal 22 Mexico Internacional">Canal 22 Mexico Internacional</channel>
+    <channel update="i" site="directv.com" site_id="446#_#6104" xmltv_id="Canal 22 Internacional (103A)">Canal 22 Internacional (103A)</channel>
+    <channel update="i" site="directv.com" site_id="447#_#415" xmltv_id="Canal ONCE">Canal ONCE</channel>
+    <channel update="i" site="directv.com" site_id="447#_#2548" xmltv_id="Canal ONCE (103A)">Canal ONCE (103A)</channel>
+    <channel update="i" site="directv.com" site_id="448#_#3660" xmltv_id="Enlace">Enlace</channel>
+    <channel update="i" site="directv.com" site_id="448#_#3803" xmltv_id="Enlace (103A)">Enlace (103A)</channel>
+    <channel update="i" site="directv.com" site_id="449#_#4557" xmltv_id="Cine Sony (103A)">Cine Sony (103A)</channel>
+    <channel update="i" site="directv.com" site_id="449#_#8854" xmltv_id="Cine Sony">Cine Sony</channel>
+    <channel update="i" site="directv.com" site_id="450#_#3676" xmltv_id="Viendo Movies (103A)">Viendo Movies (103A)</channel>
+    <channel update="i" site="directv.com" site_id="450#_#8952" xmltv_id="ViendoMovies">ViendoMovies</channel>
+    <channel update="i" site="directv.com" site_id="451#_#3880" xmltv_id="De Pelicula (103A)">De Pelicula (103A)</channel>
+    <channel update="i" site="directv.com" site_id="451#_#8402" xmltv_id="De Pelicula">De Pelicula</channel>
+    <channel update="i" site="directv.com" site_id="452#_#2824" xmltv_id="De Pelicula Clasico (103A)">De Pelicula Clasico (103A)</channel>
+    <channel update="i" site="directv.com" site_id="452#_#3000" xmltv_id="De Pelicula Clasico">De Pelicula Clasico</channel>
+    <channel update="i" site="directv.com" site_id="453#_#3439" xmltv_id="FOROtv (103A)">FOROtv (103A)</channel>
+    <channel update="i" site="directv.com" site_id="453#_#6229" xmltv_id="FOROtv">FOROtv</channel>
+    <channel update="i" site="directv.com" site_id="454#_#3757" xmltv_id="Univision telenovelas (103A)">Univision telenovelas (103A)</channel>
+    <channel update="i" site="directv.com" site_id="454#_#6228" xmltv_id="Univision tlnovelas">Univision tlnovelas</channel>
+    <channel update="i" site="directv.com" site_id="455#_#2527" xmltv_id="INFO Temp 7 (103A)">INFO Temp 7 (103A)</channel>
+    <channel update="i" site="directv.com" site_id="455#_#8322" xmltv_id="Infomercial Channel Oferta TV">Infomercial Channel Oferta TV</channel>
+    <channel update="i" site="directv.com" site_id="456#_#578" xmltv_id="ESNE PIO">ESNE PIO</channel>
+    <channel update="i" site="directv.com" site_id="457#_#2819" xmltv_id="Ecuador TV">Ecuador TV</channel>
+    <channel update="i" site="directv.com" site_id="457#_#5441" xmltv_id="Ecuador TV (103A)">Ecuador TV (103A)</channel>
+    <channel update="i" site="directv.com" site_id="458#_#1268" xmltv_id="Antena 3">Antena 3</channel>
+    <channel update="i" site="directv.com" site_id="458#_#3735" xmltv_id="Antena 3 (103A)">Antena 3 (103A)</channel>
+    <channel update="i" site="directv.com" site_id="459#_#2112" xmltv_id="DTV Cinema 459">DTV Cinema 459</channel>
+    <channel update="i" site="directv.com" site_id="460#_#407" xmltv_id="TVE">TVE</channel>
+    <channel update="i" site="directv.com" site_id="460#_#2799" xmltv_id="TVE (103A)">TVE (103A)</channel>
+    <channel update="i" site="directv.com" site_id="461#_#438" xmltv_id="HITN">HITN</channel>
+    <channel update="i" site="directv.com" site_id="461#_#5541" xmltv_id="HITN (103A)">HITN (103A)</channel>
+    <channel update="i" site="directv.com" site_id="462#_#3576" xmltv_id="Cine Mexicano (103A)">Cine Mexicano (103A)</channel>
+    <channel update="i" site="directv.com" site_id="462#_#6012" xmltv_id="Cine Mexicano">Cine Mexicano</channel>
+    <channel update="i" site="directv.com" site_id="464#_#2016" xmltv_id="TUDN HD">TUDN HD</channel>
+    <channel update="i" site="directv.com" site_id="464#_#2021" xmltv_id="TUDN">TUDN</channel>
+    <channel update="i" site="directv.com" site_id="465#_#3296" xmltv_id="FOX Deportes HD">FOX Deportes HD</channel>
+    <channel update="i" site="directv.com" site_id="465#_#425" xmltv_id="FOX Deportes">FOX Deportes</channel>
+    <channel update="i" site="directv.com" site_id="465#_#2557" xmltv_id="FOX Deportes (103A)">FOX Deportes (103A)</channel>
+    <channel update="i" site="directv.com" site_id="466#_#2398" xmltv_id="ESPN Deportes HD (103A)">ESPN Deportes HD (103A)</channel>
+    <channel update="i" site="directv.com" site_id="466#_#8083" xmltv_id="ESPN Deportes HD">ESPN Deportes HD</channel>
+    <channel update="i" site="directv.com" site_id="466#_#432" xmltv_id="ESPN Deportes">ESPN Deportes</channel>
+    <channel update="i" site="directv.com" site_id="466#_#2611" xmltv_id="ESPN Deportes (103A)">ESPN Deportes (103A)</channel>
+    <channel update="i" site="directv.com" site_id="468#_#426" xmltv_id="GolTV">GolTV</channel>
+    <channel update="i" site="directv.com" site_id="468#_#3641" xmltv_id="GolTV (103A)">GolTV (103A)</channel>
+    <channel update="i" site="directv.com" site_id="469#_#427" xmltv_id="TyC Sports">TyC Sports</channel>
+    <channel update="i" site="directv.com" site_id="469#_#5451" xmltv_id="TyC Sports (103A)">TyC Sports (103A)</channel>
+    <channel update="i" site="directv.com" site_id="471#_#5471" xmltv_id="MLS Direct Kick 471 HD">MLS Direct Kick 471 HD</channel>
+    <channel update="i" site="directv.com" site_id="471#_#471" xmltv_id="MLS Direct Kick 471">MLS Direct Kick 471</channel>
+    <channel update="i" site="directv.com" site_id="472#_#5472" xmltv_id="MLS Direct Kick 472 HD">MLS Direct Kick 472 HD</channel>
+    <channel update="i" site="directv.com" site_id="472#_#472" xmltv_id="MLS Direct Kick 472">MLS Direct Kick 472</channel>
+    <channel update="i" site="directv.com" site_id="473#_#5473" xmltv_id="MLS Direct Kick 473 HD">MLS Direct Kick 473 HD</channel>
+    <channel update="i" site="directv.com" site_id="473#_#473" xmltv_id="MLS Direct Kick 473">MLS Direct Kick 473</channel>
+    <channel update="i" site="directv.com" site_id="474#_#5474" xmltv_id="MLS Direct Kick 474 HD">MLS Direct Kick 474 HD</channel>
+    <channel update="i" site="directv.com" site_id="474#_#474" xmltv_id="MLS Direct Kick 474">MLS Direct Kick 474</channel>
+    <channel update="i" site="directv.com" site_id="475#_#5475" xmltv_id="MLS Direct Kick 475 HD">MLS Direct Kick 475 HD</channel>
+    <channel update="i" site="directv.com" site_id="475#_#475" xmltv_id="MLS Direct Kick 475">MLS Direct Kick 475</channel>
+    <channel update="i" site="directv.com" site_id="476#_#5476" xmltv_id="MLS Direct Kick 476 HD">MLS Direct Kick 476 HD</channel>
+    <channel update="i" site="directv.com" site_id="476#_#476" xmltv_id="MLS Direct Kick 476">MLS Direct Kick 476</channel>
+    <channel update="i" site="directv.com" site_id="477#_#455" xmltv_id="MLS Direct Kick 477 HD">MLS Direct Kick 477 HD</channel>
+    <channel update="i" site="directv.com" site_id="477#_#477" xmltv_id="MLS Direct Kick 477">MLS Direct Kick 477</channel>
+    <channel update="i" site="directv.com" site_id="478#_#452" xmltv_id="MLS Direct Kick 478 HD">MLS Direct Kick 478 HD</channel>
+    <channel update="i" site="directv.com" site_id="478#_#478" xmltv_id="MLS Direct Kick 478">MLS Direct Kick 478</channel>
+    <channel update="i" site="directv.com" site_id="479#_#3879" xmltv_id="MLS Direct Kick 479 HD">MLS Direct Kick 479 HD</channel>
+    <channel update="i" site="directv.com" site_id="479#_#479" xmltv_id="MLS Direct Kick 479">MLS Direct Kick 479</channel>
+    <channel update="i" site="directv.com" site_id="480#_#5461" xmltv_id="MLS Direct Kick 480 HD">MLS Direct Kick 480 HD</channel>
+    <channel update="i" site="directv.com" site_id="480#_#461" xmltv_id="MLS Direct Kick 480">MLS Direct Kick 480</channel>
+    <channel update="i" site="directv.com" site_id="481#_#5462" xmltv_id="MLS Direct Kick 481 HD">MLS Direct Kick 481 HD</channel>
+    <channel update="i" site="directv.com" site_id="481#_#462" xmltv_id="MLS Direct Kick 481">MLS Direct Kick 481</channel>
+    <channel update="i" site="directv.com" site_id="482#_#5463" xmltv_id="MLS Direct Kick 482 HD">MLS Direct Kick 482 HD</channel>
+    <channel update="i" site="directv.com" site_id="482#_#463" xmltv_id="MLS Direct Kick 482">MLS Direct Kick 482</channel>
+    <channel update="i" site="directv.com" site_id="496#_#2174" xmltv_id="DTV Cinema 496">DTV Cinema 496</channel>
+    <channel update="i" site="directv.com" site_id="497#_#2175" xmltv_id="DTV Cinema 497 (HD)">DTV Cinema 497 (HD)</channel>
+    <channel update="i" site="directv.com" site_id="500#_#3305" xmltv_id="AUDIENCE (500) HD">AUDIENCE (500) HD</channel>
+    <channel update="i" site="directv.com" site_id="500#_#500" xmltv_id="AUDIENCE (500)">AUDIENCE (500)</channel>
+    <channel update="i" site="directv.com" site_id="501#_#1967" xmltv_id="HBO HD East">HBO HD East</channel>
+    <channel update="i" site="directv.com" site_id="501#_#501" xmltv_id="HBO East">HBO East</channel>
+    <channel update="i" site="directv.com" site_id="502#_#3778" xmltv_id="HBO2 HD East">HBO2 HD East</channel>
+    <channel update="i" site="directv.com" site_id="502#_#502" xmltv_id="HBO 2 East">HBO 2 East</channel>
+    <channel update="i" site="directv.com" site_id="503#_#1786" xmltv_id="HBO Signature HD East">HBO Signature HD East</channel>
+    <channel update="i" site="directv.com" site_id="503#_#503" xmltv_id="HBO Signature">HBO Signature</channel>
+    <channel update="i" site="directv.com" site_id="504#_#8219" xmltv_id="HBO West HD">HBO West HD</channel>
+    <channel update="i" site="directv.com" site_id="504#_#504" xmltv_id="HBO West">HBO West</channel>
+    <channel update="i" site="directv.com" site_id="505#_#3336" xmltv_id="HBO2 West HD">HBO2 West HD</channel>
+    <channel update="i" site="directv.com" site_id="505#_#505" xmltv_id="HBO 2 West">HBO 2 West</channel>
+    <channel update="i" site="directv.com" site_id="506#_#4064" xmltv_id="HBO Comedy HD">HBO Comedy HD</channel>
+    <channel update="i" site="directv.com" site_id="507#_#8973" xmltv_id="HBO Family East HD">HBO Family East HD</channel>
+    <channel update="i" site="directv.com" site_id="507#_#507" xmltv_id="HBO Family East">HBO Family East</channel>
+    <channel update="i" site="directv.com" site_id="508#_#508" xmltv_id="HBO Family West">HBO Family West</channel>
+    <channel update="i" site="directv.com" site_id="509#_#3779" xmltv_id="HBO Zone HD">HBO Zone HD</channel>
+    <channel update="i" site="directv.com" site_id="511#_#4065" xmltv_id="HBO Latino HD">HBO Latino HD</channel>
+    <channel update="i" site="directv.com" site_id="511#_#511" xmltv_id="HBO Latino">HBO Latino</channel>
+    <channel update="i" site="directv.com" site_id="511#_#4441" xmltv_id="HBO Latino (99R)">HBO Latino (99R)</channel>
+    <channel update="i" site="directv.com" site_id="512#_#519" xmltv_id="Sesame Street Fun &amp; Games">Sesame Street Fun &amp; Games</channel>
+    <channel update="i" site="directv.com" site_id="515#_#8214" xmltv_id="Cinemax East HD">Cinemax East HD</channel>
+    <channel update="i" site="directv.com" site_id="515#_#512" xmltv_id="Cinemax">Cinemax</channel>
+    <channel update="i" site="directv.com" site_id="516#_#8267" xmltv_id="Cinemax West HD">Cinemax West HD</channel>
+    <channel update="i" site="directv.com" site_id="516#_#514" xmltv_id="Cinemax West">Cinemax West</channel>
+    <channel update="i" site="directv.com" site_id="517#_#4066" xmltv_id="MoreMAX HD">MoreMAX HD</channel>
+    <channel update="i" site="directv.com" site_id="517#_#513" xmltv_id="MoreMAX">MoreMAX</channel>
+    <channel update="i" site="directv.com" site_id="519#_#4067" xmltv_id="ActionMax HD">ActionMax HD</channel>
+    <channel update="i" site="directv.com" site_id="520#_#3324" xmltv_id="5StarMAX HD">5StarMAX HD</channel>
+    <channel update="i" site="directv.com" site_id="521#_#3339" xmltv_id="MovieMAX">MovieMAX</channel>
+    <channel update="i" site="directv.com" site_id="522#_#4068" xmltv_id="ThrillerMAX HD">ThrillerMAX HD</channel>
+    <channel update="i" site="directv.com" site_id="523#_#3340" xmltv_id="CinemÄx">CinemÄx</channel>
+    <channel update="i" site="directv.com" site_id="525#_#8229" xmltv_id="STARZ East HD">STARZ East HD</channel>
+    <channel update="i" site="directv.com" site_id="525#_#520" xmltv_id="STARZ East">STARZ East</channel>
+    <channel update="i" site="directv.com" site_id="526#_#8228" xmltv_id="STARZ West HD">STARZ West HD</channel>
+    <channel update="i" site="directv.com" site_id="526#_#521" xmltv_id="STARZ West">STARZ West</channel>
+    <channel update="i" site="directv.com" site_id="527#_#8257" xmltv_id="STARZ Kids &amp; Family HD">STARZ Kids &amp; Family HD</channel>
+    <channel update="i" site="directv.com" site_id="528#_#8247" xmltv_id="STARZ Comedy HD">STARZ Comedy HD</channel>
+    <channel update="i" site="directv.com" site_id="529#_#8224" xmltv_id="STARZ Edge HD">STARZ Edge HD</channel>
+    <channel update="i" site="directv.com" site_id="529#_#522" xmltv_id="STARZ Edge">STARZ Edge</channel>
+    <channel update="i" site="directv.com" site_id="530#_#3786" xmltv_id="STARZ in Black HD">STARZ in Black HD</channel>
+    <channel update="i" site="directv.com" site_id="530#_#523" xmltv_id="STARZ in Black">STARZ in Black</channel>
+    <channel update="i" site="directv.com" site_id="531#_#3784" xmltv_id="STARZ Cinema HD">STARZ Cinema HD</channel>
+    <channel update="i" site="directv.com" site_id="535#_#3777" xmltv_id="STARZ Encore HD">STARZ Encore HD</channel>
+    <channel update="i" site="directv.com" site_id="535#_#526" xmltv_id="STARZ Encore">STARZ Encore</channel>
+    <channel update="i" site="directv.com" site_id="536#_#527" xmltv_id="STARZ Encore West">STARZ Encore West</channel>
+    <channel update="i" site="directv.com" site_id="537#_#528" xmltv_id="STARZ Encore Classic">STARZ Encore Classic</channel>
+    <channel update="i" site="directv.com" site_id="538#_#529" xmltv_id="STARZ Encore Westerns">STARZ Encore Westerns</channel>
+    <channel update="i" site="directv.com" site_id="539#_#530" xmltv_id="STARZ Encore Suspense">STARZ Encore Suspense</channel>
+    <channel update="i" site="directv.com" site_id="540#_#531" xmltv_id="STARZ Encore Black">STARZ Encore Black</channel>
+    <channel update="i" site="directv.com" site_id="541#_#6219" xmltv_id="STARZ Encore Action HD">STARZ Encore Action HD</channel>
+    <channel update="i" site="directv.com" site_id="541#_#532" xmltv_id="STARZ Encore Action">STARZ Encore Action</channel>
+    <channel update="i" site="directv.com" site_id="542#_#533" xmltv_id="STARZ Encore Family">STARZ Encore Family</channel>
+    <channel update="i" site="directv.com" site_id="545#_#1968" xmltv_id="Showtime HD East">Showtime HD East</channel>
+    <channel update="i" site="directv.com" site_id="545#_#537" xmltv_id="Showtime (E)">Showtime (E)</channel>
+    <channel update="i" site="directv.com" site_id="546#_#8234" xmltv_id="Showtime HD West">Showtime HD West</channel>
+    <channel update="i" site="directv.com" site_id="546#_#540" xmltv_id="Showtime (W)">Showtime (W)</channel>
+    <channel update="i" site="directv.com" site_id="547#_#8252" xmltv_id="SHOWTIME 2 HD">SHOWTIME 2 HD</channel>
+    <channel update="i" site="directv.com" site_id="547#_#538" xmltv_id="SHOWTIME 2">SHOWTIME 2</channel>
+    <channel update="i" site="directv.com" site_id="548#_#4224" xmltv_id="Showtime Showcase HD">Showtime Showcase HD</channel>
+    <channel update="i" site="directv.com" site_id="548#_#539" xmltv_id="Showtime Showcase">Showtime Showcase</channel>
+    <channel update="i" site="directv.com" site_id="549#_#4263" xmltv_id="Showtime Extreme HD">Showtime Extreme HD</channel>
+    <channel update="i" site="directv.com" site_id="549#_#542" xmltv_id="Showtime Extreme">Showtime Extreme</channel>
+    <channel update="i" site="directv.com" site_id="550#_#3781" xmltv_id="Showtime Beyond HD">Showtime Beyond HD</channel>
+    <channel update="i" site="directv.com" site_id="551#_#3782" xmltv_id="Showtime Next HD">Showtime Next HD</channel>
+    <channel update="i" site="directv.com" site_id="552#_#3783" xmltv_id="Showtime Women HD">Showtime Women HD</channel>
+    <channel update="i" site="directv.com" site_id="553#_#8239" xmltv_id="The Movie Channel East HD">The Movie Channel East HD</channel>
+    <channel update="i" site="directv.com" site_id="553#_#544" xmltv_id="The Movie Channel East">The Movie Channel East</channel>
+    <channel update="i" site="directv.com" site_id="554#_#545" xmltv_id="The Movie Channel West">The Movie Channel West</channel>
+    <channel update="i" site="directv.com" site_id="555#_#3785" xmltv_id="The Movie Channel Xtra HD">The Movie Channel Xtra HD</channel>
+    <channel update="i" site="directv.com" site_id="556#_#547" xmltv_id="Flix">Flix</channel>
+    <channel update="i" site="directv.com" site_id="557#_#2057" xmltv_id="SundanceTV HD">SundanceTV HD</channel>
+    <channel update="i" site="directv.com" site_id="557#_#549" xmltv_id="SundanceTV">SundanceTV</channel>
+    <channel update="i" site="directv.com" site_id="558#_#534" xmltv_id="EPIX HD">EPIX HD</channel>
+    <channel update="i" site="directv.com" site_id="559#_#535" xmltv_id="EPIX 2 HD">EPIX 2 HD</channel>
+    <channel update="i" site="directv.com" site_id="560#_#536" xmltv_id="EPIX Hits HD">EPIX Hits HD</channel>
+    <channel update="i" site="directv.com" site_id="561#_#1047" xmltv_id="Order EPIX Monthly Service Here!">Order EPIX Monthly Service Here!</channel>
+    <channel update="i" site="directv.com" site_id="562#_#6183" xmltv_id="Dog TV">Dog TV</channel>
+    <channel update="i" site="directv.com" site_id="564#_#3787" xmltv_id="Hallmark Drama HD">Hallmark Drama HD</channel>
+    <channel update="i" site="directv.com" site_id="565#_#3527" xmltv_id="Hallmark Movies &amp; Mysteries">Hallmark Movies &amp; Mysteries</channel>
+    <channel update="i" site="directv.com" site_id="566#_#4210" xmltv_id="HDNET MOVIES">HDNET MOVIES</channel>
+    <channel update="i" site="directv.com" site_id="567#_#8393" xmltv_id="MGM HD">MGM HD</channel>
+    <channel update="i" site="directv.com" site_id="568#_#2184" xmltv_id="Sony Movie Channel HD">Sony Movie Channel HD</channel>
+    <channel update="i" site="directv.com" site_id="570#_#8391" xmltv_id="Smithsonian Channel HD">Smithsonian Channel HD</channel>
+    <channel update="i" site="directv.com" site_id="571#_#4257" xmltv_id="Crime &amp; Investigation HD">Crime &amp; Investigation HD</channel>
+    <channel update="i" site="directv.com" site_id="572#_#8269" xmltv_id="MTV Live HD">MTV Live HD</channel>
+    <channel update="i" site="directv.com" site_id="573#_#3708" xmltv_id="Shorts TV HD">Shorts TV HD</channel>
+    <channel update="i" site="directv.com" site_id="574#_#575" xmltv_id="Commercial Special Events 574">Commercial Special Events 574</channel>
+    <channel update="i" site="directv.com" site_id="575#_#589" xmltv_id="Playboy TV Monthly Offer">Playboy TV Monthly Offer</channel>
+    <channel update="i" site="directv.com" site_id="576#_#8032" xmltv_id="Playboy TV HD">Playboy TV HD</channel>
+    <channel update="i" site="directv.com" site_id="577#_#8453" xmltv_id="Playboy 2 (577)">Playboy 2 (577)</channel>
+    <channel update="i" site="directv.com" site_id="578#_#2333" xmltv_id="Playboy en Espanol 578 (99R)">Playboy en Espanol 578 (99R)</channel>
+    <channel update="i" site="directv.com" site_id="578#_#8978" xmltv_id="Playboy en Espanol (578)">Playboy en Espanol (578)</channel>
+    <channel update="i" site="directv.com" site_id="580#_#459" xmltv_id="BraZZers TV Monthly Offer">BraZZers TV Monthly Offer</channel>
+    <channel update="i" site="directv.com" site_id="581#_#590" xmltv_id="Hustler &amp; Playboy TV Offers">Hustler &amp; Playboy TV Offers</channel>
+    <channel update="i" site="directv.com" site_id="582#_#195" xmltv_id="Adult PPV - Ch. 582">Adult PPV - Ch. 582</channel>
+    <channel update="i" site="directv.com" site_id="584#_#197" xmltv_id="Adult PPV - Ch. 584">Adult PPV - Ch. 584</channel>
+    <channel update="i" site="directv.com" site_id="585#_#584" xmltv_id="Vivid TV Monthly Offer">Vivid TV Monthly Offer</channel>
+    <channel update="i" site="directv.com" site_id="586#_#2248" xmltv_id="Playboy en Espanol">Playboy en Espanol</channel>
+    <channel update="i" site="directv.com" site_id="586#_#4431" xmltv_id="Playboy en Espanol (99R)">Playboy en Espanol (99R)</channel>
+    <channel update="i" site="directv.com" site_id="587#_#587" xmltv_id="Penthouse TV Monthly Offer">Penthouse TV Monthly Offer</channel>
+    <channel update="i" site="directv.com" site_id="588#_#588" xmltv_id="Hustler Monthly Offer">Hustler Monthly Offer</channel>
+    <channel update="i" site="directv.com" site_id="589#_#8979" xmltv_id="Playboy TV HD (589)">Playboy TV HD (589)</channel>
+    <channel update="i" site="directv.com" site_id="590#_#595" xmltv_id="Playboy 2">Playboy 2</channel>
+    <channel update="i" site="directv.com" site_id="591#_#2376" xmltv_id="Adult All Access Pass Ch. 591">Adult All Access Pass Ch. 591</channel>
+    <channel update="i" site="directv.com" site_id="592#_#3452" xmltv_id="Adult All Access Pass Ch. 592">Adult All Access Pass Ch. 592</channel>
+    <channel update="i" site="directv.com" site_id="593#_#593" xmltv_id="Adult Billboard IPPV Ch 593">Adult Billboard IPPV Ch 593</channel>
+    <channel update="i" site="directv.com" site_id="594#_#3702" xmltv_id="Reality Kings">Reality Kings</channel>
+    <channel update="i" site="directv.com" site_id="595#_#3143" xmltv_id="Penthouse TV">Penthouse TV</channel>
+    <channel update="i" site="directv.com" site_id="596#_#596" xmltv_id="Bang U">Bang U</channel>
+    <channel update="i" site="directv.com" site_id="597#_#597" xmltv_id="BraZZers TV">BraZZers TV</channel>
+    <channel update="i" site="directv.com" site_id="598#_#598" xmltv_id="Vivid TV">Vivid TV</channel>
+    <channel update="i" site="directv.com" site_id="599#_#599" xmltv_id="Hustler TV">Hustler TV</channel>
+    <channel update="i" site="directv.com" site_id="600#_#5600" xmltv_id="SPORTS MIX HD (600)">SPORTS MIX HD (600)</channel>
+    <channel update="i" site="directv.com" site_id="602#_#602" xmltv_id="TVG">TVG</channel>
+    <channel update="i" site="directv.com" site_id="603#_#630" xmltv_id="Cowboy Channel">Cowboy Channel</channel>
+    <channel update="i" site="directv.com" site_id="604#_#2612" xmltv_id="Pursuit Channel">Pursuit Channel</channel>
+    <channel update="i" site="directv.com" site_id="605#_#2605" xmltv_id="Sportsman Channel">Sportsman Channel</channel>
+    <channel update="i" site="directv.com" site_id="606#_#603" xmltv_id="Outdoor Channel HD">Outdoor Channel HD</channel>
+    <channel update="i" site="directv.com" site_id="606#_#606" xmltv_id="Outdoor Channel">Outdoor Channel</channel>
+    <channel update="i" site="directv.com" site_id="608#_#2617" xmltv_id="FOX College Sports Alt.">FOX College Sports Alt.</channel>
+    <channel update="i" site="directv.com" site_id="608#_#2623" xmltv_id="FOX College Sports Alt 608-1">FOX College Sports Alt 608-1</channel>
+    <channel update="i" site="directv.com" site_id="608#_#2626" xmltv_id="FOX College Sports Alt 608-2">FOX College Sports Alt 608-2</channel>
+    <channel update="i" site="directv.com" site_id="610#_#5610" xmltv_id="BTN HD">BTN HD</channel>
+    <channel update="i" site="directv.com" site_id="610#_#2610" xmltv_id="BTN">BTN</channel>
+    <channel update="i" site="directv.com" site_id="611#_#3669" xmltv_id="SEC Network HD">SEC Network HD</channel>
+    <channel update="i" site="directv.com" site_id="611#_#4003" xmltv_id="SEC Network">SEC Network</channel>
+    <channel update="i" site="directv.com" site_id="612#_#3911" xmltv_id="ACC Network HD">ACC Network HD</channel>
+    <channel update="i" site="directv.com" site_id="612#_#3910" xmltv_id="ACC Network">ACC Network</channel>
+    <channel update="i" site="directv.com" site_id="614#_#208" xmltv_id="ESPN Classic">ESPN Classic</channel>
+    <channel update="i" site="directv.com" site_id="614#_#1319" xmltv_id="Important Information about ESPN Classic">Important Information about ESPN Classic</channel>
+    <channel update="i" site="directv.com" site_id="615#_#446" xmltv_id="ESPN Goal Line">ESPN Goal Line</channel>
+    <channel update="i" site="directv.com" site_id="618#_#5618" xmltv_id="FOX Sports 2 HD">FOX Sports 2 HD</channel>
+    <channel update="i" site="directv.com" site_id="618#_#2618" xmltv_id="FOX Sports 2">FOX Sports 2</channel>
+    <channel update="i" site="directv.com" site_id="621#_#5621" xmltv_id="FOX Soccer Plus 621-1 HD">FOX Soccer Plus 621-1 HD</channel>
+    <channel update="i" site="directv.com" site_id="621#_#621" xmltv_id="FOX Soccer Plus">FOX Soccer Plus</channel>
+    <channel update="i" site="directv.com" site_id="623#_#8981" xmltv_id="Eleven Sports Network HD">Eleven Sports Network HD</channel>
+    <channel update="i" site="directv.com" site_id="624#_#516" xmltv_id="Olympic Channel HD">Olympic Channel HD</channel>
+    <channel update="i" site="directv.com" site_id="624#_#509" xmltv_id="Olympic Channel">Olympic Channel</channel>
+    <channel update="i" site="directv.com" site_id="628#_#5628" xmltv_id="NESN HD 628">NESN HD 628</channel>
+    <channel update="i" site="directv.com" site_id="628#_#5629" xmltv_id="NESN+ HD (Alternate)">NESN+ HD (Alternate)</channel>
+    <channel update="i" site="directv.com" site_id="628#_#2628" xmltv_id="NESN 628">NESN 628</channel>
+    <channel update="i" site="directv.com" site_id="628#_#2629" xmltv_id="NESN+ (Alternate)">NESN+ (Alternate)</channel>
+    <channel update="i" site="directv.com" site_id="630#_#615" xmltv_id="NBC Sports Boston Alternate HD">NBC Sports Boston Alternate HD</channel>
+    <channel update="i" site="directv.com" site_id="630#_#5630" xmltv_id="NBC Sports Boston HD">NBC Sports Boston HD</channel>
+    <channel update="i" site="directv.com" site_id="630#_#610" xmltv_id="NBC Sports Boston Alternate">NBC Sports Boston Alternate</channel>
+    <channel update="i" site="directv.com" site_id="630#_#2630" xmltv_id="NBC Sports Boston">NBC Sports Boston</channel>
+    <channel update="i" site="directv.com" site_id="631#_#5631" xmltv_id="YES HD 631">YES HD 631</channel>
+    <channel update="i" site="directv.com" site_id="631#_#8264" xmltv_id="YES HD (Alternate)">YES HD (Alternate)</channel>
+    <channel update="i" site="directv.com" site_id="631#_#2631" xmltv_id="Yankee Ent. &amp; Sports (YES) 631">Yankee Ent. &amp; Sports (YES) 631</channel>
+    <channel update="i" site="directv.com" site_id="631#_#2633" xmltv_id="YES (Alternate)">YES (Alternate)</channel>
+    <channel update="i" site="directv.com" site_id="634#_#5634" xmltv_id="Madison Square Garden HD 634">Madison Square Garden HD 634</channel>
+    <channel update="i" site="directv.com" site_id="634#_#2634" xmltv_id="Madison Square Garden 634">Madison Square Garden 634</channel>
+    <channel update="i" site="directv.com" site_id="635#_#2447" xmltv_id="MSG/MSG+ Alternate 635-3 HD">MSG/MSG+ Alternate 635-3 HD</channel>
+    <channel update="i" site="directv.com" site_id="635#_#5635" xmltv_id="MSG Plus HD 635">MSG Plus HD 635</channel>
+    <channel update="i" site="directv.com" site_id="635#_#5636" xmltv_id="MSG/MSG+ Alternate HD 635-1">MSG/MSG+ Alternate HD 635-1</channel>
+    <channel update="i" site="directv.com" site_id="635#_#5637" xmltv_id="MSG/MSG+ Alternate 635-2 HD">MSG/MSG+ Alternate 635-2 HD</channel>
+    <channel update="i" site="directv.com" site_id="635#_#2635" xmltv_id="MSG Plus 635">MSG Plus 635</channel>
+    <channel update="i" site="directv.com" site_id="635#_#2636" xmltv_id="MSG/MSG+ Alternate 635-1">MSG/MSG+ Alternate 635-1</channel>
+    <channel update="i" site="directv.com" site_id="635#_#2637" xmltv_id="MSG/MSG+ Alternate 635-2">MSG/MSG+ Alternate 635-2</channel>
+    <channel update="i" site="directv.com" site_id="635#_#2638" xmltv_id="MSG/MSG+ Alternate 635-3">MSG/MSG+ Alternate 635-3</channel>
+    <channel update="i" site="directv.com" site_id="639#_#5639" xmltv_id="SportsNet New York HD 639">SportsNet New York HD 639</channel>
+    <channel update="i" site="directv.com" site_id="639#_#2639" xmltv_id="SportsNet New York 639">SportsNet New York 639</channel>
+    <channel update="i" site="directv.com" site_id="640#_#5620" xmltv_id="MASN HD">MASN HD</channel>
+    <channel update="i" site="directv.com" site_id="640#_#5641" xmltv_id="Mid Atlantic Sports Net. HD Alt.">Mid Atlantic Sports Net. HD Alt.</channel>
+    <channel update="i" site="directv.com" site_id="640#_#2640" xmltv_id="MASN 640">MASN 640</channel>
+    <channel update="i" site="directv.com" site_id="640#_#2641" xmltv_id="Mid Atlantic Sports Network Alt.">Mid Atlantic Sports Network Alt.</channel>
+    <channel update="i" site="directv.com" site_id="642#_#5642" xmltv_id="NBC Sports Washington HD">NBC Sports Washington HD</channel>
+    <channel update="i" site="directv.com" site_id="642#_#5643" xmltv_id="NBC Sports Washington HD (Alternate)">NBC Sports Washington HD (Alternate)</channel>
+    <channel update="i" site="directv.com" site_id="642#_#2642" xmltv_id="NBC Sports Washington">NBC Sports Washington</channel>
+    <channel update="i" site="directv.com" site_id="642#_#2643" xmltv_id="NBC Sports Washington (Alternate)">NBC Sports Washington (Alternate)</channel>
+    <channel update="i" site="directv.com" site_id="646#_#5644" xmltv_id="FS Tennessee HD (Alternate)">FS Tennessee HD (Alternate)</channel>
+    <channel update="i" site="directv.com" site_id="646#_#5645" xmltv_id="FS Carolinas HD (Alternate)">FS Carolinas HD (Alternate)</channel>
+    <channel update="i" site="directv.com" site_id="646#_#5646" xmltv_id="FSN South HD">FSN South HD</channel>
+    <channel update="i" site="directv.com" site_id="646#_#5647" xmltv_id="FS South Plus HD (Alternate)">FS South Plus HD (Alternate)</channel>
+    <channel update="i" site="directv.com" site_id="646#_#5648" xmltv_id="FS South Alt. HD (Alternate)">FS South Alt. HD (Alternate)</channel>
+    <channel update="i" site="directv.com" site_id="646#_#6145" xmltv_id="FS Tennessee Alternate HD">FS Tennessee Alternate HD</channel>
+    <channel update="i" site="directv.com" site_id="646#_#644" xmltv_id="FS Tennessee (Alternate)">FS Tennessee (Alternate)</channel>
+    <channel update="i" site="directv.com" site_id="646#_#645" xmltv_id="FS Carolinas (Alternate)">FS Carolinas (Alternate)</channel>
+    <channel update="i" site="directv.com" site_id="646#_#2646" xmltv_id="FSN South">FSN South</channel>
+    <channel update="i" site="directv.com" site_id="646#_#2647" xmltv_id="FS South Plus (Alternate)">FS South Plus (Alternate)</channel>
+    <channel update="i" site="directv.com" site_id="646#_#2648" xmltv_id="FS South Alt. (Alternate)">FS South Alt. (Alternate)</channel>
+    <channel update="i" site="directv.com" site_id="646#_#6144" xmltv_id="FS Tennessee Alternate">FS Tennessee Alternate</channel>
+    <channel update="i" site="directv.com" site_id="649#_#616" xmltv_id="Fox Sports Southeast 3 HD (Alternate)">Fox Sports Southeast 3 HD (Alternate)</channel>
+    <channel update="i" site="directv.com" site_id="649#_#5649" xmltv_id="Fox Sports Southeast HD">Fox Sports Southeast HD</channel>
+    <channel update="i" site="directv.com" site_id="649#_#5650" xmltv_id="Fox Sports Southeast HD (Alternate)">Fox Sports Southeast HD (Alternate)</channel>
+    <channel update="i" site="directv.com" site_id="649#_#604" xmltv_id="Fox Sports Southeast 3 (Alternate)">Fox Sports Southeast 3 (Alternate)</channel>
+    <channel update="i" site="directv.com" site_id="649#_#617" xmltv_id="Fox Sports Southeast 2 (Alternate)">Fox Sports Southeast 2 (Alternate)</channel>
+    <channel update="i" site="directv.com" site_id="649#_#618" xmltv_id="Fox Sports Southeast 2 HD (Alternate)">Fox Sports Southeast 2 HD (Alternate)</channel>
+    <channel update="i" site="directv.com" site_id="649#_#2649" xmltv_id="Fox Sports Southeast">Fox Sports Southeast</channel>
+    <channel update="i" site="directv.com" site_id="649#_#2650" xmltv_id="Fox Sports Southeast (Alternate)">Fox Sports Southeast (Alternate)</channel>
+    <channel update="i" site="directv.com" site_id="653#_#5653" xmltv_id="Fox Sports Sun HD">Fox Sports Sun HD</channel>
+    <channel update="i" site="directv.com" site_id="653#_#5656" xmltv_id="Fox Sports Sun  Plus HD (Alternate)">Fox Sports Sun  Plus HD (Alternate)</channel>
+    <channel update="i" site="directv.com" site_id="653#_#2653" xmltv_id="Fox Sports Sun">Fox Sports Sun</channel>
+    <channel update="i" site="directv.com" site_id="653#_#2656" xmltv_id="Fox Sports Sun Plus (Alternate)">Fox Sports Sun Plus (Alternate)</channel>
+    <channel update="i" site="directv.com" site_id="654#_#3774" xmltv_id="FSN Florida HD">FSN Florida HD</channel>
+    <channel update="i" site="directv.com" site_id="654#_#5511" xmltv_id="FS Florida HD (Alternate)">FS Florida HD (Alternate)</channel>
+    <channel update="i" site="directv.com" site_id="654#_#5655" xmltv_id="FS Florida Plus HD (Alternate)">FS Florida Plus HD (Alternate)</channel>
+    <channel update="i" site="directv.com" site_id="654#_#8438" xmltv_id="FS Florida HD (Alternate 2)">FS Florida HD (Alternate 2)</channel>
+    <channel update="i" site="directv.com" site_id="654#_#2654" xmltv_id="FSN Florida">FSN Florida</channel>
+    <channel update="i" site="directv.com" site_id="654#_#2655" xmltv_id="FS Florida Plus (Alternate)">FS Florida Plus (Alternate)</channel>
+    <channel update="i" site="directv.com" site_id="654#_#5510" xmltv_id="FS Florida (Alternate)">FS Florida (Alternate)</channel>
+    <channel update="i" site="directv.com" site_id="654#_#8416" xmltv_id="FS Florida (Alternate 2)">FS Florida (Alternate 2)</channel>
+    <channel update="i" site="directv.com" site_id="659#_#635" xmltv_id="AT&amp;T SportsNet Pittsburgh HD (Alternate 2)">AT&amp;T SportsNet Pittsburgh HD (Alternate 2)</channel>
+    <channel update="i" site="directv.com" site_id="659#_#5659" xmltv_id="AT&amp;T SportsNet Pittsburgh HD">AT&amp;T SportsNet Pittsburgh HD</channel>
+    <channel update="i" site="directv.com" site_id="659#_#619" xmltv_id="AT&amp;T SportsNet Pittsburgh (Alternate)">AT&amp;T SportsNet Pittsburgh (Alternate)</channel>
+    <channel update="i" site="directv.com" site_id="659#_#622" xmltv_id="AT&amp;T SportsNet Pittsburgh HD (Alternate)">AT&amp;T SportsNet Pittsburgh HD (Alternate)</channel>
+    <channel update="i" site="directv.com" site_id="659#_#634" xmltv_id="AT&amp;T SportsNet Pittsburgh (Alternate 2)">AT&amp;T SportsNet Pittsburgh (Alternate 2)</channel>
+    <channel update="i" site="directv.com" site_id="659#_#2659" xmltv_id="AT&amp;T SportsNet Pittsburgh">AT&amp;T SportsNet Pittsburgh</channel>
+    <channel update="i" site="directv.com" site_id="660#_#5660" xmltv_id="FSN Ohio HD">FSN Ohio HD</channel>
+    <channel update="i" site="directv.com" site_id="660#_#623" xmltv_id="FS Ohio (Alternate)">FS Ohio (Alternate)</channel>
+    <channel update="i" site="directv.com" site_id="660#_#624" xmltv_id="FS Ohio HD (Alternate)">FS Ohio HD (Alternate)</channel>
+    <channel update="i" site="directv.com" site_id="660#_#2660" xmltv_id="FSN Ohio">FSN Ohio</channel>
+    <channel update="i" site="directv.com" site_id="661#_#5661" xmltv_id="FSN Cincinnati HD">FSN Cincinnati HD</channel>
+    <channel update="i" site="directv.com" site_id="661#_#625" xmltv_id="FS Cincinnati (Alternate)">FS Cincinnati (Alternate)</channel>
+    <channel update="i" site="directv.com" site_id="661#_#626" xmltv_id="FS Cincinnati HD (Alternate)">FS Cincinnati HD (Alternate)</channel>
+    <channel update="i" site="directv.com" site_id="661#_#2661" xmltv_id="FSN Cincinnati">FSN Cincinnati</channel>
+    <channel update="i" site="directv.com" site_id="662#_#5657" xmltv_id="SportsTime Ohio HD">SportsTime Ohio HD</channel>
+    <channel update="i" site="directv.com" site_id="662#_#2662" xmltv_id="SportsTime Ohio 662">SportsTime Ohio 662</channel>
+    <channel update="i" site="directv.com" site_id="663#_#5663" xmltv_id="FSN Detroit HD">FSN Detroit HD</channel>
+    <channel update="i" site="directv.com" site_id="663#_#5664" xmltv_id="FS Detroit Plus HD (Alternate)">FS Detroit Plus HD (Alternate)</channel>
+    <channel update="i" site="directv.com" site_id="663#_#2663" xmltv_id="FSN Detroit">FSN Detroit</channel>
+    <channel update="i" site="directv.com" site_id="663#_#2664" xmltv_id="FS Detroit Plus (Alternate)">FS Detroit Plus (Alternate)</channel>
+    <channel update="i" site="directv.com" site_id="665#_#5627" xmltv_id="NBC Sports Chicago Plus 2 HD">NBC Sports Chicago Plus 2 HD</channel>
+    <channel update="i" site="directv.com" site_id="665#_#5665" xmltv_id="NBC Sports Chicago HD">NBC Sports Chicago HD</channel>
+    <channel update="i" site="directv.com" site_id="665#_#5666" xmltv_id="NBC Sports Chicago Plus HD">NBC Sports Chicago Plus HD</channel>
+    <channel update="i" site="directv.com" site_id="665#_#2665" xmltv_id="NBC Sports Chicago">NBC Sports Chicago</channel>
+    <channel update="i" site="directv.com" site_id="665#_#2666" xmltv_id="NBC Sports Chicago Plus">NBC Sports Chicago Plus</channel>
+    <channel update="i" site="directv.com" site_id="665#_#2667" xmltv_id="NBC Sports Chicago Plus 2">NBC Sports Chicago Plus 2</channel>
+    <channel update="i" site="directv.com" site_id="668#_#5668" xmltv_id="FSN North HD">FSN North HD</channel>
+    <channel update="i" site="directv.com" site_id="668#_#627" xmltv_id="FS North (Alternate)">FS North (Alternate)</channel>
+    <channel update="i" site="directv.com" site_id="668#_#628" xmltv_id="FS North HD (Alternate)">FS North HD (Alternate)</channel>
+    <channel update="i" site="directv.com" site_id="668#_#2668" xmltv_id="FSN North">FSN North</channel>
+    <channel update="i" site="directv.com" site_id="669#_#2670" xmltv_id="FSN Wisconsin HD">FSN Wisconsin HD</channel>
+    <channel update="i" site="directv.com" site_id="669#_#629" xmltv_id="FS Wisconsin Alternate">FS Wisconsin Alternate</channel>
+    <channel update="i" site="directv.com" site_id="669#_#631" xmltv_id="FS Wisconsin HD Alternate">FS Wisconsin HD Alternate</channel>
+    <channel update="i" site="directv.com" site_id="669#_#6652" xmltv_id="FSN Wisconsin">FSN Wisconsin</channel>
+    <channel update="i" site="directv.com" site_id="671#_#5671" xmltv_id="FSN Midwest HD">FSN Midwest HD</channel>
+    <channel update="i" site="directv.com" site_id="671#_#5672" xmltv_id="FS Kansas City HD (Alternate)">FS Kansas City HD (Alternate)</channel>
+    <channel update="i" site="directv.com" site_id="671#_#5673" xmltv_id="FS Indiana HD (Alternate)">FS Indiana HD (Alternate)</channel>
+    <channel update="i" site="directv.com" site_id="671#_#640" xmltv_id="FS Midwest Plus (Alternate)">FS Midwest Plus (Alternate)</channel>
+    <channel update="i" site="directv.com" site_id="671#_#641" xmltv_id="FS Midwest Plus HD (Alternate)">FS Midwest Plus HD (Alternate)</channel>
+    <channel update="i" site="directv.com" site_id="671#_#642" xmltv_id="FS Midwest (Alternate)">FS Midwest (Alternate)</channel>
+    <channel update="i" site="directv.com" site_id="671#_#643" xmltv_id="FS Midwest HD (Alternate)">FS Midwest HD (Alternate)</channel>
+    <channel update="i" site="directv.com" site_id="671#_#646" xmltv_id="FS Midwest Alt. 2 (Alternate)">FS Midwest Alt. 2 (Alternate)</channel>
+    <channel update="i" site="directv.com" site_id="671#_#647" xmltv_id="FS Midwest Alt. 2 HD (Alternate)">FS Midwest Alt. 2 HD (Alternate)</channel>
+    <channel update="i" site="directv.com" site_id="671#_#2671" xmltv_id="FSN Midwest">FSN Midwest</channel>
+    <channel update="i" site="directv.com" site_id="671#_#2672" xmltv_id="FS Kansas City (Alternate)">FS Kansas City (Alternate)</channel>
+    <channel update="i" site="directv.com" site_id="671#_#2673" xmltv_id="FS Indiana (Alternate)">FS Indiana (Alternate)</channel>
+    <channel update="i" site="directv.com" site_id="674#_#445" xmltv_id="AT&amp;T SportsNet Southwest HD (Alternate)">AT&amp;T SportsNet Southwest HD (Alternate)</channel>
+    <channel update="i" site="directv.com" site_id="674#_#5674" xmltv_id="AT&amp;T SportsNet Southwest HD">AT&amp;T SportsNet Southwest HD</channel>
+    <channel update="i" site="directv.com" site_id="674#_#444" xmltv_id="AT&amp;T SportsNet Southwest (Alternate)">AT&amp;T SportsNet Southwest (Alternate)</channel>
+    <channel update="i" site="directv.com" site_id="674#_#2674" xmltv_id="AT&amp;T SportsNet Southwest">AT&amp;T SportsNet Southwest</channel>
+    <channel update="i" site="directv.com" site_id="675#_#2675" xmltv_id="FSN Oklahoma HD">FSN Oklahoma HD</channel>
+    <channel update="i" site="directv.com" site_id="675#_#6653" xmltv_id="FSN Oklahoma">FSN Oklahoma</channel>
+    <channel update="i" site="directv.com" site_id="676#_#637" xmltv_id="FS Southwest (Alternate) 3 HD">FS Southwest (Alternate) 3 HD</channel>
+    <channel update="i" site="directv.com" site_id="676#_#639" xmltv_id="FS Southwest (Alternate) 4 HD">FS Southwest (Alternate) 4 HD</channel>
+    <channel update="i" site="directv.com" site_id="676#_#5676" xmltv_id="FSN Southwest HD">FSN Southwest HD</channel>
+    <channel update="i" site="directv.com" site_id="676#_#5677" xmltv_id="FS Southwest Plus HD (Alternate)">FS Southwest Plus HD (Alternate)</channel>
+    <channel update="i" site="directv.com" site_id="676#_#5678" xmltv_id="FS New Orleans HD (Alternate)">FS New Orleans HD (Alternate)</channel>
+    <channel update="i" site="directv.com" site_id="676#_#636" xmltv_id="FS Southwest (Alternate) 3">FS Southwest (Alternate) 3</channel>
+    <channel update="i" site="directv.com" site_id="676#_#638" xmltv_id="FS Southwest (Alternate) 4">FS Southwest (Alternate) 4</channel>
+    <channel update="i" site="directv.com" site_id="676#_#648" xmltv_id="FS Southwest (Alternate)">FS Southwest (Alternate)</channel>
+    <channel update="i" site="directv.com" site_id="676#_#649" xmltv_id="FS Southwest HD (Alternate)">FS Southwest HD (Alternate)</channel>
+    <channel update="i" site="directv.com" site_id="676#_#650" xmltv_id="FS Southwest Alt. 2 (Alternate)">FS Southwest Alt. 2 (Alternate)</channel>
+    <channel update="i" site="directv.com" site_id="676#_#651" xmltv_id="FS Southwest 2 HD (Alternate)">FS Southwest 2 HD (Alternate)</channel>
+    <channel update="i" site="directv.com" site_id="676#_#2676" xmltv_id="FSN Southwest">FSN Southwest</channel>
+    <channel update="i" site="directv.com" site_id="676#_#2677" xmltv_id="FS Southwest Plus (Alternate)">FS Southwest Plus (Alternate)</channel>
+    <channel update="i" site="directv.com" site_id="676#_#2678" xmltv_id="FS New Orleans (Alternate)">FS New Orleans (Alternate)</channel>
+    <channel update="i" site="directv.com" site_id="677#_#456" xmltv_id="Longhorn Network HD">Longhorn Network HD</channel>
+    <channel update="i" site="directv.com" site_id="681#_#5681" xmltv_id="Altitude Sports HD">Altitude Sports HD</channel>
+    <channel update="i" site="directv.com" site_id="681#_#5682" xmltv_id="Altitude Sports HD (Alternate)">Altitude Sports HD (Alternate)</channel>
+    <channel update="i" site="directv.com" site_id="681#_#2681" xmltv_id="Altitude Sports">Altitude Sports</channel>
+    <channel update="i" site="directv.com" site_id="681#_#2682" xmltv_id="Altitude Sports (Alternate)">Altitude Sports (Alternate)</channel>
+    <channel update="i" site="directv.com" site_id="683#_#5683" xmltv_id="AT&amp;T SportsNet Rocky Mountain HD">AT&amp;T SportsNet Rocky Mountain HD</channel>
+    <channel update="i" site="directv.com" site_id="683#_#5684" xmltv_id="AT&amp;T SportsNet Rocky Mountain Plus HD (Alternate)">AT&amp;T SportsNet Rocky Mountain Plus HD (Alternate)</channel>
+    <channel update="i" site="directv.com" site_id="683#_#2683" xmltv_id="AT&amp;T SportsNet Rocky Mountain">AT&amp;T SportsNet Rocky Mountain</channel>
+    <channel update="i" site="directv.com" site_id="683#_#2684" xmltv_id="AT&amp;T SportsNet Rocky Mountain Plus (Alternate)">AT&amp;T SportsNet Rocky Mountain Plus (Alternate)</channel>
+    <channel update="i" site="directv.com" site_id="684#_#2657" xmltv_id="AT&amp;T SportsNet Rocky Mountain West HD">AT&amp;T SportsNet Rocky Mountain West HD</channel>
+    <channel update="i" site="directv.com" site_id="684#_#2658" xmltv_id="AT&amp;T SportsNet Rocky Mountain West SD">AT&amp;T SportsNet Rocky Mountain West SD</channel>
+    <channel update="i" site="directv.com" site_id="686#_#5686" xmltv_id="FSN Arizona HD">FSN Arizona HD</channel>
+    <channel update="i" site="directv.com" site_id="686#_#652" xmltv_id="FS Arizona Plus">FS Arizona Plus</channel>
+    <channel update="i" site="directv.com" site_id="686#_#653" xmltv_id="FS Arizona Plus HD">FS Arizona Plus HD</channel>
+    <channel update="i" site="directv.com" site_id="686#_#2686" xmltv_id="FSN Arizona">FSN Arizona</channel>
+    <channel update="i" site="directv.com" site_id="686#_#6644" xmltv_id="FS Arizona (Alternate)">FS Arizona (Alternate)</channel>
+    <channel update="i" site="directv.com" site_id="686#_#6645" xmltv_id="FS Arizona HD (Alternate)">FS Arizona HD (Alternate)</channel>
+    <channel update="i" site="directv.com" site_id="687#_#5687" xmltv_id="ROOT SPORTS Northwest HD">ROOT SPORTS Northwest HD</channel>
+    <channel update="i" site="directv.com" site_id="687#_#2687" xmltv_id="ROOT SPORTS Northwest">ROOT SPORTS Northwest</channel>
+    <channel update="i" site="directv.com" site_id="687#_#2688" xmltv_id="ROOT SPORTS Northwest Plus">ROOT SPORTS Northwest Plus</channel>
+    <channel update="i" site="directv.com" site_id="687#_#5688" xmltv_id="ROOT SPORTS Northwest Plus HD">ROOT SPORTS Northwest Plus HD</channel>
+    <channel update="i" site="directv.com" site_id="691#_#1104" xmltv_id="Spectrum SportsNet HD">Spectrum SportsNet HD</channel>
+    <channel update="i" site="directv.com" site_id="691#_#6655" xmltv_id="Spectrum SportsNet HD (Alternate)">Spectrum SportsNet HD (Alternate)</channel>
+    <channel update="i" site="directv.com" site_id="691#_#1189" xmltv_id="Spectrum SportsNet">Spectrum SportsNet</channel>
+    <channel update="i" site="directv.com" site_id="691#_#6654" xmltv_id="Spectrum SportsNet (Alternate)">Spectrum SportsNet (Alternate)</channel>
+    <channel update="i" site="directv.com" site_id="692#_#5692" xmltv_id="FSN West HD">FSN West HD</channel>
+    <channel update="i" site="directv.com" site_id="692#_#6803" xmltv_id="FSN West HD Alternate 692-1">FSN West HD Alternate 692-1</channel>
+    <channel update="i" site="directv.com" site_id="692#_#2692" xmltv_id="FSN West">FSN West</channel>
+    <channel update="i" site="directv.com" site_id="692#_#6802" xmltv_id="FSN West Alternate 692-1">FSN West Alternate 692-1</channel>
+    <channel update="i" site="directv.com" site_id="693#_#5693" xmltv_id="Prime Ticket HD 693">Prime Ticket HD 693</channel>
+    <channel update="i" site="directv.com" site_id="693#_#654" xmltv_id="Prime Ticket (Alternate)">Prime Ticket (Alternate)</channel>
+    <channel update="i" site="directv.com" site_id="693#_#655" xmltv_id="Prime Ticket HD (Alternate)">Prime Ticket HD (Alternate)</channel>
+    <channel update="i" site="directv.com" site_id="693#_#2693" xmltv_id="Prime Ticket 693">Prime Ticket 693</channel>
+    <channel update="i" site="directv.com" site_id="694#_#8870" xmltv_id="FSN San Diego HD">FSN San Diego HD</channel>
+    <channel update="i" site="directv.com" site_id="694#_#657" xmltv_id="FS San Diego Alt. (Alternate)">FS San Diego Alt. (Alternate)</channel>
+    <channel update="i" site="directv.com" site_id="694#_#700" xmltv_id="FS San Diego Alt. HD (Alternate)">FS San Diego Alt. HD (Alternate)</channel>
+    <channel update="i" site="directv.com" site_id="694#_#8956" xmltv_id="FSN San Diego">FSN San Diego</channel>
+    <channel update="i" site="directv.com" site_id="696#_#3772" xmltv_id="NBC Sports Bay Area HD">NBC Sports Bay Area HD</channel>
+    <channel update="i" site="directv.com" site_id="696#_#5697" xmltv_id="NBC Sports Bay Area Plus HD (Alternate)">NBC Sports Bay Area Plus HD (Alternate)</channel>
+    <channel update="i" site="directv.com" site_id="696#_#6647" xmltv_id="NBC Sports Bay Area Plus HD (Alternate 2)">NBC Sports Bay Area Plus HD (Alternate 2)</channel>
+    <channel update="i" site="directv.com" site_id="696#_#2696" xmltv_id="NBC Sports Bay Area">NBC Sports Bay Area</channel>
+    <channel update="i" site="directv.com" site_id="696#_#2697" xmltv_id="NBC Sports Bay Area Plus (Alternate)">NBC Sports Bay Area Plus (Alternate)</channel>
+    <channel update="i" site="directv.com" site_id="696#_#6646" xmltv_id="NBC Sports Bay Area Plus (Alternate 2)">NBC Sports Bay Area Plus (Alternate 2)</channel>
+    <channel update="i" site="directv.com" site_id="698#_#3773" xmltv_id="NBC Sports California HD">NBC Sports California HD</channel>
+    <channel update="i" site="directv.com" site_id="698#_#5699" xmltv_id="NBC Sports California HD (Alternate)">NBC Sports California HD (Alternate)</channel>
+    <channel update="i" site="directv.com" site_id="698#_#2698" xmltv_id="NBC Sports California">NBC Sports California</channel>
+    <channel update="i" site="directv.com" site_id="698#_#2699" xmltv_id="NBC Sports California  (Alternate)">NBC Sports California  (Alternate)</channel>
+    <channel update="i" site="directv.com" site_id="701#_#5701" xmltv_id="NFL Sunday Ticket 701 HD">NFL Sunday Ticket 701 HD</channel>
+    <channel update="i" site="directv.com" site_id="702#_#5702" xmltv_id="NFL Sunday Ticket 702 HD">NFL Sunday Ticket 702 HD</channel>
+    <channel update="i" site="directv.com" site_id="703#_#5703" xmltv_id="Red Zone 703 HD">Red Zone 703 HD</channel>
+    <channel update="i" site="directv.com" site_id="704#_#5704" xmltv_id="Fantasy Zone 704 HD">Fantasy Zone 704 HD</channel>
+    <channel update="i" site="directv.com" site_id="705#_#5705" xmltv_id="NFL Sunday Ticket 705 HD">NFL Sunday Ticket 705 HD</channel>
+    <channel update="i" site="directv.com" site_id="705#_#705" xmltv_id="NFL Sunday Ticket 705">NFL Sunday Ticket 705</channel>
+    <channel update="i" site="directv.com" site_id="706#_#5706" xmltv_id="NFL Sunday Ticket 706 HD">NFL Sunday Ticket 706 HD</channel>
+    <channel update="i" site="directv.com" site_id="706#_#706" xmltv_id="NFL Sunday Ticket 706">NFL Sunday Ticket 706</channel>
+    <channel update="i" site="directv.com" site_id="707#_#5707" xmltv_id="NFL Sunday Ticket 707 HD">NFL Sunday Ticket 707 HD</channel>
+    <channel update="i" site="directv.com" site_id="707#_#707" xmltv_id="NFL Sunday Ticket 707">NFL Sunday Ticket 707</channel>
+    <channel update="i" site="directv.com" site_id="708#_#5708" xmltv_id="NFL Sunday Ticket 708 HD">NFL Sunday Ticket 708 HD</channel>
+    <channel update="i" site="directv.com" site_id="708#_#708" xmltv_id="NFL Sunday Ticket 708">NFL Sunday Ticket 708</channel>
+    <channel update="i" site="directv.com" site_id="709#_#5709" xmltv_id="NFL Sunday Ticket 709 HD">NFL Sunday Ticket 709 HD</channel>
+    <channel update="i" site="directv.com" site_id="709#_#709" xmltv_id="NFL Sunday Ticket 709">NFL Sunday Ticket 709</channel>
+    <channel update="i" site="directv.com" site_id="710#_#5710" xmltv_id="NFL Sunday Ticket 710 HD">NFL Sunday Ticket 710 HD</channel>
+    <channel update="i" site="directv.com" site_id="710#_#710" xmltv_id="NFL Sunday Ticket 710">NFL Sunday Ticket 710</channel>
+    <channel update="i" site="directv.com" site_id="711#_#711" xmltv_id="NFL Sunday Ticket 711">NFL Sunday Ticket 711</channel>
+    <channel update="i" site="directv.com" site_id="711#_#5711" xmltv_id="NFL Sunday Ticket 711 HD">NFL Sunday Ticket 711 HD</channel>
+    <channel update="i" site="directv.com" site_id="712#_#5712" xmltv_id="NFL Sunday Ticket 712 HD">NFL Sunday Ticket 712 HD</channel>
+    <channel update="i" site="directv.com" site_id="712#_#712" xmltv_id="NFL Sunday Ticket 712">NFL Sunday Ticket 712</channel>
+    <channel update="i" site="directv.com" site_id="713#_#5713" xmltv_id="NFL Sunday Ticket 713 HD">NFL Sunday Ticket 713 HD</channel>
+    <channel update="i" site="directv.com" site_id="713#_#713" xmltv_id="NFL Sunday Ticket 713">NFL Sunday Ticket 713</channel>
+    <channel update="i" site="directv.com" site_id="714#_#5714" xmltv_id="NFL Sunday Ticket 714  HD">NFL Sunday Ticket 714  HD</channel>
+    <channel update="i" site="directv.com" site_id="714#_#714" xmltv_id="NFL Sunday Ticket 714">NFL Sunday Ticket 714</channel>
+    <channel update="i" site="directv.com" site_id="715#_#5715" xmltv_id="NFL Sunday Ticket 715 HD">NFL Sunday Ticket 715 HD</channel>
+    <channel update="i" site="directv.com" site_id="715#_#715" xmltv_id="NFL Sunday Ticket 715">NFL Sunday Ticket 715</channel>
+    <channel update="i" site="directv.com" site_id="716#_#5716" xmltv_id="NFL Sunday Ticket 716 HD">NFL Sunday Ticket 716 HD</channel>
+    <channel update="i" site="directv.com" site_id="716#_#716" xmltv_id="NFL Sunday Ticket 716">NFL Sunday Ticket 716</channel>
+    <channel update="i" site="directv.com" site_id="717#_#5717" xmltv_id="NFL Sunday Ticket 717 HD">NFL Sunday Ticket 717 HD</channel>
+    <channel update="i" site="directv.com" site_id="717#_#717" xmltv_id="NFL Sunday Ticket 717">NFL Sunday Ticket 717</channel>
+    <channel update="i" site="directv.com" site_id="718#_#718" xmltv_id="NFL Sunday Ticket 718">NFL Sunday Ticket 718</channel>
+    <channel update="i" site="directv.com" site_id="718#_#5718" xmltv_id="NFL Sunday Ticket 718 HD">NFL Sunday Ticket 718 HD</channel>
+    <channel update="i" site="directv.com" site_id="719#_#5719" xmltv_id="NFL Sunday Ticket 719 HD">NFL Sunday Ticket 719 HD</channel>
+    <channel update="i" site="directv.com" site_id="719#_#719" xmltv_id="NFL Sunday Ticket 719">NFL Sunday Ticket 719</channel>
+    <channel update="i" site="directv.com" site_id="750#_#5750" xmltv_id="NBA League Pass 750 HD">NBA League Pass 750 HD</channel>
+    <channel update="i" site="directv.com" site_id="750#_#750" xmltv_id="NBA League Pass 750">NBA League Pass 750</channel>
+    <channel update="i" site="directv.com" site_id="751#_#5751" xmltv_id="NBA League Pass 751 HD">NBA League Pass 751 HD</channel>
+    <channel update="i" site="directv.com" site_id="751#_#751" xmltv_id="NBA League Pass 751">NBA League Pass 751</channel>
+    <channel update="i" site="directv.com" site_id="752#_#5752" xmltv_id="NBA League Pass 752 HD">NBA League Pass 752 HD</channel>
+    <channel update="i" site="directv.com" site_id="752#_#752" xmltv_id="NBA League Pass 752">NBA League Pass 752</channel>
+    <channel update="i" site="directv.com" site_id="753#_#5753" xmltv_id="NBA League Pass 753 HD">NBA League Pass 753 HD</channel>
+    <channel update="i" site="directv.com" site_id="753#_#753" xmltv_id="NBA League Pass 753">NBA League Pass 753</channel>
+    <channel update="i" site="directv.com" site_id="754#_#5754" xmltv_id="NBA League Pass 754 HD">NBA League Pass 754 HD</channel>
+    <channel update="i" site="directv.com" site_id="754#_#754" xmltv_id="NBA League Pass 754">NBA League Pass 754</channel>
+    <channel update="i" site="directv.com" site_id="755#_#5755" xmltv_id="NBA League Pass 755 HD">NBA League Pass 755 HD</channel>
+    <channel update="i" site="directv.com" site_id="755#_#755" xmltv_id="NBA League Pass 755">NBA League Pass 755</channel>
+    <channel update="i" site="directv.com" site_id="756#_#5756" xmltv_id="NBA League Pass 756 HD">NBA League Pass 756 HD</channel>
+    <channel update="i" site="directv.com" site_id="756#_#756" xmltv_id="NBA League Pass 756">NBA League Pass 756</channel>
+    <channel update="i" site="directv.com" site_id="757#_#5757" xmltv_id="NBA League Pass 757 HD">NBA League Pass 757 HD</channel>
+    <channel update="i" site="directv.com" site_id="757#_#757" xmltv_id="NBA League Pass 757">NBA League Pass 757</channel>
+    <channel update="i" site="directv.com" site_id="758#_#5758" xmltv_id="NBA League Pass 758 HD">NBA League Pass 758 HD</channel>
+    <channel update="i" site="directv.com" site_id="758#_#758" xmltv_id="NBA League Pass 758">NBA League Pass 758</channel>
+    <channel update="i" site="directv.com" site_id="759#_#5759" xmltv_id="NBA League Pass 759 HD">NBA League Pass 759 HD</channel>
+    <channel update="i" site="directv.com" site_id="759#_#759" xmltv_id="NBA League Pass 759">NBA League Pass 759</channel>
+    <channel update="i" site="directv.com" site_id="760#_#5760" xmltv_id="NBA League Pass 760 HD">NBA League Pass 760 HD</channel>
+    <channel update="i" site="directv.com" site_id="760#_#760" xmltv_id="NBA League Pass 760">NBA League Pass 760</channel>
+    <channel update="i" site="directv.com" site_id="761#_#5761" xmltv_id="NBA League Pass 761 HD">NBA League Pass 761 HD</channel>
+    <channel update="i" site="directv.com" site_id="761#_#761" xmltv_id="NBA League Pass 761">NBA League Pass 761</channel>
+    <channel update="i" site="directv.com" site_id="762#_#5762" xmltv_id="NBA League Pass 762 HD">NBA League Pass 762 HD</channel>
+    <channel update="i" site="directv.com" site_id="762#_#762" xmltv_id="NBA League Pass 762">NBA League Pass 762</channel>
+    <channel update="i" site="directv.com" site_id="763#_#5763" xmltv_id="NBA League Pass 763 HD">NBA League Pass 763 HD</channel>
+    <channel update="i" site="directv.com" site_id="763#_#763" xmltv_id="NBA League Pass 763">NBA League Pass 763</channel>
+    <channel update="i" site="directv.com" site_id="764#_#5764" xmltv_id="NBA League Pass 764 HD">NBA League Pass 764 HD</channel>
+    <channel update="i" site="directv.com" site_id="764#_#764" xmltv_id="NBA League Pass 764">NBA League Pass 764</channel>
+    <channel update="i" site="directv.com" site_id="765#_#5765" xmltv_id="NBA League Pass 765 HD">NBA League Pass 765 HD</channel>
+    <channel update="i" site="directv.com" site_id="765#_#765" xmltv_id="NBA League Pass 765">NBA League Pass 765</channel>
+    <channel update="i" site="directv.com" site_id="766#_#5766" xmltv_id="NBA League Pass 766 HD">NBA League Pass 766 HD</channel>
+    <channel update="i" site="directv.com" site_id="766#_#766" xmltv_id="NBA League Pass 766">NBA League Pass 766</channel>
+    <channel update="i" site="directv.com" site_id="767#_#5767" xmltv_id="NBA League Pass 767 HD">NBA League Pass 767 HD</channel>
+    <channel update="i" site="directv.com" site_id="767#_#767" xmltv_id="NBA League Pass 767">NBA League Pass 767</channel>
+    <channel update="i" site="directv.com" site_id="768#_#5768" xmltv_id="NBA League Pass 768 HD">NBA League Pass 768 HD</channel>
+    <channel update="i" site="directv.com" site_id="768#_#768" xmltv_id="NBA League Pass 768">NBA League Pass 768</channel>
+    <channel update="i" site="directv.com" site_id="769#_#5769" xmltv_id="NHL Center Ice 769-1 HD">NHL Center Ice 769-1 HD</channel>
+    <channel update="i" site="directv.com" site_id="769#_#769" xmltv_id="NHL Center Ice 769">NHL Center Ice 769</channel>
+    <channel update="i" site="directv.com" site_id="770#_#5770" xmltv_id="NHL Center Ice 770-1 HD">NHL Center Ice 770-1 HD</channel>
+    <channel update="i" site="directv.com" site_id="770#_#770" xmltv_id="NHL Center Ice 770">NHL Center Ice 770</channel>
+    <channel update="i" site="directv.com" site_id="771#_#5771" xmltv_id="NHL Center Ice 771-1 HD">NHL Center Ice 771-1 HD</channel>
+    <channel update="i" site="directv.com" site_id="771#_#771" xmltv_id="NHL Center Ice 771">NHL Center Ice 771</channel>
+    <channel update="i" site="directv.com" site_id="772#_#5772" xmltv_id="NHL Center Ice 772-1 HD">NHL Center Ice 772-1 HD</channel>
+    <channel update="i" site="directv.com" site_id="772#_#772" xmltv_id="NHL Center Ice 772">NHL Center Ice 772</channel>
+    <channel update="i" site="directv.com" site_id="773#_#5773" xmltv_id="NHL Center Ice 773-1 HD">NHL Center Ice 773-1 HD</channel>
+    <channel update="i" site="directv.com" site_id="773#_#773" xmltv_id="NHL Center Ice 773">NHL Center Ice 773</channel>
+    <channel update="i" site="directv.com" site_id="774#_#5774" xmltv_id="NHL Center Ice 774-1 HD">NHL Center Ice 774-1 HD</channel>
+    <channel update="i" site="directv.com" site_id="774#_#774" xmltv_id="NHL Center Ice 774">NHL Center Ice 774</channel>
+    <channel update="i" site="directv.com" site_id="775#_#5775" xmltv_id="NHL Center Ice 775-1 HD">NHL Center Ice 775-1 HD</channel>
+    <channel update="i" site="directv.com" site_id="775#_#775" xmltv_id="NHL Center Ice 775">NHL Center Ice 775</channel>
+    <channel update="i" site="directv.com" site_id="776#_#5776" xmltv_id="NHL Center Ice 776-1 HD">NHL Center Ice 776-1 HD</channel>
+    <channel update="i" site="directv.com" site_id="776#_#776" xmltv_id="NHL Center Ice 776">NHL Center Ice 776</channel>
+    <channel update="i" site="directv.com" site_id="777#_#5777" xmltv_id="NHL Center Ice 777-1 HD">NHL Center Ice 777-1 HD</channel>
+    <channel update="i" site="directv.com" site_id="777#_#777" xmltv_id="NHL Center Ice 777">NHL Center Ice 777</channel>
+    <channel update="i" site="directv.com" site_id="778#_#5778" xmltv_id="NHL Center Ice 778-1 HD">NHL Center Ice 778-1 HD</channel>
+    <channel update="i" site="directv.com" site_id="778#_#778" xmltv_id="NHL Center Ice 778">NHL Center Ice 778</channel>
+    <channel update="i" site="directv.com" site_id="779#_#5779" xmltv_id="NHL Center Ice 779-1 HD">NHL Center Ice 779-1 HD</channel>
+    <channel update="i" site="directv.com" site_id="779#_#779" xmltv_id="NHL Center Ice 779">NHL Center Ice 779</channel>
+    <channel update="i" site="directv.com" site_id="780#_#5780" xmltv_id="NHL Center Ice 780-1 HD">NHL Center Ice 780-1 HD</channel>
+    <channel update="i" site="directv.com" site_id="780#_#780" xmltv_id="NHL Center Ice 780">NHL Center Ice 780</channel>
+    <channel update="i" site="directv.com" site_id="781#_#5781" xmltv_id="NHL Center Ice 781-1 HD">NHL Center Ice 781-1 HD</channel>
+    <channel update="i" site="directv.com" site_id="781#_#781" xmltv_id="NHL Center Ice 781">NHL Center Ice 781</channel>
+    <channel update="i" site="directv.com" site_id="782#_#5782" xmltv_id="NHL Center Ice 782-1 HD">NHL Center Ice 782-1 HD</channel>
+    <channel update="i" site="directv.com" site_id="782#_#782" xmltv_id="NHL Center Ice 782">NHL Center Ice 782</channel>
+    <channel update="i" site="directv.com" site_id="783#_#5783" xmltv_id="NHL Center Ice 783-1 HD">NHL Center Ice 783-1 HD</channel>
+    <channel update="i" site="directv.com" site_id="783#_#783" xmltv_id="NHL Center Ice 783">NHL Center Ice 783</channel>
+    <channel update="i" site="directv.com" site_id="784#_#5784" xmltv_id="NHL Center Ice 784-1 HD">NHL Center Ice 784-1 HD</channel>
+    <channel update="i" site="directv.com" site_id="784#_#784" xmltv_id="NHL Center Ice 784">NHL Center Ice 784</channel>
+    <channel update="i" site="directv.com" site_id="785#_#5785" xmltv_id="NHL Center Ice 785-1 HD">NHL Center Ice 785-1 HD</channel>
+    <channel update="i" site="directv.com" site_id="785#_#785" xmltv_id="NHL Center Ice 785">NHL Center Ice 785</channel>
+    <channel update="i" site="directv.com" site_id="786#_#5786" xmltv_id="NHL Center Ice 786-1 HD">NHL Center Ice 786-1 HD</channel>
+    <channel update="i" site="directv.com" site_id="786#_#786" xmltv_id="NHL Center Ice 786">NHL Center Ice 786</channel>
+    <channel update="i" site="directv.com" site_id="787#_#5787" xmltv_id="NHL Center Ice 787-1 HD">NHL Center Ice 787-1 HD</channel>
+    <channel update="i" site="directv.com" site_id="787#_#787" xmltv_id="NHL Center Ice 787">NHL Center Ice 787</channel>
+    <channel update="i" site="directv.com" site_id="788#_#788" xmltv_id="ESPN College Extra 788 HD">ESPN College Extra 788 HD</channel>
+    <channel update="i" site="directv.com" site_id="789#_#789" xmltv_id="ESPN College Extra 789 HD">ESPN College Extra 789 HD</channel>
+    <channel update="i" site="directv.com" site_id="790#_#790" xmltv_id="ESPN College Extra 790 HD">ESPN College Extra 790 HD</channel>
+    <channel update="i" site="directv.com" site_id="791#_#791" xmltv_id="ESPN College Extra 791 HD">ESPN College Extra 791 HD</channel>
+    <channel update="i" site="directv.com" site_id="792#_#792" xmltv_id="ESPN College Extra 792 HD">ESPN College Extra 792 HD</channel>
+    <channel update="i" site="directv.com" site_id="793#_#793" xmltv_id="ESPN College Extra 793 HD">ESPN College Extra 793 HD</channel>
+    <channel update="i" site="directv.com" site_id="794#_#794" xmltv_id="ESPN College Extra 794 HD">ESPN College Extra 794 HD</channel>
+    <channel update="i" site="directv.com" site_id="795#_#795" xmltv_id="ESPN College Extra 795 HD">ESPN College Extra 795 HD</channel>
+    <channel update="i" site="directv.com" site_id="796#_#796" xmltv_id="ESPN College Extra 796 HD">ESPN College Extra 796 HD</channel>
+    <channel update="i" site="directv.com" site_id="797#_#2797" xmltv_id="ESPN College Extra 797 HD">ESPN College Extra 797 HD</channel>
+    <channel update="i" site="directv.com" site_id="798#_#6138" xmltv_id="ESPN College Extra 798 HD">ESPN College Extra 798 HD</channel>
+    <channel update="i" site="directv.com" site_id="799#_#2156" xmltv_id="iHeartRADIO">iHeartRADIO</channel>
+    <channel update="i" site="directv.com" site_id="800#_#3821" xmltv_id="Music Choice TV">Music Choice TV</channel>
+    <channel update="i" site="directv.com" site_id="801#_#2200" xmltv_id="Music Choice Big Band">Music Choice Big Band</channel>
+    <channel update="i" site="directv.com" site_id="802#_#2201" xmltv_id="Music Choice Malt Shop Favorites">Music Choice Malt Shop Favorites</channel>
+    <channel update="i" site="directv.com" site_id="803#_#2202" xmltv_id="Music Choice '60s Movement">Music Choice '60s Movement</channel>
+    <channel update="i" site="directv.com" site_id="804#_#2203" xmltv_id="Music Choice '70s">Music Choice '70s</channel>
+    <channel update="i" site="directv.com" site_id="805#_#2204" xmltv_id="Music Choice '80s">Music Choice '80s</channel>
+    <channel update="i" site="directv.com" site_id="806#_#2205" xmltv_id="Music Choice '90s">Music Choice '90s</channel>
+    <channel update="i" site="directv.com" site_id="807#_#3026" xmltv_id="Music Choice Singers &amp; Swing (103A)">Music Choice Singers &amp; Swing (103A)</channel>
+    <channel update="i" site="directv.com" site_id="807#_#3682" xmltv_id="Music Choice Singers &amp; Swing">Music Choice Singers &amp; Swing</channel>
+    <channel update="i" site="directv.com" site_id="808#_#2206" xmltv_id="Music Choice Classic Country">Music Choice Classic Country</channel>
+    <channel update="i" site="directv.com" site_id="809#_#2207" xmltv_id="Music Choice Country Hits">Music Choice Country Hits</channel>
+    <channel update="i" site="directv.com" site_id="810#_#2208" xmltv_id="Music Choice Americana">Music Choice Americana</channel>
+    <channel update="i" site="directv.com" site_id="811#_#2209" xmltv_id="Music Choice Honky Tonk">Music Choice Honky Tonk</channel>
+    <channel update="i" site="directv.com" site_id="812#_#2210" xmltv_id="Music Choice Bluegrass">Music Choice Bluegrass</channel>
+    <channel update="i" site="directv.com" site_id="813#_#2211" xmltv_id="Music Choice Folk">Music Choice Folk</channel>
+    <channel update="i" site="directv.com" site_id="814#_#2212" xmltv_id="Music Choice Today's Country">Music Choice Today's Country</channel>
+    <channel update="i" site="directv.com" site_id="815#_#3683" xmltv_id="Music Choice Sounds of the Seasons">Music Choice Sounds of the Seasons</channel>
+    <channel update="i" site="directv.com" site_id="815#_#6137" xmltv_id="Music Choice Sounds of the Seasons (103A)">Music Choice Sounds of the Seasons (103A)</channel>
+    <channel update="i" site="directv.com" site_id="816#_#2213" xmltv_id="Music Choice Hit List">Music Choice Hit List</channel>
+    <channel update="i" site="directv.com" site_id="817#_#2214" xmltv_id="Music Choice Y2K">Music Choice Y2K</channel>
+    <channel update="i" site="directv.com" site_id="818#_#2215" xmltv_id="Music Choice Max">Music Choice Max</channel>
+    <channel update="i" site="directv.com" site_id="819#_#2216" xmltv_id="Music Choice Love Songs">Music Choice Love Songs</channel>
+    <channel update="i" site="directv.com" site_id="820#_#2217" xmltv_id="Music Choice Contemporary Instrumentals">Music Choice Contemporary Instrumentals</channel>
+    <channel update="i" site="directv.com" site_id="821#_#2218" xmltv_id="Music Choice Pop Hits">Music Choice Pop Hits</channel>
+    <channel update="i" site="directv.com" site_id="822#_#2219" xmltv_id="Music Choice Movie Scores">Music Choice Movie Scores</channel>
+    <channel update="i" site="directv.com" site_id="823#_#2220" xmltv_id="Music Choice Broadway">Music Choice Broadway</channel>
+    <channel update="i" site="directv.com" site_id="824#_#3294" xmltv_id="Music Choice Lounge (103A)">Music Choice Lounge (103A)</channel>
+    <channel update="i" site="directv.com" site_id="824#_#3686" xmltv_id="Music Choice Lounge">Music Choice Lounge</channel>
+    <channel update="i" site="directv.com" site_id="825#_#2222" xmltv_id="Music Choice Hip-Hop And R&amp;B">Music Choice Hip-Hop And R&amp;B</channel>
+    <channel update="i" site="directv.com" site_id="826#_#2223" xmltv_id="Music Choice Contemporary Christian">Music Choice Contemporary Christian</channel>
+    <channel update="i" site="directv.com" site_id="827#_#2224" xmltv_id="Music Choice Gospel">Music Choice Gospel</channel>
+    <channel update="i" site="directv.com" site_id="828#_#2225" xmltv_id="Music Choice Gospel Hallelujah">Music Choice Gospel Hallelujah</channel>
+    <channel update="i" site="directv.com" site_id="829#_#8016" xmltv_id="Music Choice '80s Rock">Music Choice '80s Rock</channel>
+    <channel update="i" site="directv.com" site_id="830#_#2227" xmltv_id="Music Choice Metal">Music Choice Metal</channel>
+    <channel update="i" site="directv.com" site_id="831#_#2228" xmltv_id="Music Choice Indie">Music Choice Indie</channel>
+    <channel update="i" site="directv.com" site_id="832#_#2229" xmltv_id="Music Choice Adult Alternative">Music Choice Adult Alternative</channel>
+    <channel update="i" site="directv.com" site_id="833#_#2230" xmltv_id="Music Choice Classic Rock">Music Choice Classic Rock</channel>
+    <channel update="i" site="directv.com" site_id="834#_#2231" xmltv_id="Music Choice Alternative">Music Choice Alternative</channel>
+    <channel update="i" site="directv.com" site_id="835#_#2232" xmltv_id="Music Choice Hard Rock">Music Choice Hard Rock</channel>
+    <channel update="i" site="directv.com" site_id="836#_#2233" xmltv_id="Music Choice Coffee Shop Cuts">Music Choice Coffee Shop Cuts</channel>
+    <channel update="i" site="directv.com" site_id="837#_#2234" xmltv_id="Music Choice Rock Hits">Music Choice Rock Hits</channel>
+    <channel update="i" site="directv.com" site_id="838#_#2235" xmltv_id="Music Choice Classic Alternative">Music Choice Classic Alternative</channel>
+    <channel update="i" site="directv.com" site_id="839#_#2236" xmltv_id="Music Choice New Wave">Music Choice New Wave</channel>
+    <channel update="i" site="directv.com" site_id="840#_#2226" xmltv_id="Music Choice Pop &amp; Country">Music Choice Pop &amp; Country</channel>
+    <channel update="i" site="directv.com" site_id="841#_#2270" xmltv_id="Music Choice Rock">Music Choice Rock</channel>
+    <channel update="i" site="directv.com" site_id="842#_#2237" xmltv_id="Music Choice R&amp;B Classics">Music Choice R&amp;B Classics</channel>
+    <channel update="i" site="directv.com" site_id="843#_#2239" xmltv_id="Music Choice R&amp;B Soul">Music Choice R&amp;B Soul</channel>
+    <channel update="i" site="directv.com" site_id="844#_#2240" xmltv_id="Music Choice Funk">Music Choice Funk</channel>
+    <channel update="i" site="directv.com" site_id="845#_#8440" xmltv_id="Music Choice Classic Dance">Music Choice Classic Dance</channel>
+    <channel update="i" site="directv.com" site_id="846#_#8441" xmltv_id="Music Choice Rap">Music Choice Rap</channel>
+    <channel update="i" site="directv.com" site_id="847#_#2243" xmltv_id="Music Choice Mainstream Rap">Music Choice Mainstream Rap</channel>
+    <channel update="i" site="directv.com" site_id="848#_#8017" xmltv_id="Music Choice Throwback Jamz">Music Choice Throwback Jamz</channel>
+    <channel update="i" site="directv.com" site_id="849#_#1938" xmltv_id="Music Choice Soft Rock">Music Choice Soft Rock</channel>
+    <channel update="i" site="directv.com" site_id="850#_#2245" xmltv_id="Music Choice Jazz Vocal Hits">Music Choice Jazz Vocal Hits</channel>
+    <channel update="i" site="directv.com" site_id="851#_#2246" xmltv_id="Music Choice Smooth Jazz">Music Choice Smooth Jazz</channel>
+    <channel update="i" site="directv.com" site_id="852#_#3703" xmltv_id="Music Choice Jazz">Music Choice Jazz</channel>
+    <channel update="i" site="directv.com" site_id="852#_#4147" xmltv_id="Music Choice Jazz (103A)">Music Choice Jazz (103A)</channel>
+    <channel update="i" site="directv.com" site_id="853#_#3704" xmltv_id="Music Choice Easy Listening">Music Choice Easy Listening</channel>
+    <channel update="i" site="directv.com" site_id="853#_#4138" xmltv_id="Music Choice Easy Listening (103A)">Music Choice Easy Listening (103A)</channel>
+    <channel update="i" site="directv.com" site_id="854#_#2249" xmltv_id="Music Choice Blues">Music Choice Blues</channel>
+    <channel update="i" site="directv.com" site_id="855#_#3705" xmltv_id="Music Choice Jazz Vocal Standards">Music Choice Jazz Vocal Standards</channel>
+    <channel update="i" site="directv.com" site_id="855#_#5497" xmltv_id="Music Choice Jazz Vocal Standards (103A)">Music Choice Jazz Vocal Standards (103A)</channel>
+    <channel update="i" site="directv.com" site_id="856#_#2251" xmltv_id="Music Choice New Age">Music Choice New Age</channel>
+    <channel update="i" site="directv.com" site_id="857#_#2271" xmltv_id="Music Choice Soundscapes">Music Choice Soundscapes</channel>
+    <channel update="i" site="directv.com" site_id="858#_#2252" xmltv_id="Music Choice Classic Christmas">Music Choice Classic Christmas</channel>
+    <channel update="i" site="directv.com" site_id="859#_#2253" xmltv_id="Music Choice Dance/EDM">Music Choice Dance/EDM</channel>
+    <channel update="i" site="directv.com" site_id="860#_#4151" xmltv_id="Music Choice Workout">Music Choice Workout</channel>
+    <channel update="i" site="directv.com" site_id="861#_#3027" xmltv_id="Music Choice K-Pop (103A)">Music Choice K-Pop (103A)</channel>
+    <channel update="i" site="directv.com" site_id="861#_#4250" xmltv_id="Music Choice K-Pop">Music Choice K-Pop</channel>
+    <channel update="i" site="directv.com" site_id="862#_#8449" xmltv_id="Music Choice Retro Workout">Music Choice Retro Workout</channel>
+    <channel update="i" site="directv.com" site_id="863#_#2257" xmltv_id="Music Choice Reggae">Music Choice Reggae</channel>
+    <channel update="i" site="directv.com" site_id="864#_#2258" xmltv_id="Music Choice Symphony">Music Choice Symphony</channel>
+    <channel update="i" site="directv.com" site_id="865#_#4150" xmltv_id="Music Choice Classical Masterpieces (103A)">Music Choice Classical Masterpieces (103A)</channel>
+    <channel update="i" site="directv.com" site_id="865#_#8849" xmltv_id="Music Choice Classical Masterpieces">Music Choice Classical Masterpieces</channel>
+    <channel update="i" site="directv.com" site_id="866#_#2260" xmltv_id="Music Choice Light Classical">Music Choice Light Classical</channel>
+    <channel update="i" site="directv.com" site_id="867#_#2261" xmltv_id="Music Choice Teen Beats">Music Choice Teen Beats</channel>
+    <channel update="i" site="directv.com" site_id="868#_#2262" xmltv_id="Music Choice Kidz Only!">Music Choice Kidz Only!</channel>
+    <channel update="i" site="directv.com" site_id="869#_#2265" xmltv_id="Music Choice Toddler Tunes">Music Choice Toddler Tunes</channel>
+    <channel update="i" site="directv.com" site_id="870#_#3267" xmltv_id="Music Choice Romances (103A)">Music Choice Romances (103A)</channel>
+    <channel update="i" site="directv.com" site_id="870#_#8332" xmltv_id="Music Choice Romances">Music Choice Romances</channel>
+    <channel update="i" site="directv.com" site_id="871#_#8333" xmltv_id="Music Choice Pop Latino">Music Choice Pop Latino</channel>
+    <channel update="i" site="directv.com" site_id="874#_#8012" xmltv_id="Music Choice Tropicales">Music Choice Tropicales</channel>
+    <channel update="i" site="directv.com" site_id="875#_#8920" xmltv_id="Music Choice Musica Urbana">Music Choice Musica Urbana</channel>
+    <channel update="i" site="directv.com" site_id="876#_#6136" xmltv_id="Music Choice Mexicana (103A)">Music Choice Mexicana (103A)</channel>
+    <channel update="i" site="directv.com" site_id="876#_#8922" xmltv_id="Music Choice Mexicana">Music Choice Mexicana</channel>
+    <channel update="i" site="directv.com" site_id="877#_#3690" xmltv_id="Music Choice Brazilian Pop (103A)">Music Choice Brazilian Pop (103A)</channel>
+    <channel update="i" site="directv.com" site_id="877#_#8923" xmltv_id="Music Choice Brazilian Pop">Music Choice Brazilian Pop</channel>
+    <channel update="i" site="directv.com" site_id="878#_#8924" xmltv_id="Music Choice Rock Latino">Music Choice Rock Latino</channel>
+    <channel update="i" site="directv.com" site_id="879#_#8999" xmltv_id="Music Choice Latin Jazz">Music Choice Latin Jazz</channel>
+    <channel update="i" site="directv.com" site_id="880#_#3762" xmltv_id="Music Choice Party Favorites">Music Choice Party Favorites</channel>
+    <channel update="i" site="directv.com" site_id="880#_#4148" xmltv_id="Music Choice Party Favorites (103A)">Music Choice Party Favorites (103A)</channel>
+    <channel update="i" site="directv.com" site_id="881#_#3763" xmltv_id="Music Choice Taste of Italy">Music Choice Taste of Italy</channel>
+    <channel update="i" site="directv.com" site_id="881#_#6135" xmltv_id="Music Choice Taste of Italy (103A)">Music Choice Taste of Italy (103A)</channel>
+    <channel update="i" site="directv.com" site_id="882#_#3764" xmltv_id="Music Choice Italian Favorites">Music Choice Italian Favorites</channel>
+    <channel update="i" site="directv.com" site_id="882#_#5537" xmltv_id="Music Choice Italian Favorites (103A)">Music Choice Italian Favorites (103A)</channel>
+    <channel update="i" site="directv.com" site_id="883#_#3765" xmltv_id="Music Choice Irish Favorites">Music Choice Irish Favorites</channel>
+    <channel update="i" site="directv.com" site_id="883#_#8745" xmltv_id="Music Choice Irish Favorites (103A)">Music Choice Irish Favorites (103A)</channel>
+    <channel update="i" site="directv.com" site_id="884#_#3766" xmltv_id="Music Choice Nature Sounds">Music Choice Nature Sounds</channel>
+    <channel update="i" site="directv.com" site_id="884#_#5538" xmltv_id="Music Choice Nature Sounds (103A)">Music Choice Nature Sounds (103A)</channel>
+    <channel update="i" site="directv.com" site_id="885#_#8374" xmltv_id="Music Choice Filipino">Music Choice Filipino</channel>
+    <channel update="i" site="directv.com" site_id="886#_#8379" xmltv_id="Music Choice Vietnamese">Music Choice Vietnamese</channel>
+    <channel update="i" site="directv.com" site_id="2010#_#4010" xmltv_id="Canal + International HD">Canal + International HD</channel>
+    <channel update="i" site="directv.com" site_id="2010#_#2491" xmltv_id="Canal + International Important Information.">Canal + International Important Information.</channel>
+    <channel update="i" site="directv.com" site_id="2011#_#4012" xmltv_id="CNews HD">CNews HD</channel>
+    <channel update="i" site="directv.com" site_id="2011#_#2492" xmltv_id="CNEWS Important Information.">CNEWS Important Information.</channel>
+    <channel update="i" site="directv.com" site_id="2012#_#2193" xmltv_id="Studio Canal">Studio Canal</channel>
+    <channel update="i" site="directv.com" site_id="2012#_#2493" xmltv_id="Studio Canal Important Information.">Studio Canal Important Information.</channel>
+    <channel update="i" site="directv.com" site_id="2020#_#2987" xmltv_id="MediaSet Italia">MediaSet Italia</channel>
+    <channel update="i" site="directv.com" site_id="2020#_#4555" xmltv_id="MediaSet Italia (99R)">MediaSet Italia (99R)</channel>
+    <channel update="i" site="directv.com" site_id="2021#_#4073" xmltv_id="Rai Italia">Rai Italia</channel>
+    <channel update="i" site="directv.com" site_id="2021#_#4540" xmltv_id="Rai Italia (99R)">Rai Italia (99R)</channel>
+    <channel update="i" site="directv.com" site_id="2022#_#4074" xmltv_id="Rai News 24">Rai News 24</channel>
+    <channel update="i" site="directv.com" site_id="2022#_#4543" xmltv_id="Rai News 24 (99R)">Rai News 24 (99R)</channel>
+    <channel update="i" site="directv.com" site_id="2023#_#4075" xmltv_id="Rai World Premium">Rai World Premium</channel>
+    <channel update="i" site="directv.com" site_id="2023#_#4546" xmltv_id="Rai World Premium (99R)">Rai World Premium (99R)</channel>
+    <channel update="i" site="directv.com" site_id="2024#_#4076" xmltv_id="Radio Rai">Radio Rai</channel>
+    <channel update="i" site="directv.com" site_id="2024#_#4538" xmltv_id="Radio Rai (99R)">Radio Rai (99R)</channel>
+    <channel update="i" site="directv.com" site_id="2027#_#4027" xmltv_id="World Cup Cricket 2027">World Cup Cricket 2027</channel>
+    <channel update="i" site="directv.com" site_id="2028#_#4028" xmltv_id="World Cup Cricket 2028">World Cup Cricket 2028</channel>
+    <channel update="i" site="directv.com" site_id="2030#_#4072" xmltv_id="SBTN">SBTN</channel>
+    <channel update="i" site="directv.com" site_id="2030#_#4513" xmltv_id="SBTN (99R)">SBTN (99R)</channel>
+    <channel update="i" site="directv.com" site_id="2031#_#3506" xmltv_id="VGN TV">VGN TV</channel>
+    <channel update="i" site="directv.com" site_id="2031#_#4537" xmltv_id="VGN TV (99R)">VGN TV (99R)</channel>
+    <channel update="i" site="directv.com" site_id="2032#_#4549" xmltv_id="Tviet (99R)">Tviet (99R)</channel>
+    <channel update="i" site="directv.com" site_id="2032#_#6162" xmltv_id="TViet Network">TViet Network</channel>
+    <channel update="i" site="directv.com" site_id="2033#_#4501" xmltv_id="Viet Face (99R)">Viet Face (99R)</channel>
+    <channel update="i" site="directv.com" site_id="2033#_#6161" xmltv_id="Viet Face">Viet Face</channel>
+    <channel update="i" site="directv.com" site_id="2034#_#3403" xmltv_id="S Channel">S Channel</channel>
+    <channel update="i" site="directv.com" site_id="2034#_#4528" xmltv_id="S Channel (99R)">S Channel (99R)</channel>
+    <channel update="i" site="directv.com" site_id="2035#_#2238" xmltv_id="Vien Thao">Vien Thao</channel>
+    <channel update="i" site="directv.com" site_id="2035#_#4560" xmltv_id="Vien Thao (99R)">Vien Thao (99R)</channel>
+    <channel update="i" site="directv.com" site_id="2036#_#3408" xmltv_id="VIETV">VIETV</channel>
+    <channel update="i" site="directv.com" site_id="2036#_#4532" xmltv_id="Vietv (99R)">Vietv (99R)</channel>
+    <channel update="i" site="directv.com" site_id="2037#_#3431" xmltv_id="Film 24H">Film 24H</channel>
+    <channel update="i" site="directv.com" site_id="2037#_#4534" xmltv_id="Film 24H (99R)">Film 24H (99R)</channel>
+    <channel update="i" site="directv.com" site_id="2038#_#3395" xmltv_id="HONVIETV">HONVIETV</channel>
+    <channel update="i" site="directv.com" site_id="2038#_#4554" xmltv_id="Honvietv (99R)">Honvietv (99R)</channel>
+    <channel update="i" site="directv.com" site_id="2039#_#4077" xmltv_id="Little Saigon Radio Channel">Little Saigon Radio Channel</channel>
+    <channel update="i" site="directv.com" site_id="2039#_#4552" xmltv_id="Little Saigon Radio Channel (99R)">Little Saigon Radio Channel (99R)</channel>
+    <channel update="i" site="directv.com" site_id="2040#_#2192" xmltv_id="TV Japan">TV Japan</channel>
+    <channel update="i" site="directv.com" site_id="2041#_#2194" xmltv_id="Nippon TV HD">Nippon TV HD</channel>
+    <channel update="i" site="directv.com" site_id="2042#_#2195" xmltv_id="Channel NECO International">Channel NECO International</channel>
+    <channel update="i" site="directv.com" site_id="2049#_#546" xmltv_id="NHK World News 2049">NHK World News 2049</channel>
+    <channel update="i" site="directv.com" site_id="2050#_#4050" xmltv_id="Phoenix TV 2050">Phoenix TV 2050</channel>
+    <channel update="i" site="directv.com" site_id="2050#_#4535" xmltv_id="Phoenix TV 95 (99R)">Phoenix TV 95 (99R)</channel>
+    <channel update="i" site="directv.com" site_id="2051#_#4051" xmltv_id="Phoenix Info News 2051">Phoenix Info News 2051</channel>
+    <channel update="i" site="directv.com" site_id="2051#_#4509" xmltv_id="Phoenix Info News (99R)">Phoenix Info News (99R)</channel>
+    <channel update="i" site="directv.com" site_id="2052#_#4052" xmltv_id="CCTV-4 2052">CCTV-4 2052</channel>
+    <channel update="i" site="directv.com" site_id="2052#_#4500" xmltv_id="CCTV4 (99R)">CCTV4 (99R)</channel>
+    <channel update="i" site="directv.com" site_id="2053#_#2188" xmltv_id="CGTN 2053">CGTN 2053</channel>
+    <channel update="i" site="directv.com" site_id="2053#_#4556" xmltv_id="CGTN 2053 (99R)">CGTN 2053 (99R)</channel>
+    <channel update="i" site="directv.com" site_id="2055#_#3589" xmltv_id="Charming China">Charming China</channel>
+    <channel update="i" site="directv.com" site_id="2055#_#4508" xmltv_id="Charming China 95 (99R)">Charming China 95 (99R)</channel>
+    <channel update="i" site="directv.com" site_id="2056#_#2191" xmltv_id="CTI 2056">CTI 2056</channel>
+    <channel update="i" site="directv.com" site_id="2056#_#4511" xmltv_id="CTI TV (99R)">CTI TV (99R)</channel>
+    <channel update="i" site="directv.com" site_id="2057#_#304" xmltv_id="CBO">CBO</channel>
+    <channel update="i" site="directv.com" site_id="2057#_#4541" xmltv_id="CBO (99R)">CBO (99R)</channel>
+    <channel update="i" site="directv.com" site_id="2060#_#4016" xmltv_id="TFC - The Filipino Channel 2060">TFC - The Filipino Channel 2060</channel>
+    <channel update="i" site="directv.com" site_id="2060#_#4548" xmltv_id="TFC - The Filipino Channel (99R)">TFC - The Filipino Channel (99R)</channel>
+    <channel update="i" site="directv.com" site_id="2061#_#4022" xmltv_id="GMA Pinoy TV 2061">GMA Pinoy TV 2061</channel>
+    <channel update="i" site="directv.com" site_id="2061#_#4544" xmltv_id="GMA Pinoy TV (99R)">GMA Pinoy TV (99R)</channel>
+    <channel update="i" site="directv.com" site_id="2062#_#4017" xmltv_id="ABS-CBN News Channel 2062">ABS-CBN News Channel 2062</channel>
+    <channel update="i" site="directv.com" site_id="2062#_#4512" xmltv_id="ABS-CBN News Channel (99R)">ABS-CBN News Channel (99R)</channel>
+    <channel update="i" site="directv.com" site_id="2063#_#4018" xmltv_id="Cinema One Global 2063">Cinema One Global 2063</channel>
+    <channel update="i" site="directv.com" site_id="2063#_#4530" xmltv_id="Cinema One Global (99R)">Cinema One Global (99R)</channel>
+    <channel update="i" site="directv.com" site_id="2064#_#4019" xmltv_id="ABS-CBN Sports + Action 2064">ABS-CBN Sports + Action 2064</channel>
+    <channel update="i" site="directv.com" site_id="2064#_#4527" xmltv_id="ABS-CBM Sports + Action (99R)">ABS-CBM Sports + Action (99R)</channel>
+    <channel update="i" site="directv.com" site_id="2065#_#4020" xmltv_id="MOR 101.9">MOR 101.9</channel>
+    <channel update="i" site="directv.com" site_id="2065#_#4550" xmltv_id="MOR 101.9 (99R)">MOR 101.9 (99R)</channel>
+    <channel update="i" site="directv.com" site_id="2066#_#4021" xmltv_id="DZMM 2066">DZMM 2066</channel>
+    <channel update="i" site="directv.com" site_id="2066#_#4551" xmltv_id="DZMM (99R)">DZMM (99R)</channel>
+    <channel update="i" site="directv.com" site_id="2067#_#3050" xmltv_id="Myx 2067">Myx 2067</channel>
+    <channel update="i" site="directv.com" site_id="2067#_#4547" xmltv_id="Myx (99R)">Myx (99R)</channel>
+    <channel update="i" site="directv.com" site_id="2068#_#3051" xmltv_id="INCTV">INCTV</channel>
+    <channel update="i" site="directv.com" site_id="2068#_#4499" xmltv_id="INCTV (99R)">INCTV (99R)</channel>
+    <channel update="i" site="directv.com" site_id="2069#_#2241" xmltv_id="GMA Life">GMA Life</channel>
+    <channel update="i" site="directv.com" site_id="2069#_#4542" xmltv_id="GMA Life (99R)">GMA Life (99R)</channel>
+    <channel update="i" site="directv.com" site_id="2070#_#4558" xmltv_id="Lifestyle Network (99R)">Lifestyle Network (99R)</channel>
+    <channel update="i" site="directv.com" site_id="2070#_#8227" xmltv_id="Lifestyle Network">Lifestyle Network</channel>
+    <channel update="i" site="directv.com" site_id="2071#_#2413" xmltv_id="Kapatid TV5">Kapatid TV5</channel>
+    <channel update="i" site="directv.com" site_id="2071#_#4514" xmltv_id="TV5 (99R)">TV5 (99R)</channel>
+    <channel update="i" site="directv.com" site_id="2080#_#4023" xmltv_id="SBS 2080">SBS 2080</channel>
+    <channel update="i" site="directv.com" site_id="2080#_#4506" xmltv_id="SBS 2080 (99R)">SBS 2080 (99R)</channel>
+    <channel update="i" site="directv.com" site_id="2080#_#5050" xmltv_id="SBS HD">SBS HD</channel>
+    <channel update="i" site="directv.com" site_id="2081#_#2190" xmltv_id="MBC 2081">MBC 2081</channel>
+    <channel update="i" site="directv.com" site_id="2081#_#4518" xmltv_id="MBC (99R)">MBC (99R)</channel>
+    <channel update="i" site="directv.com" site_id="2082#_#4525" xmltv_id="KBS World (99R)">KBS World (99R)</channel>
+    <channel update="i" site="directv.com" site_id="2082#_#8406" xmltv_id="KBS World">KBS World</channel>
+    <channel update="i" site="directv.com" site_id="2083#_#4082" xmltv_id="YTN">YTN</channel>
+    <channel update="i" site="directv.com" site_id="2083#_#4539" xmltv_id="YTN (99R)">YTN (99R)</channel>
+    <channel update="i" site="directv.com" site_id="2084#_#4026" xmltv_id="SBS Plus 2084">SBS Plus 2084</channel>
+    <channel update="i" site="directv.com" site_id="2084#_#4502" xmltv_id="SBS Plus (99R)">SBS Plus (99R)</channel>
+    <channel update="i" site="directv.com" site_id="2085#_#8414" xmltv_id="KBS World 24">KBS World 24</channel>
+    <channel update="i" site="directv.com" site_id="2085#_#8415" xmltv_id="KBS World 24 (99R)">KBS World 24 (99R)</channel>
+    <channel update="i" site="directv.com" site_id="2086#_#3802" xmltv_id="TVN Test Ch. (EngTestBox)">TVN Test Ch. (EngTestBox)</channel>
+    <channel update="i" site="directv.com" site_id="2086#_#4536" xmltv_id="TVN (99R)">TVN (99R)</channel>
+    <channel update="i" site="directv.com" site_id="2086#_#8188" xmltv_id="TVN">TVN</channel>
+    <channel update="i" site="directv.com" site_id="2087#_#3884" xmltv_id="EBS">EBS</channel>
+    <channel update="i" site="directv.com" site_id="2087#_#4505" xmltv_id="EBS (99R)">EBS (99R)</channel>
+    <channel update="i" site="directv.com" site_id="2088#_#4274" xmltv_id="MBN">MBN</channel>
+    <channel update="i" site="directv.com" site_id="2088#_#4515" xmltv_id="MBN (99R)">MBN (99R)</channel>
+    <channel update="i" site="directv.com" site_id="2089#_#4194" xmltv_id="TAN">TAN</channel>
+    <channel update="i" site="directv.com" site_id="2089#_#4533" xmltv_id="Tan (99R)">Tan (99R)</channel>
+    <channel update="i" site="directv.com" site_id="2090#_#3697" xmltv_id="National Geographic Korea">National Geographic Korea</channel>
+    <channel update="i" site="directv.com" site_id="2090#_#4526" xmltv_id="National Geographic Korea (99R)">National Geographic Korea (99R)</channel>
+    <channel update="i" site="directv.com" site_id="2092#_#2189" xmltv_id="CTS">CTS</channel>
+    <channel update="i" site="directv.com" site_id="2092#_#4529" xmltv_id="CTS (99R)">CTS (99R)</channel>
+    <channel update="i" site="directv.com" site_id="2093#_#4295" xmltv_id="Radio Korea">Radio Korea</channel>
+    <channel update="i" site="directv.com" site_id="2093#_#4553" xmltv_id="Radio Korea (99R)">Radio Korea (99R)</channel>
+    <channel update="i" site="directv.com" site_id="2095#_#2486" xmltv_id="Arirang TV">Arirang TV</channel>
+    <channel update="i" site="directv.com" site_id="2102#_#6030" xmltv_id="GZTV (103A)">GZTV (103A)</channel>
+    <channel update="i" site="directv.com" site_id="2102#_#8471" xmltv_id="GZ Television">GZ Television</channel>
+    <channel update="i" site="directv.com" site_id="2103#_#5542" xmltv_id="88 TV (103A)">88 TV (103A)</channel>
+    <channel update="i" site="directv.com" site_id="2103#_#6168" xmltv_id="88 TV">88 TV</channel>
+    <channel update="i" site="directv.com" site_id="2104#_#303" xmltv_id="Phoenix Hong Kong Channel">Phoenix Hong Kong Channel</channel>
+    <channel update="i" site="directv.com" site_id="2104#_#4700" xmltv_id="Phoenix Hong Kong (103A)">Phoenix Hong Kong (103A)</channel>
+    <channel update="i" site="directv.com" site_id="2105#_#6064" xmltv_id="88 Films (103A)">88 Films (103A)</channel>
+    <channel update="i" site="directv.com" site_id="2105#_#6169" xmltv_id="88 Films">88 Films</channel>
+    <channel update="i" site="directv.com" site_id="2108#_#4056" xmltv_id="I Cable Finance (103A)">I Cable Finance (103A)</channel>
+    <channel update="i" site="directv.com" site_id="2108#_#8407" xmltv_id="iCable Financial Info News">iCable Financial Info News</channel>
+    <channel update="i" site="directv.com" site_id="2109#_#1172" xmltv_id="i-CABLE">i-CABLE</channel>
+    <channel update="i" site="directv.com" site_id="2109#_#3689" xmltv_id="I Cable News (103A)">I Cable News (103A)</channel>
+    <channel update="i" site="directv.com" site_id="2112#_#5450" xmltv_id="CTI Zhong Tian (103A)">CTI Zhong Tian (103A)</channel>
+    <channel update="i" site="directv.com" site_id="2112#_#6166" xmltv_id="CTI TV (Zhong Tian)">CTI TV (Zhong Tian)</channel>
+    <channel update="i" site="directv.com" site_id="2113#_#454" xmltv_id="CCTV-4">CCTV-4</channel>
+    <channel update="i" site="directv.com" site_id="2113#_#5448" xmltv_id="CCTV-4 (103A)">CCTV-4 (103A)</channel>
+    <channel update="i" site="directv.com" site_id="2115#_#6165" xmltv_id="Phoenix TV">Phoenix TV</channel>
+    <channel update="i" site="directv.com" site_id="2115#_#6416" xmltv_id="Phoenix TV (103A)">Phoenix TV (103A)</channel>
+    <channel update="i" site="directv.com" site_id="2116#_#4031" xmltv_id="Charming China (103A)">Charming China (103A)</channel>
+    <channel update="i" site="directv.com" site_id="2116#_#6170" xmltv_id="Charming China (119)">Charming China (119)</channel>
+    <channel update="i" site="directv.com" site_id="2119#_#4053" xmltv_id="CGTN 2119 (103A)">CGTN 2119 (103A)</channel>
+    <channel update="i" site="directv.com" site_id="2119#_#6171" xmltv_id="CGTN 2119">CGTN 2119</channel>
+    <channel update="i" site="directv.com" site_id="2134#_#2373" xmltv_id="TV Globo">TV Globo</channel>
+    <channel update="i" site="directv.com" site_id="2134#_#4519" xmltv_id="TV Globo (99R)">TV Globo (99R)</channel>
+    <channel update="i" site="directv.com" site_id="2135#_#2374" xmltv_id="PFC (Portuguese)">PFC (Portuguese)</channel>
+    <channel update="i" site="directv.com" site_id="2135#_#4503" xmltv_id="PFC (99R)">PFC (99R)</channel>
+    <channel update="i" site="directv.com" site_id="2140#_#4083" xmltv_id="C1RW 2140">C1RW 2140</channel>
+    <channel update="i" site="directv.com" site_id="2140#_#4520" xmltv_id="C1RW (99R)">C1RW (99R)</channel>
+    <channel update="i" site="directv.com" site_id="2141#_#4084" xmltv_id="RTR Planeta 2141">RTR Planeta 2141</channel>
+    <channel update="i" site="directv.com" site_id="2141#_#4521" xmltv_id="RTR Planeta (99R)">RTR Planeta (99R)</channel>
+    <channel update="i" site="directv.com" site_id="2142#_#4085" xmltv_id="Dom Kino 2142">Dom Kino 2142</channel>
+    <channel update="i" site="directv.com" site_id="2142#_#4522" xmltv_id="Dom Kino (99R)">Dom Kino (99R)</channel>
+    <channel update="i" site="directv.com" site_id="2143#_#4086" xmltv_id="M1: Music Entertainment 2143">M1: Music Entertainment 2143</channel>
+    <channel update="i" site="directv.com" site_id="2143#_#4523" xmltv_id="M1: Music Entertainment (99R)">M1: Music Entertainment (99R)</channel>
+    <channel update="i" site="directv.com" site_id="2144#_#4087" xmltv_id="Vremya: Retro Channel 2144">Vremya: Retro Channel 2144</channel>
+    <channel update="i" site="directv.com" site_id="2144#_#4524" xmltv_id="Vremya: Retro Channel (99R)">Vremya: Retro Channel (99R)</channel>
+    <channel update="i" site="directv.com" site_id="2145#_#4510" xmltv_id="Carousel (99R)">Carousel (99R)</channel>
+    <channel update="i" site="directv.com" site_id="2145#_#8848" xmltv_id="Carousel">Carousel</channel>
+    <channel update="i" site="directv.com" site_id="2146#_#4516" xmltv_id="NTV America (99R)">NTV America (99R)</channel>
+    <channel update="i" site="directv.com" site_id="2146#_#6149" xmltv_id="NTV America">NTV America</channel>
+    <channel update="i" site="directv.com" site_id="2147#_#3291" xmltv_id="Rossiya 24">Rossiya 24</channel>
+    <channel update="i" site="directv.com" site_id="2147#_#4559" xmltv_id="Rossiya 24 (99R)">Rossiya 24 (99R)</channel>
+    <channel update="i" site="directv.com" site_id="2148#_#4504" xmltv_id="RTVI (99R)">RTVI (99R)</channel>
+    <channel update="i" site="directv.com" site_id="2148#_#8443" xmltv_id="RTVI">RTVI</channel>
+    <channel update="i" site="directv.com" site_id="9501#_#490" xmltv_id="Satellite A Test Channel 101 Odd">Satellite A Test Channel 101 Odd</channel>
+    <channel update="i" site="directv.com" site_id="9502#_#491" xmltv_id="Satellite A Test Chnl. 101 Even">Satellite A Test Chnl. 101 Even</channel>
+    <channel update="i" site="directv.com" site_id="9503#_#497" xmltv_id="Satellite Test channel 95 Horiz">Satellite Test channel 95 Horiz</channel>
+    <channel update="i" site="directv.com" site_id="9503#_#4517" xmltv_id="SAT Test Channel, 99R Even">SAT Test Channel, 99R Even</channel>
+    <channel update="i" site="directv.com" site_id="9504#_#6708" xmltv_id="Satellite Test Channel 99 A Odd">Satellite Test Channel 99 A Odd</channel>
+    <channel update="i" site="directv.com" site_id="9505#_#6715" xmltv_id="Satellite Test Channel 99 A Even">Satellite Test Channel 99 A Even</channel>
+    <channel update="i" site="directv.com" site_id="9506#_#486" xmltv_id="Satellite A Test Channel 99 Odd">Satellite A Test Channel 99 Odd</channel>
+    <channel update="i" site="directv.com" site_id="9507#_#488" xmltv_id="Satellite B Test Channel 99 Even">Satellite B Test Channel 99 Even</channel>
+    <channel update="i" site="directv.com" site_id="9508#_#3812" xmltv_id="Satellite A Band Test 103 Odd">Satellite A Band Test 103 Odd</channel>
+    <channel update="i" site="directv.com" site_id="9509#_#3813" xmltv_id="Sat Test Channel 103A Test Even">Sat Test Channel 103A Test Even</channel>
+    <channel update="i" site="directv.com" site_id="9510#_#480" xmltv_id="Satellite A Test Channel 103 Odd">Satellite A Test Channel 103 Odd</channel>
+    <channel update="i" site="directv.com" site_id="9511#_#481" xmltv_id="Satellite B Test Chnl. 103 Even">Satellite B Test Chnl. 103 Even</channel>
+    <channel update="i" site="directv.com" site_id="9513#_#492" xmltv_id="Satellite Test Channel 119 Odd">Satellite Test Channel 119 Odd</channel>
+    <channel update="i" site="directv.com" site_id="9514#_#493" xmltv_id="SAT B Test Channel, 119 Even">SAT B Test Channel, 119 Even</channel>
+    <channel update="i" site="directv.com" site_id="9530#_#1346" xmltv_id="Airline Core WDCW">Airline Core WDCW</channel>
+    <channel update="i" site="directv.com" site_id="9531#_#1347" xmltv_id="Airline Core WCBS">Airline Core WCBS</channel>
+    <channel update="i" site="directv.com" site_id="9532#_#1348" xmltv_id="Airline Core WNBC">Airline Core WNBC</channel>
+    <channel update="i" site="directv.com" site_id="9533#_#1349" xmltv_id="Airline Core WABC">Airline Core WABC</channel>
+    <channel update="i" site="directv.com" site_id="9534#_#1350" xmltv_id="Airline Core WNYW">Airline Core WNYW</channel>
+    <channel update="i" site="directv.com" site_id="9535#_#5400" xmltv_id="Commercial Spec. Events 9535 HD">Commercial Spec. Events 9535 HD</channel>
+    <channel update="i" site="directv.com" site_id="9536#_#5445" xmltv_id="Commercial Special Events 9536">Commercial Special Events 9536</channel>
+    <channel update="i" site="directv.com" site_id="9537#_#801" xmltv_id="Commercial Spec. Events HD 9537">Commercial Spec. Events HD 9537</channel>
+    <channel update="i" site="directv.com" site_id="9539#_#4735" xmltv_id="Commercial Spec. Events 9539 HD">Commercial Spec. Events 9539 HD</channel>
+    <channel update="i" site="directv.com" site_id="9540#_#798" xmltv_id="Commercial Special Events 9540">Commercial Special Events 9540</channel>
+    <channel update="i" site="directv.com" site_id="9541#_#582" xmltv_id="DVR Showcase">DVR Showcase</channel>
+    <channel update="i" site="directv.com" site_id="9542#_#5623" xmltv_id="9542 PTNW">9542 PTNW</channel>
+    <channel update="i" site="directv.com" site_id="9543#_#5576" xmltv_id="PVN 9543">PVN 9543</channel>
+    <channel update="i" site="directv.com" site_id="9544#_#5633" xmltv_id="PVN HD 9544">PVN HD 9544</channel>
+    <channel update="i" site="directv.com" site_id="9545#_#5479" xmltv_id="PVN 9545">PVN 9545</channel>
+    <channel update="i" site="directv.com" site_id="9547#_#5507" xmltv_id="PVN 9547">PVN 9547</channel>
+    <channel update="i" site="directv.com" site_id="9548#_#576" xmltv_id="Private Network Broadcast">Private Network Broadcast</channel>
+    <channel update="i" site="directv.com" site_id="9549#_#4197" xmltv_id="PVN 9549">PVN 9549</channel>
+    <channel update="i" site="directv.com" site_id="9550#_#4200" xmltv_id="PVN HD 9550">PVN HD 9550</channel>
+    <channel update="i" site="directv.com" site_id="9551#_#4198" xmltv_id="PVN 9551">PVN 9551</channel>
+    <channel update="i" site="directv.com" site_id="9556#_#4201" xmltv_id="PVN HD 9556">PVN HD 9556</channel>
+    <channel update="i" site="directv.com" site_id="9559#_#3891" xmltv_id="PVN HD 9559">PVN HD 9559</channel>
+    <channel update="i" site="directv.com" site_id="9560#_#3070" xmltv_id="Music Choice Nature Sounds 9560">Music Choice Nature Sounds 9560</channel>
+    <channel update="i" site="directv.com" site_id="9561#_#3078" xmltv_id="Music Choice Singers &amp; Swing.">Music Choice Singers &amp; Swing.</channel>
+    <channel update="i" site="directv.com" site_id="9562#_#3068" xmltv_id="Music Choice Jazz Vocal Standards 9562">Music Choice Jazz Vocal Standards 9562</channel>
+    <channel update="i" site="directv.com" site_id="9563#_#3071" xmltv_id="Music Choice Lounge.">Music Choice Lounge.</channel>
+    <channel update="i" site="directv.com" site_id="9564#_#3066" xmltv_id="Music Choice Party Favorites 9564">Music Choice Party Favorites 9564</channel>
+    <channel update="i" site="directv.com" site_id="9565#_#3074" xmltv_id="Music Choice Irish Favorites 9565">Music Choice Irish Favorites 9565</channel>
+    <channel update="i" site="directv.com" site_id="9566#_#3069" xmltv_id="Music Choice K-Pop 9566">Music Choice K-Pop 9566</channel>
+    <channel update="i" site="directv.com" site_id="9567#_#3073" xmltv_id="Music Choice Sounds of the Seasons 9567">Music Choice Sounds of the Seasons 9567</channel>
+    <channel update="i" site="directv.com" site_id="9568#_#3065" xmltv_id="Music Choice Easy Listening 9568">Music Choice Easy Listening 9568</channel>
+    <channel update="i" site="directv.com" site_id="9569#_#3064" xmltv_id="Music Choice Taste of Italy 9569">Music Choice Taste of Italy 9569</channel>
+    <channel update="i" site="directv.com" site_id="9570#_#3067" xmltv_id="Music Choice Retro Workout 9570">Music Choice Retro Workout 9570</channel>
+    <channel update="i" site="directv.com" site_id="9571#_#3072" xmltv_id="Music Choice Workout 9571">Music Choice Workout 9571</channel>
+    <channel update="i" site="directv.com" site_id="9572#_#3075" xmltv_id="Music Choice Jazz 9572">Music Choice Jazz 9572</channel>
+    <channel update="i" site="directv.com" site_id="9573#_#3077" xmltv_id="Music Choice Italian Favorites 9573">Music Choice Italian Favorites 9573</channel>
+    <channel update="i" site="directv.com" site_id="9574#_#3076" xmltv_id="Music Choice Classical Masterpieces 9574">Music Choice Classical Masterpieces 9574</channel>
+    <channel update="i" site="directv.com" site_id="9577#_#583" xmltv_id="DIRECTV Channel 9577">DIRECTV Channel 9577</channel>
+    <channel update="i" site="directv.com" site_id="9577#_#4435" xmltv_id="Anheuser Busch (99R)">Anheuser Busch (99R)</channel>
+    <channel update="i" site="directv.com" site_id="9724#_#6643" xmltv_id="NFL Test 9724 HD">NFL Test 9724 HD</channel>
+    <channel update="i" site="directv.com" site_id="9950#_#8034" xmltv_id="Private Network 9950">Private Network 9950</channel>
+  </channels>
+</site>
