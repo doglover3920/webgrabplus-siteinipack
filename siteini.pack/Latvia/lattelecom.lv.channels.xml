@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.4 -- Jan van Straaten" site="tet.lv">
+  <channels>
+    <channel update="i" site="lattelecom.lv" site_id="101" xmltv_id="LTV1">LTV1</channel>
+    <channel update="i" site="lattelecom.lv" site_id="102" xmltv_id="LTV7">LTV7</channel>
+    <channel update="i" site="lattelecom.lv" site_id="967" xmltv_id="RīgaTV 24">RīgaTV 24</channel>
+    <channel update="i" site="lattelecom.lv" site_id="924" xmltv_id="ReTV">ReTV</channel>
+    <channel update="i" site="lattelecom.lv" site_id="914" xmltv_id="sportacentrs.com">sportacentrs.com</channel>
+    <channel update="i" site="lattelecom.lv" site_id="801" xmltv_id="Euronews ENG">Euronews ENG</channel>
+    <channel update="i" site="lattelecom.lv" site_id="1021" xmltv_id="Best4Sport TV">Best4Sport TV</channel>
+    <channel update="i" site="lattelecom.lv" site_id="503" xmltv_id="National Geographic">National Geographic</channel>
+    <channel update="i" site="lattelecom.lv" site_id="951" xmltv_id="Kidzone">Kidzone</channel>
+    <channel update="i" site="lattelecom.lv" site_id="103" xmltv_id="TV3">TV3</channel>
+    <channel update="i" site="lattelecom.lv" site_id="104" xmltv_id="LNT">LNT</channel>
+    <channel update="i" site="lattelecom.lv" site_id="1051" xmltv_id="360TV">360TV</channel>
+    <channel update="i" site="lattelecom.lv" site_id="106" xmltv_id="TV6">TV6</channel>
+    <channel update="i" site="lattelecom.lv" site_id="608" xmltv_id="Kanāls 2">Kanāls 2</channel>
+    <channel update="i" site="lattelecom.lv" site_id="1069" xmltv_id="STV Pirmā!">STV Pirmā!</channel>
+    <channel update="i" site="lattelecom.lv" site_id="107" xmltv_id="3+">3+</channel>
+    <channel update="i" site="lattelecom.lv" site_id="108" xmltv_id="Pirmais Baltijas Kanāls">Pirmais Baltijas Kanāls</channel>
+    <channel update="i" site="lattelecom.lv" site_id="109" xmltv_id="RTR Planeta">RTR Planeta</channel>
+    <channel update="i" site="lattelecom.lv" site_id="110" xmltv_id="NTV Mir">NTV Mir</channel>
+    <channel update="i" site="lattelecom.lv" site_id="111" xmltv_id="REN Baltija">REN Baltija</channel>
+    <channel update="i" site="lattelecom.lv" site_id="1147" xmltv_id="THT">THT</channel>
+    <channel update="i" site="lattelecom.lv" site_id="1201" xmltv_id="Пятница International">Пятница International</channel>
+    <channel update="i" site="lattelecom.lv" site_id="1203" xmltv_id="THT4 International">THT4 International</channel>
+    <channel update="i" site="lattelecom.lv" site_id="1243" xmltv_id="FunboxUHD (Skatītāju izvēle)">FunboxUHD (Skatītāju izvēle)</channel>
+    <channel update="i" site="lattelecom.lv" site_id="1165" xmltv_id="Current Time (Skatītāju izvēle)">Current Time (Skatītāju izvēle)</channel>
+    <channel update="i" site="lattelecom.lv" site_id="1167" xmltv_id="UA TV (Skatītāju izvēle)">UA TV (Skatītāju izvēle)</channel>
+    <channel update="i" site="lattelecom.lv" site_id="1199" xmltv_id="iTV (Skatītāju izvēle)">iTV (Skatītāju izvēle)</channel>
+    <channel update="i" site="lattelecom.lv" site_id="1242" xmltv_id="Docubox (Skatītāju izvēle)">Docubox (Skatītāju izvēle)</channel>
+    <channel update="i" site="lattelecom.lv" site_id="1179" xmltv_id="A TV (Skatītāju izvēle)">A TV (Skatītāju izvēle)</channel>
+    <channel update="i" site="lattelecom.lv" site_id="1238" xmltv_id="Dorama (Skatītāju izvēle)">Dorama (Skatītāju izvēle)</channel>
+    <channel update="i" site="lattelecom.lv" site_id="1239" xmltv_id="France 24 (Skatītāju izvēle)">France 24 (Skatītāju izvēle)</channel>
+    <channel update="i" site="lattelecom.lv" site_id="1240" xmltv_id="One America News Network (Skatītāju izvēle)">One America News Network (Skatītāju izvēle)</channel>
+    <channel update="i" site="lattelecom.lv" site_id="1237" xmltv_id="AWE (Skatītāju izvēle)">AWE (Skatītāju izvēle)</channel>
+    <channel update="i" site="lattelecom.lv" site_id="201" xmltv_id="TV-21">TV-21</channel>
+    <channel update="i" site="lattelecom.lv" site_id="1213" xmltv_id="Epic Drama HD (Skatītāju izvēle)">Epic Drama HD (Skatītāju izvēle)</channel>
+    <channel update="i" site="lattelecom.lv" site_id="1139" xmltv_id="VIP Comedy">VIP Comedy</channel>
+    <channel update="i" site="lattelecom.lv" site_id="203" xmltv_id="FOX">FOX</channel>
+    <channel update="i" site="lattelecom.lv" site_id="204" xmltv_id="FOX Life">FOX Life</channel>
+    <channel update="i" site="lattelecom.lv" site_id="210" xmltv_id="Sony Channel">Sony Channel</channel>
+    <channel update="i" site="lattelecom.lv" site_id="938" xmltv_id="Sony Turbo">Sony Turbo</channel>
+    <channel update="i" site="lattelecom.lv" site_id="1230" xmltv_id="Star Family">Star Family</channel>
+    <channel update="i" site="lattelecom.lv" site_id="1065" xmltv_id="Filmzone">Filmzone</channel>
+    <channel update="i" site="lattelecom.lv" site_id="1188" xmltv_id="Filmzone+">Filmzone+</channel>
+    <channel update="i" site="lattelecom.lv" site_id="1232" xmltv_id="Star Cinema HD">Star Cinema HD</channel>
+    <channel update="i" site="lattelecom.lv" site_id="907" xmltv_id="TV1000">TV1000</channel>
+    <channel update="i" site="lattelecom.lv" site_id="909" xmltv_id="TV1000 Russkoje Kino">TV1000 Russkoje Kino</channel>
+    <channel update="i" site="lattelecom.lv" site_id="908" xmltv_id="TV1000 Action">TV1000 Action</channel>
+    <channel update="i" site="lattelecom.lv" site_id="910" xmltv_id="TV3 Film">TV3 Film</channel>
+    <channel update="i" site="lattelecom.lv" site_id="1095" xmltv_id="Nick Jr">Nick Jr</channel>
+    <channel update="i" site="lattelecom.lv" site_id="302" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel update="i" site="lattelecom.lv" site_id="303" xmltv_id="Jim Jam">Jim Jam</channel>
+    <channel update="i" site="lattelecom.lv" site_id="1235" xmltv_id="В гостях у сказки">В гостях у сказки</channel>
+    <channel update="i" site="lattelecom.lv" site_id="305" xmltv_id="Disney Channel">Disney Channel</channel>
+    <channel update="i" site="lattelecom.lv" site_id="306" xmltv_id="Disney XD">Disney XD</channel>
+    <channel update="i" site="lattelecom.lv" site_id="307" xmltv_id="Disney Junior">Disney Junior</channel>
+    <channel update="i" site="lattelecom.lv" site_id="1236" xmltv_id="Smartzone">Smartzone</channel>
+    <channel update="i" site="lattelecom.lv" site_id="953" xmltv_id="Multilandija">Multilandija</channel>
+    <channel update="i" site="lattelecom.lv" site_id="927" xmltv_id="Nickelodeon HD">Nickelodeon HD</channel>
+    <channel update="i" site="lattelecom.lv" site_id="1182" xmltv_id="Duck TV">Duck TV</channel>
+    <channel update="i" site="lattelecom.lv" site_id="403" xmltv_id="Eurosport 1 HD">Eurosport 1 HD</channel>
+    <channel update="i" site="lattelecom.lv" site_id="1033" xmltv_id="Eurosport 2 HD">Eurosport 2 HD</channel>
+    <channel update="i" site="lattelecom.lv" site_id="1218" xmltv_id="Best4sport TV-2">Best4sport TV-2</channel>
+    <channel update="i" site="lattelecom.lv" site_id="1137" xmltv_id="Ohotnik i Ribolov">Ohotnik i Ribolov</channel>
+    <channel update="i" site="lattelecom.lv" site_id="1055" xmltv_id="Setanta Sports">Setanta Sports</channel>
+    <channel update="i" site="lattelecom.lv" site_id="1129" xmltv_id="Setanta Sports HD">Setanta Sports HD</channel>
+    <channel update="i" site="lattelecom.lv" site_id="407" xmltv_id="KHL">KHL</channel>
+    <channel update="i" site="lattelecom.lv" site_id="1141" xmltv_id="Авто плюс">Авто плюс</channel>
+    <channel update="i" site="lattelecom.lv" site_id="1175" xmltv_id="Fight Sports">Fight Sports</channel>
+    <channel update="i" site="lattelecom.lv" site_id="905" xmltv_id="TV3 Sport">TV3 Sport</channel>
+    <channel update="i" site="lattelecom.lv" site_id="1227" xmltv_id="TV3 Sport 2">TV3 Sport 2</channel>
+    <channel update="i" site="lattelecom.lv" site_id="1208" xmltv_id="TV3 Sport 3">TV3 Sport 3</channel>
+    <channel update="i" site="lattelecom.lv" site_id="1209" xmltv_id="TV3 Sport 4">TV3 Sport 4</channel>
+    <channel update="i" site="lattelecom.lv" site_id="501" xmltv_id="Discovery Channel">Discovery Channel</channel>
+    <channel update="i" site="lattelecom.lv" site_id="975" xmltv_id="Animal Planet HD">Animal Planet HD</channel>
+    <channel update="i" site="lattelecom.lv" site_id="1087" xmltv_id="BBC Earth">BBC Earth</channel>
+    <channel update="i" site="lattelecom.lv" site_id="505" xmltv_id="Discovery Science">Discovery Science</channel>
+    <channel update="i" site="lattelecom.lv" site_id="506" xmltv_id="TLC">TLC</channel>
+    <channel update="i" site="lattelecom.lv" site_id="507" xmltv_id="Investigation Discovery">Investigation Discovery</channel>
+    <channel update="i" site="lattelecom.lv" site_id="508" xmltv_id="DTX">DTX</channel>
+    <channel update="i" site="lattelecom.lv" site_id="509" xmltv_id="Nat Geo Wild">Nat Geo Wild</channel>
+    <channel update="i" site="lattelecom.lv" site_id="513" xmltv_id="Travel Channel">Travel Channel</channel>
+    <channel update="i" site="lattelecom.lv" site_id="511" xmltv_id="National Geographic HD">National Geographic HD</channel>
+    <channel update="i" site="lattelecom.lv" site_id="1169" xmltv_id="Viasat History">Viasat History</channel>
+    <channel update="i" site="lattelecom.lv" site_id="510" xmltv_id="Discovery HD Showcase">Discovery HD Showcase</channel>
+    <channel update="i" site="lattelecom.lv" site_id="512" xmltv_id="Наука 2.0">Наука 2.0</channel>
+    <channel update="i" site="lattelecom.lv" site_id="1085" xmltv_id="Food Network">Food Network</channel>
+    <channel update="i" site="lattelecom.lv" site_id="601" xmltv_id="MTV Europe">MTV Europe</channel>
+    <channel update="i" site="lattelecom.lv" site_id="602" xmltv_id="VH1 Europe">VH1 Europe</channel>
+    <channel update="i" site="lattelecom.lv" site_id="603" xmltv_id="Latvijas Šlāgerkanāls">Latvijas Šlāgerkanāls</channel>
+    <channel update="i" site="lattelecom.lv" site_id="1226" xmltv_id="THT Music (Skatītāju izvēle)">THT Music (Skatītāju izvēle)</channel>
+    <channel update="i" site="lattelecom.lv" site_id="605" xmltv_id="Mūzikas video">Mūzikas video</channel>
+    <channel update="i" site="lattelecom.lv" site_id="607" xmltv_id="Muz TV">Muz TV</channel>
+    <channel update="i" site="lattelecom.lv" site_id="609" xmltv_id="VH1 Classic">VH1 Classic</channel>
+    <channel update="i" site="lattelecom.lv" site_id="610" xmltv_id="MTV Hits">MTV Hits</channel>
+    <channel update="i" site="lattelecom.lv" site_id="611" xmltv_id="MTV Dance">MTV Dance</channel>
+    <channel update="i" site="lattelecom.lv" site_id="613" xmltv_id="MTV Rocks">MTV Rocks</channel>
+    <channel update="i" site="lattelecom.lv" site_id="614" xmltv_id="Mezzo">Mezzo</channel>
+    <channel update="i" site="lattelecom.lv" site_id="617" xmltv_id="Fashion One HD">Fashion One HD</channel>
+    <channel update="i" site="lattelecom.lv" site_id="926" xmltv_id="MTV Live HD">MTV Live HD</channel>
+    <channel update="i" site="lattelecom.lv" site_id="701" xmltv_id="RTVi">RTVi</channel>
+    <channel update="i" site="lattelecom.lv" site_id="702" xmltv_id="CTC Baltics">CTC Baltics</channel>
+    <channel update="i" site="lattelecom.lv" site_id="703" xmltv_id="Мир">Мир</channel>
+    <channel update="i" site="lattelecom.lv" site_id="1229" xmltv_id="Перец!">Перец!</channel>
+    <channel update="i" site="lattelecom.lv" site_id="706" xmltv_id="Русский Иллюзион">Русский Иллюзион</channel>
+    <channel update="i" site="lattelecom.lv" site_id="707" xmltv_id="TVCI">TVCI</channel>
+    <channel update="i" site="lattelecom.lv" site_id="708" xmltv_id="РБК">РБК</channel>
+    <channel update="i" site="lattelecom.lv" site_id="935" xmltv_id="Моя планета">Моя планета</channel>
+    <channel update="i" site="lattelecom.lv" site_id="1115" xmltv_id="Домашний">Домашний</channel>
+    <channel update="i" site="lattelecom.lv" site_id="917" xmltv_id="Охота и рыбалка">Охота и рыбалка</channel>
+    <channel update="i" site="lattelecom.lv" site_id="1191" xmltv_id="Euronews RUS">Euronews RUS</channel>
+    <channel update="i" site="lattelecom.lv" site_id="803" xmltv_id="BBC World">BBC World</channel>
+    <channel update="i" site="lattelecom.lv" site_id="977" xmltv_id="Дождь">Дождь</channel>
+    <channel update="i" site="lattelecom.lv" site_id="959" xmltv_id="Arte HD">Arte HD</channel>
+    <channel update="i" site="lattelecom.lv" site_id="806" xmltv_id="RTL">RTL</channel>
+    <channel update="i" site="lattelecom.lv" site_id="807" xmltv_id="PRO 7">PRO 7</channel>
+    <channel update="i" site="lattelecom.lv" site_id="808" xmltv_id="SAT1">SAT1</channel>
+    <channel update="i" site="lattelecom.lv" site_id="811" xmltv_id="Bloomberg">Bloomberg</channel>
+    <channel update="i" site="lattelecom.lv" site_id="812" xmltv_id="Al Jazeera International">Al Jazeera International</channel>
+    <channel update="i" site="lattelecom.lv" site_id="901" xmltv_id="Hustler TV">Hustler TV</channel>
+    <channel update="i" site="lattelecom.lv" site_id="902" xmltv_id="Private TV">Private TV</channel>
+    <channel update="i" site="lattelecom.lv" site_id="1099" xmltv_id="Reality Kings">Reality Kings</channel>
+    <channel update="i" site="lattelecom.lv" site_id="1233" xmltv_id="Noskaņojuma kanāls">Noskaņojuma kanāls</channel>
+  </channels>
+</site>
