@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.4 -- Jan van Straaten" site="dr.dk">
+<!--
+If you have difficulties to identify the channel.  Try requesting the channel logo with:
+
+https://static.dr-massive.com/isl/api/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=75&ImageId=%27218112%27&EntityType=%27Item%27&EntityId=%27xxxxx%27
+
+replace xxxxx with site-id from below.
+-->
+
+
+  <channels>
+    <channel update="i" site="dr.dk" site_id="20875" xmltv_id="DR1">DR1</channel>
+    <channel update="i" site="dr.dk" site_id="20876" xmltv_id="DR2">DR2</channel>
+    <channel update="i" site="dr.dk" site_id="20878" xmltv_id="TVK">TVK</channel>
+    <channel update="i" site="dr.dk" site_id="20874" xmltv_id="DR3">DR3</channel>
+    <channel update="i" site="dr.dk" site_id="20892" xmltv_id="TVR">TVR</channel>
+    <channel update="i" site="dr.dk" site_id="20887" xmltv_id="TVL">TVL</channel>
+    <channel update="i" site="dr.dk" site_id="22463" xmltv_id="td2">td2</channel>
+    <channel update="i" site="dr.dk" site_id="21546" xmltv_id="dk3">dk3</channel>
+    <channel update="i" site="dr.dk" site_id="21303" xmltv_id="999">999</channel>
+    <channel update="i" site="dr.dk" site_id="22221" xmltv_id="tws">tws</channel>
+    <channel update="i" site="dr.dk" site_id="20966" xmltv_id="041">041</channel>
+    <channel update="i" site="dr.dk" site_id="21823" xmltv_id="r382">r382</channel>
+    <channel update="i" site="dr.dk" site_id="22410" xmltv_id="t2z">t2z</channel>
+    <channel update="i" site="dr.dk" site_id="22155" xmltv_id="tvd">tvd</channel>
+    <channel update="i" site="dr.dk" site_id="21973" xmltv_id="r412">r412</channel>
+    <channel update="i" site="dr.dk" site_id="22191" xmltv_id="tpl">tpl</channel>
+    <channel update="i" site="dr.dk" site_id="22146" xmltv_id="snt">snt</channel>
+    <channel update="i" site="dr.dk" site_id="21904" xmltv_id="r401">r401</channel>
+    <channel update="i" site="dr.dk" site_id="22282" xmltv_id="r523">r523</channel>
+    <channel update="i" site="dr.dk" site_id="21544" xmltv_id="ca9">ca9</channel>
+    <channel update="i" site="dr.dk" site_id="21594" xmltv_id="dk4">dk4</channel>
+    <channel update="i" site="dr.dk" site_id="21219" xmltv_id="122">122</channel>
+    <channel update="i" site="dr.dk" site_id="20877" xmltv_id="TSK">TSK</channel>
+    <channel update="i" site="dr.dk" site_id="21728" xmltv_id="ess">ess</channel>
+    <channel update="i" site="dr.dk" site_id="22037" xmltv_id="r415">r415</channel>
+    <channel update="i" site="dr.dk" site_id="21652" xmltv_id="dsc">dsc</channel>
+    <channel update="i" site="dr.dk" site_id="21514" xmltv_id="diT">diT</channel>
+    <channel update="i" site="dr.dk" site_id="21593" xmltv_id="nis">nis</channel>
+    <channel update="i" site="dr.dk" site_id="21297" xmltv_id="218">218</channel>
+    <channel update="i" site="dr.dk" site_id="21885" xmltv_id="plh">plh</channel>
+    <channel update="i" site="dr.dk" site_id="21043" xmltv_id="058">058</channel>
+    <channel update="i" site="dr.dk" site_id="21302" xmltv_id="ans">ans</channel>
+    <channel update="i" site="dr.dk" site_id="21980" xmltv_id="r408">r408</channel>
+    <channel update="i" site="dr.dk" site_id="21642" xmltv_id="nk1">nk1</channel>
+    <channel update="i" site="dr.dk" site_id="21717" xmltv_id="nk2">nk2</channel>
+    <channel update="i" site="dr.dk" site_id="21658" xmltv_id="no1">no1</channel>
+    <channel update="i" site="dr.dk" site_id="22236" xmltv_id="sv1">sv1</channel>
+    <channel update="i" site="dr.dk" site_id="22302" xmltv_id="sv2">sv2</channel>
+    <channel update="i" site="dr.dk" site_id="22315" xmltv_id="tv4">tv4</channel>
+    <channel update="i" site="dr.dk" site_id="21477" xmltv_id="cnn">cnn</channel>
+    <channel update="i" site="dr.dk" site_id="21858" xmltv_id="r376">r376</channel>
+    <channel update="i" site="dr.dk" site_id="21788" xmltv_id="r373">r373</channel>
+    <channel update="i" site="dr.dk" site_id="21776" xmltv_id="r375">r375</channel>
+    <channel update="i" site="dr.dk" site_id="21873" xmltv_id="r374">r374</channel>
+    <channel update="i" site="dr.dk" site_id="21752" xmltv_id="r371">r371</channel>
+    <channel update="i" site="dr.dk" site_id="21837" xmltv_id="r372">r372</channel>
+    <channel update="i" site="dr.dk" site_id="22006" xmltv_id="r378">r378</channel>
+    <channel update="i" site="dr.dk" site_id="21925" xmltv_id="r377">r377</channel>
+    <channel update="i" site="dr.dk" site_id="21135" xmltv_id="117">117</channel>
+    <channel update="i" site="dr.dk" site_id="22056" xmltv_id="r409">r409</channel>
+    <channel update="i" site="dr.dk" site_id="20994" xmltv_id="047">047</channel>
+    <channel update="i" site="dr.dk" site_id="21463" xmltv_id="bbp">bbp</channel>
+    <channel update="i" site="dr.dk" site_id="21006" xmltv_id="049">049</channel>
+    <channel update="i" site="dr.dk" site_id="21511" xmltv_id="bbw">bbw</channel>
+    <channel update="i" site="dr.dk" site_id="21431" xmltv_id="diC">diC</channel>
+    <channel update="i" site="dr.dk" site_id="21468" xmltv_id="diS">diS</channel>
+    <channel update="i" site="dr.dk" site_id="21040" xmltv_id="057">057</channel>
+    <channel update="i" site="dr.dk" site_id="21257" xmltv_id="3st">3st</channel>
+    <channel update="i" site="dr.dk" site_id="21355" xmltv_id="ard">ard</channel>
+    <channel update="i" site="dr.dk" site_id="21347" xmltv_id="arg">arg</channel>
+    <channel update="i" site="dr.dk" site_id="21033" xmltv_id="053">053</channel>
+    <channel update="i" site="dr.dk" site_id="22341" xmltv_id="vhi">vhi</channel>
+    <channel update="i" site="dr.dk" site_id="21612" xmltv_id="goo">goo</channel>
+    <channel update="i" site="dr.dk" site_id="21351" xmltv_id="cdk">cdk</channel>
+    <channel update="i" site="dr.dk" site_id="21399" xmltv_id="cns">cns</channel>
+    <channel update="i" site="dr.dk" site_id="21755" xmltv_id="ngs">ngs</channel>
+    <channel update="i" site="dr.dk" site_id="21085" xmltv_id="064">064</channel>
+    <channel update="i" site="dr.dk" site_id="21951" xmltv_id="r414">r414</channel>
+    <channel update="i" site="dr.dk" site_id="21677" xmltv_id="mtv">mtv</channel>
+    <channel update="i" site="dr.dk" site_id="22113" xmltv_id="tn3">tn3</channel>
+    <channel update="i" site="dr.dk" site_id="21962" xmltv_id="pr7">pr7</channel>
+    <channel update="i" site="dr.dk" site_id="22055" xmltv_id="rtp">rtp</channel>
+    <channel update="i" site="dr.dk" site_id="22349" xmltv_id="rt2">rt2</channel>
+    <channel update="i" site="dr.dk" site_id="22092" xmltv_id="st1">st1</channel>
+    <channel update="i" site="dr.dk" site_id="22210" xmltv_id="zdf">zdf</channel>
+    <channel update="i" site="dr.dk" site_id="20978" xmltv_id="046">046</channel>
+    <channel update="i" site="dr.dk" site_id="22279" xmltv_id="vh1">vh1</channel>
+  </channels>
+</site>
