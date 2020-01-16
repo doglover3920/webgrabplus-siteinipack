@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.4 -- Jan van Straaten" site="hobbytv.bg">
+  <channels>
+    <channel update="i" site="hobbytv.bg" site_id="hobbytv" xmltv_id="Хоби ТВ">Хоби ТВ</channel>
+    <channel update="i" site="hobbytv.bg" site_id="hobbylov" xmltv_id="Хоби Лов">Хоби Лов</channel>
+    <channel update="i" site="hobbytv.bg" site_id="hobbyhd" xmltv_id="Хоби HD">Хоби HD</channel>
+  </channels>
+</site>
