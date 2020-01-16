@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.4 -- Jan van Straaten" site="bg.filmbox.pl">
+  <channels>
+    <channel update="i" site="bg.filmbox.pl" site_id="61" xmltv_id="FilmBox">FilmBox</channel>
+    <channel update="i" site="bg.filmbox.pl" site_id="91" xmltv_id="FilmBox Extra HD">FilmBox Extra HD</channel>
+    <channel update="i" site="bg.filmbox.pl" site_id="97" xmltv_id="FilmBox Plus">FilmBox Plus</channel>
+  </channels>
+</site>
