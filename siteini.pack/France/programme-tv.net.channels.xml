@@ -7,7 +7,6 @@
     <channel update="i" site="programme-tv.net" site_id="canalplus-2" xmltv_id="Canal+">Canal+</channel>
     <channel update="i" site="programme-tv.net" site_id="france-5-9" xmltv_id="France 5">France 5</channel>
     <channel update="i" site="programme-tv.net" site_id="m6-12" xmltv_id="M6">M6</channel>
-    <channel update="i" site="programme-tv.net" site_id="arte-337" xmltv_id="Arte">Arte</channel>
     <channel update="i" site="programme-tv.net" site_id="c8-4" xmltv_id="C8">C8</channel>
     <channel update="i" site="programme-tv.net" site_id="w9-24" xmltv_id="W9">W9</channel>
     <channel update="i" site="programme-tv.net" site_id="tmc-21" xmltv_id="TMC">TMC</channel>
@@ -19,26 +18,25 @@
     <channel update="i" site="programme-tv.net" site_id="6ter-202" xmltv_id="6ter">6ter</channel>
     <channel update="i" site="programme-tv.net" site_id="rmc-story-203" xmltv_id="RMC Story">RMC Story</channel>
     <channel update="i" site="programme-tv.net" site_id="cherie-25-206" xmltv_id="Chérie 25">Chérie 25</channel>
-    <channel update="i" site="programme-tv.net" site_id="novelas-tv-400" xmltv_id="Novelas TV">Novelas TV</channel>
-    <channel update="i" site="programme-tv.net" site_id="teva-23" xmltv_id="Téva">Téva</channel>
-    <channel update="i" site="programme-tv.net" site_id="paris-premiere-15" xmltv_id="Paris Première">Paris Première</channel>
     <channel update="i" site="programme-tv.net" site_id="rtl-9-17" xmltv_id="RTL 9">RTL 9</channel>
+    <channel update="i" site="programme-tv.net" site_id="novelas-tv-400" xmltv_id="Novelas TV">Novelas TV</channel>
+    <channel update="i" site="programme-tv.net" site_id="paris-premiere-15" xmltv_id="Paris Première">Paris Première</channel>
+    <channel update="i" site="programme-tv.net" site_id="teva-23" xmltv_id="Téva">Téva</channel>
     <channel update="i" site="programme-tv.net" site_id="bet-299" xmltv_id="BET">BET</channel>
     <channel update="i" site="programme-tv.net" site_id="tv5monde-128" xmltv_id="TV5MONDE">TV5MONDE</channel>
     <channel update="i" site="programme-tv.net" site_id="kto-68" xmltv_id="KTO">KTO</channel>
+    <channel update="i" site="programme-tv.net" site_id="arte-337" xmltv_id="Arte">Arte</channel>
     <channel update="i" site="programme-tv.net" site_id="la-chaine-parlementaire-11" xmltv_id="La Chaîne parlementaire">La Chaîne parlementaire</channel>
     <channel update="i" site="programme-tv.net" site_id="bfmtv-25" xmltv_id="BFMTV">BFMTV</channel>
     <channel update="i" site="programme-tv.net" site_id="cnews-30" xmltv_id="CNEWS">CNEWS</channel>
     <channel update="i" site="programme-tv.net" site_id="lci-la-chaine-info-78" xmltv_id="LCI - La Chaîne Info">LCI - La Chaîne Info</channel>
     <channel update="i" site="programme-tv.net" site_id="franceinfo-307" xmltv_id="Franceinfo">Franceinfo</channel>
     <channel update="i" site="programme-tv.net" site_id="france-24-142" xmltv_id="France 24">France 24</channel>
+    <channel update="i" site="programme-tv.net" site_id="euronews-62" xmltv_id="Euronews">Euronews</channel>
     <channel update="i" site="programme-tv.net" site_id="bfm-business-232" xmltv_id="BFM Business">BFM Business</channel>
     <channel update="i" site="programme-tv.net" site_id="i24news-243" xmltv_id="I24news">I24news</channel>
     <channel update="i" site="programme-tv.net" site_id="gulli-29" xmltv_id="Gulli">Gulli</channel>
     <channel update="i" site="programme-tv.net" site_id="disney-cinema-153" xmltv_id="Disney Cinema">Disney Cinema</channel>
-    <channel update="i" site="programme-tv.net" site_id="game-one-71" xmltv_id="Game One">Game One</channel>
-    <channel update="i" site="programme-tv.net" site_id="j-one-387" xmltv_id="J-One">J-One</channel>
-    <channel update="i" site="programme-tv.net" site_id="mangas-82" xmltv_id="Mangas">Mangas</channel>
     <channel update="i" site="programme-tv.net" site_id="piwiplus-104" xmltv_id="Piwi+">Piwi+</channel>
     <channel update="i" site="programme-tv.net" site_id="disney-junior-166" xmltv_id="Disney Junior">Disney Junior</channel>
     <channel update="i" site="programme-tv.net" site_id="nickelodeon-junior-199" xmltv_id="Nickelodeon Junior">Nickelodeon Junior</channel>
@@ -50,20 +48,22 @@
     <channel update="i" site="programme-tv.net" site_id="nickelodeon-99" xmltv_id="Nickelodéon">Nickelodéon</channel>
     <channel update="i" site="programme-tv.net" site_id="canal-j-40" xmltv_id="Canal J">Canal J</channel>
     <channel update="i" site="programme-tv.net" site_id="boing-233" xmltv_id="Boing">Boing</channel>
-    <channel update="i" site="programme-tv.net" site_id="toonami-338" xmltv_id="Toonami">Toonami</channel>
     <channel update="i" site="programme-tv.net" site_id="nickelodeon-teen-384" xmltv_id="Nickelodéon Teen">Nickelodéon Teen</channel>
     <channel update="i" site="programme-tv.net" site_id="disney-channel-57" xmltv_id="Disney Channel">Disney Channel</channel>
+    <channel update="i" site="programme-tv.net" site_id="toonami-338" xmltv_id="Toonami">Toonami</channel>
+    <channel update="i" site="programme-tv.net" site_id="j-one-387" xmltv_id="J-One">J-One</channel>
+    <channel update="i" site="programme-tv.net" site_id="mangas-82" xmltv_id="Mangas">Mangas</channel>
+    <channel update="i" site="programme-tv.net" site_id="game-one-71" xmltv_id="Game One">Game One</channel>
     <channel update="i" site="programme-tv.net" site_id="tf1-series-films-201" xmltv_id="TF1 Séries Films">TF1 Séries Films</channel>
     <channel update="i" site="programme-tv.net" site_id="canalplus-series-227" xmltv_id="Canal+ Séries">Canal+ Séries</channel>
-    <channel update="i" site="programme-tv.net" site_id="comedieplus-27" xmltv_id="Comédie+">Comédie+</channel>
     <channel update="i" site="programme-tv.net" site_id="polarplus-401" xmltv_id="Polar+">Polar+</channel>
     <channel update="i" site="programme-tv.net" site_id="warner-tv-403" xmltv_id="Warner TV">Warner TV</channel>
     <channel update="i" site="programme-tv.net" site_id="serieclub-18" xmltv_id="serieclub">serieclub</channel>
-    <channel update="i" site="programme-tv.net" site_id="ab-1-31" xmltv_id="AB 1">AB 1</channel>
     <channel update="i" site="programme-tv.net" site_id="tvbreizh-129" xmltv_id="TvBreizh">TvBreizh</channel>
+    <channel update="i" site="programme-tv.net" site_id="ab-1-31" xmltv_id="AB 1">AB 1</channel>
+    <channel update="i" site="programme-tv.net" site_id="comedieplus-27" xmltv_id="Comédie+">Comédie+</channel>
     <channel update="i" site="programme-tv.net" site_id="lequipe-204" xmltv_id="L'Equipe">L'Equipe</channel>
     <channel update="i" site="programme-tv.net" site_id="canalplus-sport-37" xmltv_id="Canal+ Sport">Canal+ Sport</channel>
-    <channel update="i" site="programme-tv.net" site_id="trek-269" xmltv_id="Trek">Trek</channel>
     <channel update="i" site="programme-tv.net" site_id="infosportplus-74" xmltv_id="Infosport+">Infosport+</channel>
     <channel update="i" site="programme-tv.net" site_id="eurosport-1-5" xmltv_id="Eurosport 1">Eurosport 1</channel>
     <channel update="i" site="programme-tv.net" site_id="eurosport-2-63" xmltv_id="Eurosport 2">Eurosport 2</channel>
@@ -75,28 +75,47 @@
     <channel update="i" site="programme-tv.net" site_id="rmc-sport-3-454" xmltv_id="RMC Sport 3">RMC Sport 3</channel>
     <channel update="i" site="programme-tv.net" site_id="rmc-sport-4-335" xmltv_id="RMC Sport 4">RMC Sport 4</channel>
     <channel update="i" site="programme-tv.net" site_id="rmc-sport-news-386" xmltv_id="RMC Sport News">RMC Sport News</channel>
-    <channel update="i" site="programme-tv.net" site_id="oltv-101" xmltv_id="OLTV">OLTV</channel>
-    <channel update="i" site="programme-tv.net" site_id="automoto-89" xmltv_id="Automoto">Automoto</channel>
-    <channel update="i" site="programme-tv.net" site_id="equidia-59" xmltv_id="Equidia">Equidia</channel>
     <channel update="i" site="programme-tv.net" site_id="golfplus-189" xmltv_id="Golf+">Golf+</channel>
     <channel update="i" site="programme-tv.net" site_id="extreme-sports-channel-65" xmltv_id="Extreme Sports Channel">Extreme Sports Channel</channel>
+    <channel update="i" site="programme-tv.net" site_id="automoto-89" xmltv_id="Automoto">Automoto</channel>
+    <channel update="i" site="programme-tv.net" site_id="oltv-101" xmltv_id="OLTV">OLTV</channel>
+    <channel update="i" site="programme-tv.net" site_id="equidia-59" xmltv_id="Equidia">Equidia</channel>
+    <channel update="i" site="programme-tv.net" site_id="trek-269" xmltv_id="Trek">Trek</channel>
+    <channel update="i" site="programme-tv.net" site_id="bein-sports-max-5-301" xmltv_id="beIN SPORTS MAX 5">beIN SPORTS MAX 5</channel>
+    <channel update="i" site="programme-tv.net" site_id="bein-sports-max-7-303" xmltv_id="beIN SPORTS MAX 7">beIN SPORTS MAX 7</channel>
+    <channel update="i" site="programme-tv.net" site_id="bein-sports-max-8-304" xmltv_id="beIN SPORTS MAX 8">beIN SPORTS MAX 8</channel>
+    <channel update="i" site="programme-tv.net" site_id="bein-sports-max-9-306" xmltv_id="beIN SPORTS MAX 9">beIN SPORTS MAX 9</channel>
+    <channel update="i" site="programme-tv.net" site_id="bein-sports-max-10-305" xmltv_id="beIN SPORTS MAX 10">beIN SPORTS MAX 10</channel>
+    <channel update="i" site="programme-tv.net" site_id="rmc-sport-live-5-464" xmltv_id="RMC Sport Live 5">RMC Sport Live 5</channel>
+    <channel update="i" site="programme-tv.net" site_id="rmc-sport-live-6-465" xmltv_id="RMC Sport Live 6">RMC Sport Live 6</channel>
+    <channel update="i" site="programme-tv.net" site_id="rmc-sport-live-7-457" xmltv_id="RMC Sport Live 7">RMC Sport Live 7</channel>
+    <channel update="i" site="programme-tv.net" site_id="rmc-sport-live-8-458" xmltv_id="RMC Sport Live 8">RMC Sport Live 8</channel>
+    <channel update="i" site="programme-tv.net" site_id="rmc-sport-live-9-460" xmltv_id="RMC Sport Live 9">RMC Sport Live 9</channel>
+    <channel update="i" site="programme-tv.net" site_id="rmc-sport-live-10-459" xmltv_id="RMC Sport Live 10">RMC Sport Live 10</channel>
+    <channel update="i" site="programme-tv.net" site_id="rmc-sport-live-11-455" xmltv_id="RMC Sport Live 11">RMC Sport Live 11</channel>
+    <channel update="i" site="programme-tv.net" site_id="rmc-sport-live-12-456" xmltv_id="RMC Sport Live 12">RMC Sport Live 12</channel>
+    <channel update="i" site="programme-tv.net" site_id="rmc-sport-live-13-466" xmltv_id="RMC Sport Live 13">RMC Sport Live 13</channel>
+    <channel update="i" site="programme-tv.net" site_id="rmc-sport-live-14-462" xmltv_id="RMC Sport Live 14">RMC Sport Live 14</channel>
+    <channel update="i" site="programme-tv.net" site_id="rmc-sport-live-15-463" xmltv_id="RMC Sport Live 15">RMC Sport Live 15</channel>
+    <channel update="i" site="programme-tv.net" site_id="rmc-sport-live-16-461" xmltv_id="RMC Sport Live 16">RMC Sport Live 16</channel>
     <channel update="i" site="programme-tv.net" site_id="rmc-decouverte-205" xmltv_id="RMC Découverte">RMC Découverte</channel>
     <channel update="i" site="programme-tv.net" site_id="non-stop-people-hd-241" xmltv_id="Non Stop People HD">Non Stop People HD</channel>
-    <channel update="i" site="programme-tv.net" site_id="myzen-tv-381" xmltv_id="MyZen.tv">MyZen.tv</channel>
     <channel update="i" site="programme-tv.net" site_id="planeteplus-16" xmltv_id="Planète+">Planète+</channel>
     <channel update="i" site="programme-tv.net" site_id="planeteplus-crime-investigation-151" xmltv_id="Planète+ Crime Investigation">Planète+ Crime Investigation</channel>
     <channel update="i" site="programme-tv.net" site_id="planeteplus-aventure-experience-105" xmltv_id="Planète+ Aventure Expérience">Planète+ Aventure Expérience</channel>
+    <channel update="i" site="programme-tv.net" site_id="voyage-134" xmltv_id="Voyage">Voyage</channel>
     <channel update="i" site="programme-tv.net" site_id="national-geographic-98" xmltv_id="National Geographic">National Geographic</channel>
     <channel update="i" site="programme-tv.net" site_id="nat-geo-wild-207" xmltv_id="Nat Geo Wild">Nat Geo Wild</channel>
-    <channel update="i" site="programme-tv.net" site_id="voyage-134" xmltv_id="Voyage">Voyage</channel>
     <channel update="i" site="programme-tv.net" site_id="ushuaia-tv-132" xmltv_id="Ushuaïa TV">Ushuaïa TV</channel>
-    <channel update="i" site="programme-tv.net" site_id="histoire-72" xmltv_id="Histoire">Histoire</channel>
+    <channel update="i" site="programme-tv.net" site_id="histoire-tv-72" xmltv_id="Histoire TV">Histoire TV</channel>
     <channel update="i" site="programme-tv.net" site_id="toute-lhistoire-117" xmltv_id="Toute l'histoire">Toute l'histoire</channel>
     <channel update="i" site="programme-tv.net" site_id="science-vie-tv-58" xmltv_id="Science &amp; Vie TV">Science &amp; Vie TV</channel>
-    <channel update="i" site="programme-tv.net" site_id="animaux-33" xmltv_id="Animaux">Animaux</channel>
     <channel update="i" site="programme-tv.net" site_id="seasons-111" xmltv_id="Seasons">Seasons</channel>
     <channel update="i" site="programme-tv.net" site_id="chasse-et-peche-42" xmltv_id="Chasse et pêche">Chasse et pêche</channel>
+    <channel update="i" site="programme-tv.net" site_id="animaux-33" xmltv_id="Animaux">Animaux</channel>
     <channel update="i" site="programme-tv.net" site_id="la-chaine-meteo-77" xmltv_id="La Chaîne Météo">La Chaîne Météo</channel>
+    <channel update="i" site="programme-tv.net" site_id="myzen-tv-381" xmltv_id="MyZen.tv">MyZen.tv</channel>
+    <channel update="i" site="programme-tv.net" site_id="m6-boutique-238" xmltv_id="M6 Boutique">M6 Boutique</channel>
     <channel update="i" site="programme-tv.net" site_id="canalplus-cinema-35" xmltv_id="Canal+ Cinéma">Canal+ Cinéma</channel>
     <channel update="i" site="programme-tv.net" site_id="canalplus-family-149" xmltv_id="Canal+ Family">Canal+ Family</channel>
     <channel update="i" site="programme-tv.net" site_id="canalplus-decale-36" xmltv_id="Canal+ Décalé">Canal+ Décalé</channel>
@@ -118,11 +137,14 @@
     <channel update="i" site="programme-tv.net" site_id="mcm-87" xmltv_id="MCM">MCM</channel>
     <channel update="i" site="programme-tv.net" site_id="m6-music-80" xmltv_id="M6 Music">M6 Music</channel>
     <channel update="i" site="programme-tv.net" site_id="nrj-hits-167" xmltv_id="NRJ Hits">NRJ Hits</channel>
+    <channel update="i" site="programme-tv.net" site_id="trace-urban-127" xmltv_id="Trace Urban">Trace Urban</channel>
     <channel update="i" site="programme-tv.net" site_id="rfm-tv-85" xmltv_id="RFM TV">RFM TV</channel>
     <channel update="i" site="programme-tv.net" site_id="melody-179" xmltv_id="Melody">Melody</channel>
     <channel update="i" site="programme-tv.net" site_id="mezzo-88" xmltv_id="Mezzo">Mezzo</channel>
     <channel update="i" site="programme-tv.net" site_id="mezzo-live-hd-311" xmltv_id="Mezzo Live HD">Mezzo Live HD</channel>
     <channel update="i" site="programme-tv.net" site_id="stingray-djazz-361" xmltv_id="Stingray Djazz">Stingray Djazz</channel>
+    <channel update="i" site="programme-tv.net" site_id="comedy-central-472" xmltv_id="Comedy Central">Comedy Central</channel>
+    <channel update="i" site="programme-tv.net" site_id="cnn-235" xmltv_id="CNN">CNN</channel>
     <channel update="i" site="programme-tv.net" site_id="rtpi-187" xmltv_id="RTPI">RTPI</channel>
     <channel update="i" site="programme-tv.net" site_id="tve-186" xmltv_id="TVE">TVE</channel>
     <channel update="i" site="programme-tv.net" site_id="rtl-television-198" xmltv_id="RTL Télévision">RTL Télévision</channel>
@@ -196,7 +218,6 @@
     <channel update="i" site="programme-tv.net" site_id="rmc-story-203" xmltv_id="RMC Story">RMC Story</channel>
     <channel update="i" site="programme-tv.net" site_id="cherie-25-206" xmltv_id="Chérie 25">Chérie 25</channel>
     <channel update="i" site="programme-tv.net" site_id="bet-299" xmltv_id="BET">BET</channel>
-    <channel update="i" site="programme-tv.net" site_id="novelas-tv-400" xmltv_id="Novelas TV">Novelas TV</channel>
     <channel update="i" site="programme-tv.net" site_id="paris-premiere-15" xmltv_id="Paris Première">Paris Première</channel>
     <channel update="i" site="programme-tv.net" site_id="teva-23" xmltv_id="Téva">Téva</channel>
     <channel update="i" site="programme-tv.net" site_id="rtl-9-17" xmltv_id="RTL 9">RTL 9</channel>
@@ -209,22 +230,23 @@
     <channel update="i" site="programme-tv.net" site_id="franceinfo-307" xmltv_id="Franceinfo">Franceinfo</channel>
     <channel update="i" site="programme-tv.net" site_id="bfm-paris-379" xmltv_id="BFM Paris">BFM Paris</channel>
     <channel update="i" site="programme-tv.net" site_id="bfm-business-232" xmltv_id="BFM Business">BFM Business</channel>
+    <channel update="i" site="programme-tv.net" site_id="euronews-62" xmltv_id="Euronews">Euronews</channel>
     <channel update="i" site="programme-tv.net" site_id="france-24-142" xmltv_id="France 24">France 24</channel>
     <channel update="i" site="programme-tv.net" site_id="i24news-243" xmltv_id="I24news">I24news</channel>
     <channel update="i" site="programme-tv.net" site_id="lcp-100-377" xmltv_id="LCP 100%">LCP 100%</channel>
     <channel update="i" site="programme-tv.net" site_id="gulli-29" xmltv_id="Gulli">Gulli</channel>
     <channel update="i" site="programme-tv.net" site_id="game-one-71" xmltv_id="Game One">Game One</channel>
-    <channel update="i" site="programme-tv.net" site_id="disney-cinema-153" xmltv_id="Disney Cinema">Disney Cinema</channel>
+    <channel update="i" site="programme-tv.net" site_id="j-one-387" xmltv_id="J-One">J-One</channel>
+    <channel update="i" site="programme-tv.net" site_id="nickelodeon-junior-199" xmltv_id="Nickelodeon Junior">Nickelodeon Junior</channel>
     <channel update="i" site="programme-tv.net" site_id="boomerang-34" xmltv_id="Boomerang">Boomerang</channel>
     <channel update="i" site="programme-tv.net" site_id="tiji-115" xmltv_id="TIJI">TIJI</channel>
+    <channel update="i" site="programme-tv.net" site_id="nickelodeon-99" xmltv_id="Nickelodéon">Nickelodéon</channel>
     <channel update="i" site="programme-tv.net" site_id="disney-channel-57" xmltv_id="Disney Channel">Disney Channel</channel>
     <channel update="i" site="programme-tv.net" site_id="canal-j-40" xmltv_id="Canal J">Canal J</channel>
+    <channel update="i" site="programme-tv.net" site_id="cartoon-network-41" xmltv_id="Cartoon Network">Cartoon Network</channel>
+    <channel update="i" site="programme-tv.net" site_id="nickelodeon-teen-384" xmltv_id="Nickelodéon Teen">Nickelodéon Teen</channel>
     <channel update="i" site="programme-tv.net" site_id="boing-233" xmltv_id="Boing">Boing</channel>
     <channel update="i" site="programme-tv.net" site_id="toonami-338" xmltv_id="Toonami">Toonami</channel>
-    <channel update="i" site="programme-tv.net" site_id="piwiplus-104" xmltv_id="Piwi+">Piwi+</channel>
-    <channel update="i" site="programme-tv.net" site_id="disney-junior-166" xmltv_id="Disney Junior">Disney Junior</channel>
-    <channel update="i" site="programme-tv.net" site_id="teletoonplus-131" xmltv_id="TéléToon+">TéléToon+</channel>
-    <channel update="i" site="programme-tv.net" site_id="disney-xd-75" xmltv_id="Disney XD">Disney XD</channel>
     <channel update="i" site="programme-tv.net" site_id="mangas-82" xmltv_id="Mangas">Mangas</channel>
     <channel update="i" site="programme-tv.net" site_id="gong-355" xmltv_id="Gong">Gong</channel>
     <channel update="i" site="programme-tv.net" site_id="tf1-series-films-201" xmltv_id="TF1 Séries Films">TF1 Séries Films</channel>
@@ -233,9 +255,7 @@
     <channel update="i" site="programme-tv.net" site_id="syfy-110" xmltv_id="Syfy">Syfy</channel>
     <channel update="i" site="programme-tv.net" site_id="e-141" xmltv_id="E !">E !</channel>
     <channel update="i" site="programme-tv.net" site_id="ab-1-31" xmltv_id="AB 1">AB 1</channel>
-    <channel update="i" site="programme-tv.net" site_id="comedieplus-27" xmltv_id="Comédie+">Comédie+</channel>
-    <channel update="i" site="programme-tv.net" site_id="polarplus-401" xmltv_id="Polar+">Polar+</channel>
-    <channel update="i" site="programme-tv.net" site_id="warner-tv-403" xmltv_id="Warner TV">Warner TV</channel>
+    <channel update="i" site="programme-tv.net" site_id="serieclub-18" xmltv_id="serieclub">serieclub</channel>
     <channel update="i" site="programme-tv.net" site_id="tvbreizh-129" xmltv_id="TvBreizh">TvBreizh</channel>
     <channel update="i" site="programme-tv.net" site_id="canalplus-series-227" xmltv_id="Canal+ Séries">Canal+ Séries</channel>
     <channel update="i" site="programme-tv.net" site_id="lequipe-204" xmltv_id="L'Equipe">L'Equipe</channel>
@@ -253,43 +273,55 @@
     <channel update="i" site="programme-tv.net" site_id="bein-sports-3-265" xmltv_id="beIN SPORTS 3">beIN SPORTS 3</channel>
     <channel update="i" site="programme-tv.net" site_id="canalplus-sport-37" xmltv_id="Canal+ Sport">Canal+ Sport</channel>
     <channel update="i" site="programme-tv.net" site_id="equidia-59" xmltv_id="Equidia">Equidia</channel>
-    <channel update="i" site="programme-tv.net" site_id="eurosport-1-5" xmltv_id="Eurosport 1">Eurosport 1</channel>
-    <channel update="i" site="programme-tv.net" site_id="eurosport-2-63" xmltv_id="Eurosport 2">Eurosport 2</channel>
     <channel update="i" site="programme-tv.net" site_id="automoto-89" xmltv_id="Automoto">Automoto</channel>
     <channel update="i" site="programme-tv.net" site_id="golf-channel-354" xmltv_id="Golf Channel">Golf Channel</channel>
-    <channel update="i" site="programme-tv.net" site_id="infosportplus-74" xmltv_id="Infosport+">Infosport+</channel>
-    <channel update="i" site="programme-tv.net" site_id="extreme-sports-channel-65" xmltv_id="Extreme Sports Channel">Extreme Sports Channel</channel>
+    <channel update="i" site="programme-tv.net" site_id="trace-sport-stars-197" xmltv_id="TRACE Sport Stars">TRACE Sport Stars</channel>
     <channel update="i" site="programme-tv.net" site_id="trek-269" xmltv_id="Trek">Trek</channel>
     <channel update="i" site="programme-tv.net" site_id="ginx-352" xmltv_id="Ginx">Ginx</channel>
-    <channel update="i" site="programme-tv.net" site_id="golfplus-189" xmltv_id="Golf+">Golf+</channel>
+    <channel update="i" site="programme-tv.net" site_id="bein-sports-max-5-301" xmltv_id="beIN SPORTS MAX 5">beIN SPORTS MAX 5</channel>
+    <channel update="i" site="programme-tv.net" site_id="bein-sports-max-7-303" xmltv_id="beIN SPORTS MAX 7">beIN SPORTS MAX 7</channel>
+    <channel update="i" site="programme-tv.net" site_id="bein-sports-max-8-304" xmltv_id="beIN SPORTS MAX 8">beIN SPORTS MAX 8</channel>
+    <channel update="i" site="programme-tv.net" site_id="bein-sports-max-9-306" xmltv_id="beIN SPORTS MAX 9">beIN SPORTS MAX 9</channel>
+    <channel update="i" site="programme-tv.net" site_id="bein-sports-max-10-305" xmltv_id="beIN SPORTS MAX 10">beIN SPORTS MAX 10</channel>
+    <channel update="i" site="programme-tv.net" site_id="rmc-sport-live-5-464" xmltv_id="RMC Sport Live 5">RMC Sport Live 5</channel>
+    <channel update="i" site="programme-tv.net" site_id="rmc-sport-live-6-465" xmltv_id="RMC Sport Live 6">RMC Sport Live 6</channel>
+    <channel update="i" site="programme-tv.net" site_id="rmc-sport-live-7-457" xmltv_id="RMC Sport Live 7">RMC Sport Live 7</channel>
+    <channel update="i" site="programme-tv.net" site_id="rmc-sport-live-8-458" xmltv_id="RMC Sport Live 8">RMC Sport Live 8</channel>
+    <channel update="i" site="programme-tv.net" site_id="rmc-sport-live-9-460" xmltv_id="RMC Sport Live 9">RMC Sport Live 9</channel>
+    <channel update="i" site="programme-tv.net" site_id="rmc-sport-live-10-459" xmltv_id="RMC Sport Live 10">RMC Sport Live 10</channel>
+    <channel update="i" site="programme-tv.net" site_id="rmc-sport-live-11-455" xmltv_id="RMC Sport Live 11">RMC Sport Live 11</channel>
+    <channel update="i" site="programme-tv.net" site_id="rmc-sport-live-12-456" xmltv_id="RMC Sport Live 12">RMC Sport Live 12</channel>
+    <channel update="i" site="programme-tv.net" site_id="rmc-sport-live-13-466" xmltv_id="RMC Sport Live 13">RMC Sport Live 13</channel>
+    <channel update="i" site="programme-tv.net" site_id="rmc-sport-live-14-462" xmltv_id="RMC Sport Live 14">RMC Sport Live 14</channel>
+    <channel update="i" site="programme-tv.net" site_id="rmc-sport-live-15-463" xmltv_id="RMC Sport Live 15">RMC Sport Live 15</channel>
+    <channel update="i" site="programme-tv.net" site_id="rmc-sport-live-16-461" xmltv_id="RMC Sport Live 16">RMC Sport Live 16</channel>
     <channel update="i" site="programme-tv.net" site_id="rmc-decouverte-205" xmltv_id="RMC Découverte">RMC Découverte</channel>
+    <channel update="i" site="programme-tv.net" site_id="ushuaia-tv-132" xmltv_id="Ushuaïa TV">Ushuaïa TV</channel>
     <channel update="i" site="programme-tv.net" site_id="discovery-channel-54" xmltv_id="Discovery Channel">Discovery Channel</channel>
     <channel update="i" site="programme-tv.net" site_id="discovery-science-200" xmltv_id="Discovery Science">Discovery Science</channel>
     <channel update="i" site="programme-tv.net" site_id="discovery-family-399" xmltv_id="Discovery Family">Discovery Family</channel>
     <channel update="i" site="programme-tv.net" site_id="my-cuisine-397" xmltv_id="My Cuisine">My Cuisine</channel>
-    <channel update="i" site="programme-tv.net" site_id="la-chaine-meteo-77" xmltv_id="La Chaîne Météo">La Chaîne Météo</channel>
-    <channel update="i" site="programme-tv.net" site_id="eurochannel-236" xmltv_id="Eurochannel">Eurochannel</channel>
-    <channel update="i" site="programme-tv.net" site_id="planeteplus-16" xmltv_id="Planète+">Planète+</channel>
-    <channel update="i" site="programme-tv.net" site_id="planeteplus-crime-investigation-151" xmltv_id="Planète+ Crime Investigation">Planète+ Crime Investigation</channel>
-    <channel update="i" site="programme-tv.net" site_id="ushuaia-tv-132" xmltv_id="Ushuaïa TV">Ushuaïa TV</channel>
-    <channel update="i" site="programme-tv.net" site_id="planeteplus-aventure-experience-105" xmltv_id="Planète+ Aventure Expérience">Planète+ Aventure Expérience</channel>
-    <channel update="i" site="programme-tv.net" site_id="histoire-72" xmltv_id="Histoire">Histoire</channel>
+    <channel update="i" site="programme-tv.net" site_id="histoire-tv-72" xmltv_id="Histoire TV">Histoire TV</channel>
     <channel update="i" site="programme-tv.net" site_id="toute-lhistoire-117" xmltv_id="Toute l'histoire">Toute l'histoire</channel>
     <channel update="i" site="programme-tv.net" site_id="animaux-33" xmltv_id="Animaux">Animaux</channel>
-    <channel update="i" site="programme-tv.net" site_id="seasons-111" xmltv_id="Seasons">Seasons</channel>
     <channel update="i" site="programme-tv.net" site_id="chasse-et-peche-42" xmltv_id="Chasse et pêche">Chasse et pêche</channel>
     <channel update="i" site="programme-tv.net" site_id="science-vie-tv-58" xmltv_id="Science &amp; Vie TV">Science &amp; Vie TV</channel>
-    <channel update="i" site="programme-tv.net" site_id="non-stop-people-hd-241" xmltv_id="Non Stop People HD">Non Stop People HD</channel>
+    <channel update="i" site="programme-tv.net" site_id="fashion-tv-358" xmltv_id="Fashion TV">Fashion TV</channel>
+    <channel update="i" site="programme-tv.net" site_id="bblack-359" xmltv_id="BBlack">BBlack</channel>
+    <channel update="i" site="programme-tv.net" site_id="m6-boutique-238" xmltv_id="M6 Boutique">M6 Boutique</channel>
+    <channel update="i" site="programme-tv.net" site_id="mtv-96" xmltv_id="MTV">MTV</channel>
     <channel update="i" site="programme-tv.net" site_id="mcm-87" xmltv_id="MCM">MCM</channel>
+    <channel update="i" site="programme-tv.net" site_id="mtv-hits-93" xmltv_id="MTV Hits">MTV Hits</channel>
     <channel update="i" site="programme-tv.net" site_id="m6-music-80" xmltv_id="M6 Music">M6 Music</channel>
     <channel update="i" site="programme-tv.net" site_id="rfm-tv-85" xmltv_id="RFM TV">RFM TV</channel>
     <channel update="i" site="programme-tv.net" site_id="nrj-hits-167" xmltv_id="NRJ Hits">NRJ Hits</channel>
-    <channel update="i" site="programme-tv.net" site_id="mcm-top-86" xmltv_id="MCM Top">MCM Top</channel>
     <channel update="i" site="programme-tv.net" site_id="mezzo-88" xmltv_id="Mezzo">Mezzo</channel>
     <channel update="i" site="programme-tv.net" site_id="mezzo-live-hd-311" xmltv_id="Mezzo Live HD">Mezzo Live HD</channel>
     <channel update="i" site="programme-tv.net" site_id="melody-179" xmltv_id="Melody">Melody</channel>
-    <channel update="i" site="programme-tv.net" site_id="stingray-djazz-361" xmltv_id="Stingray Djazz">Stingray Djazz</channel>
-    <channel update="i" site="programme-tv.net" site_id="stingray-i-concerts-392" xmltv_id="Stingray i-Concerts">Stingray i-Concerts</channel>
+    <channel update="i" site="programme-tv.net" site_id="trace-urban-127" xmltv_id="Trace Urban">Trace Urban</channel>
+    <channel update="i" site="programme-tv.net" site_id="trace-tropical-395" xmltv_id="Trace Tropical">Trace Tropical</channel>
+    <channel update="i" site="programme-tv.net" site_id="trace-africa-347" xmltv_id="Trace Africa">Trace Africa</channel>
+    <channel update="i" site="programme-tv.net" site_id="comedy-central-472" xmltv_id="Comedy Central">Comedy Central</channel>
     <channel update="i" site="programme-tv.net" site_id="ocs-max-172" xmltv_id="OCS Max">OCS Max</channel>
     <channel update="i" site="programme-tv.net" site_id="ocs-city-173" xmltv_id="OCS City">OCS City</channel>
     <channel update="i" site="programme-tv.net" site_id="ocs-choc-169" xmltv_id="OCS Choc">OCS Choc</channel>
@@ -308,16 +340,6 @@
     <channel update="i" site="programme-tv.net" site_id="action-32" xmltv_id="Action">Action</channel>
     <channel update="i" site="programme-tv.net" site_id="sundance-tv-195" xmltv_id="Sundance TV">Sundance TV</channel>
     <channel update="i" site="programme-tv.net" site_id="nollywood-tv-348" xmltv_id="Nollywood TV">Nollywood TV</channel>
-    <channel update="i" site="programme-tv.net" site_id="gong-max-350" xmltv_id="Gong Max">Gong Max</channel>
-    <channel update="i" site="programme-tv.net" site_id="tve-186" xmltv_id="TVE">TVE</channel>
-    <channel update="i" site="programme-tv.net" site_id="rtpi-187" xmltv_id="RTPI">RTPI</channel>
-    <channel update="i" site="programme-tv.net" site_id="rai-uno-188" xmltv_id="Rai Uno">Rai Uno</channel>
-    <channel update="i" site="programme-tv.net" site_id="bbc-entertainment-194" xmltv_id="BBC Entertainment">BBC Entertainment</channel>
-    <channel update="i" site="programme-tv.net" site_id="ard-185" xmltv_id="ARD">ARD</channel>
-    <channel update="i" site="programme-tv.net" site_id="rtl-television-198" xmltv_id="RTL Télévision">RTL Télévision</channel>
-    <channel update="i" site="programme-tv.net" site_id="swr-208" xmltv_id="SWR">SWR</channel>
-    <channel update="i" site="programme-tv.net" site_id="zdf-193" xmltv_id="ZDF">ZDF</channel>
-    <channel update="i" site="programme-tv.net" site_id="aplus-international-france-383" xmltv_id="A+ International France">A+ International France</channel>
     <channel update="i" site="programme-tv.net" site_id="france-3-alpes-275" xmltv_id="France 3 Alpes">France 3 Alpes</channel>
     <channel update="i" site="programme-tv.net" site_id="france-3-alsace-276" xmltv_id="France 3 Alsace">France 3 Alsace</channel>
     <channel update="i" site="programme-tv.net" site_id="france-3-aquitaine-277" xmltv_id="France 3 Aquitaine">France 3 Aquitaine</channel>
@@ -341,5 +363,15 @@
     <channel update="i" site="programme-tv.net" site_id="france-3-poitou-charentes-296" xmltv_id="France 3 Poitou-Charentes">France 3 Poitou-Charentes</channel>
     <channel update="i" site="programme-tv.net" site_id="france-3-provence-alpes-297" xmltv_id="France 3 Provence-Alpes">France 3 Provence-Alpes</channel>
     <channel update="i" site="programme-tv.net" site_id="france-3-rhone-alpes-298" xmltv_id="France 3 Rhône-Alpes">France 3 Rhône-Alpes</channel>
+    <channel update="i" site="programme-tv.net" site_id="cnn-235" xmltv_id="CNN">CNN</channel>
+    <channel update="i" site="programme-tv.net" site_id="tve-186" xmltv_id="TVE">TVE</channel>
+    <channel update="i" site="programme-tv.net" site_id="rtpi-187" xmltv_id="RTPI">RTPI</channel>
+    <channel update="i" site="programme-tv.net" site_id="rai-uno-188" xmltv_id="Rai Uno">Rai Uno</channel>
+    <channel update="i" site="programme-tv.net" site_id="bbc-entertainment-194" xmltv_id="BBC Entertainment">BBC Entertainment</channel>
+    <channel update="i" site="programme-tv.net" site_id="ard-185" xmltv_id="ARD">ARD</channel>
+    <channel update="i" site="programme-tv.net" site_id="rtl-television-198" xmltv_id="RTL Télévision">RTL Télévision</channel>
+    <channel update="i" site="programme-tv.net" site_id="swr-208" xmltv_id="SWR">SWR</channel>
+    <channel update="i" site="programme-tv.net" site_id="zdf-193" xmltv_id="ZDF">ZDF</channel>
+    <channel update="i" site="programme-tv.net" site_id="b-one-339" xmltv_id="B.One">B.One</channel>
   </channels>
 </site>
