@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.4 -- Jan van Straaten" site="it.dplay.com">
+  <channels>
+    <channel update="i" site="it.dplay.com" site_id="k2" xmltv_id="K2">K2</channel>
+    <channel update="i" site="it.dplay.com" site_id="nove" xmltv_id="NOVE">NOVE</channel>
+    <channel update="i" site="it.dplay.com" site_id="discovery-science" xmltv_id="Discovery Science">Discovery Science</channel>
+    <channel update="i" site="it.dplay.com" site_id="motor-trend" xmltv_id="Motor Trend">Motor Trend</channel>
+    <channel update="i" site="it.dplay.com" site_id="discovery-channel" xmltv_id="Discovery Channel">Discovery Channel</channel>
+    <channel update="i" site="it.dplay.com" site_id="giallo" xmltv_id="Giallo">Giallo</channel>
+    <channel update="i" site="it.dplay.com" site_id="home-and-garden-tv" xmltv_id="Home and garden TV">Home and garden TV</channel>
+    <channel update="i" site="it.dplay.com" site_id="realtime" xmltv_id="Real Time">Real Time</channel>
+    <channel update="i" site="it.dplay.com" site_id="dmax" xmltv_id="DMAX">DMAX</channel>
+    <channel update="i" site="it.dplay.com" site_id="food-network" xmltv_id="Food Network">Food Network</channel>
+    <channel update="i" site="it.dplay.com" site_id="frisbee" xmltv_id="Frisbee">Frisbee</channel>
+  </channels>
+</site>
