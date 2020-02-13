@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.4 -- Jan van Straaten" site="crtvg.es">
+  <channels>
+    <channel update="i" site="crtvg.es" site_id="galicia-tv-europa" xmltv_id="Galicia TV Europa">Galicia TV Europa</channel>
+    <channel update="i" site="crtvg.es" site_id="galicia-tv-america" xmltv_id="Galicia TV América">Galicia TV América</channel>
+    <channel update="i" site="crtvg.es" site_id="tvg" xmltv_id="TVG">TVG</channel>
+    <channel update="i" site="crtvg.es" site_id="tvg2" xmltv_id="TVG2">TVG2</channel>
+  </channels>
+</site>
