@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.4 -- Jan van Straaten" site="cinestartvchannels.hr">
+  <channels>
+    <channel update="i" site="cinestartvchannels.hr" site_id="cinestartv-premiere-1" xmltv_id="CineStar TV Premiere 1">CineStar TV Premiere 1</channel>
+    <channel update="i" site="cinestartvchannels.hr" site_id="cinestartv-premiere-2" xmltv_id="CineStar TV Premiere 2">CineStar TV Premiere 2</channel>
+    <channel update="i" site="cinestartvchannels.hr" site_id="ct1" xmltv_id="CineStar TV1">CineStar TV1</channel>
+    <channel update="i" site="cinestartvchannels.hr" site_id="ct2" xmltv_id="CineStar TV2">CineStar TV2</channel>
+    <channel update="i" site="cinestartvchannels.hr" site_id="cinestartv-action" xmltv_id="CineStar TV Action">CineStar TV Action</channel>
+    <channel update="i" site="cinestartvchannels.hr" site_id="cinestartv-fantasy" xmltv_id="CineStar TV Fantasy">CineStar TV Fantasy</channel>
+    <channel update="i" site="cinestartvchannels.hr" site_id="cinestartv-comedy-family" xmltv_id="CineStar TV Comedy Family">CineStar TV Comedy Family</channel>
+  </channels>
+</site>
