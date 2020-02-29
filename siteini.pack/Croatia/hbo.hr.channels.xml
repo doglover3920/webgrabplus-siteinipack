@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.4 -- Jan van Straaten" site="hbo.hr">
+  <channels>
+    <channel update="i" site="hbo.hr" site_id="hbo" xmltv_id="hbo">hbo</channel>
+    <channel update="i" site="hbo.hr" site_id="hbo2" xmltv_id="hbo2">hbo2</channel>
+    <channel update="i" site="hbo.hr" site_id="hbo3" xmltv_id="hbo3">hbo3</channel>
+    <channel update="i" site="hbo.hr" site_id="cinemax" xmltv_id="cinemax">cinemax</channel>
+    <channel update="i" site="hbo.hr" site_id="cinemax2" xmltv_id="cinemax2">cinemax2</channel>
+  </channels>
+</site>
