@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.4 -- Jan van Straaten" site="canalandalucia.es">
+  <channels>
+    <channel update="i" site="canalandalucia.es" site_id="cocina" xmltv_id="CanalAndaluciaCocina">CanalAndaluciaCocina</channel>
+    <channel update="i" site="canalandalucia.es" site_id="flamenco" xmltv_id="CanalAndaluciaFlameno">CanalAndaluciaFlameno</channel>
+    <channel update="i" site="canalandalucia.es" site_id="turismo" xmltv_id="CanalAndaluciaTurismo">CanalAndaluciaTurismo</channel>
+  </channels>
+</site>
