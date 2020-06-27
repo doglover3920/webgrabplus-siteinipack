@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.4 -- Jan van Straaten" site="novacyprus.com">
+  <channels>
+    <channel update="i" site="novacyprus.com" site_id="Novacinema1 HD" xmltv_id="Novacinema1 HD">Novacinema1 HD</channel>
+    <channel update="i" site="novacyprus.com" site_id="Novacinema2 HD" xmltv_id="Novacinema2 HD">Novacinema2 HD</channel>
+    <channel update="i" site="novacyprus.com" site_id="Novacinema3 HD" xmltv_id="Novacinema3 HD">Novacinema3 HD</channel>
+    <channel update="i" site="novacyprus.com" site_id="Novacinema4 HD" xmltv_id="Novacinema4 HD">Novacinema4 HD</channel>
+    <channel update="i" site="novacyprus.com" site_id="Υποθεση Ληστεια!" xmltv_id="Υποθεση Ληστεια!">Υποθεση Ληστεια!</channel>
+    <channel update="i" site="novacyprus.com" site_id="FOX HD" xmltv_id="FOX HD">FOX HD</channel>
+    <channel update="i" site="novacyprus.com" site_id="FOXlifε HD" xmltv_id="FOXlifε HD">FOXlifε HD</channel>
+    <channel update="i" site="novacyprus.com" site_id="Novalifε" xmltv_id="Novalifε">Novalifε</channel>
+    <channel update="i" site="novacyprus.com" site_id="Novasports1 HD" xmltv_id="Novasports1 HD">Novasports1 HD</channel>
+    <channel update="i" site="novacyprus.com" site_id="Novasports2 HD" xmltv_id="Novasports2 HD">Novasports2 HD</channel>
+    <channel update="i" site="novacyprus.com" site_id="Novasports3 HD" xmltv_id="Novasports3 HD">Novasports3 HD</channel>
+    <channel update="i" site="novacyprus.com" site_id="Novasports4 HD" xmltv_id="Novasports4 HD">Novasports4 HD</channel>
+    <channel update="i" site="novacyprus.com" site_id="Novasports5 HD" xmltv_id="Novasports5 HD">Novasports5 HD</channel>
+    <channel update="i" site="novacyprus.com" site_id="Eurosport 1" xmltv_id="Eurosport 1">Eurosport 1</channel>
+    <channel update="i" site="novacyprus.com" site_id="Eurosport2" xmltv_id="Eurosport2">Eurosport2</channel>
+    <channel update="i" site="novacyprus.com" site_id="FOX Sports HD" xmltv_id="FOX Sports HD">FOX Sports HD</channel>
+    <channel update="i" site="novacyprus.com" site_id="Discovery Channel" xmltv_id="Discovery Channel">Discovery Channel</channel>
+    <channel update="i" site="novacyprus.com" site_id="Discovery HD Showcase" xmltv_id="Discovery HD Showcase">Discovery HD Showcase</channel>
+    <channel update="i" site="novacyprus.com" site_id="Animal Planet" xmltv_id="Animal Planet">Animal Planet</channel>
+    <channel update="i" site="novacyprus.com" site_id="National Geographic HD" xmltv_id="National Geographic HD">National Geographic HD</channel>
+    <channel update="i" site="novacyprus.com" site_id="ViasatHistory" xmltv_id="ViasatHistory">ViasatHistory</channel>
+    <channel update="i" site="novacyprus.com" site_id="Travel Channel" xmltv_id="Travel Channel">Travel Channel</channel>
+    <channel update="i" site="novacyprus.com" site_id="Food Network" xmltv_id="Food Network">Food Network</channel>
+    <channel update="i" site="novacyprus.com" site_id="National Geographic Wild HD" xmltv_id="National Geographic Wild HD">National Geographic Wild HD</channel>
+    <channel update="i" site="novacyprus.com" site_id="Disney XD" xmltv_id="Disney XD">Disney XD</channel>
+    <channel update="i" site="novacyprus.com" site_id="Boomerang" xmltv_id="Boomerang">Boomerang</channel>
+    <channel update="i" site="novacyprus.com" site_id="Disney Channel" xmltv_id="Disney Channel">Disney Channel</channel>
+    <channel update="i" site="novacyprus.com" site_id="Nickelodeon" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel update="i" site="novacyprus.com" site_id="Βουλή" xmltv_id="Βουλή">Βουλή</channel>
+    <channel update="i" site="novacyprus.com" site_id="CNN" xmltv_id="CNN">CNN</channel>
+    <channel update="i" site="novacyprus.com" site_id="i24news" xmltv_id="i24news">i24news</channel>
+    <channel update="i" site="novacyprus.com" site_id="Bloomberg" xmltv_id="Bloomberg">Bloomberg</channel>
+    <channel update="i" site="novacyprus.com" site_id="MAD" xmltv_id="MAD">MAD</channel>
+    <channel update="i" site="novacyprus.com" site_id="Mad Greekζ" xmltv_id="Mad Greekζ">Mad Greekζ</channel>
+    <channel update="i" site="novacyprus.com" site_id="MTV" xmltv_id="MTV">MTV</channel>
+    <channel update="i" site="novacyprus.com" site_id="VH1" xmltv_id="VH1">VH1</channel>
+    <channel update="i" site="novacyprus.com" site_id="E! Entertainment" xmltv_id="E! Entertainment">E! Entertainment</channel>
+    <channel update="i" site="novacyprus.com" site_id="Open TV" xmltv_id="Open TV">Open TV</channel>
+  </channels>
+</site>
