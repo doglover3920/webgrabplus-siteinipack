@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.4 -- Jan van Straaten" site="viasat.fi">
+  <channels>
+    <channel update="i" site="viasat.fi" site_id="V Film Premiere HD" xmltv_id="V Film Premiere HD">V Film Premiere HD</channel>
+    <channel update="i" site="viasat.fi" site_id="V Film Family" xmltv_id="V Film Family">V Film Family</channel>
+    <channel update="i" site="viasat.fi" site_id="V Film Action HD" xmltv_id="V Film Action HD">V Film Action HD</channel>
+    <channel update="i" site="viasat.fi" site_id="V Film Hits HD" xmltv_id="V Film Hits HD">V Film Hits HD</channel>
+    <channel update="i" site="viasat.fi" site_id="V Sport Urheilu" xmltv_id="V Sport Urheilu">V Sport Urheilu</channel>
+    <channel update="i" site="viasat.fi" site_id="V Sport Premium HD" xmltv_id="V Sport Premium HD">V Sport Premium HD</channel>
+    <channel update="i" site="viasat.fi" site_id="V Sport 1 HD (SE)" xmltv_id="V Sport 1 HD (SE)">V Sport 1 HD (SE)</channel>
+    <channel update="i" site="viasat.fi" site_id="V Sport Football HD" xmltv_id="V Sport Football HD">V Sport Football HD</channel>
+    <channel update="i" site="viasat.fi" site_id="V Sport Hockey HD" xmltv_id="V Sport Hockey HD">V Sport Hockey HD</channel>
+    <channel update="i" site="viasat.fi" site_id="V Sport Golf HD" xmltv_id="V Sport Golf HD">V Sport Golf HD</channel>
+    <channel update="i" site="viasat.fi" site_id="V Sport Live 1" xmltv_id="V Sport Live 1">V Sport Live 1</channel>
+    <channel update="i" site="viasat.fi" site_id="V Sport Live 2" xmltv_id="V Sport Live 2">V Sport Live 2</channel>
+    <channel update="i" site="viasat.fi" site_id="V Sport Live 3" xmltv_id="V Sport Live 3">V Sport Live 3</channel>
+    <channel update="i" site="viasat.fi" site_id="V Sport Live 4" xmltv_id="V Sport Live 4">V Sport Live 4</channel>
+    <channel update="i" site="viasat.fi" site_id="V Sport Ultra HD" xmltv_id="V Sport Ultra HD">V Sport Ultra HD</channel>
+    <channel update="i" site="viasat.fi" site_id="Disney Channel (SE/FI)" xmltv_id="Disney Channel (SE/FI)">Disney Channel (SE/FI)</channel>
+    <channel update="i" site="viasat.fi" site_id="Disney Junior" xmltv_id="Disney Junior">Disney Junior</channel>
+    <channel update="i" site="viasat.fi" site_id="Disney XD (Nordic)" xmltv_id="Disney XD (Nordic)">Disney XD (Nordic)</channel>
+    <channel update="i" site="viasat.fi" site_id="Cartoon Network" xmltv_id="Cartoon Network">Cartoon Network</channel>
+    <channel update="i" site="viasat.fi" site_id="Boomerang" xmltv_id="Boomerang">Boomerang</channel>
+    <channel update="i" site="viasat.fi" site_id="Nick Junior" xmltv_id="Nick Junior">Nick Junior</channel>
+    <channel update="i" site="viasat.fi" site_id="National Geographic (SE)" xmltv_id="National Geographic (SE)">National Geographic (SE)</channel>
+    <channel update="i" site="viasat.fi" site_id="Nat Geo HD" xmltv_id="Nat Geo HD">Nat Geo HD</channel>
+    <channel update="i" site="viasat.fi" site_id="OTT Nat Geo Wild HD" xmltv_id="OTT Nat Geo Wild HD">OTT Nat Geo Wild HD</channel>
+    <channel update="i" site="viasat.fi" site_id="Viasat History" xmltv_id="Viasat History">Viasat History</channel>
+    <channel update="i" site="viasat.fi" site_id="Viasat Explore (BSS)" xmltv_id="Viasat Explore (BSS)">Viasat Explore (BSS)</channel>
+    <channel update="i" site="viasat.fi" site_id="Viasat Nature" xmltv_id="Viasat Nature">Viasat Nature</channel>
+    <channel update="i" site="viasat.fi" site_id="CNN" xmltv_id="CNN">CNN</channel>
+    <channel update="i" site="viasat.fi" site_id="OTT CNBC" xmltv_id="OTT CNBC">OTT CNBC</channel>
+    <channel update="i" site="viasat.fi" site_id="NHK World Japan" xmltv_id="NHK World Japan">NHK World Japan</channel>
+    <channel update="i" site="viasat.fi" site_id="MTV (Nordic)" xmltv_id="MTV (Nordic)">MTV (Nordic)</channel>
+    <channel update="i" site="viasat.fi" site_id="VH1" xmltv_id="VH1">VH1</channel>
+    <channel update="i" site="viasat.fi" site_id="IP-E!" xmltv_id="IP-E!">IP-E!</channel>
+    <channel update="i" site="viasat.fi" site_id="TV6 HD (SE)" xmltv_id="TV6 HD (SE)">TV6 HD (SE)</channel>
+    <channel update="i" site="viasat.fi" site_id="TV3 HD (SE)" xmltv_id="TV3 HD (SE)">TV3 HD (SE)</channel>
+    <channel update="i" site="viasat.fi" site_id="TVN Chile Nordic" xmltv_id="TVN Chile Nordic">TVN Chile Nordic</channel>
+  </channels>
+</site>
