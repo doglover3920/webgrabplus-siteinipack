@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.4 -- Jan van Straaten" site="tv.nrk.no">
+  <channels>
+    <channel update="i" site="nrk.no" site_id="nrk2" xmltv_id="NRK2">NRK2</channel>
+    <channel update="i" site="nrk.no" site_id="nrk3" xmltv_id="NRK3">NRK3</channel>
+    <channel update="i" site="nrk.no" site_id="nrksuper" xmltv_id="NRK Super">NRK Super</channel>
+    <channel update="i" site="nrk.no" site_id="nrk1_innlandet" xmltv_id="NRK1 Innlandet">NRK1 Innlandet</channel>
+    <channel update="i" site="nrk.no" site_id="nrk1_more_romsdal" xmltv_id="NRK1 Møre og Romsdal">NRK1 Møre og Romsdal</channel>
+    <channel update="i" site="nrk.no" site_id="nrk1_nordland" xmltv_id="NRK1 Nordland">NRK1 Nordland</channel>
+    <channel update="i" site="nrk.no" site_id="nrk1_troms" xmltv_id="NRK1 Nordnytt">NRK1 Nordnytt</channel>
+    <channel update="i" site="nrk.no" site_id="nrk1_oslo_viken" xmltv_id="NRK1 Oslo og Viken">NRK1 Oslo og Viken</channel>
+    <channel update="i" site="nrk.no" site_id="nrk1_rogaland" xmltv_id="NRK1 Rogaland">NRK1 Rogaland</channel>
+    <channel update="i" site="nrk.no" site_id="nrk1_sorlandet" xmltv_id="NRK1 Sørlandet">NRK1 Sørlandet</channel>
+    <channel update="i" site="nrk.no" site_id="nrk1_trondelag" xmltv_id="NRK1 Trøndelag">NRK1 Trøndelag</channel>
+    <channel update="i" site="nrk.no" site_id="nrk1_vestfold_telemark" xmltv_id="NRK1 Vestfold og Telemark">NRK1 Vestfold og Telemark</channel>
+    <channel update="i" site="nrk.no" site_id="nrk1_hordaland" xmltv_id="NRK1 Vestlandsrevyen">NRK1 Vestlandsrevyen</channel>
+    <channel update="i" site="nrk.no" site_id="nrk_tegnspraak" xmltv_id="NRK Tegnspråk">NRK Tegnspråk</channel>
+  </channels>
+</site>
