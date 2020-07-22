@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.4 -- Jan van Straaten" site="gids.tv">
+  <channels>
+    <channel update="i" site="gids.tv.nl" site_id="npo-1" xmltv_id="NPO 1">NPO 1</channel>
+    <channel update="i" site="gids.tv.nl" site_id="npo-2" xmltv_id="NPO 2">NPO 2</channel>
+    <channel update="i" site="gids.tv.nl" site_id="npo-3" xmltv_id="NPO 3">NPO 3</channel>
+    <channel update="i" site="gids.tv.nl" site_id="rtl-4" xmltv_id="RTL 4">RTL 4</channel>
+    <channel update="i" site="gids.tv.nl" site_id="rtl-5" xmltv_id="RTL 5">RTL 5</channel>
+    <channel update="i" site="gids.tv.nl" site_id="sbs-6" xmltv_id="SBS 6">SBS 6</channel>
+    <channel update="i" site="gids.tv.nl" site_id="rtl-7" xmltv_id="RTL 7">RTL 7</channel>
+    <channel update="i" site="gids.tv.nl" site_id="net-5" xmltv_id="NET 5">NET 5</channel>
+    <channel update="i" site="gids.tv.nl" site_id="veronica" xmltv_id="Veronica">Veronica</channel>
+    <channel update="i" site="gids.tv.nl" site_id="rtl-8" xmltv_id="RTL 8">RTL 8</channel>
+    <channel update="i" site="gids.tv.nl" site_id="fox" xmltv_id="FOX">FOX</channel>
+    <channel update="i" site="gids.tv.nl" site_id="sbs-9" xmltv_id="SBS 9">SBS 9</channel>
+    <channel update="i" site="gids.tv.nl" site_id="discovery-channel" xmltv_id="Discovery">Discovery</channel>
+    <channel update="i" site="gids.tv.nl" site_id="national-geographic" xmltv_id="National Geographic">National Geographic</channel>
+    <channel update="i" site="gids.tv.nl" site_id="rtl-z" xmltv_id="RTL Z">RTL Z</channel>
+    <channel update="i" site="gids.tv.nl" site_id="eurosport-1" xmltv_id="Eurosport 1">Eurosport 1</channel>
+    <channel update="i" site="gids.tv.nl" site_id="eurosport-2" xmltv_id="Eurosport 2">Eurosport 2</channel>
+    <channel update="i" site="gids.tv.nl" site_id="ziggo-sport" xmltv_id="Ziggo Sport">Ziggo Sport</channel>
+    <channel update="i" site="gids.tv.nl" site_id="comedy-central" xmltv_id="Comedy Central">Comedy Central</channel>
+    <channel update="i" site="gids.tv.nl" site_id="spike" xmltv_id="Spike">Spike</channel>
+    <channel update="i" site="gids.tv.nl" site_id="tlc" xmltv_id="TLC">TLC</channel>
+    <channel update="i" site="gids.tv.nl" site_id="een" xmltv_id="Eén">Eén</channel>
+    <channel update="i" site="gids.tv.nl" site_id="canvas" xmltv_id="Canvas">Canvas</channel>
+    <channel update="i" site="gids.tv.nl" site_id="bbc-one" xmltv_id="BBC One">BBC One</channel>
+    <channel update="i" site="gids.tv.nl" site_id="bbc-two" xmltv_id="BBC Two">BBC Two</channel>
+    <channel update="i" site="gids.tv.nl" site_id="das-erste" xmltv_id="Das Erste">Das Erste</channel>
+    <channel update="i" site="gids.tv.nl" site_id="zdf" xmltv_id="ZDF">ZDF</channel>
+    <channel update="i" site="gids.tv.nl" site_id="nickelodeon-netherlands" xmltv_id="Nickelodeon Netherlands">Nickelodeon Netherlands</channel>
+    <channel update="i" site="gids.tv.nl" site_id="538" xmltv_id="538">538</channel>
+    <channel update="i" site="gids.tv.nl" site_id="mtv-nl" xmltv_id="MTV NL">MTV NL</channel>
+    <channel update="i" site="gids.tv.nl" site_id="q2" xmltv_id="Q2">Q2</channel>
+    <channel update="i" site="gids.tv.nl" site_id="3sat" xmltv_id="3sat">3sat</channel>
+    <channel update="i" site="gids.tv.nl" site_id="animal-planet" xmltv_id="Animal Planet">Animal Planet</channel>
+    <channel update="i" site="gids.tv.nl" site_id="arte" xmltv_id="ARTE">ARTE</channel>
+    <channel update="i" site="gids.tv.nl" site_id="at5" xmltv_id="AT5">AT5</channel>
+    <channel update="i" site="gids.tv.nl" site_id="bbc-four" xmltv_id="BBC Four">BBC Four</channel>
+    <channel update="i" site="gids.tv.nl" site_id="bbc-world" xmltv_id="BBC World">BBC World</channel>
+    <channel update="i" site="gids.tv.nl" site_id="npo-1-extra" xmltv_id="NPO 1 Extra">NPO 1 Extra</channel>
+    <channel update="i" site="gids.tv.nl" site_id="bvn" xmltv_id="BVN">BVN</channel>
+    <channel update="i" site="gids.tv.nl" site_id="cartoon-network" xmltv_id="Cartoon Network">Cartoon Network</channel>
+    <channel update="i" site="gids.tv.nl" site_id="cnn" xmltv_id="CNN">CNN</channel>
+    <channel update="i" site="gids.tv.nl" site_id="npo-cultura" xmltv_id="NPO 2 Extra">NPO 2 Extra</channel>
+    <channel update="i" site="gids.tv.nl" site_id="discovery-science" xmltv_id="Discovery Science">Discovery Science</channel>
+    <channel update="i" site="gids.tv.nl" site_id="discovery-world" xmltv_id="Discovery World">Discovery World</channel>
+    <channel update="i" site="gids.tv.nl" site_id="fox-sports-1-eredivisie" xmltv_id="Fox Sports 1 Eredivisie">Fox Sports 1 Eredivisie</channel>
+    <channel update="i" site="gids.tv.nl" site_id="film1-premiere" xmltv_id="Film1 Premiere">Film1 Premiere</channel>
+    <channel update="i" site="gids.tv.nl" site_id="film1-family" xmltv_id="Film1 Family">Film1 Family</channel>
+    <channel update="i" site="gids.tv.nl" site_id="disney-xd" xmltv_id="Disney XD">Disney XD</channel>
+    <channel update="i" site="gids.tv.nl" site_id="npo-nieuws" xmltv_id="NPO Nieuws">NPO Nieuws</channel>
+    <channel update="i" site="gids.tv.nl" site_id="l1-tv" xmltv_id="L1 TV">L1 TV</channel>
+    <channel update="i" site="gids.tv.nl" site_id="vice" xmltv_id="Vice">Vice</channel>
+    <channel update="i" site="gids.tv.nl" site_id="ndr" xmltv_id="NDR">NDR</channel>
+    <channel update="i" site="gids.tv.nl" site_id="nick-jr-comm-netherlands" xmltv_id="Nick Jr Comm Netherlands">Nick Jr Comm Netherlands</channel>
+    <channel update="i" site="gids.tv.nl" site_id="omroep-brabant" xmltv_id="Omroep Brabant">Omroep Brabant</channel>
+    <channel update="i" site="gids.tv.nl" site_id="omroep-flevoland" xmltv_id="Omroep Flevoland">Omroep Flevoland</channel>
+    <channel update="i" site="gids.tv.nl" site_id="omroep-gelderland" xmltv_id="Omroep Gelderland">Omroep Gelderland</channel>
+    <channel update="i" site="gids.tv.nl" site_id="omroep-zeeland" xmltv_id="Omroep Zeeland">Omroep Zeeland</channel>
+    <channel update="i" site="gids.tv.nl" site_id="omrop-fryslan" xmltv_id="Omrop Fryslân">Omrop Fryslân</channel>
+    <channel update="i" site="gids.tv.nl" site_id="prosieben" xmltv_id="ProSieben">ProSieben</channel>
+    <channel update="i" site="gids.tv.nl" site_id="la-une" xmltv_id="La Une">La Une</channel>
+    <channel update="i" site="gids.tv.nl" site_id="la-deux" xmltv_id="La Deux">La Deux</channel>
+    <channel update="i" site="gids.tv.nl" site_id="rtl" xmltv_id="RTL">RTL</channel>
+    <channel update="i" site="gids.tv.nl" site_id="rtv-drenthe" xmltv_id="RTV Drenthe">RTV Drenthe</channel>
+    <channel update="i" site="gids.tv.nl" site_id="rtv-noord" xmltv_id="RTV Noord">RTV Noord</channel>
+    <channel update="i" site="gids.tv.nl" site_id="nh" xmltv_id="NH">NH</channel>
+    <channel update="i" site="gids.tv.nl" site_id="rtv-oost" xmltv_id="RTV Oost">RTV Oost</channel>
+    <channel update="i" site="gids.tv.nl" site_id="rtv-rijnmond" xmltv_id="RTV Rijnmond">RTV Rijnmond</channel>
+    <channel update="i" site="gids.tv.nl" site_id="rtv-utrecht" xmltv_id="RTV Utrecht">RTV Utrecht</channel>
+    <channel update="i" site="gids.tv.nl" site_id="comedy-central-extra-netherlands" xmltv_id="Comedy Central Extra Netherlands">Comedy Central Extra Netherlands</channel>
+    <channel update="i" site="gids.tv.nl" site_id="omroep-west" xmltv_id="Omroep West">Omroep West</channel>
+    <channel update="i" site="gids.tv.nl" site_id="mtv-brand-new-netherlands" xmltv_id="MTV Brand New Netherlands">MTV Brand New Netherlands</channel>
+    <channel update="i" site="gids.tv.nl" site_id="nick-hits" xmltv_id="Nick Hits">Nick Hits</channel>
+    <channel update="i" site="gids.tv.nl" site_id="sat1" xmltv_id="SAT.1">SAT.1</channel>
+    <channel update="i" site="gids.tv.nl" site_id="nicktoons" xmltv_id="Nicktoons">Nicktoons</channel>
+    <channel update="i" site="gids.tv.nl" site_id="mtv-music-24" xmltv_id="MTV Music 24">MTV Music 24</channel>
+    <channel update="i" site="gids.tv.nl" site_id="ziggo-sport-select" xmltv_id="Ziggo Sport Select">Ziggo Sport Select</channel>
+    <channel update="i" site="gids.tv.nl" site_id="zes" xmltv_id="ZES">ZES</channel>
+    <channel update="i" site="gids.tv.nl" site_id="xite" xmltv_id="XITE">XITE</channel>
+    <channel update="i" site="gids.tv.nl" site_id="kpn-presenteert" xmltv_id="KPN Presenteert">KPN Presenteert</channel>
+    <channel update="i" site="gids.tv.nl" site_id="tv5monde" xmltv_id="TV5Monde">TV5Monde</channel>
+    <channel update="i" site="gids.tv.nl" site_id="family-7" xmltv_id="Family 7">Family 7</channel>
+    <channel update="i" site="gids.tv.nl" site_id="tv-e" xmltv_id="TV E">TV E</channel>
+    <channel update="i" site="gids.tv.nl" site_id="crime-invest" xmltv_id="Crime &amp;amp; Invest">Crime &amp;amp; Invest</channel>
+    <channel update="i" site="gids.tv.nl" site_id="vier" xmltv_id="VIER">VIER</channel>
+    <channel update="i" site="gids.tv.nl" site_id="vox" xmltv_id="VOX">VOX</channel>
+    <channel update="i" site="gids.tv.nl" site_id="vtm" xmltv_id="VTM">VTM</channel>
+    <channel update="i" site="gids.tv.nl" site_id="kabel-eins" xmltv_id="kabel eins">kabel eins</channel>
+    <channel update="i" site="gids.tv.nl" site_id="wdr" xmltv_id="WDR">WDR</channel>
+    <channel update="i" site="gids.tv.nl" site_id="rtl-ii" xmltv_id="RTL II">RTL II</channel>
+    <channel update="i" site="gids.tv.nl" site_id="npo-zapp-xtra" xmltv_id="NPO Zapp Xtra">NPO Zapp Xtra</channel>
+    <channel update="i" site="gids.tv.nl" site_id="ziggo-sport-voetbal" xmltv_id="Ziggo Sport Voetbal">Ziggo Sport Voetbal</channel>
+    <channel update="i" site="gids.tv.nl" site_id="ziggo-sport-golf" xmltv_id="Ziggo Sport Golf">Ziggo Sport Golf</channel>
+    <channel update="i" site="gids.tv.nl" site_id="ziggo-sport-extra-1" xmltv_id="Ziggo Sport Extra 1">Ziggo Sport Extra 1</channel>
+    <channel update="i" site="gids.tv.nl" site_id="vitaya" xmltv_id="Vitaya">Vitaya</channel>
+    <channel update="i" site="gids.tv.nl" site_id="vijf" xmltv_id="VIJF">VIJF</channel>
+    <channel update="i" site="gids.tv.nl" site_id="caz" xmltv_id="CAZ">CAZ</channel>
+    <channel update="i" site="gids.tv.nl" site_id="discovery-vlaanderen" xmltv_id="Discovery Vlaanderen">Discovery Vlaanderen</channel>
+    <channel update="i" site="gids.tv.nl" site_id="disney-channel" xmltv_id="Disney Channel">Disney Channel</channel>
+    <channel update="i" site="gids.tv.nl" site_id="fox-sports-2" xmltv_id="Fox Sports 2">Fox Sports 2</channel>
+    <channel update="i" site="gids.tv.nl" site_id="fox-sports-3-eredivisie" xmltv_id="Fox Sports 3 Eredivisie">Fox Sports 3 Eredivisie</channel>
+  </channels>
+</site>
