@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.4 -- Jan van Straaten" site="vtm.be">
+  <channels>
+    <channel update="i" site="vtm.be" site_id="vtm" xmltv_id="VTM">VTM</channel>
+    <channel update="i" site="vtm.be" site_id="vtm2" xmltv_id="VTM 2">VTM 2</channel>
+    <channel update="i" site="vtm.be" site_id="vtm3" xmltv_id="VTM 3">VTM 3</channel>
+    <channel update="i" site="vtm.be" site_id="vtm4" xmltv_id="VTM 4">VTM 4</channel>
+    <channel update="i" site="vtm.be" site_id="qmusic" xmltv_id="Qmusic">Qmusic</channel>
+    <channel update="i" site="vtm.be" site_id="caz-2" xmltv_id="CAZ 2">CAZ 2</channel>
+    <channel update="i" site="vtm.be" site_id="vtm-kids" xmltv_id="VTM KIDS">VTM KIDS</channel>
+  </channels>
+</site>
