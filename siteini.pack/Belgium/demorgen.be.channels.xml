@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.4 -- Jan van Straaten" site="demorgen.be">
+  <channels>
+    <channel update="i" site="demorgen.be" site_id="Eén" xmltv_id="Eén">Eén</channel>
+    <channel update="i" site="demorgen.be" site_id="Canvas" xmltv_id="Canvas">Canvas</channel>
+    <channel update="i" site="demorgen.be" site_id="VTM" xmltv_id="VTM">VTM</channel>
+    <channel update="i" site="demorgen.be" site_id="Vier" xmltv_id="Vier">Vier</channel>
+    <channel update="i" site="demorgen.be" site_id="Vijf" xmltv_id="Vijf">Vijf</channel>
+    <channel update="i" site="demorgen.be" site_id="VTM 2" xmltv_id="VTM 2">VTM 2</channel>
+    <channel update="i" site="demorgen.be" site_id="VTM 4" xmltv_id="VTM 4">VTM 4</channel>
+    <channel update="i" site="demorgen.be" site_id="VTM 3" xmltv_id="VTM 3">VTM 3</channel>
+    <channel update="i" site="demorgen.be" site_id="ZES" xmltv_id="ZES">ZES</channel>
+    <channel update="i" site="demorgen.be" site_id="CAZ 2" xmltv_id="CAZ 2">CAZ 2</channel>
+    <channel update="i" site="demorgen.be" site_id="NPO-1" xmltv_id="NPO-1">NPO-1</channel>
+    <channel update="i" site="demorgen.be" site_id="NPO-2" xmltv_id="NPO-2">NPO-2</channel>
+    <channel update="i" site="demorgen.be" site_id="NPO-3" xmltv_id="NPO-3">NPO-3</channel>
+    <channel update="i" site="demorgen.be" site_id="BBC-one" xmltv_id="BBC-one">BBC-one</channel>
+    <channel update="i" site="demorgen.be" site_id="BBC-two" xmltv_id="BBC-two">BBC-two</channel>
+    <channel update="i" site="demorgen.be" site_id="BBC World" xmltv_id="BBC World">BBC World</channel>
+    <channel update="i" site="demorgen.be" site_id="BBC Entertainment" xmltv_id="BBC Entertainment">BBC Entertainment</channel>
+    <channel update="i" site="demorgen.be" site_id="ARD" xmltv_id="ARD">ARD</channel>
+    <channel update="i" site="demorgen.be" site_id="ZDF" xmltv_id="ZDF">ZDF</channel>
+    <channel update="i" site="demorgen.be" site_id="Discovery HD" xmltv_id="Discovery HD">Discovery HD</channel>
+    <channel update="i" site="demorgen.be" site_id="Discovery ID" xmltv_id="Discovery ID">Discovery ID</channel>
+    <channel update="i" site="demorgen.be" site_id="Discovery Vlaanderen" xmltv_id="Discovery Vlaanderen">Discovery Vlaanderen</channel>
+    <channel update="i" site="demorgen.be" site_id="Discovery Science" xmltv_id="Discovery Science">Discovery Science</channel>
+    <channel update="i" site="demorgen.be" site_id="Arte" xmltv_id="Arte">Arte</channel>
+    <channel update="i" site="demorgen.be" site_id="CNN" xmltv_id="CNN">CNN</channel>
+    <channel update="i" site="demorgen.be" site_id="Club RTL" xmltv_id="Club RTL">Club RTL</channel>
+    <channel update="i" site="demorgen.be" site_id="Discovery World" xmltv_id="Discovery World">Discovery World</channel>
+    <channel update="i" site="demorgen.be" site_id="Eurosport-1" xmltv_id="Eurosport-1">Eurosport-1</channel>
+    <channel update="i" site="demorgen.be" site_id="Eurosport-2" xmltv_id="Eurosport-2">Eurosport-2</channel>
+    <channel update="i" site="demorgen.be" site_id="FoxHD" xmltv_id="FoxHD">FoxHD</channel>
+    <channel update="i" site="demorgen.be" site_id="France2" xmltv_id="France2">France2</channel>
+    <channel update="i" site="demorgen.be" site_id="France3" xmltv_id="France3">France3</channel>
+    <channel update="i" site="demorgen.be" site_id="France4" xmltv_id="France4">France4</channel>
+    <channel update="i" site="demorgen.be" site_id="France5" xmltv_id="France5">France5</channel>
+    <channel update="i" site="demorgen.be" site_id="History Europe" xmltv_id="History Europe">History Europe</channel>
+    <channel update="i" site="demorgen.be" site_id="Kanaal Z" xmltv_id="Kanaal Z">Kanaal Z</channel>
+    <channel update="i" site="demorgen.be" site_id="Ketnet" xmltv_id="Ketnet">Ketnet</channel>
+    <channel update="i" site="demorgen.be" site_id="La Deux" xmltv_id="La Deux">La Deux</channel>
+    <channel update="i" site="demorgen.be" site_id="La Trois" xmltv_id="La Trois">La Trois</channel>
+    <channel update="i" site="demorgen.be" site_id="La Une" xmltv_id="La Une">La Une</channel>
+    <channel update="i" site="demorgen.be" site_id="MTV Classic" xmltv_id="MTV Classic">MTV Classic</channel>
+    <channel update="i" site="demorgen.be" site_id="MTV Dance" xmltv_id="MTV Dance">MTV Dance</channel>
+    <channel update="i" site="demorgen.be" site_id="MTV Europe" xmltv_id="MTV Europe">MTV Europe</channel>
+    <channel update="i" site="demorgen.be" site_id="MTV Vlaanderen" xmltv_id="MTV Vlaanderen">MTV Vlaanderen</channel>
+    <channel update="i" site="demorgen.be" site_id="National Geographic" xmltv_id="National Geographic">National Geographic</channel>
+    <channel update="i" site="demorgen.be" site_id="Njam!" xmltv_id="Njam!">Njam!</channel>
+    <channel update="i" site="demorgen.be" site_id="Play More Cinema" xmltv_id="Play More Cinema">Play More Cinema</channel>
+    <channel update="i" site="demorgen.be" site_id="Play More Kicks" xmltv_id="Play More Kicks">Play More Kicks</channel>
+    <channel update="i" site="demorgen.be" site_id="Play Sports 1" xmltv_id="Play Sports 1">Play Sports 1</channel>
+    <channel update="i" site="demorgen.be" site_id="Play Sports 2" xmltv_id="Play Sports 2">Play Sports 2</channel>
+    <channel update="i" site="demorgen.be" site_id="Play Sports 3" xmltv_id="Play Sports 3">Play Sports 3</channel>
+    <channel update="i" site="demorgen.be" site_id="Play Sports 4" xmltv_id="Play Sports 4">Play Sports 4</channel>
+    <channel update="i" site="demorgen.be" site_id="Play Sports 5" xmltv_id="Play Sports 5">Play Sports 5</channel>
+    <channel update="i" site="demorgen.be" site_id="Play Sports 6" xmltv_id="Play Sports 6">Play Sports 6</channel>
+    <channel update="i" site="demorgen.be" site_id="Play Sports 7" xmltv_id="Play Sports 7">Play Sports 7</channel>
+    <channel update="i" site="demorgen.be" site_id="Play Sports 8" xmltv_id="Play Sports 8">Play Sports 8</channel>
+    <channel update="i" site="demorgen.be" site_id="Play Sports Golf" xmltv_id="Play Sports Golf">Play Sports Golf</channel>
+    <channel update="i" site="demorgen.be" site_id="RTL-TVi-hd" xmltv_id="RTL-TVi-hd">RTL-TVi-hd</channel>
+    <channel update="i" site="demorgen.be" site_id="TF1" xmltv_id="TF1">TF1</channel>
+    <channel update="i" site="demorgen.be" site_id="VH1 Classic" xmltv_id="VH1 Classic">VH1 Classic</channel>
+    <channel update="i" site="demorgen.be" site_id="VH1 Europe" xmltv_id="VH1 Europe">VH1 Europe</channel>
+    <channel update="i" site="demorgen.be" site_id="VICE tv" xmltv_id="VICE tv">VICE tv</channel>
+    <channel update="i" site="demorgen.be" site_id="Vlaamsparlement.tv" xmltv_id="Vlaamsparlement.tv">Vlaamsparlement.tv</channel>
+    <channel update="i" site="demorgen.be" site_id="VTM KIDS" xmltv_id="VTM KIDS">VTM KIDS</channel>
+    <channel update="i" site="demorgen.be" site_id="TLC VL" xmltv_id="TLC VL">TLC VL</channel>
+    <channel update="i" site="demorgen.be" site_id="Qmusic" xmltv_id="Qmusic">Qmusic</channel>
+    <channel update="i" site="demorgen.be" site_id="NRJ" xmltv_id="NRJ">NRJ</channel>
+    <channel update="i" site="demorgen.be" site_id="National Geographic NL" xmltv_id="National Geographic NL">National Geographic NL</channel>
+  </channels>
+</site>
