@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.4 -- Jan van Straaten" site="humo.be">
   <channels>
-    <channel update="i" site="humo.be" site_id="Een" xmltv_id="Een">Een</channel>
+    <channel update="i" site="humo.be" site_id="Eén" xmltv_id="Eén">Eén</channel>
     <channel update="i" site="humo.be" site_id="Canvas" xmltv_id="Canvas">Canvas</channel>
     <channel update="i" site="humo.be" site_id="VTM" xmltv_id="VTM">VTM</channel>
     <channel update="i" site="humo.be" site_id="Vier" xmltv_id="Vier">Vier</channel>
     <channel update="i" site="humo.be" site_id="Vijf" xmltv_id="Vijf">Vijf</channel>
-    <channel update="i" site="humo.be" site_id="Q2" xmltv_id="Q2">Q2</channel>
-    <channel update="i" site="humo.be" site_id="Caz" xmltv_id="Caz">Caz</channel>
-    <channel update="i" site="humo.be" site_id="Vitaya" xmltv_id="Vitaya">Vitaya</channel>
+    <channel update="i" site="humo.be" site_id="VTM 2" xmltv_id="VTM 2">VTM 2</channel>
+    <channel update="i" site="humo.be" site_id="VTM 4" xmltv_id="VTM 4">VTM 4</channel>
+    <channel update="i" site="humo.be" site_id="VTM 3" xmltv_id="VTM 3">VTM 3</channel>
     <channel update="i" site="humo.be" site_id="ZES" xmltv_id="ZES">ZES</channel>
+    <channel update="i" site="humo.be" site_id="CAZ 2" xmltv_id="CAZ 2">CAZ 2</channel>
     <channel update="i" site="humo.be" site_id="NPO-1" xmltv_id="NPO-1">NPO-1</channel>
     <channel update="i" site="humo.be" site_id="NPO-2" xmltv_id="NPO-2">NPO-2</channel>
     <channel update="i" site="humo.be" site_id="NPO-3" xmltv_id="NPO-3">NPO-3</channel>
@@ -21,7 +22,7 @@
     <channel update="i" site="humo.be" site_id="ZDF" xmltv_id="ZDF">ZDF</channel>
     <channel update="i" site="humo.be" site_id="Discovery HD" xmltv_id="Discovery HD">Discovery HD</channel>
     <channel update="i" site="humo.be" site_id="Discovery ID" xmltv_id="Discovery ID">Discovery ID</channel>
-    <channel update="i" site="humo.be" site_id="Discovery-vlaanderen" xmltv_id="Discovery-vlaanderen">Discovery-vlaanderen</channel>
+    <channel update="i" site="humo.be" site_id="Discovery Vlaanderen" xmltv_id="Discovery Vlaanderen">Discovery Vlaanderen</channel>
     <channel update="i" site="humo.be" site_id="Discovery Science" xmltv_id="Discovery Science">Discovery Science</channel>
     <channel update="i" site="humo.be" site_id="Arte" xmltv_id="Arte">Arte</channel>
     <channel update="i" site="humo.be" site_id="CNN" xmltv_id="CNN">CNN</channel>
@@ -44,11 +45,10 @@
     <channel update="i" site="humo.be" site_id="MTV Dance" xmltv_id="MTV Dance">MTV Dance</channel>
     <channel update="i" site="humo.be" site_id="MTV Europe" xmltv_id="MTV Europe">MTV Europe</channel>
     <channel update="i" site="humo.be" site_id="MTV Vlaanderen" xmltv_id="MTV Vlaanderen">MTV Vlaanderen</channel>
-    <channel update="i" site="humo.be" site_id="National-Geographic" xmltv_id="National-Geographic">National-Geographic</channel>
+    <channel update="i" site="humo.be" site_id="National Geographic" xmltv_id="National Geographic">National Geographic</channel>
     <channel update="i" site="humo.be" site_id="Njam!" xmltv_id="Njam!">Njam!</channel>
     <channel update="i" site="humo.be" site_id="Play More Cinema" xmltv_id="Play More Cinema">Play More Cinema</channel>
     <channel update="i" site="humo.be" site_id="Play More Kicks" xmltv_id="Play More Kicks">Play More Kicks</channel>
-    <channel update="i" site="humo.be" site_id="Play More Relax" xmltv_id="Play More Relax">Play More Relax</channel>
     <channel update="i" site="humo.be" site_id="Play Sports 1" xmltv_id="Play Sports 1">Play Sports 1</channel>
     <channel update="i" site="humo.be" site_id="Play Sports 2" xmltv_id="Play Sports 2">Play Sports 2</channel>
     <channel update="i" site="humo.be" site_id="Play Sports 3" xmltv_id="Play Sports 3">Play Sports 3</channel>
@@ -63,12 +63,11 @@
     <channel update="i" site="humo.be" site_id="VH1 Classic" xmltv_id="VH1 Classic">VH1 Classic</channel>
     <channel update="i" site="humo.be" site_id="VH1 Europe" xmltv_id="VH1 Europe">VH1 Europe</channel>
     <channel update="i" site="humo.be" site_id="VICE tv" xmltv_id="VICE tv">VICE tv</channel>
-    <channel update="i" site="humo.be" site_id="vlaamsparlement.tv" xmltv_id="vlaamsparlement.tv">vlaamsparlement.tv</channel>
+    <channel update="i" site="humo.be" site_id="Vlaamsparlement.tv" xmltv_id="Vlaamsparlement.tv">Vlaamsparlement.tv</channel>
     <channel update="i" site="humo.be" site_id="VTM KIDS" xmltv_id="VTM KIDS">VTM KIDS</channel>
-    <channel update="i" site="humo.be" site_id="VTM KIDS jr" xmltv_id="VTM KIDS jr">VTM KIDS jr</channel>
     <channel update="i" site="humo.be" site_id="TLC VL" xmltv_id="TLC VL">TLC VL</channel>
-    <channel update="i" site="humo.be" site_id="QMusic" xmltv_id="QMusic">QMusic</channel>
+    <channel update="i" site="humo.be" site_id="Qmusic" xmltv_id="Qmusic">Qmusic</channel>
     <channel update="i" site="humo.be" site_id="NRJ" xmltv_id="NRJ">NRJ</channel>
-    <channel update="i" site="humo.be" site_id="National-Geographic NL" xmltv_id="National-Geographic NL">National-Geographic NL</channel>
+    <channel update="i" site="humo.be" site_id="National Geographic NL" xmltv_id="National Geographic NL">National Geographic NL</channel>
   </channels>
 </site>
