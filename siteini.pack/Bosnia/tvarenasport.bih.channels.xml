@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.4 -- Jan van Straaten" site="tvarenasport.ba">
+  <channels>
+    <channel update="i" site="tvarenasport.bih" site_id="380" xmltv_id="A1">A1</channel>
+    <channel update="i" site="tvarenasport.bih" site_id="381" xmltv_id="A2">A2</channel>
+    <channel update="i" site="tvarenasport.bih" site_id="382" xmltv_id="A3">A3</channel>
+    <channel update="i" site="tvarenasport.bih" site_id="383" xmltv_id="A4">A4</channel>
+  </channels>
+</site>
