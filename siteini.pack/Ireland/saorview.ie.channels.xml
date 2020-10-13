@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.4 -- Jan van Straaten" site="saorview.ie">
+  <channels>
+    <channel update="i" site="saorview.ie" site_id="RTE-one" xmltv_id="RTE-one">RTE-one</channel>
+    <channel update="i" site="saorview.ie" site_id="RTE2" xmltv_id="RTE2">RTE2</channel>
+    <channel update="i" site="saorview.ie" site_id="VirginMedia-One" xmltv_id="VirginMedia-One">VirginMedia-One</channel>
+    <channel update="i" site="saorview.ie" site_id="TG4_on" xmltv_id="TG4_on">TG4_on</channel>
+    <channel update="i" site="saorview.ie" site_id="VirginMedia-Two" xmltv_id="VirginMedia-Two">VirginMedia-Two</channel>
+    <channel update="i" site="saorview.ie" site_id="VirginMedia-Three" xmltv_id="VirginMedia-Three">VirginMedia-Three</channel>
+    <channel update="i" site="saorview.ie" site_id="RTEjr" xmltv_id="RTEjr">RTEjr</channel>
+    <channel update="i" site="saorview.ie" site_id="RTE-one-p1_on" xmltv_id="RTE-one-p1_on">RTE-one-p1_on</channel>
+    <channel update="i" site="saorview.ie" site_id="RTE_2_p1" xmltv_id="RTE_2_p1">RTE_2_p1</channel>
+    <channel update="i" site="saorview.ie" site_id="RTE-news_on" xmltv_id="RTE-news_on">RTE-news_on</channel>
+    <channel update="i" site="saorview.ie" site_id="Oireachtas_on" xmltv_id="Oireachtas_on">Oireachtas_on</channel>
+    <channel update="i" site="saorview.ie" site_id="RTE-radio1_on" xmltv_id="RTE-radio1_on">RTE-radio1_on</channel>
+    <channel update="i" site="saorview.ie" site_id="RTE-radio1x_on" xmltv_id="RTE-radio1x_on">RTE-radio1x_on</channel>
+    <channel update="i" site="saorview.ie" site_id="RTE2fm_on" xmltv_id="RTE2fm_on">RTE2fm_on</channel>
+    <channel update="i" site="saorview.ie" site_id="RTE-lyric_on" xmltv_id="RTE-lyric_on">RTE-lyric_on</channel>
+    <channel update="i" site="saorview.ie" site_id="RTE-rnaG_on" xmltv_id="RTE-rnaG_on">RTE-rnaG_on</channel>
+    <channel update="i" site="saorview.ie" site_id="RTE-pulse_on" xmltv_id="RTE-pulse_on">RTE-pulse_on</channel>
+    <channel update="i" site="saorview.ie" site_id="RTE-2xm_on" xmltv_id="RTE-2xm_on">RTE-2xm_on</channel>
+    <channel update="i" site="saorview.ie" site_id="RTEjr-radio" xmltv_id="RTEjr-radio">RTEjr-radio</channel>
+    <channel update="i" site="saorview.ie" site_id="RTE-gold_on" xmltv_id="RTE-gold_on">RTE-gold_on</channel>
+  </channels>
+</site>
