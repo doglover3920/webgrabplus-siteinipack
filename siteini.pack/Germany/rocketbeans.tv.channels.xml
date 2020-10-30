@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.11.0 -- Jan van Straaten" site="rocketbeans.tv">
+  <channels>
+    <channel update="i" site="rocketbeans.tv" site_id="rocketbeans.tv" xmltv_id="Rocket Beans TV">Rocket Beans TV</channel>
+  </channels>
+</site>
