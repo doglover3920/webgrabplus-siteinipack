@@ -8,27 +8,26 @@
     <channel update="i" site="telkku.com.fi" site_id="yle-teema-fem" xmltv_id="Yle Teema Fem">Yle Teema Fem</channel>
     <channel update="i" site="telkku.com.fi" site_id="sub" xmltv_id="Sub">Sub</channel>
     <channel update="i" site="telkku.com.fi" site_id="tv5" xmltv_id="TV5">TV5</channel>
-    <channel update="i" site="telkku.com.fi" site_id="fox" xmltv_id="Fox">Fox</channel>
     <channel update="i" site="telkku.com.fi" site_id="liv" xmltv_id="Liv">Liv</channel>
     <channel update="i" site="telkku.com.fi" site_id="jim" xmltv_id="Jim">Jim</channel>
     <channel update="i" site="telkku.com.fi" site_id="kutonen" xmltv_id="Kutonen">Kutonen</channel>
+    <channel update="i" site="telkku.com.fi" site_id="tlc-finland" xmltv_id="TLC">TLC</channel>
+    <channel update="i" site="telkku.com.fi" site_id="fox" xmltv_id="Fox">Fox</channel>
     <channel update="i" site="telkku.com.fi" site_id="ava" xmltv_id="Ava">Ava</channel>
     <channel update="i" site="telkku.com.fi" site_id="hero" xmltv_id="Hero">Hero</channel>
+    <channel update="i" site="telkku.com.fi" site_id="alfatv" xmltv_id="AlfaTV">AlfaTV</channel>
     <channel update="i" site="telkku.com.fi" site_id="frii" xmltv_id="Frii">Frii</channel>
-    <channel update="i" site="telkku.com.fi" site_id="tlc-finland" xmltv_id="TLC">TLC</channel>
     <channel update="i" site="telkku.com.fi" site_id="national-geographic" xmltv_id="National Geographic">National Geographic</channel>
-    <channel update="i" site="telkku.com.fi" site_id="nelonen-pro-1" xmltv_id="Ruutu+ Urheilu 1">Ruutu+ Urheilu 1</channel>
-    <channel update="i" site="telkku.com.fi" site_id="nelonen-pro-2" xmltv_id="Ruutu+ Urheilu 2">Ruutu+ Urheilu 2</channel>
+    <channel update="i" site="telkku.com.fi" site_id="paramount-network" xmltv_id="Paramount Network">Paramount Network</channel>
     <channel update="i" site="telkku.com.fi" site_id="mtv-max" xmltv_id="C More Max">C More Max</channel>
+    <channel update="i" site="telkku.com.fi" site_id="cmore-max-2" xmltv_id="C More Max 2">C More Max 2</channel>
     <channel update="i" site="telkku.com.fi" site_id="mtv-sport-1" xmltv_id="C More Sport 1">C More Sport 1</channel>
     <channel update="i" site="telkku.com.fi" site_id="mtv-sport-2" xmltv_id="C More Sport 2">C More Sport 2</channel>
-    <channel update="i" site="telkku.com.fi" site_id="cmore-golf-hd" xmltv_id="C More Golf HD">C More Golf HD</channel>
-    <channel update="i" site="telkku.com.fi" site_id="cmore-tennis" xmltv_id="C More Tennis">C More Tennis</channel>
     <channel update="i" site="telkku.com.fi" site_id="eurosport" xmltv_id="Eurosport">Eurosport</channel>
     <channel update="i" site="telkku.com.fi" site_id="eurosport-2" xmltv_id="Eurosport 2">Eurosport 2</channel>
     <channel update="i" site="telkku.com.fi" site_id="viasat-golf" xmltv_id="Viasat Golf">Viasat Golf</channel>
     <channel update="i" site="telkku.com.fi" site_id="viasat-hockey" xmltv_id="Viasat Hockey">Viasat Hockey</channel>
-    <channel update="i" site="telkku.com.fi" site_id="viasat-hockey-finland" xmltv_id="Viasat Urheilu HD">Viasat Urheilu HD</channel>
+    <channel update="i" site="telkku.com.fi" site_id="viasat-urheilu-hd" xmltv_id="Viasat Urheilu HD">Viasat Urheilu HD</channel>
     <channel update="i" site="telkku.com.fi" site_id="viasat-sport" xmltv_id="Viasat Sport">Viasat Sport</channel>
     <channel update="i" site="telkku.com.fi" site_id="viasat-fotboll-hd" xmltv_id="Viasat Fotboll HD">Viasat Fotboll HD</channel>
     <channel update="i" site="telkku.com.fi" site_id="viasat-jalkapallo-hd" xmltv_id="Viasat Jalkapallo HD">Viasat Jalkapallo HD</channel>
@@ -37,29 +36,23 @@
     <channel update="i" site="telkku.com.fi" site_id="extreme-sports" xmltv_id="Extreme Sports">Extreme Sports</channel>
     <channel update="i" site="telkku.com.fi" site_id="motors-tv" xmltv_id="Motors TV">Motors TV</channel>
     <channel update="i" site="telkku.com.fi" site_id="esportstv" xmltv_id="esportstv">esportstv</channel>
-    <channel update="i" site="telkku.com.fi" site_id="nelonen-prime" xmltv_id="Ruutu+ Leffat ja Sarjat">Ruutu+ Leffat ja Sarjat</channel>
     <channel update="i" site="telkku.com.fi" site_id="cmore-first" xmltv_id="C More First">C More First</channel>
-    <channel update="i" site="telkku.com.fi" site_id="cmore-first-hd" xmltv_id="C More First HD">C More First HD</channel>
     <channel update="i" site="telkku.com.fi" site_id="cmore-hits" xmltv_id="C More Hits">C More Hits</channel>
-    <channel update="i" site="telkku.com.fi" site_id="cmore-hits-hd" xmltv_id="C More Hits HD">C More Hits HD</channel>
     <channel update="i" site="telkku.com.fi" site_id="cmore-stars" xmltv_id="C More Stars">C More Stars</channel>
     <channel update="i" site="telkku.com.fi" site_id="cmore-series" xmltv_id="C More Series">C More Series</channel>
-    <channel update="i" site="telkku.com.fi" site_id="cmore-series-hd" xmltv_id="C More Series HD">C More Series HD</channel>
     <channel update="i" site="telkku.com.fi" site_id="viasat-film" xmltv_id="Viasat Film Premiere">Viasat Film Premiere</channel>
     <channel update="i" site="telkku.com.fi" site_id="viasat-film-action" xmltv_id="Viasat Film Action">Viasat Film Action</channel>
     <channel update="i" site="telkku.com.fi" site_id="viasat-film-family" xmltv_id="Viasat Film Family">Viasat Film Family</channel>
+    <channel update="i" site="telkku.com.fi" site_id="viasat-film-hits" xmltv_id="Viasat Film Hits">Viasat Film Hits</channel>
     <channel update="i" site="telkku.com.fi" site_id="tcm" xmltv_id="TCM">TCM</channel>
     <channel update="i" site="telkku.com.fi" site_id="mtv-juniori" xmltv_id="C More Juniori">C More Juniori</channel>
-    <channel update="i" site="telkku.com.fi" site_id="nelonen-nappula" xmltv_id="Ruutu+ Lapset">Ruutu+ Lapset</channel>
     <channel update="i" site="telkku.com.fi" site_id="cartoon-network" xmltv_id="Cartoon Network">Cartoon Network</channel>
     <channel update="i" site="telkku.com.fi" site_id="disney-channel" xmltv_id="Disney Channel">Disney Channel</channel>
     <channel update="i" site="telkku.com.fi" site_id="disney-xd" xmltv_id="Disney XD">Disney XD</channel>
     <channel update="i" site="telkku.com.fi" site_id="disney-junior" xmltv_id="Disney Junior">Disney Junior</channel>
     <channel update="i" site="telkku.com.fi" site_id="nickelodeon" xmltv_id="Nickelodeon">Nickelodeon</channel>
     <channel update="i" site="telkku.com.fi" site_id="nick-jr" xmltv_id="Nick Jr">Nick Jr</channel>
-    <channel update="i" site="telkku.com.fi" site_id="nelonen-maailma" xmltv_id="Ruutu+ Dokkarit">Ruutu+ Dokkarit</channel>
     <channel update="i" site="telkku.com.fi" site_id="sf-kanalen" xmltv_id="SF-kanalen">SF-kanalen</channel>
-    <channel update="i" site="telkku.com.fi" site_id="viasat-film-hits" xmltv_id="Viasat Film Hits">Viasat Film Hits</channel>
     <channel update="i" site="telkku.com.fi" site_id="viasat-ultra-hd" xmltv_id="Viasat Ultra HD">Viasat Ultra HD</channel>
     <channel update="i" site="telkku.com.fi" site_id="viasat-history" xmltv_id="Viasat History">Viasat History</channel>
     <channel update="i" site="telkku.com.fi" site_id="viasat-explore" xmltv_id="Viasat Explore">Viasat Explore</channel>
@@ -69,16 +62,13 @@
     <channel update="i" site="telkku.com.fi" site_id="animal-planet" xmltv_id="Animal Planet">Animal Planet</channel>
     <channel update="i" site="telkku.com.fi" site_id="animal-planet-hd" xmltv_id="Animal Planet HD">Animal Planet HD</channel>
     <channel update="i" site="telkku.com.fi" site_id="discovery-channel" xmltv_id="Discovery Channel">Discovery Channel</channel>
-    <channel update="i" site="telkku.com.fi" site_id="discovery-world" xmltv_id="Discovery World">Discovery World</channel>
     <channel update="i" site="telkku.com.fi" site_id="discovery-science" xmltv_id="Discovery Science">Discovery Science</channel>
-    <channel update="i" site="telkku.com.fi" site_id="discovery-hd-showcase" xmltv_id="Discovery HD Showcase">Discovery HD Showcase</channel>
     <channel update="i" site="telkku.com.fi" site_id="investigation-discovery" xmltv_id="Investigation Discovery">Investigation Discovery</channel>
     <channel update="i" site="telkku.com.fi" site_id="history-channel" xmltv_id="The History Channel">The History Channel</channel>
     <channel update="i" site="telkku.com.fi" site_id="h2" xmltv_id="H2">H2</channel>
     <channel update="i" site="telkku.com.fi" site_id="bbc-earth" xmltv_id="BBC Earth">BBC Earth</channel>
     <channel update="i" site="telkku.com.fi" site_id="fashion-tv" xmltv_id="Fashion TV">Fashion TV</channel>
     <channel update="i" site="telkku.com.fi" site_id="travel-channel" xmltv_id="Travel Channel">Travel Channel</channel>
-    <channel update="i" site="telkku.com.fi" site_id="playboy-tv" xmltv_id="Playboy TV">Playboy TV</channel>
     <channel update="i" site="telkku.com.fi" site_id="outdoor-channel" xmltv_id="Outdoor Channel">Outdoor Channel</channel>
     <channel update="i" site="telkku.com.fi" site_id="mtv-finland" xmltv_id="MTV Finland">MTV Finland</channel>
     <channel update="i" site="telkku.com.fi" site_id="mtv-rocks" xmltv_id="MTV ROCKS">MTV ROCKS</channel>
@@ -103,7 +93,6 @@
     <channel update="i" site="telkku.com.fi" site_id="svt24" xmltv_id="SVT24">SVT24</channel>
     <channel update="i" site="telkku.com.fi" site_id="svt-world" xmltv_id="SVT World">SVT World</channel>
     <channel update="i" site="telkku.com.fi" site_id="barnkanalen" xmltv_id="Barnkanalen">Barnkanalen</channel>
-    <channel update="i" site="telkku.com.fi" site_id="alfatv" xmltv_id="AlfaTV">AlfaTV</channel>
     <channel update="i" site="telkku.com.fi" site_id="bbc-knowledge" xmltv_id="BBC Knowledge">BBC Knowledge</channel>
     <channel update="i" site="telkku.com.fi" site_id="tv-finland" xmltv_id="TV Finland">TV Finland</channel>
     <channel update="i" site="telkku.com.fi" site_id="tv7" xmltv_id="TV7">TV7</channel>
