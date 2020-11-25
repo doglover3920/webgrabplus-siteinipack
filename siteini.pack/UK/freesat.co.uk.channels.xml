@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.4 -- Jan van Straaten" site="freesat.co.uk">
   <channels>
-    <channel update="i" site="freesat.co.uk" site_id="505" xmltv_id="BBC 1">BBC 1</channel>
+    <channel update="i" site="freesat.co.uk" site_id="505" xmltv_id="BBC ONE London">BBC ONE London</channel>
     <channel update="i" site="freesat.co.uk" site_id="700" xmltv_id="BBC TWO HD">BBC TWO HD</channel>
-    <channel update="i" site="freesat.co.uk" site_id="1011" xmltv_id="ITV">ITV</channel>
+    <channel update="i" site="freesat.co.uk" site_id="10005" xmltv_id="ITV HD">ITV HD</channel>
     <channel update="i" site="freesat.co.uk" site_id="1500" xmltv_id="Channel 4">Channel 4</channel>
     <channel update="i" site="freesat.co.uk" site_id="1547" xmltv_id="Channel 5 HD">Channel 5 HD</channel>
     <channel update="i" site="freesat.co.uk" site_id="555" xmltv_id="BBC ONE HD">BBC ONE HD</channel>
     <channel update="i" site="freesat.co.uk" site_id="819" xmltv_id="BBC FOUR HD">BBC FOUR HD</channel>
     <channel update="i" site="freesat.co.uk" site_id="710" xmltv_id="BBC Scotland HD">BBC Scotland HD</channel>
     <channel update="i" site="freesat.co.uk" site_id="707" xmltv_id="BBC ALBA">BBC ALBA</channel>
-    <channel update="i" site="freesat.co.uk" site_id="600" xmltv_id="BBC Two">BBC Two</channel>
-    <channel update="i" site="freesat.co.uk" site_id="10005" xmltv_id="ITV HD">ITV HD</channel>
+    <channel update="i" site="freesat.co.uk" site_id="600" xmltv_id="BBC TWO">BBC TWO</channel>
+    <channel update="i" site="freesat.co.uk" site_id="1011" xmltv_id="ITV">ITV</channel>
     <channel update="i" site="freesat.co.uk" site_id="1030" xmltv_id="ITV +1">ITV +1</channel>
     <channel update="i" site="freesat.co.uk" site_id="1100" xmltv_id="ITV2">ITV2</channel>
     <channel update="i" site="freesat.co.uk" site_id="1101" xmltv_id="ITV2 +1">ITV2 +1</channel>
@@ -39,30 +39,27 @@
     <channel update="i" site="freesat.co.uk" site_id="27001" xmltv_id="CBS Justice">CBS Justice</channel>
     <channel update="i" site="freesat.co.uk" site_id="27004" xmltv_id="horror channel">horror channel</channel>
     <channel update="i" site="freesat.co.uk" site_id="27002" xmltv_id="horror ch+1">horror ch+1</channel>
-    <channel update="i" site="freesat.co.uk" site_id="3004" xmltv_id="BET">BET</channel>
-    <channel update="i" site="freesat.co.uk" site_id="20018" xmltv_id="5Spike">5Spike</channel>
-    <channel update="i" site="freesat.co.uk" site_id="21010" xmltv_id="TRUE ENT">TRUE ENT</channel>
+    <channel update="i" site="freesat.co.uk" site_id="28006" xmltv_id="5Star+1">5Star+1</channel>
+    <channel update="i" site="freesat.co.uk" site_id="21010" xmltv_id="Sony Channel">Sony Channel</channel>
+    <channel update="i" site="freesat.co.uk" site_id="21007" xmltv_id="Sony Channel+1">Sony Channel+1</channel>
     <channel update="i" site="freesat.co.uk" site_id="17009" xmltv_id="Pick">Pick</channel>
     <channel update="i" site="freesat.co.uk" site_id="4020" xmltv_id="Pick +1">Pick +1</channel>
     <channel update="i" site="freesat.co.uk" site_id="4013" xmltv_id="Challenge">Challenge</channel>
-    <channel update="i" site="freesat.co.uk" site_id="4019" xmltv_id="Challenge +1">Challenge +1</channel>
+    <channel update="i" site="freesat.co.uk" site_id="20026" xmltv_id="Sky Arts">Sky Arts</channel>
     <channel update="i" site="freesat.co.uk" site_id="7009" xmltv_id="Food Network">Food Network</channel>
     <channel update="i" site="freesat.co.uk" site_id="7010" xmltv_id="Food Network +1">Food Network +1</channel>
     <channel update="i" site="freesat.co.uk" site_id="5007" xmltv_id="DMAX">DMAX</channel>
     <channel update="i" site="freesat.co.uk" site_id="5008" xmltv_id="DMAX+1">DMAX+1</channel>
-    <channel update="i" site="freesat.co.uk" site_id="21007" xmltv_id="True Entertainment +1">True Entertainment +1</channel>
     <channel update="i" site="freesat.co.uk" site_id="1107" xmltv_id="ITV4 +1">ITV4 +1</channel>
     <channel update="i" site="freesat.co.uk" site_id="17011" xmltv_id="PBS America">PBS America</channel>
-    <channel update="i" site="freesat.co.uk" site_id="26006" xmltv_id="YourTV">YourTV</channel>
     <channel update="i" site="freesat.co.uk" site_id="5005" xmltv_id="Dave">Dave</channel>
     <channel update="i" site="freesat.co.uk" site_id="5003" xmltv_id="Drama">Drama</channel>
     <channel update="i" site="freesat.co.uk" site_id="26000" xmltv_id="Yesterday">Yesterday</channel>
     <channel update="i" site="freesat.co.uk" site_id="19012" xmltv_id="Really">Really</channel>
-    <channel update="i" site="freesat.co.uk" site_id="20019" xmltv_id="SHOWCASE">SHOWCASE</channel>
     <channel update="i" site="freesat.co.uk" site_id="4027" xmltv_id="BLAZE">BLAZE</channel>
     <channel update="i" site="freesat.co.uk" site_id="4015" xmltv_id="Together TV">Together TV</channel>
     <channel update="i" site="freesat.co.uk" site_id="7013" xmltv_id="Forces TV">Forces TV</channel>
-    <channel update="i" site="freesat.co.uk" site_id="9008" xmltv_id="Home">Home</channel>
+    <channel update="i" site="freesat.co.uk" site_id="9008" xmltv_id="HGTV">HGTV</channel>
     <channel update="i" site="freesat.co.uk" site_id="18008" xmltv_id="QUEST HD">QUEST HD</channel>
     <channel update="i" site="freesat.co.uk" site_id="18005" xmltv_id="Quest +1">Quest +1</channel>
     <channel update="i" site="freesat.co.uk" site_id="18006" xmltv_id="Quest Red">Quest Red</channel>
@@ -72,6 +69,7 @@
     <channel update="i" site="freesat.co.uk" site_id="702" xmltv_id="BBC FOUR">BBC FOUR</channel>
     <channel update="i" site="freesat.co.uk" site_id="709" xmltv_id="BBC Scotland">BBC Scotland</channel>
     <channel update="i" site="freesat.co.uk" site_id="20025" xmltv_id="Smithsonian Channel">Smithsonian Channel</channel>
+    <channel update="i" site="freesat.co.uk" site_id="13002" xmltv_id="Live 360">Live 360</channel>
     <channel update="i" site="freesat.co.uk" site_id="820" xmltv_id="BBC NEWS HD">BBC NEWS HD</channel>
     <channel update="i" site="freesat.co.uk" site_id="704" xmltv_id="BBC Parliament">BBC Parliament</channel>
     <channel update="i" site="freesat.co.uk" site_id="20014" xmltv_id="Sky News">Sky News</channel>
@@ -86,17 +84,13 @@
     <channel update="i" site="freesat.co.uk" site_id="703" xmltv_id="BBC NEWS">BBC NEWS</channel>
     <channel update="i" site="freesat.co.uk" site_id="4026" xmltv_id="Arirang TV">Arirang TV</channel>
     <channel update="i" site="freesat.co.uk" site_id="21257" xmltv_id="TRT World">TRT World</channel>
-    <channel update="i" site="freesat.co.uk" site_id="7014" xmltv_id="Front Runner">Front Runner</channel>
-    <channel update="i" site="freesat.co.uk" site_id="7017" xmltv_id="FreeSports HD">FreeSports HD</channel>
     <channel update="i" site="freesat.co.uk" site_id="1520" xmltv_id="Film4">Film4</channel>
     <channel update="i" site="freesat.co.uk" site_id="1521" xmltv_id="Film4 +1">Film4 +1</channel>
-    <channel update="i" site="freesat.co.uk" site_id="20023" xmltv_id="Sony Movie Channel">Sony Movie Channel</channel>
-    <channel update="i" site="freesat.co.uk" site_id="21000" xmltv_id="True Movies">True Movies</channel>
-    <channel update="i" site="freesat.co.uk" site_id="21001" xmltv_id="True Movies +1">True Movies +1</channel>
-    <channel update="i" site="freesat.co.uk" site_id="14000" xmltv_id="Movies4Men">Movies4Men</channel>
+    <channel update="i" site="freesat.co.uk" site_id="20023" xmltv_id="Sony Movies">Sony Movies</channel>
+    <channel update="i" site="freesat.co.uk" site_id="21000" xmltv_id="Sony Movies Christmas">Sony Movies Christmas</channel>
+    <channel update="i" site="freesat.co.uk" site_id="21001" xmltv_id="Sony Movies Christmas +1">Sony Movies Christmas +1</channel>
+    <channel update="i" site="freesat.co.uk" site_id="14000" xmltv_id="Sony Action">Sony Action</channel>
     <channel update="i" site="freesat.co.uk" site_id="21013" xmltv_id="Talking Pictures TV">Talking Pictures TV</channel>
-    <channel update="i" site="freesat.co.uk" site_id="19014" xmltv_id="Retro Movies">Retro Movies</channel>
-    <channel update="i" site="freesat.co.uk" site_id="23000" xmltv_id="The Vault">The Vault</channel>
     <channel update="i" site="freesat.co.uk" site_id="12003" xmltv_id="Spotlight TV">Spotlight TV</channel>
     <channel update="i" site="freesat.co.uk" site_id="822" xmltv_id="CBBC HD">CBBC HD</channel>
     <channel update="i" site="freesat.co.uk" site_id="821" xmltv_id="CBeebies HD">CBeebies HD</channel>
@@ -104,7 +98,6 @@
     <channel update="i" site="freesat.co.uk" site_id="17001" xmltv_id="Pop">Pop</channel>
     <channel update="i" site="freesat.co.uk" site_id="12000" xmltv_id="POP MAX">POP MAX</channel>
     <channel update="i" site="freesat.co.uk" site_id="21002" xmltv_id="Tiny Pop">Tiny Pop</channel>
-    <channel update="i" site="freesat.co.uk" site_id="17012" xmltv_id="POP+1">POP+1</channel>
     <channel update="i" site="freesat.co.uk" site_id="705" xmltv_id="CBBC">CBBC</channel>
     <channel update="i" site="freesat.co.uk" site_id="706" xmltv_id="CBeebies">CBeebies</channel>
     <channel update="i" site="freesat.co.uk" site_id="10000" xmltv_id="Inspiration TV">Inspiration TV</channel>
@@ -113,22 +106,22 @@
     <channel update="i" site="freesat.co.uk" site_id="8004" xmltv_id="GOD Channel">GOD Channel</channel>
     <channel update="i" site="freesat.co.uk" site_id="20012" xmltv_id="Sonlife TV">Sonlife TV</channel>
     <channel update="i" site="freesat.co.uk" site_id="800" xmltv_id="BBC Radio 1">BBC Radio 1</channel>
-    <channel update="i" site="freesat.co.uk" site_id="801" xmltv_id="BBC R1X">BBC R1X</channel>
+    <channel update="i" site="freesat.co.uk" site_id="801" xmltv_id="BBC Radio 1Xtra">BBC Radio 1Xtra</channel>
     <channel update="i" site="freesat.co.uk" site_id="802" xmltv_id="BBC Radio 2">BBC Radio 2</channel>
     <channel update="i" site="freesat.co.uk" site_id="803" xmltv_id="BBC Radio 3">BBC Radio 3</channel>
-    <channel update="i" site="freesat.co.uk" site_id="804" xmltv_id="BBC Radio 4 FM">BBC Radio 4 FM</channel>
-    <channel update="i" site="freesat.co.uk" site_id="806" xmltv_id="BBC R5L">BBC R5L</channel>
-    <channel update="i" site="freesat.co.uk" site_id="807" xmltv_id="BBC R5SX">BBC R5SX</channel>
-    <channel update="i" site="freesat.co.uk" site_id="808" xmltv_id="BBC 6 Music">BBC 6 Music</channel>
-    <channel update="i" site="freesat.co.uk" site_id="809" xmltv_id="BBC Radio 4 Ex">BBC Radio 4 Ex</channel>
-    <channel update="i" site="freesat.co.uk" site_id="810" xmltv_id="BBC Asian Net">BBC Asian Net</channel>
+    <channel update="i" site="freesat.co.uk" site_id="804" xmltv_id="BBC Radio 4">BBC Radio 4</channel>
+    <channel update="i" site="freesat.co.uk" site_id="806" xmltv_id="BBC Radio 5 live">BBC Radio 5 live</channel>
+    <channel update="i" site="freesat.co.uk" site_id="807" xmltv_id="BBC Radio 5 live sports extra">BBC Radio 5 live sports extra</channel>
+    <channel update="i" site="freesat.co.uk" site_id="808" xmltv_id="BBC Radio 6Music">BBC Radio 6Music</channel>
+    <channel update="i" site="freesat.co.uk" site_id="809" xmltv_id="BBC Radio 4 Extra">BBC Radio 4 Extra</channel>
+    <channel update="i" site="freesat.co.uk" site_id="810" xmltv_id="BBC Asian Network">BBC Asian Network</channel>
     <channel update="i" site="freesat.co.uk" site_id="805" xmltv_id="BBC Radio 4 LW">BBC Radio 4 LW</channel>
-    <channel update="i" site="freesat.co.uk" site_id="811" xmltv_id="BBC World Sv">BBC World Sv</channel>
-    <channel update="i" site="freesat.co.uk" site_id="814" xmltv_id="BBC R Scotland">BBC R Scotland</channel>
-    <channel update="i" site="freesat.co.uk" site_id="813" xmltv_id="BBC RnGaidheal">BBC RnGaidheal</channel>
-    <channel update="i" site="freesat.co.uk" site_id="816" xmltv_id="BBC R Wales">BBC R Wales</channel>
-    <channel update="i" site="freesat.co.uk" site_id="812" xmltv_id="BBC R Cymru">BBC R Cymru</channel>
-    <channel update="i" site="freesat.co.uk" site_id="815" xmltv_id="BBC R Ulster">BBC R Ulster</channel>
+    <channel update="i" site="freesat.co.uk" site_id="811" xmltv_id="BBC World Service">BBC World Service</channel>
+    <channel update="i" site="freesat.co.uk" site_id="814" xmltv_id="BBC Radio Scotland">BBC Radio Scotland</channel>
+    <channel update="i" site="freesat.co.uk" site_id="813" xmltv_id="BBC Radio nan Gaidhael">BBC Radio nan Gaidhael</channel>
+    <channel update="i" site="freesat.co.uk" site_id="816" xmltv_id="BBC Radio Wales">BBC Radio Wales</channel>
+    <channel update="i" site="freesat.co.uk" site_id="812" xmltv_id="BBC Radio Cymru">BBC Radio Cymru</channel>
+    <channel update="i" site="freesat.co.uk" site_id="815" xmltv_id="BBC Radio Ulster">BBC Radio Ulster</channel>
     <channel update="i" site="freesat.co.uk" site_id="823" xmltv_id="BBC Radio Foyle">BBC Radio Foyle</channel>
     <channel update="i" site="freesat.co.uk" site_id="817" xmltv_id="BBC Radio London">BBC Radio London</channel>
     <channel update="i" site="freesat.co.uk" site_id="4001" xmltv_id="Capital">Capital</channel>
@@ -156,14 +149,14 @@
     <channel update="i" site="freesat.co.uk" site_id="18002" xmltv_id="QVC Extra">QVC Extra</channel>
     <channel update="i" site="freesat.co.uk" site_id="18003" xmltv_id="QVC Style">QVC Style</channel>
     <channel update="i" site="freesat.co.uk" site_id="8002" xmltv_id="Gems TV">Gems TV</channel>
-    <channel update="i" site="freesat.co.uk" site_id="11003" xmltv_id="JML Direct">JML Direct</channel>
     <channel update="i" site="freesat.co.uk" site_id="11006" xmltv_id="JewelleryMaker">JewelleryMaker</channel>
     <channel update="i" site="freesat.co.uk" site_id="11005" xmltv_id="TJC">TJC</channel>
-    <channel update="i" site="freesat.co.uk" site_id="10004" xmltv_id="Ideal World">Ideal World</channel>
-    <channel update="i" site="freesat.co.uk" site_id="4008" xmltv_id="Create &amp; Craft">Create &amp; Craft</channel>
-    <channel update="i" site="freesat.co.uk" site_id="9006" xmltv_id="Hochanda">Hochanda</channel>
-    <channel update="i" site="freesat.co.uk" site_id="603" xmltv_id="BBC 2">BBC 2</channel>
+    <channel update="i" site="freesat.co.uk" site_id="10019" xmltv_id="Ideal World">Ideal World</channel>
+    <channel update="i" site="freesat.co.uk" site_id="4032" xmltv_id="Create and Craft">Create and Craft</channel>
+    <channel update="i" site="freesat.co.uk" site_id="9006" xmltv_id="HOCHANDA CRAFT">HOCHANDA CRAFT</channel>
+    <channel update="i" site="freesat.co.uk" site_id="603" xmltv_id="BBC TWO Wales">BBC TWO Wales</channel>
     <channel update="i" site="freesat.co.uk" site_id="918" xmltv_id="BBC RB 1">BBC RB 1</channel>
+    <channel update="i" site="freesat.co.uk" site_id="105" xmltv_id="Freesat Info">Freesat Info</channel>
     <channel update="i" site="freesat.co.uk" site_id="9007" xmltv_id="Rakuten TV">Rakuten TV</channel>
     <channel update="i" site="freesat.co.uk" site_id="919" xmltv_id="BBC iPlayer">BBC iPlayer</channel>
   </channels>
