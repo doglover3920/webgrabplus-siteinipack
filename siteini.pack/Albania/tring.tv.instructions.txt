@@ -15,3 +15,5 @@ give the command:
 cp -s -u /usr/bin/curl /your_WG++_work_folder/curl.exe
 
 This makes a symlink to the curl utitlity
+
+Besides this you need a PHP file.  Install the accompanying php file on a webserver, and change 192.168.178.30 to the url or IP-adress of your chosen webserver
