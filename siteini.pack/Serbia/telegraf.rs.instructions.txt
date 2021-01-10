@@ -1,0 +1,8 @@
+The siteini requires the use of a PHP script, in order to avoid problems with channels which have less days of EPG as requested.
+
+You can use the SiteIni without the PHP script.
+For this disable: url_index{url ()|http://192.168.178.30/telegraf_rs.php?channel=|channel|&start=##start##&end=##end##}
+And enable: url_index{url ()|https://www.telegraf.rs/api/epg/channels/|channel|?start=##start##&end=##end##}
+But except problems when the site contains less data than requested.
+
+For the PHP script:  Copy the PHP file to your chosen webserver, and adjust 192.168.178.30 to the IP-adres (or url) of your webserver.
