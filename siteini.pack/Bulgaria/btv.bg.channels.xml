@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.4 -- Jan van Straaten" site="btv.bg">
+  <channels>
+    <channel update="i" site="btv.bg" site_id="default-btv" xmltv_id="bTV">bTV</channel>
+    <channel update="i" site="btv.bg" site_id="btv-comedy" xmltv_id="bTV Comedy">bTV Comedy</channel>
+    <channel update="i" site="btv.bg" site_id="btv-cinema" xmltv_id="bTV Cinema">bTV Cinema</channel>
+    <channel update="i" site="btv.bg" site_id="btv-action" xmltv_id="bTV Action">bTV Action</channel>
+    <channel update="i" site="btv.bg" site_id="btv-lady" xmltv_id="bTV Lady">bTV Lady</channel>
+    <channel update="i" site="btv.bg" site_id="ring" xmltv_id="Ring">Ring</channel>
+    <channel update="i" site="btv.bg" site_id="btv-international" xmltv_id="bTV International">bTV International</channel>
+  </channels>
+</site>
