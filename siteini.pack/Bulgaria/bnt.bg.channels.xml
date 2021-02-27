@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.4 -- Jan van Straaten" site="bnt.bg">
+  <channels>
+    <channel update="i" site="bnt.bg" site_id="bnt1" xmltv_id="BNT1">BNT1</channel>
+    <channel update="i" site="bnt.bg" site_id="bnt2" xmltv_id="BNT2">BNT2</channel>
+    <channel update="i" site="bnt.bg" site_id="bnt3" xmltv_id="BNT3">BNT3</channel>
+    <channel update="i" site="bnt.bg" site_id="bnt4" xmltv_id="BNT4">BNT4</channel>
+  </channels>
+</site>
