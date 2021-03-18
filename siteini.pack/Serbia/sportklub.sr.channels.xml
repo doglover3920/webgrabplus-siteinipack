@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.4 -- Jan van Straaten" site="sportklub.sr">
+  <channels>
+    <channel update="i" site="sportklub.sr" site_id="66" xmltv_id="SK 1 HD (SR)">SK 1 HD (SR)</channel>
+    <channel update="i" site="sportklub.sr" site_id="67" xmltv_id="SK 2 HD (SR)">SK 2 HD (SR)</channel>
+    <channel update="i" site="sportklub.sr" site_id="68" xmltv_id="SK 3 HD (SR)">SK 3 HD (SR)</channel>
+    <channel update="i" site="sportklub.sr" site_id="69" xmltv_id="SK 4 HD (SR)">SK 4 HD (SR)</channel>
+    <channel update="i" site="sportklub.sr" site_id="18" xmltv_id="SK HD">SK HD</channel>
+    <channel update="i" site="sportklub.sr" site_id="73" xmltv_id="SK Golf HD">SK Golf HD</channel>
+    <channel update="i" site="sportklub.sr" site_id="687" xmltv_id="SK Esports">SK Esports</channel>
+    <channel update="i" site="sportklub.sr" site_id="70" xmltv_id="SK 5 (SR)">SK 5 (SR)</channel>
+    <channel update="i" site="sportklub.sr" site_id="71" xmltv_id="SK 6 (SR)">SK 6 (SR)</channel>
+    <channel update="i" site="sportklub.sr" site_id="74" xmltv_id="SK 7 (SR)">SK 7 (SR)</channel>
+    <channel update="i" site="sportklub.sr" site_id="75" xmltv_id="SK 8 (SR)">SK 8 (SR)</channel>
+    <channel update="i" site="sportklub.sr" site_id="76" xmltv_id="SK 9 (SR)">SK 9 (SR)</channel>
+    <channel update="i" site="sportklub.sr" site_id="77" xmltv_id="SK 10 (SR)">SK 10 (SR)</channel>
+  </channels>
+</site>
