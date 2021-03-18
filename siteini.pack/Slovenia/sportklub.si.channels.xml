@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.4 -- Jan van Straaten" site="sportklub.si">
+  <channels>
+    <channel update="i" site="sportklub.si" site_id="345" xmltv_id="SK 1 HD (SI)">SK 1 HD (SI)</channel>
+    <channel update="i" site="sportklub.si" site_id="346" xmltv_id="SK 2 HD (SI)">SK 2 HD (SI)</channel>
+    <channel update="i" site="sportklub.si" site_id="347" xmltv_id="SK 3 HD (SI)">SK 3 HD (SI)</channel>
+    <channel update="i" site="sportklub.si" site_id="885" xmltv_id="SK 4 HD (SI)">SK 4 HD (SI)</channel>
+    <channel update="i" site="sportklub.si" site_id="18" xmltv_id="SK HD">SK HD</channel>
+    <channel update="i" site="sportklub.si" site_id="292" xmltv_id="SK 5 (SI)">SK 5 (SI)</channel>
+    <channel update="i" site="sportklub.si" site_id="293" xmltv_id="SK 6 (SI)">SK 6 (SI)</channel>
+    <channel update="i" site="sportklub.si" site_id="73" xmltv_id="SK Golf HD">SK Golf HD</channel>
+  </channels>
+</site>
