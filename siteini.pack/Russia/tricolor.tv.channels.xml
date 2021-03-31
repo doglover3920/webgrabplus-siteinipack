@@ -1,0 +1,416 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.4 -- Jan van Straaten" site="tricolor.tv">
+  <channels>
+    <channel update="i" site="tricolor.tv" site_id="98" xmltv_id="Первый канал">Первый канал</channel>
+    <channel update="i" site="tricolor.tv" site_id="347988" xmltv_id="Первый канал (+4)">Первый канал (+4)</channel>
+    <channel update="i" site="tricolor.tv" site_id="347905" xmltv_id="Первый канал (+6)">Первый канал (+6)</channel>
+    <channel update="i" site="tricolor.tv" site_id="165" xmltv_id="Первый канал HD">Первый канал HD</channel>
+    <channel update="i" site="tricolor.tv" site_id="347989" xmltv_id="Первый канал HD (+4)">Первый канал HD (+4)</channel>
+    <channel update="i" site="tricolor.tv" site_id="105" xmltv_id="Россия 1">Россия 1</channel>
+    <channel update="i" site="tricolor.tv" site_id="167" xmltv_id="Россия 1 HD">Россия 1 HD</channel>
+    <channel update="i" site="tricolor.tv" site_id="127" xmltv_id="МАТЧ!">МАТЧ!</channel>
+    <channel update="i" site="tricolor.tv" site_id="154" xmltv_id="МАТЧ! HD">МАТЧ! HD</channel>
+    <channel update="i" site="tricolor.tv" site_id="128" xmltv_id="НТВ">НТВ</channel>
+    <channel update="i" site="tricolor.tv" site_id="347987" xmltv_id="НТВ (+4)">НТВ (+4)</channel>
+    <channel update="i" site="tricolor.tv" site_id="347908" xmltv_id="НТВ (+7)">НТВ (+7)</channel>
+    <channel update="i" site="tricolor.tv" site_id="130" xmltv_id="Пятый канал">Пятый канал</channel>
+    <channel update="i" site="tricolor.tv" site_id="363812" xmltv_id="Пятый канал (+4)">Пятый канал (+4)</channel>
+    <channel update="i" site="tricolor.tv" site_id="131" xmltv_id="Россия К">Россия К</channel>
+    <channel update="i" site="tricolor.tv" site_id="132" xmltv_id="Россия 24">Россия 24</channel>
+    <channel update="i" site="tricolor.tv" site_id="133" xmltv_id="Карусель">Карусель</channel>
+    <channel update="i" site="tricolor.tv" site_id="347985" xmltv_id="Карусель (+4)">Карусель (+4)</channel>
+    <channel update="i" site="tricolor.tv" site_id="240740" xmltv_id="Карусель (+7)">Карусель (+7)</channel>
+    <channel update="i" site="tricolor.tv" site_id="134" xmltv_id="ОТР">ОТР</channel>
+    <channel update="i" site="tricolor.tv" site_id="137793" xmltv_id="Доктор">Доктор</channel>
+    <channel update="i" site="tricolor.tv" site_id="135" xmltv_id="ТВЦ">ТВЦ</channel>
+    <channel update="i" site="tricolor.tv" site_id="347990" xmltv_id="ТВЦ (+4)">ТВЦ (+4)</channel>
+    <channel update="i" site="tricolor.tv" site_id="347909" xmltv_id="ТВЦ (+7)">ТВЦ (+7)</channel>
+    <channel update="i" site="tricolor.tv" site_id="662" xmltv_id="Вести ФМ">Вести ФМ</channel>
+    <channel update="i" site="tricolor.tv" site_id="665" xmltv_id="Маяк">Маяк</channel>
+    <channel update="i" site="tricolor.tv" site_id="663" xmltv_id="Радио России">Радио России</channel>
+    <channel update="i" site="tricolor.tv" site_id="136" xmltv_id="Рен ТВ">Рен ТВ</channel>
+    <channel update="i" site="tricolor.tv" site_id="137" xmltv_id="Спас">Спас</channel>
+    <channel update="i" site="tricolor.tv" site_id="138" xmltv_id="СТС">СТС</channel>
+    <channel update="i" site="tricolor.tv" site_id="139" xmltv_id="Домашний">Домашний</channel>
+    <channel update="i" site="tricolor.tv" site_id="140" xmltv_id="ТВ-3">ТВ-3</channel>
+    <channel update="i" site="tricolor.tv" site_id="121" xmltv_id="Инфоканал">Инфоканал</channel>
+    <channel update="i" site="tricolor.tv" site_id="339265" xmltv_id="Инфоканал HD">Инфоканал HD</channel>
+    <channel update="i" site="tricolor.tv" site_id="141" xmltv_id="ПЯТНИЦА!">ПЯТНИЦА!</channel>
+    <channel update="i" site="tricolor.tv" site_id="142" xmltv_id="Звезда">Звезда</channel>
+    <channel update="i" site="tricolor.tv" site_id="347983" xmltv_id="Звезда (+4)">Звезда (+4)</channel>
+    <channel update="i" site="tricolor.tv" site_id="347906" xmltv_id="Звезда (+7)">Звезда (+7)</channel>
+    <channel update="i" site="tricolor.tv" site_id="143" xmltv_id="Мир">Мир</channel>
+    <channel update="i" site="tricolor.tv" site_id="347986" xmltv_id="Мир (+4)">Мир (+4)</channel>
+    <channel update="i" site="tricolor.tv" site_id="347907" xmltv_id="Мир (+7)">Мир (+7)</channel>
+    <channel update="i" site="tricolor.tv" site_id="144" xmltv_id="ТНТ">ТНТ</channel>
+    <channel update="i" site="tricolor.tv" site_id="145" xmltv_id="Муз-ТВ">Муз-ТВ</channel>
+    <channel update="i" site="tricolor.tv" site_id="229995" xmltv_id="МУЗ-ТВ (+7)">МУЗ-ТВ (+7)</channel>
+    <channel update="i" site="tricolor.tv" site_id="137490" xmltv_id="Радио Родных Дорог">Радио Родных Дорог</channel>
+    <channel update="i" site="tricolor.tv" site_id="220" xmltv_id="2х2">2х2</channel>
+    <channel update="i" site="tricolor.tv" site_id="140505" xmltv_id="Маруся ФМ">Маруся ФМ</channel>
+    <channel update="i" site="tricolor.tv" site_id="140520" xmltv_id="Новое Радио">Новое Радио</channel>
+    <channel update="i" site="tricolor.tv" site_id="140517" xmltv_id="Спорт FM">Спорт FM</channel>
+    <channel update="i" site="tricolor.tv" site_id="213" xmltv_id="ЧЕ!">ЧЕ!</channel>
+    <channel update="i" site="tricolor.tv" site_id="135703" xmltv_id="ПОЕХАЛИ!">ПОЕХАЛИ!</channel>
+    <channel update="i" site="tricolor.tv" site_id="219271" xmltv_id="«Амурское областное телевидение»">«Амурское областное телевидение»</channel>
+    <channel update="i" site="tricolor.tv" site_id="247" xmltv_id="365 Дней ТВ">365 Дней ТВ</channel>
+    <channel update="i" site="tricolor.tv" site_id="246445" xmltv_id="365 Дней ТВ">365 Дней ТВ</channel>
+    <channel update="i" site="tricolor.tv" site_id="224" xmltv_id="8 канал">8 канал</channel>
+    <channel update="i" site="tricolor.tv" site_id="140564" xmltv_id="9 волна">9 волна</channel>
+    <channel update="i" site="tricolor.tv" site_id="305752" xmltv_id="AIVA">AIVA</channel>
+    <channel update="i" site="tricolor.tv" site_id="242" xmltv_id="Ani">Ani</channel>
+    <channel update="i" site="tricolor.tv" site_id="217301" xmltv_id="Arirang TV">Arirang TV</channel>
+    <channel update="i" site="tricolor.tv" site_id="250" xmltv_id="Boomerang">Boomerang</channel>
+    <channel update="i" site="tricolor.tv" site_id="572" xmltv_id="BRIDGE TV">BRIDGE TV</channel>
+    <channel update="i" site="tricolor.tv" site_id="1165" xmltv_id="BRIDGE TV CLASSIC">BRIDGE TV CLASSIC</channel>
+    <channel update="i" site="tricolor.tv" site_id="78768" xmltv_id="BRIDGE TV DELUXE HD">BRIDGE TV DELUXE HD</channel>
+    <channel update="i" site="tricolor.tv" site_id="229934" xmltv_id="BRIDGE TV HITS">BRIDGE TV HITS</channel>
+    <channel update="i" site="tricolor.tv" site_id="585" xmltv_id="BRIDGE TV HITS">BRIDGE TV HITS</channel>
+    <channel update="i" site="tricolor.tv" site_id="571" xmltv_id="BRIDGE TV РУССКИЙ ХИТ">BRIDGE TV РУССКИЙ ХИТ</channel>
+    <channel update="i" site="tricolor.tv" site_id="352855" xmltv_id="BRIDGE TV ШЛЯГЕР">BRIDGE TV ШЛЯГЕР</channel>
+    <channel update="i" site="tricolor.tv" site_id="248" xmltv_id="Cartoon Network">Cartoon Network</channel>
+    <channel update="i" site="tricolor.tv" site_id="313851" xmltv_id="CCTV-4">CCTV-4</channel>
+    <channel update="i" site="tricolor.tv" site_id="313852" xmltv_id="CGTN">CGTN</channel>
+    <channel update="i" site="tricolor.tv" site_id="313853" xmltv_id="CGTN Русский">CGTN Русский</channel>
+    <channel update="i" site="tricolor.tv" site_id="597" xmltv_id="CNN International (CNNI)">CNN International (CNNI)</channel>
+    <channel update="i" site="tricolor.tv" site_id="59529" xmltv_id="Comedy Radio">Comedy Radio</channel>
+    <channel update="i" site="tricolor.tv" site_id="593" xmltv_id="Deutsche Welle">Deutsche Welle</channel>
+    <channel update="i" site="tricolor.tv" site_id="686" xmltv_id="DFM">DFM</channel>
+    <channel update="i" site="tricolor.tv" site_id="604" xmltv_id="Disney">Disney</channel>
+    <channel update="i" site="tricolor.tv" site_id="347984" xmltv_id="Disney (+4)">Disney (+4)</channel>
+    <channel update="i" site="tricolor.tv" site_id="235" xmltv_id="English Club TV">English Club TV</channel>
+    <channel update="i" site="tricolor.tv" site_id="352858" xmltv_id="Eromania 4K">Eromania 4K</channel>
+    <channel update="i" site="tricolor.tv" site_id="584" xmltv_id="Europa Plus TV">Europa Plus TV</channel>
+    <channel update="i" site="tricolor.tv" site_id="214125" xmltv_id="Eurosport 4K">Eurosport 4K</channel>
+    <channel update="i" site="tricolor.tv" site_id="214176" xmltv_id="Eurosport 4K ">Eurosport 4K </channel>
+    <channel update="i" site="tricolor.tv" site_id="217198" xmltv_id="FAN HD">FAN HD</channel>
+    <channel update="i" site="tricolor.tv" site_id="322452" xmltv_id="Flix Snip">Flix Snip</channel>
+    <channel update="i" site="tricolor.tv" site_id="594" xmltv_id="France 24">France 24</channel>
+    <channel update="i" site="tricolor.tv" site_id="354073" xmltv_id="Gagsnetwork">Gagsnetwork</channel>
+    <channel update="i" site="tricolor.tv" site_id="601" xmltv_id="Gulli Girl">Gulli Girl</channel>
+    <channel update="i" site="tricolor.tv" site_id="347953" xmltv_id="HGTV Home &amp; Garden">HGTV Home &amp; Garden</channel>
+    <channel update="i" site="tricolor.tv" site_id="304297" xmltv_id="HISTORY 2">HISTORY 2</channel>
+    <channel update="i" site="tricolor.tv" site_id="1367" xmltv_id="HISTORY HD">HISTORY HD</channel>
+    <channel update="i" site="tricolor.tv" site_id="286766" xmltv_id="HSR 24">HSR 24</channel>
+    <channel update="i" site="tricolor.tv" site_id="348000" xmltv_id="INSIGHT">INSIGHT</channel>
+    <channel update="i" site="tricolor.tv" site_id="602" xmltv_id="JimJam">JimJam</channel>
+    <channel update="i" site="tricolor.tv" site_id="217379" xmltv_id="KBS World">KBS World</channel>
+    <channel update="i" site="tricolor.tv" site_id="197" xmltv_id="LEOMAX+">LEOMAX+</channel>
+    <channel update="i" site="tricolor.tv" site_id="202" xmltv_id="LEOMAX24">LEOMAX24</channel>
+    <channel update="i" site="tricolor.tv" site_id="286757" xmltv_id="Love Nature 4K">Love Nature 4K</channel>
+    <channel update="i" site="tricolor.tv" site_id="669" xmltv_id="Love Radio">Love Radio</channel>
+    <channel update="i" site="tricolor.tv" site_id="88345" xmltv_id="Luxury">Luxury</channel>
+    <channel update="i" site="tricolor.tv" site_id="217324" xmltv_id="Luxury ">Luxury </channel>
+    <channel update="i" site="tricolor.tv" site_id="666" xmltv_id="MAXIMUM">MAXIMUM</channel>
+    <channel update="i" site="tricolor.tv" site_id="50817" xmltv_id="MEZZO">MEZZO</channel>
+    <channel update="i" site="tricolor.tv" site_id="50816" xmltv_id="MEZZO LIVE HD">MEZZO LIVE HD</channel>
+    <channel update="i" site="tricolor.tv" site_id="575" xmltv_id="MTV 90’s">MTV 90’s</channel>
+    <channel update="i" site="tricolor.tv" site_id="573" xmltv_id="MTV Hits">MTV Hits</channel>
+    <channel update="i" site="tricolor.tv" site_id="596" xmltv_id="NHK WORLD TV">NHK WORLD TV</channel>
+    <channel update="i" site="tricolor.tv" site_id="609" xmltv_id="Nick Jr.">Nick Jr.</channel>
+    <channel update="i" site="tricolor.tv" site_id="607" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel update="i" site="tricolor.tv" site_id="205" xmltv_id="Nickelodeon HD">Nickelodeon HD</channel>
+    <channel update="i" site="tricolor.tv" site_id="294792" xmltv_id="Paramount Channel">Paramount Channel</channel>
+    <channel update="i" site="tricolor.tv" site_id="588" xmltv_id="RT">RT</channel>
+    <channel update="i" site="tricolor.tv" site_id="234" xmltv_id="RTД">RTД</channel>
+    <channel update="i" site="tricolor.tv" site_id="560" xmltv_id="RU TV">RU TV</channel>
+    <channel update="i" site="tricolor.tv" site_id="149" xmltv_id="Russian Extreme HD">Russian Extreme HD</channel>
+    <channel update="i" site="tricolor.tv" site_id="88195" xmltv_id="Russian Extreme Ultra">Russian Extreme Ultra</channel>
+    <channel update="i" site="tricolor.tv" site_id="128831" xmltv_id="RUSSIAN MUSICBOX HD">RUSSIAN MUSICBOX HD</channel>
+    <channel update="i" site="tricolor.tv" site_id="186" xmltv_id="Shop &amp; Show">Shop &amp; Show</channel>
+    <channel update="i" site="tricolor.tv" site_id="195" xmltv_id="Shopping Live">Shopping Live</channel>
+    <channel update="i" site="tricolor.tv" site_id="254" xmltv_id="TiJi">TiJi</channel>
+    <channel update="i" site="tricolor.tv" site_id="354325" xmltv_id="TOP SECRET">TOP SECRET</channel>
+    <channel update="i" site="tricolor.tv" site_id="349711" xmltv_id="Trash">Trash</channel>
+    <channel update="i" site="tricolor.tv" site_id="178" xmltv_id="TV Губерния">TV Губерния</channel>
+    <channel update="i" site="tricolor.tv" site_id="221" xmltv_id="TV5Monde">TV5Monde</channel>
+    <channel update="i" site="tricolor.tv" site_id="305785" xmltv_id="TVMChannel">TVMChannel</channel>
+    <channel update="i" site="tricolor.tv" site_id="576" xmltv_id="VH1">VH1</channel>
+    <channel update="i" site="tricolor.tv" site_id="251" xmltv_id="Zoo TV">Zoo TV</channel>
+    <channel update="i" site="tricolor.tv" site_id="549" xmltv_id="Авто Плюс">Авто Плюс</channel>
+    <channel update="i" site="tricolor.tv" site_id="672" xmltv_id="Авторадио">Авторадио</channel>
+    <channel update="i" site="tricolor.tv" site_id="86683" xmltv_id="Анекдот ТВ">Анекдот ТВ</channel>
+    <channel update="i" site="tricolor.tv" site_id="295904" xmltv_id="Арсенал">Арсенал</channel>
+    <channel update="i" site="tricolor.tv" site_id="170" xmltv_id="Архыз 24">Архыз 24</channel>
+    <channel update="i" site="tricolor.tv" site_id="280" xmltv_id="БелРос">БелРос</channel>
+    <channel update="i" site="tricolor.tv" site_id="305701" xmltv_id="Блокбастер">Блокбастер</channel>
+    <channel update="i" site="tricolor.tv" site_id="305707" xmltv_id="Блокбастер HD">Блокбастер HD</channel>
+    <channel update="i" site="tricolor.tv" site_id="232" xmltv_id="Бобёр">Бобёр</channel>
+    <channel update="i" site="tricolor.tv" site_id="349572" xmltv_id="Большая Азия">Большая Азия</channel>
+    <channel update="i" site="tricolor.tv" site_id="359966" xmltv_id="Большой эфир">Большой эфир</channel>
+    <channel update="i" site="tricolor.tv" site_id="168" xmltv_id="БСТ">БСТ</channel>
+    <channel update="i" site="tricolor.tv" site_id="359967" xmltv_id="Бум">Бум</channel>
+    <channel update="i" site="tricolor.tv" site_id="192" xmltv_id="В мире животных">В мире животных</channel>
+    <channel update="i" site="tricolor.tv" site_id="287" xmltv_id="ВМЕСТЕ-РФ">ВМЕСТЕ-РФ</channel>
+    <channel update="i" site="tricolor.tv" site_id="222662" xmltv_id="Волгоград 24">Волгоград 24</channel>
+    <channel update="i" site="tricolor.tv" site_id="127327" xmltv_id="Воскресение">Воскресение</channel>
+    <channel update="i" site="tricolor.tv" site_id="143046" xmltv_id="Восток FM">Восток FM</channel>
+    <channel update="i" site="tricolor.tv" site_id="288" xmltv_id="Время">Время</channel>
+    <channel update="i" site="tricolor.tv" site_id="348027" xmltv_id="Глухарь">Глухарь</channel>
+    <channel update="i" site="tricolor.tv" site_id="1363" xmltv_id="Град Петров">Град Петров</channel>
+    <channel update="i" site="tricolor.tv" site_id="161" xmltv_id="Грозный">Грозный</channel>
+    <channel update="i" site="tricolor.tv" site_id="155" xmltv_id="Дагестан">Дагестан</channel>
+    <channel update="i" site="tricolor.tv" site_id="330913" xmltv_id="Детективы">Детективы</channel>
+    <channel update="i" site="tricolor.tv" site_id="246" xmltv_id="Детский мир">Детский мир</channel>
+    <channel update="i" site="tricolor.tv" site_id="1157" xmltv_id="ДОН 24">ДОН 24</channel>
+    <channel update="i" site="tricolor.tv" site_id="214358" xmltv_id="Дорама">Дорама</channel>
+    <channel update="i" site="tricolor.tv" site_id="675" xmltv_id="Дорожное радио">Дорожное радио</channel>
+    <channel update="i" site="tricolor.tv" site_id="591" xmltv_id="Евроновости">Евроновости</channel>
+    <channel update="i" site="tricolor.tv" site_id="684" xmltv_id="Европа Плюс">Европа Плюс</channel>
+    <channel update="i" site="tricolor.tv" site_id="237" xmltv_id="Еда">Еда</channel>
+    <channel update="i" site="tricolor.tv" site_id="198" xmltv_id="Еда Премиум">Еда Премиум</channel>
+    <channel update="i" site="tricolor.tv" site_id="322474" xmltv_id="Еда. Рецепты Лазерсона">Еда. Рецепты Лазерсона</channel>
+    <channel update="i" site="tricolor.tv" site_id="294784" xmltv_id="Енисей">Енисей</channel>
+    <channel update="i" site="tricolor.tv" site_id="330914" xmltv_id="Ералаш">Ералаш</channel>
+    <channel update="i" site="tricolor.tv" site_id="205723" xmltv_id="ЖАР ПТИЦА">ЖАР ПТИЦА</channel>
+    <channel update="i" site="tricolor.tv" site_id="228" xmltv_id="ЖАРА">ЖАРА</channel>
+    <channel update="i" site="tricolor.tv" site_id="230" xmltv_id="Живая Планета">Живая Планета</channel>
+    <channel update="i" site="tricolor.tv" site_id="259" xmltv_id="Загородный">Загородный</channel>
+    <channel update="i" site="tricolor.tv" site_id="278091" xmltv_id="Загородный Int HD">Загородный Int HD</channel>
+    <channel update="i" site="tricolor.tv" site_id="353844" xmltv_id="Зал суда">Зал суда</channel>
+    <channel update="i" site="tricolor.tv" site_id="359970" xmltv_id="Игра">Игра</channel>
+    <channel update="i" site="tricolor.tv" site_id="171" xmltv_id="ИНГУШЕТИЯ">ИНГУШЕТИЯ</channel>
+    <channel update="i" site="tricolor.tv" site_id="359969" xmltv_id="Искусство">Искусство</channel>
+    <channel update="i" site="tricolor.tv" site_id="256" xmltv_id="История">История</channel>
+    <channel update="i" site="tricolor.tv" site_id="1201" xmltv_id="Калейдоскоп ТВ">Калейдоскоп ТВ</channel>
+    <channel update="i" site="tricolor.tv" site_id="305699" xmltv_id="Камеди">Камеди</channel>
+    <channel update="i" site="tricolor.tv" site_id="305710" xmltv_id="Камеди HD">Камеди HD</channel>
+    <channel update="i" site="tricolor.tv" site_id="188" xmltv_id="Капитан Фантастика HD">Капитан Фантастика HD</channel>
+    <channel update="i" site="tricolor.tv" site_id="1141" xmltv_id="КВН ТВ">КВН ТВ</channel>
+    <channel update="i" site="tricolor.tv" site_id="305712" xmltv_id="Кинопоказ HD">Кинопоказ HD</channel>
+    <channel update="i" site="tricolor.tv" site_id="16079" xmltv_id="Конный Мир">Конный Мир</channel>
+    <channel update="i" site="tricolor.tv" site_id="181" xmltv_id="Кубань 24 ОРБИТА">Кубань 24 ОРБИТА</channel>
+    <channel update="i" site="tricolor.tv" site_id="664" xmltv_id="Культура">Культура</channel>
+    <channel update="i" site="tricolor.tv" site_id="278273" xmltv_id="ЛенТВ24">ЛенТВ24</channel>
+    <channel update="i" site="tricolor.tv" site_id="208388" xmltv_id="М-1 Глобал">М-1 Глобал</channel>
+    <channel update="i" site="tricolor.tv" site_id="688" xmltv_id="Макс-FM">Макс-FM</channel>
+    <channel update="i" site="tricolor.tv" site_id="50288" xmltv_id="Малыш">Малыш</channel>
+    <channel update="i" site="tricolor.tv" site_id="236" xmltv_id="Мама">Мама</channel>
+    <channel update="i" site="tricolor.tv" site_id="558" xmltv_id="МАТЧ  ПРЕМЬЕР">МАТЧ  ПРЕМЬЕР</channel>
+    <channel update="i" site="tricolor.tv" site_id="207" xmltv_id="МАТЧ  ПРЕМЬЕР HD">МАТЧ  ПРЕМЬЕР HD</channel>
+    <channel update="i" site="tricolor.tv" site_id="551" xmltv_id="МАТЧ! АРЕНА HD">МАТЧ! АРЕНА HD</channel>
+    <channel update="i" site="tricolor.tv" site_id="553" xmltv_id="МАТЧ! БОЕЦ">МАТЧ! БОЕЦ</channel>
+    <channel update="i" site="tricolor.tv" site_id="552" xmltv_id="МАТЧ! ИГРА HD">МАТЧ! ИГРА HD</channel>
+    <channel update="i" site="tricolor.tv" site_id="550" xmltv_id="МАТЧ! СТРАНА">МАТЧ! СТРАНА</channel>
+    <channel update="i" site="tricolor.tv" site_id="102" xmltv_id="МАТЧ! ФУТБОЛ 1">МАТЧ! ФУТБОЛ 1</channel>
+    <channel update="i" site="tricolor.tv" site_id="127681" xmltv_id="МАТЧ! ФУТБОЛ 1 HD">МАТЧ! ФУТБОЛ 1 HD</channel>
+    <channel update="i" site="tricolor.tv" site_id="547" xmltv_id="МАТЧ! ФУТБОЛ 2">МАТЧ! ФУТБОЛ 2</channel>
+    <channel update="i" site="tricolor.tv" site_id="127684" xmltv_id="МАТЧ! ФУТБОЛ 2 HD">МАТЧ! ФУТБОЛ 2 HD</channel>
+    <channel update="i" site="tricolor.tv" site_id="548" xmltv_id="МАТЧ! ФУТБОЛ 3">МАТЧ! ФУТБОЛ 3</channel>
+    <channel update="i" site="tricolor.tv" site_id="127687" xmltv_id="МАТЧ! ФУТБОЛ 3 HD">МАТЧ! ФУТБОЛ 3 HD</channel>
+    <channel update="i" site="tricolor.tv" site_id="598" xmltv_id="Мир 24">Мир 24</channel>
+    <channel update="i" site="tricolor.tv" site_id="176" xmltv_id="Мир Белогорья">Мир Белогорья</channel>
+    <channel update="i" site="tricolor.tv" site_id="278093" xmltv_id="МИР ВОКРУГ HD">МИР ВОКРУГ HD</channel>
+    <channel update="i" site="tricolor.tv" site_id="87175" xmltv_id="Модное радио">Модное радио</channel>
+    <channel update="i" site="tricolor.tv" site_id="164" xmltv_id="Москва 24">Москва 24</channel>
+    <channel update="i" site="tricolor.tv" site_id="360387" xmltv_id="Мосфильм. Золотая Коллекция">Мосфильм. Золотая Коллекция</channel>
+    <channel update="i" site="tricolor.tv" site_id="360388" xmltv_id="Мосфильм. Золотая коллекция HD">Мосфильм. Золотая коллекция HD</channel>
+    <channel update="i" site="tricolor.tv" site_id="219142" xmltv_id="Моторспорт ТВ HD">Моторспорт ТВ HD</channel>
+    <channel update="i" site="tricolor.tv" site_id="255" xmltv_id="Моя Планета">Моя Планета</channel>
+    <channel update="i" site="tricolor.tv" site_id="286707" xmltv_id="Моя Планета HD">Моя Планета HD</channel>
+    <channel update="i" site="tricolor.tv" site_id="581" xmltv_id="Музыка Первого">Музыка Первого</channel>
+    <channel update="i" site="tricolor.tv" site_id="245" xmltv_id="Мульт">Мульт</channel>
+    <channel update="i" site="tricolor.tv" site_id="286706" xmltv_id="Мульт HD">Мульт HD</channel>
+    <channel update="i" site="tricolor.tv" site_id="611" xmltv_id="Мультиландия">Мультиландия</channel>
+    <channel update="i" site="tricolor.tv" site_id="196122" xmltv_id="Мультимузыка">Мультимузыка</channel>
+    <channel update="i" site="tricolor.tv" site_id="244" xmltv_id="Нано">Нано</channel>
+    <channel update="i" site="tricolor.tv" site_id="347911" xmltv_id="Наука HD">Наука HD</channel>
+    <channel update="i" site="tricolor.tv" site_id="305702" xmltv_id="Наш Кинопоказ">Наш Кинопоказ</channel>
+    <channel update="i" site="tricolor.tv" site_id="305708" xmltv_id="Наш Кинопоказ HD">Наш Кинопоказ HD</channel>
+    <channel update="i" site="tricolor.tv" site_id="216900" xmltv_id="Наша Тема">Наша Тема</channel>
+    <channel update="i" site="tricolor.tv" site_id="246446" xmltv_id="Наша Тема">Наша Тема</channel>
+    <channel update="i" site="tricolor.tv" site_id="305697" xmltv_id="Наше Мужское">Наше Мужское</channel>
+    <channel update="i" site="tricolor.tv" site_id="305711" xmltv_id="Наше Мужское HD">Наше Мужское HD</channel>
+    <channel update="i" site="tricolor.tv" site_id="229930" xmltv_id="НВК Саха">НВК Саха</channel>
+    <channel update="i" site="tricolor.tv" site_id="173" xmltv_id="Ника ТВ">Ника ТВ</channel>
+    <channel update="i" site="tricolor.tv" site_id="217114" xmltv_id="НТВ HD">НТВ HD</channel>
+    <channel update="i" site="tricolor.tv" site_id="142562" xmltv_id="НТВ Право">НТВ Право</channel>
+    <channel update="i" site="tricolor.tv" site_id="142556" xmltv_id="НТВ Сериал">НТВ Сериал</channel>
+    <channel update="i" site="tricolor.tv" site_id="142559" xmltv_id="НТВ Стиль">НТВ Стиль</channel>
+    <channel update="i" site="tricolor.tv" site_id="202947" xmltv_id="НТВ-ХИТ">НТВ-ХИТ</channel>
+    <channel update="i" site="tricolor.tv" site_id="88420" xmltv_id="О!">О!</channel>
+    <channel update="i" site="tricolor.tv" site_id="196932" xmltv_id="О2ТВ">О2ТВ</channel>
+    <channel update="i" site="tricolor.tv" site_id="129089" xmltv_id="ОРТРК-12 КАНАЛ">ОРТРК-12 КАНАЛ</channel>
+    <channel update="i" site="tricolor.tv" site_id="134674" xmltv_id="Оружие">Оружие</channel>
+    <channel update="i" site="tricolor.tv" site_id="681" xmltv_id="Орфей">Орфей</channel>
+    <channel update="i" site="tricolor.tv" site_id="196119" xmltv_id="Осетия-Ирыстон">Осетия-Ирыстон</channel>
+    <channel update="i" site="tricolor.tv" site_id="116143" xmltv_id="ОТВ">ОТВ</channel>
+    <channel update="i" site="tricolor.tv" site_id="1342" xmltv_id="Открытый Мир">Открытый Мир</channel>
+    <channel update="i" site="tricolor.tv" site_id="190" xmltv_id="Охотник и рыболов">Охотник и рыболов</channel>
+    <channel update="i" site="tricolor.tv" site_id="278092" xmltv_id="Охотник и рыболов Int HD">Охотник и рыболов Int HD</channel>
+    <channel update="i" site="tricolor.tv" site_id="141363" xmltv_id="Первый Вегетарианский">Первый Вегетарианский</channel>
+    <channel update="i" site="tricolor.tv" site_id="191" xmltv_id="Первый Космический">Первый Космический</channel>
+    <channel update="i" site="tricolor.tv" site_id="359968" xmltv_id="Поединок">Поединок</channel>
+    <channel update="i" site="tricolor.tv" site_id="168468" xmltv_id="Премиальное">Премиальное</channel>
+    <channel update="i" site="tricolor.tv" site_id="296121" xmltv_id="Премиальное">Премиальное</channel>
+    <channel update="i" site="tricolor.tv" site_id="156" xmltv_id="Премиальное HD">Премиальное HD</channel>
+    <channel update="i" site="tricolor.tv" site_id="246014" xmltv_id="Премиальное HD (+4)">Премиальное HD (+4)</channel>
+    <channel update="i" site="tricolor.tv" site_id="175" xmltv_id="Приключения HD">Приключения HD</channel>
+    <channel update="i" site="tricolor.tv" site_id="305698" xmltv_id="Про Любовь">Про Любовь</channel>
+    <channel update="i" site="tricolor.tv" site_id="305709" xmltv_id="Про Любовь HD">Про Любовь HD</channel>
+    <channel update="i" site="tricolor.tv" site_id="86753" xmltv_id="Радио «Комсомольская правда»">Радио «Комсомольская правда»</channel>
+    <channel update="i" site="tricolor.tv" site_id="678" xmltv_id="Радио «МИР»">Радио «МИР»</channel>
+    <channel update="i" site="tricolor.tv" site_id="127330" xmltv_id="Радио 107">Радио 107</channel>
+    <channel update="i" site="tricolor.tv" site_id="687" xmltv_id="Радио 7 на семи холмах">Радио 7 на семи холмах</channel>
+    <channel update="i" site="tricolor.tv" site_id="673" xmltv_id="Радио ENERGY">Радио ENERGY</channel>
+    <channel update="i" site="tricolor.tv" site_id="683" xmltv_id="Радио Romantika">Радио Romantika</channel>
+    <channel update="i" site="tricolor.tv" site_id="676" xmltv_id="Радио Ваня">Радио Ваня</channel>
+    <channel update="i" site="tricolor.tv" site_id="1105" xmltv_id="Радио Дача">Радио Дача</channel>
+    <channel update="i" site="tricolor.tv" site_id="671" xmltv_id="Радио Для Двоих">Радио Для Двоих</channel>
+    <channel update="i" site="tricolor.tv" site_id="679" xmltv_id="Радио ЗВЕЗДА">Радио ЗВЕЗДА</channel>
+    <channel update="i" site="tricolor.tv" site_id="674" xmltv_id="Радио Монте-Карло">Радио Монте-Карло</channel>
+    <channel update="i" site="tricolor.tv" site_id="668" xmltv_id="Радио Рекорд">Радио Рекорд</channel>
+    <channel update="i" site="tricolor.tv" site_id="667" xmltv_id="Радио Рокс">Радио Рокс</channel>
+    <channel update="i" site="tricolor.tv" site_id="14666" xmltv_id="Радио Страна FM">Радио Страна FM</channel>
+    <channel update="i" site="tricolor.tv" site_id="661" xmltv_id="Радио Шансон">Радио Шансон</channel>
+    <channel update="i" site="tricolor.tv" site_id="689" xmltv_id="Радонеж">Радонеж</channel>
+    <channel update="i" site="tricolor.tv" site_id="605" xmltv_id="Радость моя">Радость моя</channel>
+    <channel update="i" site="tricolor.tv" site_id="590" xmltv_id="РБК">РБК</channel>
+    <channel update="i" site="tricolor.tv" site_id="680" xmltv_id="Ретро FM">Ретро FM</channel>
+    <channel update="i" site="tricolor.tv" site_id="296122" xmltv_id="Романтичное">Романтичное</channel>
+    <channel update="i" site="tricolor.tv" site_id="216836" xmltv_id="Романтичное">Романтичное</channel>
+    <channel update="i" site="tricolor.tv" site_id="216838" xmltv_id="Романтичное ">Романтичное </channel>
+    <channel update="i" site="tricolor.tv" site_id="660" xmltv_id="Русское радио">Русское радио</channel>
+    <channel update="i" site="tricolor.tv" site_id="249" xmltv_id="Рыболов">Рыболов</channel>
+    <channel update="i" site="tricolor.tv" site_id="243" xmltv_id="Рыжий">Рыжий</channel>
+    <channel update="i" site="tricolor.tv" site_id="169" xmltv_id="Санкт-Петербург">Санкт-Петербург</channel>
+    <channel update="i" site="tricolor.tv" site_id="225" xmltv_id="Сарафан">Сарафан</channel>
+    <channel update="i" site="tricolor.tv" site_id="88336" xmltv_id="СвоёТВ.Ставропольский край">СвоёТВ.Ставропольский край</channel>
+    <channel update="i" site="tricolor.tv" site_id="1187" xmltv_id="Север">Север</channel>
+    <channel update="i" site="tricolor.tv" site_id="359971" xmltv_id="Сила">Сила</channel>
+    <channel update="i" site="tricolor.tv" site_id="348028" xmltv_id="Следствие вели">Следствие вели</channel>
+    <channel update="i" site="tricolor.tv" site_id="305704" xmltv_id="Солдаты">Солдаты</channel>
+    <channel update="i" site="tricolor.tv" site_id="279" xmltv_id="Союз">Союз</channel>
+    <channel update="i" site="tricolor.tv" site_id="362924" xmltv_id="Спортивный">Спортивный</channel>
+    <channel update="i" site="tricolor.tv" site_id="362927" xmltv_id="Спортивный">Спортивный</channel>
+    <channel update="i" site="tricolor.tv" site_id="304244" xmltv_id="СТАРТ">СТАРТ</channel>
+    <channel update="i" site="tricolor.tv" site_id="286626" xmltv_id="СТАРТ HD">СТАРТ HD</channel>
+    <channel update="i" site="tricolor.tv" site_id="127333" xmltv_id="Страна ФМ">Страна ФМ</channel>
+    <channel update="i" site="tricolor.tv" site_id="211" xmltv_id="СТС Love">СТС Love</channel>
+    <channel update="i" site="tricolor.tv" site_id="255357" xmltv_id="Суббота!">Суббота!</channel>
+    <channel update="i" site="tricolor.tv" site_id="196853" xmltv_id="Суббота!">Суббота!</channel>
+    <channel update="i" site="tricolor.tv" site_id="246447" xmltv_id="Суббота!">Суббота!</channel>
+    <channel update="i" site="tricolor.tv" site_id="231" xmltv_id="Т24">Т24</channel>
+    <channel update="i" site="tricolor.tv" site_id="217154" xmltv_id="Тайны Галактики HD">Тайны Галактики HD</channel>
+    <channel update="i" site="tricolor.tv" site_id="670" xmltv_id="Такси FM">Такси FM</channel>
+    <channel update="i" site="tricolor.tv" site_id="258" xmltv_id="ТДК">ТДК</channel>
+    <channel update="i" site="tricolor.tv" site_id="141366" xmltv_id="Телеканал «Известия»">Телеканал «Известия»</channel>
+    <channel update="i" site="tricolor.tv" site_id="257" xmltv_id="Телеканал «Наука»">Телеканал «Наука»</channel>
+    <channel update="i" site="tricolor.tv" site_id="229997" xmltv_id="Телеканал «Удмуртия»">Телеканал «Удмуртия»</channel>
+    <channel update="i" site="tricolor.tv" site_id="166" xmltv_id="Телеканал 360">Телеканал 360</channel>
+    <channel update="i" site="tricolor.tv" site_id="219052" xmltv_id="телеканал Губерния">телеканал Губерния</channel>
+    <channel update="i" site="tricolor.tv" site_id="203570" xmltv_id="Телеканал Е  HD">Телеканал Е  HD</channel>
+    <channel update="i" site="tricolor.tv" site_id="557" xmltv_id="Телеканал КХЛ">Телеканал КХЛ</channel>
+    <channel update="i" site="tricolor.tv" site_id="172" xmltv_id="Телеканал КХЛ HD">Телеканал КХЛ HD</channel>
+    <channel update="i" site="tricolor.tv" site_id="233" xmltv_id="Телекафе">Телекафе</channel>
+    <channel update="i" site="tricolor.tv" site_id="239" xmltv_id="Телепутешествия">Телепутешествия</channel>
+    <channel update="i" site="tricolor.tv" site_id="157" xmltv_id="ТНВ-Планета">ТНВ-Планета</channel>
+    <channel update="i" site="tricolor.tv" site_id="204231" xmltv_id="ТНОМЕР">ТНОМЕР</channel>
+    <channel update="i" site="tricolor.tv" site_id="87326" xmltv_id="ТНТ HD">ТНТ HD</channel>
+    <channel update="i" site="tricolor.tv" site_id="1160" xmltv_id="ТНТ MUSIC">ТНТ MUSIC</channel>
+    <channel update="i" site="tricolor.tv" site_id="215" xmltv_id="ТНТ4">ТНТ4</channel>
+    <channel update="i" site="tricolor.tv" site_id="555" xmltv_id="Тонус">Тонус</channel>
+    <channel update="i" site="tricolor.tv" site_id="204209" xmltv_id="Тонус">Тонус</channel>
+    <channel update="i" site="tricolor.tv" site_id="322421" xmltv_id="Точка отрыва">Точка отрыва</channel>
+    <channel update="i" site="tricolor.tv" site_id="295900" xmltv_id="Уникум">Уникум</channel>
+    <channel update="i" site="tricolor.tv" site_id="134677" xmltv_id="Феникс плюс Кино">Феникс плюс Кино</channel>
+    <channel update="i" site="tricolor.tv" site_id="305700" xmltv_id="Хит">Хит</channel>
+    <channel update="i" site="tricolor.tv" site_id="685" xmltv_id="Хит FM">Хит FM</channel>
+    <channel update="i" site="tricolor.tv" site_id="305706" xmltv_id="Хит HD">Хит HD</channel>
+    <channel update="i" site="tricolor.tv" site_id="359094" xmltv_id="Хоккейный">Хоккейный</channel>
+    <channel update="i" site="tricolor.tv" site_id="359093" xmltv_id="Хоккейный">Хоккейный</channel>
+    <channel update="i" site="tricolor.tv" site_id="195948" xmltv_id="Центральное телевидение">Центральное телевидение</channel>
+    <channel update="i" site="tricolor.tv" site_id="126688" xmltv_id="Чăваш Ен">Чăваш Ен</channel>
+    <channel update="i" site="tricolor.tv" site_id="126691" xmltv_id="Чăваш Ен">Чăваш Ен</channel>
+    <channel update="i" site="tricolor.tv" site_id="87244" xmltv_id="ШАЛУН">ШАЛУН</channel>
+    <channel update="i" site="tricolor.tv" site_id="570" xmltv_id="Шансон ТВ">Шансон ТВ</channel>
+    <channel update="i" site="tricolor.tv" site_id="222" xmltv_id="Ю">Ю</channel>
+    <channel update="i" site="tricolor.tv" site_id="347991" xmltv_id="Ю (+4)">Ю (+4)</channel>
+    <channel update="i" site="tricolor.tv" site_id="187" xmltv_id="Ювелирочка">Ювелирочка</channel>
+    <channel update="i" site="tricolor.tv" site_id="682" xmltv_id="Юмор FM">Юмор FM</channel>
+    <channel update="i" site="tricolor.tv" site_id="246929" xmltv_id="Любимое">Любимое</channel>
+    <channel update="i" site="tricolor.tv" site_id="72646" xmltv_id="Любимое HD">Любимое HD</channel>
+    <channel update="i" site="tricolor.tv" site_id="246926" xmltv_id="Любимое HD (+4)">Любимое HD (+4)</channel>
+    <channel update="i" site="tricolor.tv" site_id="246928" xmltv_id="Наше">Наше</channel>
+    <channel update="i" site="tricolor.tv" site_id="296119" xmltv_id="Наше">Наше</channel>
+    <channel update="i" site="tricolor.tv" site_id="59531" xmltv_id="Наше HD">Наше HD</channel>
+    <channel update="i" site="tricolor.tv" site_id="246925" xmltv_id="Наше HD (+4)">Наше HD (+4)</channel>
+    <channel update="i" site="tricolor.tv" site_id="246927" xmltv_id="Душевное">Душевное</channel>
+    <channel update="i" site="tricolor.tv" site_id="59530" xmltv_id="Душевное HD">Душевное HD</channel>
+    <channel update="i" site="tricolor.tv" site_id="246924" xmltv_id="Душевное HD (+4)">Душевное HD (+4)</channel>
+    <channel update="i" site="tricolor.tv" site_id="246934" xmltv_id="Шокирующее">Шокирующее</channel>
+    <channel update="i" site="tricolor.tv" site_id="216808" xmltv_id="Шокирующее HD">Шокирующее HD</channel>
+    <channel update="i" site="tricolor.tv" site_id="162" xmltv_id="Шокирующее HD">Шокирующее HD</channel>
+    <channel update="i" site="tricolor.tv" site_id="347992" xmltv_id="Шокирующее HD (+3)">Шокирующее HD (+3)</channel>
+    <channel update="i" site="tricolor.tv" site_id="296120" xmltv_id="Остросюжетное">Остросюжетное</channel>
+    <channel update="i" site="tricolor.tv" site_id="168480" xmltv_id="Остросюжетное">Остросюжетное</channel>
+    <channel update="i" site="tricolor.tv" site_id="158" xmltv_id="Остросюжетное HD">Остросюжетное HD</channel>
+    <channel update="i" site="tricolor.tv" site_id="246923" xmltv_id="Остросюжетное HD (+4)">Остросюжетное HD (+4)</channel>
+    <channel update="i" site="tricolor.tv" site_id="147" xmltv_id="КИНО UHD">КИНО UHD</channel>
+    <channel update="i" site="tricolor.tv" site_id="264" xmltv_id="Кинопоказ">Кинопоказ</channel>
+    <channel update="i" site="tricolor.tv" site_id="218865" xmltv_id="Комедийное">Комедийное</channel>
+    <channel update="i" site="tricolor.tv" site_id="218868" xmltv_id="Комедийное ">Комедийное </channel>
+    <channel update="i" site="tricolor.tv" site_id="296118" xmltv_id="Комедийное">Комедийное</channel>
+    <channel update="i" site="tricolor.tv" site_id="218864" xmltv_id="Промо Ultra HD">Промо Ultra HD</channel>
+    <channel update="i" site="tricolor.tv" site_id="140546" xmltv_id="СЕРИАЛ UHD">СЕРИАЛ UHD</channel>
+    <channel update="i" site="tricolor.tv" site_id="339264" xmltv_id="День Победы">День Победы</channel>
+    <channel update="i" site="tricolor.tv" site_id="322387" xmltv_id="День Победы HD">День Победы HD</channel>
+    <channel update="i" site="tricolor.tv" site_id="322388" xmltv_id="Мертв на 99 %">Мертв на 99 %</channel>
+    <channel update="i" site="tricolor.tv" site_id="322386" xmltv_id="Сиеста">Сиеста</channel>
+    <channel update="i" site="tricolor.tv" site_id="255291" xmltv_id="Сиеста HD">Сиеста HD</channel>
+    <channel update="i" site="tricolor.tv" site_id="213333" xmltv_id="В гостях у сказки ">В гостях у сказки </channel>
+    <channel update="i" site="tricolor.tv" site_id="138441" xmltv_id="В гостях у сказки">В гостях у сказки</channel>
+    <channel update="i" site="tricolor.tv" site_id="135706" xmltv_id="Детское радио">Детское радио</channel>
+    <channel update="i" site="tricolor.tv" site_id="213317" xmltv_id="Юрган">Юрган</channel>
+    <channel update="i" site="tricolor.tv" site_id="211755" xmltv_id="Ultra HD Cinema">Ultra HD Cinema</channel>
+    <channel update="i" site="tricolor.tv" site_id="347823" xmltv_id="INSIGHT HD">INSIGHT HD</channel>
+    <channel update="i" site="tricolor.tv" site_id="1156" xmltv_id="INSIGHT UHD">INSIGHT UHD</channel>
+    <channel update="i" site="tricolor.tv" site_id="1426" xmltv_id="Fashion &amp; LifeStyle">Fashion &amp; LifeStyle</channel>
+    <channel update="i" site="tricolor.tv" site_id="201" xmltv_id="Fashion &amp; Style 4K">Fashion &amp; Style 4K</channel>
+    <channel update="i" site="tricolor.tv" site_id="246495" xmltv_id="HDL">HDL</channel>
+    <channel update="i" site="tricolor.tv" site_id="262" xmltv_id="Русский детектив">Русский детектив</channel>
+    <channel update="i" site="tricolor.tv" site_id="263" xmltv_id="МУЖСКОЕ КИНО">МУЖСКОЕ КИНО</channel>
+    <channel update="i" site="tricolor.tv" site_id="266" xmltv_id="Дом Кино">Дом Кино</channel>
+    <channel update="i" site="tricolor.tv" site_id="267" xmltv_id="AMEDIA HIT">AMEDIA HIT</channel>
+    <channel update="i" site="tricolor.tv" site_id="360249" xmltv_id="AMEDIA PREMIUM HD">AMEDIA PREMIUM HD</channel>
+    <channel update="i" site="tricolor.tv" site_id="268" xmltv_id="КИНОСЕРИЯ">КИНОСЕРИЯ</channel>
+    <channel update="i" site="tricolor.tv" site_id="270" xmltv_id="Zee TV">Zee TV</channel>
+    <channel update="i" site="tricolor.tv" site_id="271" xmltv_id="НСТ">НСТ</channel>
+    <channel update="i" site="tricolor.tv" site_id="272" xmltv_id="Русский роман">Русский роман</channel>
+    <channel update="i" site="tricolor.tv" site_id="273" xmltv_id="Русский бестселлер">Русский бестселлер</channel>
+    <channel update="i" site="tricolor.tv" site_id="138825" xmltv_id="Дом Кино Премиум">Дом Кино Премиум</channel>
+    <channel update="i" site="tricolor.tv" site_id="274" xmltv_id="Дом Кино Премиум HD">Дом Кино Премиум HD</channel>
+    <channel update="i" site="tricolor.tv" site_id="208510" xmltv_id="Babes TV HD">Babes TV HD</channel>
+    <channel update="i" site="tricolor.tv" site_id="208651" xmltv_id="Babes TV HD ">Babes TV HD </channel>
+    <channel update="i" site="tricolor.tv" site_id="218860" xmltv_id="Cinema">Cinema</channel>
+    <channel update="i" site="tricolor.tv" site_id="218861" xmltv_id="Кино ТВ HD">Кино ТВ HD</channel>
+    <channel update="i" site="tricolor.tv" site_id="218862" xmltv_id="Комедия">Комедия</channel>
+    <channel update="i" site="tricolor.tv" site_id="277" xmltv_id="А1">А1</channel>
+    <channel update="i" site="tricolor.tv" site_id="278" xmltv_id="А2">А2</channel>
+    <channel update="i" site="tricolor.tv" site_id="296220" xmltv_id="Bollywood">Bollywood</channel>
+    <channel update="i" site="tricolor.tv" site_id="1159" xmltv_id="НАШЕ НОВОЕ КИНО">НАШЕ НОВОЕ КИНО</channel>
+    <channel update="i" site="tricolor.tv" site_id="1164" xmltv_id="Paramount Comedy">Paramount Comedy</channel>
+    <channel update="i" site="tricolor.tv" site_id="209" xmltv_id="Русская ночь">Русская ночь</channel>
+    <channel update="i" site="tricolor.tv" site_id="216" xmltv_id="Brazzers TV">Brazzers TV</channel>
+    <channel update="i" site="tricolor.tv" site_id="218" xmltv_id="O-la-la">O-la-la</channel>
+    <channel update="i" site="tricolor.tv" site_id="220660" xmltv_id="Blue Hustler">Blue Hustler</channel>
+    <channel update="i" site="tricolor.tv" site_id="220659" xmltv_id="Blue Hustler HD">Blue Hustler HD</channel>
+    <channel update="i" site="tricolor.tv" site_id="237682" xmltv_id="Exxxotica">Exxxotica</channel>
+    <channel update="i" site="tricolor.tv" site_id="220646" xmltv_id="Exxxotica HD">Exxxotica HD</channel>
+    <channel update="i" site="tricolor.tv" site_id="246468" xmltv_id="Зал 1">Зал 1</channel>
+    <channel update="i" site="tricolor.tv" site_id="246477" xmltv_id="Зал 10">Зал 10</channel>
+    <channel update="i" site="tricolor.tv" site_id="246478" xmltv_id="Зал 11">Зал 11</channel>
+    <channel update="i" site="tricolor.tv" site_id="246479" xmltv_id="Зал 12">Зал 12</channel>
+    <channel update="i" site="tricolor.tv" site_id="246469" xmltv_id="Зал 2">Зал 2</channel>
+    <channel update="i" site="tricolor.tv" site_id="246470" xmltv_id="Зал 3">Зал 3</channel>
+    <channel update="i" site="tricolor.tv" site_id="246471" xmltv_id="Зал 4">Зал 4</channel>
+    <channel update="i" site="tricolor.tv" site_id="246472" xmltv_id="Зал 5">Зал 5</channel>
+    <channel update="i" site="tricolor.tv" site_id="246473" xmltv_id="Зал 6">Зал 6</channel>
+    <channel update="i" site="tricolor.tv" site_id="246474" xmltv_id="Зал 7">Зал 7</channel>
+    <channel update="i" site="tricolor.tv" site_id="246475" xmltv_id="Зал 8">Зал 8</channel>
+    <channel update="i" site="tricolor.tv" site_id="246476" xmltv_id="Зал 9">Зал 9</channel>
+    <channel update="i" site="tricolor.tv" site_id="220717" xmltv_id="ПОБЕДА">ПОБЕДА</channel>
+    <channel update="i" site="tricolor.tv" site_id="220718" xmltv_id="ПОБЕДА ">ПОБЕДА </channel>
+    <channel update="i" site="tricolor.tv" site_id="220708" xmltv_id="Шаян ТВ">Шаян ТВ</channel>
+  </channels>
+</site>
