@@ -1,0 +1,202 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.4 -- Jan van Straaten" site="programtv.naziemna.info">
+  <channels>
+    <channel update="i" site="naziemna.info.pl" site_id="13ulica" xmltv_id="13 Ulica">13 Ulica</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="adventure" xmltv_id="Adventure">Adventure</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="alekinoplus" xmltv_id="Ale kino+">Ale kino+</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="amc" xmltv_id="AMC">AMC</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="animalplanet" xmltv_id="Animal Planet">Animal Planet</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="antenatv" xmltv_id="ANTENA TV">ANTENA TV</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="atmrozrywka" xmltv_id="ATM Rozrywka">ATM Rozrywka</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="axn" xmltv_id="AXN">AXN</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="axnblack" xmltv_id="AXN Black">AXN Black</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="axnspin" xmltv_id="AXN Spin">AXN Spin</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="axnwhite" xmltv_id="AXN White">AXN White</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="bbcbrit" xmltv_id="BBC Brit">BBC Brit</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="bbccbeebies" xmltv_id="BBC CBeebies">BBC CBeebies</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="bbcearth" xmltv_id="BBC Earth">BBC Earth</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="bbcfirst" xmltv_id="BBC First">BBC First</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="bbclifestyle" xmltv_id="BBC Lifestyle">BBC Lifestyle</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="boomerang" xmltv_id="Boomerang">Boomerang</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="canalplus1" xmltv_id="CANAL+ 1">CANAL+ 1</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="canalplus4kultrahd" xmltv_id="CANAL+ 4K ULTRA HD">CANAL+ 4K ULTRA HD</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="canalplusdokument" xmltv_id="CANAL+ DOKUMENT">CANAL+ DOKUMENT</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="domoplus" xmltv_id="CANAL+ DOMO">CANAL+ DOMO</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="canalplusfamily" xmltv_id="CANAL+ FAMILY">CANAL+ FAMILY</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="canalplusfilm" xmltv_id="CANAL+ FILM">CANAL+ FILM</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="kuchniaplus" xmltv_id="CANAL+ KUCHNIA">CANAL+ KUCHNIA</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="canalplusnow" xmltv_id="CANAL+ NOW">CANAL+ NOW</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="canalplus" xmltv_id="CANAL+ PREMIUM">CANAL+ PREMIUM</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="canalplusseriale" xmltv_id="CANAL+ SERIALE">CANAL+ SERIALE</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="canalplussport" xmltv_id="CANAL+ SPORT">CANAL+ SPORT</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="canalplussport2" xmltv_id="CANAL+ SPORT 2">CANAL+ SPORT 2</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="canalplussport3" xmltv_id="CANAL+ SPORT 3">CANAL+ SPORT 3</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="canalplussport4" xmltv_id="CANAL+ SPORT 4">CANAL+ SPORT 4</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="cartoonnetwork" xmltv_id="Cartoon Network">Cartoon Network</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="cbseuropa" xmltv_id="CBS Europa">CBS Europa</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="cbsreality" xmltv_id="CBS Reality">CBS Reality</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="cipolsat" xmltv_id="CI Polsat">CI Polsat</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="cinemax" xmltv_id="Cinemax">Cinemax</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="cinemax2" xmltv_id="Cinemax2">Cinemax2</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="comedycentral" xmltv_id="Comedy Central">Comedy Central</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="davinci" xmltv_id="Da Vinci">Da Vinci</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="discopolomusic" xmltv_id="Disco Polo Music">Disco Polo Music</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="discoverychannel" xmltv_id="Discovery Channel">Discovery Channel</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="discoveryhistoria" xmltv_id="Discovery Historia">Discovery Historia</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="discoverylife" xmltv_id="Discovery Life">Discovery Life</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="discoveryscience" xmltv_id="Discovery Science">Discovery Science</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="disneychannel" xmltv_id="Disney Channel">Disney Channel</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="disneyjunior" xmltv_id="Disney Junior">Disney Junior</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="disneyxd" xmltv_id="Disney XD">Disney XD</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="dizi" xmltv_id="DIZI">DIZI</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="discoveryturboxtra" xmltv_id="DTX">DTX</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="eentertainment" xmltv_id="E!">E!</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="elevensports1" xmltv_id="ELEVEN SPORTS 1">ELEVEN SPORTS 1</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="elevensports2" xmltv_id="ELEVEN SPORTS 2">ELEVEN SPORTS 2</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="elevensports3" xmltv_id="ELEVEN SPORTS 3">ELEVEN SPORTS 3</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="elevensports4" xmltv_id="ELEVEN SPORTS 4">ELEVEN SPORTS 4</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="epicdrama" xmltv_id="Epic Drama">Epic Drama</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="eskatv" xmltv_id="ESKA TV">ESKA TV</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="eskatvextra" xmltv_id="ESKA TV Extra">ESKA TV Extra</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="eurosport1" xmltv_id="Eurosport 1">Eurosport 1</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="eurosport2" xmltv_id="Eurosport 2">Eurosport 2</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="extremesportschannel" xmltv_id="Extreme Sports Channel">Extreme Sports Channel</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="fightbox" xmltv_id="FightBox">FightBox</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="fightklub" xmltv_id="FightKlub">FightKlub</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="filmboxaction" xmltv_id="FilmBox Action">FilmBox Action</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="filmboxarthouse" xmltv_id="FilmBox Arthouse">FilmBox Arthouse</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="filmboxextrahd" xmltv_id="FilmBox Extra HD">FilmBox Extra HD</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="filmboxfamily" xmltv_id="FilmBox Family">FilmBox Family</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="filmboxpremium" xmltv_id="FilmBox Premium HD">FilmBox Premium HD</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="fokustv" xmltv_id="FOKUS TV">FOKUS TV</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="foodnetwork" xmltv_id="Food Network">Food Network</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="fox" xmltv_id="FOX">FOX</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="foxcomedy" xmltv_id="FOX Comedy">FOX Comedy</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="gametoonhd" xmltv_id="Gametoon HD">Gametoon HD</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="golfchannel" xmltv_id="Golf Channel">Golf Channel</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="hbo" xmltv_id="HBO">HBO</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="hbo2" xmltv_id="HBO2">HBO2</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="hbo3" xmltv_id="HBO3">HBO3</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="hgtv" xmltv_id="HGTV">HGTV</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="history" xmltv_id="HISTORY">HISTORY</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="history2" xmltv_id="HISTORY2">HISTORY2</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="id" xmltv_id="ID">ID</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="kinopolska" xmltv_id="Kino Polska">Kino Polska</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="kinopolskamuzyka" xmltv_id="Kino Polska Muzyka">Kino Polska Muzyka</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="kinotv" xmltv_id="Kino TV">Kino TV</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="lifetime" xmltv_id="Lifetime">Lifetime</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="metro" xmltv_id="METRO">METRO</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="miniminiplus" xmltv_id="MiniMini+">MiniMini+</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="motowizja" xmltv_id="Motowizja">Motowizja</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="mtvmusic" xmltv_id="MTV Music Polska">MTV Music Polska</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="mtvpolska" xmltv_id="MTV Polska">MTV Polska</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="natgeopeople" xmltv_id="Nat Geo People">Nat Geo People</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="nationalgeographicchannel" xmltv_id="National Geographic">National Geographic</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="nationalgeographicwild" xmltv_id="National Geographic Wild">National Geographic Wild</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="nickjr" xmltv_id="Nick Jr.">Nick Jr.</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="nickelodeon" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="nicktoons" xmltv_id="NickToons">NickToons</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="novelatv" xmltv_id="Novela TV">Novela TV</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="nowatv" xmltv_id="Nowa TV">Nowa TV</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="nsportplus" xmltv_id="nSport+">nSport+</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="nutatv" xmltv_id="NUTA.TV">NUTA.TV</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="paramountchannel" xmltv_id="Paramount Channel Polska">Paramount Channel Polska</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="planeteplus" xmltv_id="Planete+">Planete+</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="polotv" xmltv_id="POLO TV">POLO TV</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="polonia1" xmltv_id="Polonia 1">Polonia 1</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="polsat" xmltv_id="Polsat">Polsat</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="polsatcafe" xmltv_id="Polsat Cafe">Polsat Cafe</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="polsatcomedycentralextra" xmltv_id="Polsat Comedy Central Extra">Polsat Comedy Central Extra</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="polsatdoku" xmltv_id="Polsat Doku">Polsat Doku</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="polsatfilm" xmltv_id="Polsat Film">Polsat Film</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="polsatgames" xmltv_id="Polsat Games">Polsat Games</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="polsatjimjam" xmltv_id="POLSAT JimJam">POLSAT JimJam</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="polsatmusic" xmltv_id="Polsat Music">Polsat Music</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="polsatnews" xmltv_id="Polsat News">Polsat News</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="polsatplay" xmltv_id="Polsat Play">Polsat Play</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="polsatrodzina" xmltv_id="Polsat Rodzina">Polsat Rodzina</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="polsatseriale" xmltv_id="Polsat Seriale">Polsat Seriale</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="polsatsport" xmltv_id="Polsat Sport">Polsat Sport</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="polsatsportextra" xmltv_id="Polsat Sport Extra">Polsat Sport Extra</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="polsatsportfight" xmltv_id="Polsat Sport Fight">Polsat Sport Fight</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="polsatsportnews" xmltv_id="Polsat Sport News">Polsat Sport News</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="polsatsportpremium1" xmltv_id="Polsat Sport Premium 1">Polsat Sport Premium 1</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="polsatsportpremium2" xmltv_id="Polsat Sport Premium 2">Polsat Sport Premium 2</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="polsatsportpremium3ppv" xmltv_id="Polsat Sport Premium 3 PPV">Polsat Sport Premium 3 PPV</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="polsatsportpremium4ppv" xmltv_id="Polsat Sport Premium 4 PPV">Polsat Sport Premium 4 PPV</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="polsatsportpremium5ppv" xmltv_id="Polsat Sport Premium 5 PPV">Polsat Sport Premium 5 PPV</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="polsatsportpremium6ppv" xmltv_id="Polsat Sport Premium 6 PPV">Polsat Sport Premium 6 PPV</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="polsatviasatexplore" xmltv_id="Polsat Viasat Explore">Polsat Viasat Explore</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="polsatviasathistory" xmltv_id="Polsat Viasat History">Polsat Viasat History</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="polsatviasatnature" xmltv_id="Polsat Viasat Nature">Polsat Viasat Nature</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="powertv" xmltv_id="Power TV">Power TV</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="puls2" xmltv_id="PULS 2">PULS 2</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="romancetv" xmltv_id="Romance TV">Romance TV</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="scifi" xmltv_id="SCI FI">SCI FI</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="sportklub" xmltv_id="SportKlub">SportKlub</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="starstv" xmltv_id="STARS.TV">STARS.TV</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="stopklatka" xmltv_id="Stopklatka TV">Stopklatka TV</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="sundancechannel" xmltv_id="Sundance TV">Sundance TV</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="superpolsat" xmltv_id="Super Polsat">Super Polsat</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="superstacja" xmltv_id="Superstacja">Superstacja</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="tbnpolska" xmltv_id="TBN Polska">TBN Polska</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="tele5" xmltv_id="Tele5">Tele5</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="teletoonplus" xmltv_id="teleTOON+">teleTOON+</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="telewizjarepublika" xmltv_id="Telewizja Republika">Telewizja Republika</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="tlc" xmltv_id="TLC">TLC</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="tnt" xmltv_id="TNT">TNT</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="topkids" xmltv_id="TOP KIDS">TOP KIDS</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="topkidsjr" xmltv_id="TOP KIDS JR">TOP KIDS JR</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="travelchannel" xmltv_id="Travel Channel">Travel Channel</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="ttv" xmltv_id="TTV">TTV</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="tvokazje" xmltv_id="TV Okazje">TV Okazje</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="tvpuls" xmltv_id="TV Puls">TV Puls</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="tvtrwam" xmltv_id="TV Trwam">TV Trwam</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="tv4" xmltv_id="TV4">TV4</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="tv6" xmltv_id="TV6">TV6</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="tvc" xmltv_id="TVC">TVC</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="tvn" xmltv_id="TVN">TVN</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="tvn7" xmltv_id="TVN 7">TVN 7</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="tvnfabula" xmltv_id="TVN Fabuła">TVN Fabuła</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="tvnstyle" xmltv_id="TVN Style">TVN Style</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="tvnturbo" xmltv_id="TVN Turbo">TVN Turbo</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="tvn24" xmltv_id="TVN24">TVN24</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="tvn24bis" xmltv_id="TVN24 BiS">TVN24 BiS</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="tvp4k" xmltv_id="TVP 4K">TVP 4K</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="tvpabc" xmltv_id="TVP ABC">TVP ABC</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="tvpdokument" xmltv_id="TVP Dokument">TVP Dokument</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="tvphd" xmltv_id="TVP HD">TVP HD</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="tvphistoria" xmltv_id="TVP Historia">TVP Historia</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="tvpinfo" xmltv_id="TVP INFO">TVP INFO</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="tvpkobieta" xmltv_id="TVP Kobieta">TVP Kobieta</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="tvpkultura" xmltv_id="TVP Kultura">TVP Kultura</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="tvppolonia" xmltv_id="TVP Polonia">TVP Polonia</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="tvprozrywka" xmltv_id="TVP Rozrywka">TVP Rozrywka</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="tvpseriale" xmltv_id="TVP Seriale">TVP Seriale</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="tvpsport" xmltv_id="TVP Sport">TVP Sport</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="tvp1" xmltv_id="TVP1 HD">TVP1 HD</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="tvp2" xmltv_id="TVP2 HD">TVP2 HD</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="tvp3" xmltv_id="TVP3">TVP3</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="tvp_bialystok" xmltv_id="TVP3 Białystok">TVP3 Białystok</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="tvp_bydgoszcz" xmltv_id="TVP3 Bydgoszcz">TVP3 Bydgoszcz</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="tvp_gdansk" xmltv_id="TVP3 Gdańsk">TVP3 Gdańsk</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="tvp_gorzow" xmltv_id="TVP3 Gorzów Wlkp.">TVP3 Gorzów Wlkp.</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="tvp_katowice" xmltv_id="TVP3 Katowice">TVP3 Katowice</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="tvp_kielce" xmltv_id="TVP3 Kielce">TVP3 Kielce</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="tvp_krakow" xmltv_id="TVP3 Kraków">TVP3 Kraków</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="tvp_lublin" xmltv_id="TVP3 Lublin">TVP3 Lublin</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="tvp_olsztyn" xmltv_id="TVP3 Olsztyn">TVP3 Olsztyn</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="tvp_opole" xmltv_id="TVP3 Opole">TVP3 Opole</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="tvp_poznan" xmltv_id="TVP3 Poznań">TVP3 Poznań</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="tvp_rzeszow" xmltv_id="TVP3 Rzeszów">TVP3 Rzeszów</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="tvp_szczecin" xmltv_id="TVP3 Szczecin">TVP3 Szczecin</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="tvp_warszawa" xmltv_id="TVP3 Warszawa">TVP3 Warszawa</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="tvp_wroclaw" xmltv_id="TVP3 Wrocław">TVP3 Wrocław</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="tvp_lodz" xmltv_id="TVP3 Łódź">TVP3 Łódź</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="tvs" xmltv_id="TVS">TVS</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="vh1" xmltv_id="VH1">VH1</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="waterplanet" xmltv_id="Water Planet">Water Planet</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="wp" xmltv_id="WP">WP</channel>
+    <channel update="i" site="naziemna.info.pl" site_id="zoomtv" xmltv_id="Zoom TV">Zoom TV</channel>
+  </channels>
+</site>
