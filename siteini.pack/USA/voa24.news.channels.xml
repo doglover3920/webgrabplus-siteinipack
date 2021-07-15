@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.4 -- Jan van Straaten" site="direct.voa24.nws">
+  <channels>
+    <channel update="i" site="voa24.news" site_id="CH1" xmltv_id="Hotbird 13B , VC 340; Intelsat 17 and 19, VC 5">Hotbird 13B , VC 340; Intelsat 17 and 19, VC 5</channel>
+    <channel update="i" site="voa24.news" site_id="CH2" xmltv_id="SES 6, VC 320 SD, 350 HD">SES 6, VC 320 SD, 350 HD</channel>
+    <channel update="i" site="voa24.news" site_id="CH3" xmltv_id="MeaSat 3, VC 5">MeaSat 3, VC 5</channel>
+    <channel update="i" site="voa24.news" site_id="CH4" xmltv_id="Hotbird 13B, VC 80">Hotbird 13B, VC 80</channel>
+    <channel update="i" site="voa24.news" site_id="CH6" xmltv_id="Intelsat 907, VC 20">Intelsat 907, VC 20</channel>
+    <channel update="i" site="voa24.news" site_id="CH7" xmltv_id="Hotbird 13B, VC 450; YahSat 1YA">Hotbird 13B, VC 450; YahSat 1YA</channel>
+    <channel update="i" site="voa24.news" site_id="CH9" xmltv_id="CH9">CH9</channel>
+    <channel update="i" site="voa24.news" site_id="CH5" xmltv_id="Intelsat 17 and 19, VC 6">Intelsat 17 and 19, VC 6</channel>
+    <channel update="i" site="voa24.news" site_id="CH8" xmltv_id="IntelSat 17 and 19, VC 7; Eutelsat 70B, VC 102">IntelSat 17 and 19, VC 7; Eutelsat 70B, VC 102</channel>
+  </channels>
+</site>
