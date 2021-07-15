@@ -1,0 +1,19 @@
+Windows:
+You will need curl for Windows:  https://curl.haxx.se/windows/
+
+Download it, and copy the files from the bin folder to the WG++ working folder.
+This is the folder containing the Webgrab++.config.xml file
+
+
+Linux:
+Install curl with: 
+
+sudo apt install curl
+
+give the command:
+
+cp -s -u /usr/bin/curl /your_WG++_work_folder/curl.exe
+
+This makes a symlink to the curl utitlity
+
+Besides this you need a PHP file.  Install the accompanying php file on a webserver, and change 192.168.178.30 to the url or IP-adress of your chosen webserver
