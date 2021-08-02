@@ -1,0 +1,22 @@
+This siteini gives you only a correct schedule when used on Linux or on Windows via cygwin.
+(Although I have not tested Win 10.  This migth work correctly)
+The problem is the command window not being utf-8 compatible.  (In win 10 this should be solved)
+
+
+Windows:
+You will need curl for Windows:  https://curl.haxx.se/windows/
+
+Download it, and copy the files from the bin folder to the WG++ working folder.
+This is the folder containing the Webgrab++.config.xml file
+
+
+Linux:
+Install curl with: 
+
+sudo apt install curl
+
+give the command:
+
+cp -s -u /usr/bin/curl /your_WG++_work_folder/curl.exe
+
+This makes a symlink to the curl utitlity
