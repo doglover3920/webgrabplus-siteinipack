@@ -1,0 +1,168 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.4 -- Jan van Straaten" site="miguia.tv">
+  <channels>
+    <channel update="i" site="miguia.tv" site_id="157" xmltv_id="La 1">La 1</channel>
+    <channel update="i" site="miguia.tv" site_id="99" xmltv_id="La 2">La 2</channel>
+    <channel update="i" site="miguia.tv" site_id="10" xmltv_id="Antena 3">Antena 3</channel>
+    <channel update="i" site="miguia.tv" site_id="65" xmltv_id="Cuatro">Cuatro</channel>
+    <channel update="i" site="miguia.tv" site_id="161" xmltv_id="Telecinco">Telecinco</channel>
+    <channel update="i" site="miguia.tv" site_id="100" xmltv_id="La Sexta">La Sexta</channel>
+    <channel update="i" site="miguia.tv" site_id="211" xmltv_id="Canal 24 horas">Canal 24 horas</channel>
+    <channel update="i" site="miguia.tv" site_id="22" xmltv_id="Cero">Cero</channel>
+    <channel update="i" site="miguia.tv" site_id="311" xmltv_id="#Vamos">#Vamos</channel>
+    <channel update="i" site="miguia.tv" site_id="260" xmltv_id="3\/24">3\/24</channel>
+    <channel update="i" site="miguia.tv" site_id="4" xmltv_id="7RM">7RM</channel>
+    <channel update="i" site="miguia.tv" site_id="208" xmltv_id="8tv">8tv</channel>
+    <channel update="i" site="miguia.tv" site_id="308" xmltv_id="À Punt">À Punt</channel>
+    <channel update="i" site="miguia.tv" site_id="195" xmltv_id="AMC">AMC</channel>
+    <channel update="i" site="miguia.tv" site_id="8" xmltv_id="Andalucía TV">Andalucía TV</channel>
+    <channel update="i" site="miguia.tv" site_id="11" xmltv_id="Aragón TV">Aragón TV</channel>
+    <channel update="i" site="miguia.tv" site_id="276" xmltv_id="Atreseries">Atreseries</channel>
+    <channel update="i" site="miguia.tv" site_id="5" xmltv_id="AXN">AXN</channel>
+    <channel update="i" site="miguia.tv" site_id="143" xmltv_id="AXN White">AXN White</channel>
+    <channel update="i" site="miguia.tv" site_id="14" xmltv_id="BarçaTV">BarçaTV</channel>
+    <channel update="i" site="miguia.tv" site_id="277" xmltv_id="Be Mad TV">Be Mad TV</channel>
+    <channel update="i" site="miguia.tv" site_id="305" xmltv_id="Betevé">Betevé</channel>
+    <channel update="i" site="miguia.tv" site_id="15" xmltv_id="Blaze">Blaze</channel>
+    <channel update="i" site="miguia.tv" site_id="17" xmltv_id="Boing">Boing</channel>
+    <channel update="i" site="miguia.tv" site_id="307" xmltv_id="BOM">BOM</channel>
+    <channel update="i" site="miguia.tv" site_id="21" xmltv_id="Calle 13">Calle 13</channel>
+    <channel update="i" site="miguia.tv" site_id="41" xmltv_id="Canal 33">Canal 33</channel>
+    <channel update="i" site="miguia.tv" site_id="43" xmltv_id="Canal Cocina">Canal Cocina</channel>
+    <channel update="i" site="miguia.tv" site_id="259" xmltv_id="Canal de las estrellas">Canal de las estrellas</channel>
+    <channel update="i" site="miguia.tv" site_id="44" xmltv_id="Canal Extremadura">Canal Extremadura</channel>
+    <channel update="i" site="miguia.tv" site_id="46" xmltv_id="Canal Sur">Canal Sur</channel>
+    <channel update="i" site="miguia.tv" site_id="47" xmltv_id="Canal Sur 2">Canal Sur 2</channel>
+    <channel update="i" site="miguia.tv" site_id="60" xmltv_id="Caza y Pesca">Caza y Pesca</channel>
+    <channel update="i" site="miguia.tv" site_id="189" xmltv_id="Cazavisión">Cazavisión</channel>
+    <channel update="i" site="miguia.tv" site_id="61" xmltv_id="Clan">Clan</channel>
+    <channel update="i" site="miguia.tv" site_id="270" xmltv_id="Classica">Classica</channel>
+    <channel update="i" site="miguia.tv" site_id="18" xmltv_id="CMM">CMM</channel>
+    <channel update="i" site="miguia.tv" site_id="134" xmltv_id="Comedy Central">Comedy Central</channel>
+    <channel update="i" site="miguia.tv" site_id="62" xmltv_id="Cosmopolitan">Cosmopolitan</channel>
+    <channel update="i" site="miguia.tv" site_id="64" xmltv_id="Crimen &amp; Investigación">Crimen &amp; Investigación</channel>
+    <channel update="i" site="miguia.tv" site_id="199" xmltv_id="CyLTV">CyLTV</channel>
+    <channel update="i" site="miguia.tv" site_id="198" xmltv_id="DARK">DARK</channel>
+    <channel update="i" site="miguia.tv" site_id="329" xmltv_id="DAZN 1">DAZN 1</channel>
+    <channel update="i" site="miguia.tv" site_id="330" xmltv_id="DAZN 2">DAZN 2</channel>
+    <channel update="i" site="miguia.tv" site_id="333" xmltv_id="DAZN 3">DAZN 3</channel>
+    <channel update="i" site="miguia.tv" site_id="334" xmltv_id="DAZN 4">DAZN 4</channel>
+    <channel update="i" site="miguia.tv" site_id="264" xmltv_id="DAZN F1">DAZN F1</channel>
+    <channel update="i" site="miguia.tv" site_id="68" xmltv_id="Decasa">Decasa</channel>
+    <channel update="i" site="miguia.tv" site_id="69" xmltv_id="Discovery Channel">Discovery Channel</channel>
+    <channel update="i" site="miguia.tv" site_id="70" xmltv_id="Disney Channel">Disney Channel</channel>
+    <channel update="i" site="miguia.tv" site_id="74" xmltv_id="Disney Junior">Disney Junior</channel>
+    <channel update="i" site="miguia.tv" site_id="76" xmltv_id="Divinity">Divinity</channel>
+    <channel update="i" site="miguia.tv" site_id="279" xmltv_id="DKiss">DKiss</channel>
+    <channel update="i" site="miguia.tv" site_id="184" xmltv_id="DMAX">DMAX</channel>
+    <channel update="i" site="miguia.tv" site_id="335" xmltv_id="Dreamworks">Dreamworks</channel>
+    <channel update="i" site="miguia.tv" site_id="243" xmltv_id="El Garage TV">El Garage TV</channel>
+    <channel update="i" site="miguia.tv" site_id="332" xmltv_id="El Toro TV">El Toro TV</channel>
+    <channel update="i" site="miguia.tv" site_id="82" xmltv_id="Energy">Energy</channel>
+    <channel update="i" site="miguia.tv" site_id="72" xmltv_id="Esport 3">Esport 3</channel>
+    <channel update="i" site="miguia.tv" site_id="78" xmltv_id="ETB 1">ETB 1</channel>
+    <channel update="i" site="miguia.tv" site_id="79" xmltv_id="ETB 2">ETB 2</channel>
+    <channel update="i" site="miguia.tv" site_id="261" xmltv_id="ETB 3">ETB 3</channel>
+    <channel update="i" site="miguia.tv" site_id="281" xmltv_id="ETB 4">ETB 4</channel>
+    <channel update="i" site="miguia.tv" site_id="81" xmltv_id="ETB Sat">ETB Sat</channel>
+    <channel update="i" site="miguia.tv" site_id="83" xmltv_id="Eurosport 1">Eurosport 1</channel>
+    <channel update="i" site="miguia.tv" site_id="180" xmltv_id="Eurosport 2">Eurosport 2</channel>
+    <channel update="i" site="miguia.tv" site_id="312" xmltv_id="Eurosport 3">Eurosport 3</channel>
+    <channel update="i" site="miguia.tv" site_id="50" xmltv_id="Eurosport 4">Eurosport 4</channel>
+    <channel update="i" site="miguia.tv" site_id="313" xmltv_id="Eurosport 5">Eurosport 5</channel>
+    <channel update="i" site="miguia.tv" site_id="314" xmltv_id="Eurosport 6">Eurosport 6</channel>
+    <channel update="i" site="miguia.tv" site_id="315" xmltv_id="Eurosport 7">Eurosport 7</channel>
+    <channel update="i" site="miguia.tv" site_id="316" xmltv_id="Eurosport 8">Eurosport 8</channel>
+    <channel update="i" site="miguia.tv" site_id="336" xmltv_id="Eurosport 9">Eurosport 9</channel>
+    <channel update="i" site="miguia.tv" site_id="85" xmltv_id="FDF">FDF</channel>
+    <channel update="i" site="miguia.tv" site_id="267" xmltv_id="Fight Sports">Fight Sports</channel>
+    <channel update="i" site="miguia.tv" site_id="45" xmltv_id="FOX">FOX</channel>
+    <channel update="i" site="miguia.tv" site_id="87" xmltv_id="Fox Life">Fox Life</channel>
+    <channel update="i" site="miguia.tv" site_id="232" xmltv_id="Fútbol Replay">Fútbol Replay</channel>
+    <channel update="i" site="miguia.tv" site_id="245" xmltv_id="Galicia TV">Galicia TV</channel>
+    <channel update="i" site="miguia.tv" site_id="282" xmltv_id="GOL">GOL</channel>
+    <channel update="i" site="miguia.tv" site_id="92" xmltv_id="Historia">Historia</channel>
+    <channel update="i" site="miguia.tv" site_id="94" xmltv_id="Hollywood">Hollywood</channel>
+    <channel update="i" site="miguia.tv" site_id="339" xmltv_id="Horse TV">Horse TV</channel>
+    <channel update="i" site="miguia.tv" site_id="96" xmltv_id="IB3">IB3</channel>
+    <channel update="i" site="miguia.tv" site_id="215" xmltv_id="Iberalia">Iberalia</channel>
+    <channel update="i" site="miguia.tv" site_id="218" xmltv_id="La 8">La 8</channel>
+    <channel update="i" site="miguia.tv" site_id="271" xmltv_id="La Ocho TV">La Ocho TV</channel>
+    <channel update="i" site="miguia.tv" site_id="170" xmltv_id="LaOtra">LaOtra</channel>
+    <channel update="i" site="miguia.tv" site_id="268" xmltv_id="MEGA">MEGA</channel>
+    <channel update="i" site="miguia.tv" site_id="251" xmltv_id="Mezzo">Mezzo</channel>
+    <channel update="i" site="miguia.tv" site_id="25" xmltv_id="Movistar Acción">Movistar Acción</channel>
+    <channel update="i" site="miguia.tv" site_id="67" xmltv_id="Movistar Cine Español">Movistar Cine Español</channel>
+    <channel update="i" site="miguia.tv" site_id="28" xmltv_id="Movistar Comedia">Movistar Comedia</channel>
+    <channel update="i" site="miguia.tv" site_id="32" xmltv_id="Movistar Deportes">Movistar Deportes</channel>
+    <channel update="i" site="miguia.tv" site_id="30" xmltv_id="Movistar Drama">Movistar Drama</channel>
+    <channel update="i" site="miguia.tv" site_id="274" xmltv_id="Movistar Estrenos">Movistar Estrenos</channel>
+    <channel update="i" site="miguia.tv" site_id="338" xmltv_id="Movistar Estrenos 2">Movistar Estrenos 2</channel>
+    <channel update="i" site="miguia.tv" site_id="337" xmltv_id="Movistar Fest">Movistar Fest</channel>
+    <channel update="i" site="miguia.tv" site_id="91" xmltv_id="Movistar Golf">Movistar Golf</channel>
+    <channel update="i" site="miguia.tv" site_id="283" xmltv_id="Movistar LaLiga">Movistar LaLiga</channel>
+    <channel update="i" site="miguia.tv" site_id="292" xmltv_id="Movistar LaLiga 1">Movistar LaLiga 1</channel>
+    <channel update="i" site="miguia.tv" site_id="293" xmltv_id="Movistar LaLiga 2">Movistar LaLiga 2</channel>
+    <channel update="i" site="miguia.tv" site_id="302" xmltv_id="Movistar LaLiga 3">Movistar LaLiga 3</channel>
+    <channel update="i" site="miguia.tv" site_id="303" xmltv_id="Movistar LaLiga 4">Movistar LaLiga 4</channel>
+    <channel update="i" site="miguia.tv" site_id="317" xmltv_id="Movistar LaLiga 5">Movistar LaLiga 5</channel>
+    <channel update="i" site="miguia.tv" site_id="318" xmltv_id="Movistar LaLiga 6">Movistar LaLiga 6</channel>
+    <channel update="i" site="miguia.tv" site_id="319" xmltv_id="Movistar LaLiga 7">Movistar LaLiga 7</channel>
+    <channel update="i" site="miguia.tv" site_id="320" xmltv_id="Movistar LaLiga 8">Movistar LaLiga 8</channel>
+    <channel update="i" site="miguia.tv" site_id="309" xmltv_id="Movistar Liga de campeones">Movistar Liga de campeones</channel>
+    <channel update="i" site="miguia.tv" site_id="310" xmltv_id="Movistar Liga de campeones 1">Movistar Liga de campeones 1</channel>
+    <channel update="i" site="miguia.tv" site_id="321" xmltv_id="Movistar Liga de campeones 2">Movistar Liga de campeones 2</channel>
+    <channel update="i" site="miguia.tv" site_id="322" xmltv_id="Movistar Liga de campeones 3">Movistar Liga de campeones 3</channel>
+    <channel update="i" site="miguia.tv" site_id="323" xmltv_id="Movistar Liga de campeones 4">Movistar Liga de campeones 4</channel>
+    <channel update="i" site="miguia.tv" site_id="324" xmltv_id="Movistar Liga de campeones 5">Movistar Liga de campeones 5</channel>
+    <channel update="i" site="miguia.tv" site_id="325" xmltv_id="Movistar Liga de campeones 6">Movistar Liga de campeones 6</channel>
+    <channel update="i" site="miguia.tv" site_id="326" xmltv_id="Movistar Liga de campeones 7">Movistar Liga de campeones 7</channel>
+    <channel update="i" site="miguia.tv" site_id="327" xmltv_id="Movistar Liga de campeones 8">Movistar Liga de campeones 8</channel>
+    <channel update="i" site="miguia.tv" site_id="273" xmltv_id="Movistar Series">Movistar Series</channel>
+    <channel update="i" site="miguia.tv" site_id="230" xmltv_id="Movistar Series 2">Movistar Series 2</channel>
+    <channel update="i" site="miguia.tv" site_id="253" xmltv_id="MTV Dance">MTV Dance</channel>
+    <channel update="i" site="miguia.tv" site_id="104" xmltv_id="MTV España">MTV España</channel>
+    <channel update="i" site="miguia.tv" site_id="254" xmltv_id="MTV Rocks">MTV Rocks</channel>
+    <channel update="i" site="miguia.tv" site_id="123" xmltv_id="Nat Geo Wild">Nat Geo Wild</channel>
+    <channel update="i" site="miguia.tv" site_id="124" xmltv_id="National Geographic">National Geographic</channel>
+    <channel update="i" site="miguia.tv" site_id="197" xmltv_id="Nautical Channel">Nautical Channel</channel>
+    <channel update="i" site="miguia.tv" site_id="125" xmltv_id="Neox">Neox</channel>
+    <channel update="i" site="miguia.tv" site_id="120" xmltv_id="Nick Jr">Nick Jr</channel>
+    <channel update="i" site="miguia.tv" site_id="126" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel update="i" site="miguia.tv" site_id="130" xmltv_id="Nova">Nova</channel>
+    <channel update="i" site="miguia.tv" site_id="131" xmltv_id="Odisea">Odisea</channel>
+    <channel update="i" site="miguia.tv" site_id="132" xmltv_id="Panda">Panda</channel>
+    <channel update="i" site="miguia.tv" site_id="133" xmltv_id="Paramount Channel">Paramount Channel</channel>
+    <channel update="i" site="miguia.tv" site_id="139" xmltv_id="Real Madrid TV">Real Madrid TV</channel>
+    <channel update="i" site="miguia.tv" site_id="340" xmltv_id="SELEKT">SELEKT</channel>
+    <channel update="i" site="miguia.tv" site_id="193" xmltv_id="Somos">Somos</channel>
+    <channel update="i" site="miguia.tv" site_id="194" xmltv_id="Sundance Channel">Sundance Channel</channel>
+    <channel update="i" site="miguia.tv" site_id="145" xmltv_id="Super 3">Super 3</channel>
+    <channel update="i" site="miguia.tv" site_id="141" xmltv_id="SyFy">SyFy</channel>
+    <channel update="i" site="miguia.tv" site_id="234" xmltv_id="Taquilla 1">Taquilla 1</channel>
+    <channel update="i" site="miguia.tv" site_id="235" xmltv_id="Taquilla 2">Taquilla 2</channel>
+    <channel update="i" site="miguia.tv" site_id="236" xmltv_id="Taquilla 3">Taquilla 3</channel>
+    <channel update="i" site="miguia.tv" site_id="237" xmltv_id="Taquilla 4">Taquilla 4</channel>
+    <channel update="i" site="miguia.tv" site_id="238" xmltv_id="Taquilla 5">Taquilla 5</channel>
+    <channel update="i" site="miguia.tv" site_id="239" xmltv_id="Taquilla 6">Taquilla 6</channel>
+    <channel update="i" site="miguia.tv" site_id="231" xmltv_id="Taquilla HD">Taquilla HD</channel>
+    <channel update="i" site="miguia.tv" site_id="242" xmltv_id="Taquilla HD 2">Taquilla HD 2</channel>
+    <channel update="i" site="miguia.tv" site_id="146" xmltv_id="TCM">TCM</channel>
+    <channel update="i" site="miguia.tv" site_id="162" xmltv_id="Teledeporte">Teledeporte</channel>
+    <channel update="i" site="miguia.tv" site_id="163" xmltv_id="Telemadrid">Telemadrid</channel>
+    <channel update="i" site="miguia.tv" site_id="278" xmltv_id="TEN">TEN</channel>
+    <channel update="i" site="miguia.tv" site_id="150" xmltv_id="TNT">TNT</channel>
+    <channel update="i" site="miguia.tv" site_id="179" xmltv_id="Toros TV">Toros TV</channel>
+    <channel update="i" site="miguia.tv" site_id="151" xmltv_id="TPA">TPA</channel>
+    <channel update="i" site="miguia.tv" site_id="1" xmltv_id="Trece">Trece</channel>
+    <channel update="i" site="miguia.tv" site_id="152" xmltv_id="TV Canaria">TV Canaria</channel>
+    <channel update="i" site="miguia.tv" site_id="258" xmltv_id="TV Record">TV Record</channel>
+    <channel update="i" site="miguia.tv" site_id="154" xmltv_id="TV3">TV3</channel>
+    <channel update="i" site="miguia.tv" site_id="155" xmltv_id="TV3CAT">TV3CAT</channel>
+    <channel update="i" site="miguia.tv" site_id="158" xmltv_id="TVG">TVG</channel>
+    <channel update="i" site="miguia.tv" site_id="328" xmltv_id="U-Beat">U-Beat</channel>
+    <channel update="i" site="miguia.tv" site_id="246" xmltv_id="VH1">VH1</channel>
+    <channel update="i" site="miguia.tv" site_id="167" xmltv_id="Viajar">Viajar</channel>
+    <channel update="i" site="miguia.tv" site_id="213" xmltv_id="XTRM">XTRM</channel>
+  </channels>
+</site>
