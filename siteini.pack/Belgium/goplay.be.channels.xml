@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.4 -- Jan van Straaten" site="goplay.be">
+  <channels>
+    <channel update="i" site="goplay.be" site_id="vier" xmltv_id="Play4">Play4</channel>
+    <channel update="i" site="goplay.be" site_id="vijf" xmltv_id="Play5">Play5</channel>
+    <channel update="i" site="goplay.be" site_id="zes" xmltv_id="Play6">Play6</channel>
+    <channel update="i" site="goplay.be" site_id="zeven" xmltv_id="Play7">Play7</channel>
+  </channels>
+</site>
