@@ -1,63 +1,66 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.4 -- Jan van Straaten" site="viasat.dk">
   <channels>
-    <channel update="i" site="viasat.dk" site_id="DR1 HD" xmltv_id="DR1 HD">DR1 HD</channel>
-    <channel update="i" site="viasat.dk" site_id="TV2 Lorry HD (DK)" xmltv_id="TV2 Lorry HD (DK)">TV2 Lorry HD (DK)</channel>
-    <channel update="i" site="viasat.dk" site_id="TV3 HD (DK)" xmltv_id="TV3 HD (DK)">TV3 HD (DK)</channel>
-    <channel update="i" site="viasat.dk" site_id="TV3+ HD (DK)" xmltv_id="TV3+ HD (DK)">TV3+ HD (DK)</channel>
-    <channel update="i" site="viasat.dk" site_id="TV2 NEWS" xmltv_id="TV2 NEWS">TV2 NEWS</channel>
-    <channel update="i" site="viasat.dk" site_id="TV2 Charlie" xmltv_id="TV2 Charlie">TV2 Charlie</channel>
-    <channel update="i" site="viasat.dk" site_id="DR2" xmltv_id="DR2">DR2</channel>
-    <channel update="i" site="viasat.dk" site_id="Kanal 5 (DK) Terminated" xmltv_id="Kanal 5 (DK) Terminated">Kanal 5 (DK) Terminated</channel>
-    <channel update="i" site="viasat.dk" site_id="TV2 Sport HD (DK)" xmltv_id="TV2 Sport HD (DK)">TV2 Sport HD (DK)</channel>
-    <channel update="i" site="viasat.dk" site_id="TV3 Sport HD (DK)" xmltv_id="TV3 Sport HD (DK)">TV3 Sport HD (DK)</channel>
-    <channel update="i" site="viasat.dk" site_id="TV3 MAX HD" xmltv_id="TV3 MAX HD">TV3 MAX HD</channel>
-    <channel update="i" site="viasat.dk" site_id="6eren HD" xmltv_id="6eren HD">6eren HD</channel>
-    <channel update="i" site="viasat.dk" site_id="TV2 Zulu (DK)" xmltv_id="TV2 Zulu (DK)">TV2 Zulu (DK)</channel>
-    <channel update="i" site="viasat.dk" site_id="TV2 Fri (DK)" xmltv_id="TV2 Fri (DK)">TV2 Fri (DK)</channel>
-    <channel update="i" site="viasat.dk" site_id="DK4" xmltv_id="DK4">DK4</channel>
-    <channel update="i" site="viasat.dk" site_id="V Film Action HD" xmltv_id="V Film Action HD">V Film Action HD</channel>
-    <channel update="i" site="viasat.dk" site_id="V Film Family" xmltv_id="V Film Family">V Film Family</channel>
-    <channel update="i" site="viasat.dk" site_id="V Film Hits HD" xmltv_id="V Film Hits HD">V Film Hits HD</channel>
-    <channel update="i" site="viasat.dk" site_id="V Film Premiere HD" xmltv_id="V Film Premiere HD">V Film Premiere HD</channel>
-    <channel update="i" site="viasat.dk" site_id="V Series HD" xmltv_id="V Series HD">V Series HD</channel>
-    <channel update="i" site="viasat.dk" site_id="Viasat History HD" xmltv_id="Viasat History HD">Viasat History HD</channel>
+    <channel update="i" site="viasat.dk" site_id="DR1 HD (T)" xmltv_id="DR1 HD (T)">DR1 HD (T)</channel>
+    <channel update="i" site="viasat.dk" site_id="TV 2 HD DK (T)" xmltv_id="TV 2 HD DK (T)">TV 2 HD DK (T)</channel>
+    <channel update="i" site="viasat.dk" site_id="TV3 HD DK (T)" xmltv_id="TV3 HD DK (T)">TV3 HD DK (T)</channel>
+    <channel update="i" site="viasat.dk" site_id="TV3+ HD DK (T)" xmltv_id="TV3+ HD DK (T)">TV3+ HD DK (T)</channel>
+    <channel update="i" site="viasat.dk" site_id="TV 2 News HD (DK) (T)" xmltv_id="TV 2 News HD (DK) (T)">TV 2 News HD (DK) (T)</channel>
+    <channel update="i" site="viasat.dk" site_id="TV 2 Charlie HD (T)" xmltv_id="TV 2 Charlie HD (T)">TV 2 Charlie HD (T)</channel>
+    <channel update="i" site="viasat.dk" site_id="DR2 HD (T)" xmltv_id="DR2 HD (T)">DR2 HD (T)</channel>
+    <channel update="i" site="viasat.dk" site_id="Kanal 5 HD DK (T)" xmltv_id="Kanal 5 HD DK (T)">Kanal 5 HD DK (T)</channel>
+    <channel update="i" site="viasat.dk" site_id="TV 2 Sport HD DK (T)" xmltv_id="TV 2 Sport HD DK (T)">TV 2 Sport HD DK (T)</channel>
+    <channel update="i" site="viasat.dk" site_id="TV3 Sport HD DK (T)" xmltv_id="TV3 Sport HD DK (T)">TV3 Sport HD DK (T)</channel>
+    <channel update="i" site="viasat.dk" site_id="TV3 MAX HD (T)" xmltv_id="TV3 MAX HD (T)">TV3 MAX HD (T)</channel>
+    <channel update="i" site="viasat.dk" site_id="6'eren HD (T)" xmltv_id="6'eren HD (T)">6'eren HD (T)</channel>
+    <channel update="i" site="viasat.dk" site_id="TV 2 Zulu HD DK (T)" xmltv_id="TV 2 Zulu HD DK (T)">TV 2 Zulu HD DK (T)</channel>
+    <channel update="i" site="viasat.dk" site_id="TV 2 Fri HD DK (T)" xmltv_id="TV 2 Fri HD DK (T)">TV 2 Fri HD DK (T)</channel>
+    <channel update="i" site="viasat.dk" site_id="DK4 (T)" xmltv_id="DK4 (T)">DK4 (T)</channel>
+    <channel update="i" site="viasat.dk" site_id="V film action HD (T)" xmltv_id="V film action HD (T)">V film action HD (T)</channel>
+    <channel update="i" site="viasat.dk" site_id="V Film Family (T)" xmltv_id="V Film Family (T)">V Film Family (T)</channel>
+    <channel update="i" site="viasat.dk" site_id="V Film Hits HD (T)" xmltv_id="V Film Hits HD (T)">V Film Hits HD (T)</channel>
+    <channel update="i" site="viasat.dk" site_id="V film premiere HD (T)" xmltv_id="V film premiere HD (T)">V film premiere HD (T)</channel>
+    <channel update="i" site="viasat.dk" site_id="V Series HD (T)" xmltv_id="V Series HD (T)">V Series HD (T)</channel>
+    <channel update="i" site="viasat.dk" site_id="Viasat History HD (T)" xmltv_id="Viasat History HD (T)">Viasat History HD (T)</channel>
     <channel update="i" site="viasat.dk" site_id="Viasat Nature" xmltv_id="Viasat Nature">Viasat Nature</channel>
-    <channel update="i" site="viasat.dk" site_id="Viasat Explore HD" xmltv_id="Viasat Explore HD">Viasat Explore HD</channel>
-    <channel update="i" site="viasat.dk" site_id="DR Ramasjang" xmltv_id="DR Ramasjang">DR Ramasjang</channel>
-    <channel update="i" site="viasat.dk" site_id="Kanal 4 (DK)" xmltv_id="Kanal 4 (DK)">Kanal 4 (DK)</channel>
-    <channel update="i" site="viasat.dk" site_id="CANAL9 (DK)" xmltv_id="CANAL9 (DK)">CANAL9 (DK)</channel>
+    <channel update="i" site="viasat.dk" site_id="Viasat Explore HD (T)" xmltv_id="Viasat Explore HD (T)">Viasat Explore HD (T)</channel>
+    <channel update="i" site="viasat.dk" site_id="DR Ramasjang (T)" xmltv_id="DR Ramasjang (T)">DR Ramasjang (T)</channel>
+    <channel update="i" site="viasat.dk" site_id="Kanal 4 HD DK (T)" xmltv_id="Kanal 4 HD DK (T)">Kanal 4 HD DK (T)</channel>
+    <channel update="i" site="viasat.dk" site_id="CANAL9 HD DK (T)" xmltv_id="CANAL9 HD DK (T)">CANAL9 HD DK (T)</channel>
     <channel update="i" site="viasat.dk" site_id="XEE (DK)" xmltv_id="XEE (DK)">XEE (DK)</channel>
     <channel update="i" site="viasat.dk" site_id="Eurosport 2 (DK)" xmltv_id="Eurosport 2 (DK)">Eurosport 2 (DK)</channel>
-    <channel update="i" site="viasat.dk" site_id="Nat Geo Wild" xmltv_id="Nat Geo Wild">Nat Geo Wild</channel>
-    <channel update="i" site="viasat.dk" site_id="Nat Geo HD" xmltv_id="Nat Geo HD">Nat Geo HD</channel>
-    <channel update="i" site="viasat.dk" site_id="National Geographic (DK)" xmltv_id="National Geographic (DK)">National Geographic (DK)</channel>
-    <channel update="i" site="viasat.dk" site_id="V Sport Ultra HD" xmltv_id="V Sport Ultra HD">V Sport Ultra HD</channel>
-    <channel update="i" site="viasat.dk" site_id="V Sport Golf HD" xmltv_id="V Sport Golf HD">V Sport Golf HD</channel>
-    <channel update="i" site="viasat.dk" site_id="TV4 HD (SE)" xmltv_id="TV4 HD (SE)">TV4 HD (SE)</channel>
+    <channel update="i" site="viasat.dk" site_id="Nat Geo Wild HD (T)" xmltv_id="Nat Geo Wild HD (T)">Nat Geo Wild HD (T)</channel>
+    <channel update="i" site="viasat.dk" site_id="Nat Geo HD (T)" xmltv_id="Nat Geo HD (T)">Nat Geo HD (T)</channel>
+    <channel update="i" site="viasat.dk" site_id="Nat Geo HD DK (T)" xmltv_id="Nat Geo HD DK (T)">Nat Geo HD DK (T)</channel>
+    <channel update="i" site="viasat.dk" site_id="V Sport Ultra HD (T)" xmltv_id="V Sport Ultra HD (T)">V Sport Ultra HD (T)</channel>
+    <channel update="i" site="viasat.dk" site_id="V sport golf HD (T)" xmltv_id="V sport golf HD (T)">V sport golf HD (T)</channel>
+    <channel update="i" site="viasat.dk" site_id="TV4 HD SE (T)" xmltv_id="TV4 HD SE (T)">TV4 HD SE (T)</channel>
     <channel update="i" site="viasat.dk" site_id="SVT1" xmltv_id="SVT1">SVT1</channel>
-    <channel update="i" site="viasat.dk" site_id="NRK1 HD" xmltv_id="NRK1 HD">NRK1 HD</channel>
-    <channel update="i" site="viasat.dk" site_id="BBC World" xmltv_id="BBC World">BBC World</channel>
+    <channel update="i" site="viasat.dk" site_id="NRK1 HD (T)" xmltv_id="NRK1 HD (T)">NRK1 HD (T)</channel>
+    <channel update="i" site="viasat.dk" site_id="BBC World News (T)" xmltv_id="BBC World News (T)">BBC World News (T)</channel>
     <channel update="i" site="viasat.dk" site_id="IP-Euronews" xmltv_id="IP-Euronews">IP-Euronews</channel>
     <channel update="i" site="viasat.dk" site_id="IP-Sky News" xmltv_id="IP-Sky News">IP-Sky News</channel>
     <channel update="i" site="viasat.dk" site_id="OTT CNBC" xmltv_id="OTT CNBC">OTT CNBC</channel>
-    <channel update="i" site="viasat.dk" site_id="CNN" xmltv_id="CNN">CNN</channel>
-    <channel update="i" site="viasat.dk" site_id="NHK World Japan" xmltv_id="NHK World Japan">NHK World Japan</channel>
+    <channel update="i" site="viasat.dk" site_id="CNN (T)" xmltv_id="CNN (T)">CNN (T)</channel>
     <channel update="i" site="viasat.dk" site_id="OTT AlJazeera" xmltv_id="OTT AlJazeera">OTT AlJazeera</channel>
     <channel update="i" site="viasat.dk" site_id="IP-E!" xmltv_id="IP-E!">IP-E!</channel>
-    <channel update="i" site="viasat.dk" site_id="Paramount Network (DK)" xmltv_id="Paramount Network (DK)">Paramount Network (DK)</channel>
-    <channel update="i" site="viasat.dk" site_id="God TV" xmltv_id="God TV">God TV</channel>
-    <channel update="i" site="viasat.dk" site_id="Boomerang" xmltv_id="Boomerang">Boomerang</channel>
-    <channel update="i" site="viasat.dk" site_id="Cartoon Network" xmltv_id="Cartoon Network">Cartoon Network</channel>
-    <channel update="i" site="viasat.dk" site_id="Disney Channel (DK)" xmltv_id="Disney Channel (DK)">Disney Channel (DK)</channel>
-    <channel update="i" site="viasat.dk" site_id="Disney Junior" xmltv_id="Disney Junior">Disney Junior</channel>
-    <channel update="i" site="viasat.dk" site_id="Disney XD (Nordic)" xmltv_id="Disney XD (Nordic)">Disney XD (Nordic)</channel>
-    <channel update="i" site="viasat.dk" site_id="Nickelodeon DK" xmltv_id="Nickelodeon DK">Nickelodeon DK</channel>
-    <channel update="i" site="viasat.dk" site_id="Nick Junior" xmltv_id="Nick Junior">Nick Junior</channel>
-    <channel update="i" site="viasat.dk" site_id="Nicktoons" xmltv_id="Nicktoons">Nicktoons</channel>
-    <channel update="i" site="viasat.dk" site_id="MTV (Nordic)" xmltv_id="MTV (Nordic)">MTV (Nordic)</channel>
-    <channel update="i" site="viasat.dk" site_id="MTV Hits" xmltv_id="MTV Hits">MTV Hits</channel>
-    <channel update="i" site="viasat.dk" site_id="VH1" xmltv_id="VH1">VH1</channel>
-    <channel update="i" site="viasat.dk" site_id="VH1 Classic" xmltv_id="VH1 Classic">VH1 Classic</channel>
+    <channel update="i" site="viasat.dk" site_id="C More First HD (T)" xmltv_id="C More First HD (T)">C More First HD (T)</channel>
+    <channel update="i" site="viasat.dk" site_id="C More Series HD (T)" xmltv_id="C More Series HD (T)">C More Series HD (T)</channel>
+    <channel update="i" site="viasat.dk" site_id="C More Hits HD (T)" xmltv_id="C More Hits HD (T)">C More Hits HD (T)</channel>
+    <channel update="i" site="viasat.dk" site_id="C More Stars HD (T)" xmltv_id="C More Stars HD (T)">C More Stars HD (T)</channel>
+    <channel update="i" site="viasat.dk" site_id="SF Kanalen" xmltv_id="SF Kanalen">SF Kanalen</channel>
+    <channel update="i" site="viasat.dk" site_id="Paramount Network DK (T)" xmltv_id="Paramount Network DK (T)">Paramount Network DK (T)</channel>
+    <channel update="i" site="viasat.dk" site_id="God TV (T)" xmltv_id="God TV (T)">God TV (T)</channel>
+    <channel update="i" site="viasat.dk" site_id="Boomerang (T)" xmltv_id="Boomerang (T)">Boomerang (T)</channel>
+    <channel update="i" site="viasat.dk" site_id="Cartoon Network (T)" xmltv_id="Cartoon Network (T)">Cartoon Network (T)</channel>
+    <channel update="i" site="viasat.dk" site_id="Disney Channel Nordic (T)" xmltv_id="Disney Channel Nordic (T)">Disney Channel Nordic (T)</channel>
+    <channel update="i" site="viasat.dk" site_id="Disney Junior (T)" xmltv_id="Disney Junior (T)">Disney Junior (T)</channel>
+    <channel update="i" site="viasat.dk" site_id="Nickelodeon DK (T)" xmltv_id="Nickelodeon DK (T)">Nickelodeon DK (T)</channel>
+    <channel update="i" site="viasat.dk" site_id="Nick Junior (T)" xmltv_id="Nick Junior (T)">Nick Junior (T)</channel>
+    <channel update="i" site="viasat.dk" site_id="Nicktoons (T)" xmltv_id="Nicktoons (T)">Nicktoons (T)</channel>
+    <channel update="i" site="viasat.dk" site_id="MTV Nordic (T)" xmltv_id="MTV Nordic (T)">MTV Nordic (T)</channel>
+    <channel update="i" site="viasat.dk" site_id="MTV Hits (T)" xmltv_id="MTV Hits (T)">MTV Hits (T)</channel>
+    <channel update="i" site="viasat.dk" site_id="MTV 00s (T)" xmltv_id="MTV 00s (T)">MTV 00s (T)</channel>
+    <channel update="i" site="viasat.dk" site_id="MTV 80s (T)" xmltv_id="MTV 80s (T)">MTV 80s (T)</channel>
   </channels>
 </site>
