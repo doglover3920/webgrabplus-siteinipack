@@ -1,78 +1,969 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.4 -- Jan van Straaten" site="tvtv.ca">
   <channels>
-    <channel update="i" site="tvtv.ca" site_id="3678/2-1" xmltv_id="NBC (WGRZ) Buffalo, NY">NBC (WGRZ) Buffalo, NY</channel>
-    <channel update="i" site="tvtv.ca" site_id="3678/2-2" xmltv_id="Antenna (WGRZ-DT2) Buffalo, NY">Antenna (WGRZ-DT2) Buffalo, NY</channel>
-    <channel update="i" site="tvtv.ca" site_id="3678/2-3" xmltv_id="Justice Network (WGRZ-DT3) Buffalo, NY">Justice Network (WGRZ-DT3) Buffalo, NY</channel>
-    <channel update="i" site="tvtv.ca" site_id="3678/2-4" xmltv_id="Quest (WGRZ4) Buffalo, NY">Quest (WGRZ4) Buffalo, NY</channel>
-    <channel update="i" site="tvtv.ca" site_id="3678/3-1" xmltv_id="CTV2 Toronto, ON">CTV2 Toronto, ON</channel>
-    <channel update="i" site="tvtv.ca" site_id="3678/4-1" xmltv_id="CBS (WIVB) Buffalo, NY">CBS (WIVB) Buffalo, NY</channel>
-    <channel update="i" site="tvtv.ca" site_id="3678/5-1" xmltv_id="CBC (CBLT) Toronto, ON">CBC (CBLT) Toronto, ON</channel>
-    <channel update="i" site="tvtv.ca" site_id="3678/6-1" xmltv_id="Global (CIII) Ontario">Global (CIII) Ontario</channel>
-    <channel update="i" site="tvtv.ca" site_id="3678/7-1" xmltv_id="ABC (WKBW) Buffalo, NY">ABC (WKBW) Buffalo, NY</channel>
-    <channel update="i" site="tvtv.ca" site_id="3678/7-2" xmltv_id="Laff (WKBW-DT2) Buffalo, NY">Laff (WKBW-DT2) Buffalo, NY</channel>
-    <channel update="i" site="tvtv.ca" site_id="3678/7-3" xmltv_id="Court TV Mystery (WKBW-DT3) Buffalo, NY">Court TV Mystery (WKBW-DT3) Buffalo, NY</channel>
-    <channel update="i" site="tvtv.ca" site_id="3678/7-4" xmltv_id="Grit TV (WKBW-DT4) Buffalo, NY">Grit TV (WKBW-DT4) Buffalo, NY</channel>
-    <channel update="i" site="tvtv.ca" site_id="3678/8-1" xmltv_id="CBS (WROC) Rochester, NY">CBS (WROC) Rochester, NY</channel>
-    <channel update="i" site="tvtv.ca" site_id="3678/8-2" xmltv_id="Bounce (WROC-DT2) Rochester, NY">Bounce (WROC-DT2) Rochester, NY</channel>
-    <channel update="i" site="tvtv.ca" site_id="3678/9-1" xmltv_id="CTV (CFTO) Toronto, ON">CTV (CFTO) Toronto, ON</channel>
-    <channel update="i" site="tvtv.ca" site_id="3678/10-1" xmltv_id="NBC (WHEC) Rochester, NY">NBC (WHEC) Rochester, NY</channel>
-    <channel update="i" site="tvtv.ca" site_id="3678/10-2" xmltv_id="MeTV (WHEC-DT2) Rochester, NY">MeTV (WHEC-DT2) Rochester, NY</channel>
-    <channel update="i" site="tvtv.ca" site_id="3678/10-3" xmltv_id="Start TV (WHEC-DT3) Rochester, NY">Start TV (WHEC-DT3) Rochester, NY</channel>
-    <channel update="i" site="tvtv.ca" site_id="3678/11-1" xmltv_id="CHCH Hamilton, ON">CHCH Hamilton, ON</channel>
-    <channel update="i" site="tvtv.ca" site_id="3678/12-1" xmltv_id="NBC (WICU) Erie, PA">NBC (WICU) Erie, PA</channel>
-    <channel update="i" site="tvtv.ca" site_id="3678/12-2" xmltv_id="MeTV (WICU-DT2) Erie, PA">MeTV (WICU-DT2) Erie, PA</channel>
-    <channel update="i" site="tvtv.ca" site_id="3678/12-3" xmltv_id="CBS (WICU-DT3) Erie, PA">CBS (WICU-DT3) Erie, PA</channel>
-    <channel update="i" site="tvtv.ca" site_id="3678/13-1" xmltv_id="ABC (WHAM) Rochester, NY">ABC (WHAM) Rochester, NY</channel>
-    <channel update="i" site="tvtv.ca" site_id="3678/13-2" xmltv_id="CW (WHAM-DT2) Rochester, NY">CW (WHAM-DT2) Rochester, NY</channel>
-    <channel update="i" site="tvtv.ca" site_id="3678/13-3" xmltv_id="CHARGE! (WHAM-DT3) Rochester, NY">CHARGE! (WHAM-DT3) Rochester, NY</channel>
-    <channel update="i" site="tvtv.ca" site_id="3678/17-1" xmltv_id="PBS (WNED) Buffalo, NY">PBS (WNED) Buffalo, NY</channel>
-    <channel update="i" site="tvtv.ca" site_id="3678/17-2" xmltv_id="Create (WNED-DT2) Buffalo, NY">Create (WNED-DT2) Buffalo, NY</channel>
-    <channel update="i" site="tvtv.ca" site_id="3678/17-3" xmltv_id="PBS Kids (WNED-TV3) Buffalo, NY">PBS Kids (WNED-TV3) Buffalo, NY</channel>
-    <channel update="i" site="tvtv.ca" site_id="3678/19-1" xmltv_id="TVO (CICA-DT) Toronto, ON">TVO (CICA-DT) Toronto, ON</channel>
-    <channel update="i" site="tvtv.ca" site_id="3678/21-1" xmltv_id="PBS (WXXI) Rochester, NY">PBS (WXXI) Rochester, NY</channel>
-    <channel update="i" site="tvtv.ca" site_id="3678/21-2" xmltv_id="PBS World (WXXI-DT2) Rochester, NY">PBS World (WXXI-DT2) Rochester, NY</channel>
-    <channel update="i" site="tvtv.ca" site_id="3678/21-3" xmltv_id="Create (WXXI-DT3) Rochester, NY">Create (WXXI-DT3) Rochester, NY</channel>
-    <channel update="i" site="tvtv.ca" site_id="3678/23-1" xmltv_id="CW (WNLO) Buffalo, NY">CW (WNLO) Buffalo, NY</channel>
-    <channel update="i" site="tvtv.ca" site_id="3678/23-2" xmltv_id="Bounce (WNLO-DT2) Buffalo, NY">Bounce (WNLO-DT2) Buffalo, NY</channel>
-    <channel update="i" site="tvtv.ca" site_id="3678/25-1" xmltv_id="ICI (CBLFT) Toronto">ICI (CBLFT) Toronto</channel>
-    <channel update="i" site="tvtv.ca" site_id="3678/26-1" xmltv_id="TCT (WNYB) Jamestown, NY">TCT (WNYB) Jamestown, NY</channel>
-    <channel update="i" site="tvtv.ca" site_id="3678/26-2" xmltv_id="TCT (WNYB-DT2) Jamestown, NY HD">TCT (WNYB-DT2) Jamestown, NY HD</channel>
-    <channel update="i" site="tvtv.ca" site_id="3678/26-3" xmltv_id="Light TV (WNYB-DT3) Jamestown, NY">Light TV (WNYB-DT3) Jamestown, NY</channel>
-    <channel update="i" site="tvtv.ca" site_id="3678/26-4" xmltv_id="TCT (WNYB-DT4) Johnstown, NY">TCT (WNYB-DT4) Johnstown, NY</channel>
-    <channel update="i" site="tvtv.ca" site_id="3678/28-1" xmltv_id="TVO (CICO-DT-28) Kitchener, ON">TVO (CICO-DT-28) Kitchener, ON</channel>
-    <channel update="i" site="tvtv.ca" site_id="3678/29-1" xmltv_id="FOX (WUTV) Buffalo, NY">FOX (WUTV) Buffalo, NY</channel>
-    <channel update="i" site="tvtv.ca" site_id="3678/29-2" xmltv_id="TBD TV (WUTV-DT2) Buffalo, NY">TBD TV (WUTV-DT2) Buffalo, NY</channel>
-    <channel update="i" site="tvtv.ca" site_id="3678/29-3" xmltv_id="CHARGE! (WUTV-DT3) Buffalo, NY">CHARGE! (WUTV-DT3) Buffalo, NY</channel>
-    <channel update="i" site="tvtv.ca" site_id="3678/31-1" xmltv_id="FOX (WUHF) Rochester, NY">FOX (WUHF) Rochester, NY</channel>
-    <channel update="i" site="tvtv.ca" site_id="3678/31-2" xmltv_id="Antenna (WUHF-DT2) Rochester, NY">Antenna (WUHF-DT2) Rochester, NY</channel>
-    <channel update="i" site="tvtv.ca" site_id="3678/31-3" xmltv_id="Comet TV (WUHF-DT3) Rochester, NY">Comet TV (WUHF-DT3) Rochester, NY</channel>
-    <channel update="i" site="tvtv.ca" site_id="3678/35-1" xmltv_id="CTV2 Toronto, ON (CHCJ)">CTV2 Toronto, ON (CHCJ)</channel>
-    <channel update="i" site="tvtv.ca" site_id="3678/35-2" xmltv_id="CW (WSEE-DT2) Erie, PA">CW (WSEE-DT2) Erie, PA</channel>
-    <channel update="i" site="tvtv.ca" site_id="3678/35-4" xmltv_id="H&amp;I (WSEE-DT4) Erie, PA">H&amp;I (WSEE-DT4) Erie, PA</channel>
-    <channel update="i" site="tvtv.ca" site_id="3678/35-5" xmltv_id="DABL (WSEE-DT5) Erie, PA">DABL (WSEE-DT5) Erie, PA</channel>
-    <channel update="i" site="tvtv.ca" site_id="3678/36-1" xmltv_id="Yes TV (CITS) Burlington, ON">Yes TV (CITS) Burlington, ON</channel>
-    <channel update="i" site="tvtv.ca" site_id="3678/40" xmltv_id="OMNI.2">OMNI.2</channel>
-    <channel update="i" site="tvtv.ca" site_id="3678/41-1" xmltv_id="Global (CIII-DT-41) Toronto HD">Global (CIII-DT-41) Toronto HD</channel>
-    <channel update="i" site="tvtv.ca" site_id="3678/41-2" xmltv_id="Global (CIII-DT-41) Toronto">Global (CIII-DT-41) Toronto</channel>
-    <channel update="i" site="tvtv.ca" site_id="3678/47-1" xmltv_id="OMNI.1 Television">OMNI.1 Television</channel>
-    <channel update="i" site="tvtv.ca" site_id="3678/49-1" xmltv_id="MNT (WNYO) Buffalo, NY">MNT (WNYO) Buffalo, NY</channel>
-    <channel update="i" site="tvtv.ca" site_id="3678/49-2" xmltv_id="Stadium (WNYO-DT2) Buffalo, NY">Stadium (WNYO-DT2) Buffalo, NY</channel>
-    <channel update="i" site="tvtv.ca" site_id="3678/49-3" xmltv_id="Comet TV (WNYO-DT3) Buffalo, NY">Comet TV (WNYO-DT3) Buffalo, NY</channel>
-    <channel update="i" site="tvtv.ca" site_id="3678/49-4" xmltv_id="GetTV (WNYO-DT4) Buffalo, NY">GetTV (WNYO-DT4) Buffalo, NY</channel>
-    <channel update="i" site="tvtv.ca" site_id="3678/51-1" xmltv_id="ION (WPXJ) Buffalo, NY">ION (WPXJ) Buffalo, NY</channel>
-    <channel update="i" site="tvtv.ca" site_id="3678/51-2" xmltv_id="Qubo (WPXJ) Buffalo, NY">Qubo (WPXJ) Buffalo, NY</channel>
-    <channel update="i" site="tvtv.ca" site_id="3678/51-3" xmltv_id="ION Plus (WPXJ) Buffalo, NY">ION Plus (WPXJ) Buffalo, NY</channel>
-    <channel update="i" site="tvtv.ca" site_id="3678/51-4" xmltv_id="ION Shop (WPXJ) Buffalo, NY">ION Shop (WPXJ) Buffalo, NY</channel>
-    <channel update="i" site="tvtv.ca" site_id="3678/51-5" xmltv_id="QVC (WPXJ) Buffalo, NY">QVC (WPXJ) Buffalo, NY</channel>
-    <channel update="i" site="tvtv.ca" site_id="3678/51-6" xmltv_id="HSN (WPXJ-DT6) Buffalo, NY">HSN (WPXJ-DT6) Buffalo, NY</channel>
-    <channel update="i" site="tvtv.ca" site_id="3678/54-1" xmltv_id="PBS (WQLN) Erie, PA">PBS (WQLN) Erie, PA</channel>
-    <channel update="i" site="tvtv.ca" site_id="3678/54-2" xmltv_id="Create (WQLN-DT2) Erie, PA">Create (WQLN-DT2) Erie, PA</channel>
-    <channel update="i" site="tvtv.ca" site_id="3678/54-3" xmltv_id="PBS World (WQLN-DT3) Erie, PA">PBS World (WQLN-DT3) Erie, PA</channel>
-    <channel update="i" site="tvtv.ca" site_id="3678/57-1" xmltv_id="CITY Toronto, ON">CITY Toronto, ON</channel>
-    <channel update="i" site="tvtv.ca" site_id="3678/67-1" xmltv_id="MeTV (WBBZ) Buffalo, NY">MeTV (WBBZ) Buffalo, NY</channel>
-    <channel update="i" site="tvtv.ca" site_id="3678/67-2" xmltv_id="H&amp;I (WBBZ-DT2) Buffalo, NY">H&amp;I (WBBZ-DT2) Buffalo, NY</channel>
-    <channel update="i" site="tvtv.ca" site_id="3678/67-3" xmltv_id="MeTV (WBBZ-DT3) Buffalo, NY">MeTV (WBBZ-DT3) Buffalo, NY</channel>
-    <channel update="i" site="tvtv.ca" site_id="3678/67-4" xmltv_id="Daystar (WBBZ-DT4) Buffalo, NY">Daystar (WBBZ-DT4) Buffalo, NY</channel>
+    <channel update="i" site="tvtv.ca" site_id="96458" xmltv_id="FIBETV1">FIBETV1</channel>
+    <channel update="i" site="tvtv.ca" site_id="89492" xmltv_id="FIBEV">FIBEV</channel>
+    <channel update="i" site="tvtv.ca" site_id="89487" xmltv_id="FIBEF">FIBEF</channel>
+    <channel update="i" site="tvtv.ca" site_id="65566" xmltv_id="CANALM">CANALM</channel>
+    <channel update="i" site="tvtv.ca" site_id="62670" xmltv_id="AMITV">AMITV</channel>
+    <channel update="i" site="tvtv.ca" site_id="20783" xmltv_id="AMIAU">AMIAU</channel>
+    <channel update="i" site="tvtv.ca" site_id="91109" xmltv_id="AMITELE">AMITELE</channel>
+    <channel update="i" site="tvtv.ca" site_id="90229" xmltv_id="TIMEF">TIMEF</channel>
+    <channel update="i" site="tvtv.ca" site_id="27733" xmltv_id="EPGLOOR">EPGLOOR</channel>
+    <channel update="i" site="tvtv.ca" site_id="10089" xmltv_id="CBFT: - SRC">CBFT: - SRC</channel>
+    <channel update="i" site="tvtv.ca" site_id="15988" xmltv_id="CFJP: - NOOVO">CFJP: - NOOVO</channel>
+    <channel update="i" site="tvtv.ca" site_id="10107" xmltv_id="CFTM: - TVA">CFTM: - TVA</channel>
+    <channel update="i" site="tvtv.ca" site_id="15987" xmltv_id="CIVM">CIVM</channel>
+    <channel update="i" site="tvtv.ca" site_id="16000" xmltv_id="METEO">METEO</channel>
+    <channel update="i" site="tvtv.ca" site_id="65025" xmltv_id="NFLNRZD">NFLNRZD</channel>
+    <channel update="i" site="tvtv.ca" site_id="89488" xmltv_id="FIBE2">FIBE2</channel>
+    <channel update="i" site="tvtv.ca" site_id="15676" xmltv_id="RDS">RDS</channel>
+    <channel update="i" site="tvtv.ca" site_id="73271" xmltv_id="RDS2">RDS2</channel>
+    <channel update="i" site="tvtv.ca" site_id="39080" xmltv_id="RDSI">RDSI</channel>
+    <channel update="i" site="tvtv.ca" site_id="73141" xmltv_id="TVASPRT">TVASPRT</channel>
+    <channel update="i" site="tvtv.ca" site_id="90204" xmltv_id="TVAS2">TVAS2</channel>
+    <channel update="i" site="tvtv.ca" site_id="58685" xmltv_id="FRNC24">FRNC24</channel>
+    <channel update="i" site="tvtv.ca" site_id="17590" xmltv_id="LCN">LCN</channel>
+    <channel update="i" site="tvtv.ca" site_id="15209" xmltv_id="RDI">RDI</channel>
+    <channel update="i" site="tvtv.ca" site_id="34292" xmltv_id="EURONF">EURONF</channel>
+    <channel update="i" site="tvtv.ca" site_id="72595" xmltv_id="TELEMG">TELEMG</channel>
+    <channel update="i" site="tvtv.ca" site_id="44962" xmltv_id="ADDIKTV">ADDIKTV</channel>
+    <channel update="i" site="tvtv.ca" site_id="21544" xmltv_id="Z">Z</channel>
+    <channel update="i" site="tvtv.ca" site_id="21543" xmltv_id="SERIES">SERIES</channel>
+    <channel update="i" site="tvtv.ca" site_id="21545" xmltv_id="EVAS">EVAS</channel>
+    <channel update="i" site="tvtv.ca" site_id="21542" xmltv_id="HISTCF">HISTCF</channel>
+    <channel update="i" site="tvtv.ca" site_id="15682" xmltv_id="CANALD">CANALD</channel>
+    <channel update="i" site="tvtv.ca" site_id="75053" xmltv_id="EXPLORA">EXPLORA</channel>
+    <channel update="i" site="tvtv.ca" site_id="87899" xmltv_id="CANDINV">CANDINV</channel>
+    <channel update="i" site="tvtv.ca" site_id="15675" xmltv_id="ELLEF">ELLEF</channel>
+    <channel update="i" site="tvtv.ca" site_id="17591" xmltv_id="MX">MX</channel>
+    <channel update="i" site="tvtv.ca" site_id="15685" xmltv_id="VRAKTV">VRAKTV</channel>
+    <channel update="i" site="tvtv.ca" site_id="26980" xmltv_id="ARTV">ARTV</channel>
+    <channel update="i" site="tvtv.ca" site_id="11185" xmltv_id="TV5">TV5</channel>
+    <channel update="i" site="tvtv.ca" site_id="75721" xmltv_id="CASASD">CASASD</channel>
+    <channel update="i" site="tvtv.ca" site_id="67174" xmltv_id="ZESTE">ZESTE</channel>
+    <channel update="i" site="tvtv.ca" site_id="17589" xmltv_id="VIE">VIE</channel>
+    <channel update="i" site="tvtv.ca" site_id="72005" xmltv_id="MOICIE">MOICIE</channel>
+    <channel update="i" site="tvtv.ca" site_id="49692" xmltv_id="PRISE2">PRISE2</channel>
+    <channel update="i" site="tvtv.ca" site_id="90112" xmltv_id="UNIS">UNIS</channel>
+    <channel update="i" site="tvtv.ca" site_id="115257" xmltv_id="MUSEUMF">MUSEUMF</channel>
+    <channel update="i" site="tvtv.ca" site_id="16133" xmltv_id="ASSEMB">ASSEMB</channel>
+    <channel update="i" site="tvtv.ca" site_id="21667" xmltv_id="CPACF">CPACF</channel>
+    <channel update="i" site="tvtv.ca" site_id="10109" xmltv_id="TFO">TFO</channel>
+    <channel update="i" site="tvtv.ca" site_id="15747" xmltv_id="CFTU">CFTU</channel>
+    <channel update="i" site="tvtv.ca" site_id="97439" xmltv_id="FOYR">FOYR</channel>
+    <channel update="i" site="tvtv.ca" site_id="89499" xmltv_id="NOEL">NOEL</channel>
+    <channel update="i" site="tvtv.ca" site_id="68384" xmltv_id="MAGINO">MAGINO</channel>
+    <channel update="i" site="tvtv.ca" site_id="67448" xmltv_id="YOOPA">YOOPA</channel>
+    <channel update="i" site="tvtv.ca" site_id="17564" xmltv_id="TOONF">TOONF</channel>
+    <channel update="i" site="tvtv.ca" site_id="61377" xmltv_id="DISNF">DISNF</channel>
+    <channel update="i" site="tvtv.ca" site_id="90218" xmltv_id="CLUBJR">CLUBJR</channel>
+    <channel update="i" site="tvtv.ca" site_id="113279" xmltv_id="ES1CHD">ES1CHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="108207" xmltv_id="STUDCAN">STUDCAN</channel>
+    <channel update="i" site="tvtv.ca" site_id="113587" xmltv_id="CRAVEOD">CRAVEOD</channel>
+    <channel update="i" site="tvtv.ca" site_id="90887" xmltv_id="SEDM">SEDM</channel>
+    <channel update="i" site="tvtv.ca" site_id="15677" xmltv_id="ECRAN">ECRAN</channel>
+    <channel update="i" site="tvtv.ca" site_id="16187" xmltv_id="ECRANB">ECRANB</channel>
+    <channel update="i" site="tvtv.ca" site_id="16188" xmltv_id="ECRANC">ECRANC</channel>
+    <channel update="i" site="tvtv.ca" site_id="24455" xmltv_id="ECRAND">ECRAND</channel>
+    <channel update="i" site="tvtv.ca" site_id="49195" xmltv_id="CINEPOP">CINEPOP</channel>
+    <channel update="i" site="tvtv.ca" site_id="105852" xmltv_id="FRISSON">FRISSON</channel>
+    <channel update="i" site="tvtv.ca" site_id="116290" xmltv_id="M6I">M6I</channel>
+    <channel update="i" site="tvtv.ca" site_id="108714" xmltv_id="CNVTV">CNVTV</channel>
+    <channel update="i" site="tvtv.ca" site_id="106766" xmltv_id="YTFR">YTFR</channel>
+    <channel update="i" site="tvtv.ca" site_id="16732" xmltv_id="CBVT: - SRC">CBVT: - SRC</channel>
+    <channel update="i" site="tvtv.ca" site_id="20477" xmltv_id="TVAP: - TVA">TVAP: - TVA</channel>
+    <channel update="i" site="tvtv.ca" site_id="16729" xmltv_id="CBAFT: - SRC">CBAFT: - SRC</channel>
+    <channel update="i" site="tvtv.ca" site_id="16017" xmltv_id="CBOFT: - SRC">CBOFT: - SRC</channel>
+    <channel update="i" site="tvtv.ca" site_id="10090" xmltv_id="CBLFT: - SRC">CBLFT: - SRC</channel>
+    <channel update="i" site="tvtv.ca" site_id="15982" xmltv_id="CBUFT: - SRC">CBUFT: - SRC</channel>
+    <channel update="i" site="tvtv.ca" site_id="108571" xmltv_id="STHITS">STHITS</channel>
+    <channel update="i" site="tvtv.ca" site_id="108572" xmltv_id="STADSQ">STADSQ</channel>
+    <channel update="i" site="tvtv.ca" site_id="109160" xmltv_id="SCLA">SCLA</channel>
+    <channel update="i" site="tvtv.ca" site_id="91003" xmltv_id="STAMBF">STAMBF</channel>
+    <channel update="i" site="tvtv.ca" site_id="22776" xmltv_id="PPV189">PPV189</channel>
+    <channel update="i" site="tvtv.ca" site_id="22777" xmltv_id="PPV190">PPV190</channel>
+    <channel update="i" site="tvtv.ca" site_id="22778" xmltv_id="PPV191">PPV191</channel>
+    <channel update="i" site="tvtv.ca" site_id="22779" xmltv_id="PPV192">PPV192</channel>
+    <channel update="i" site="tvtv.ca" site_id="22780" xmltv_id="PPV193">PPV193</channel>
+    <channel update="i" site="tvtv.ca" site_id="22781" xmltv_id="PPV194">PPV194</channel>
+    <channel update="i" site="tvtv.ca" site_id="22782" xmltv_id="PPV195">PPV195</channel>
+    <channel update="i" site="tvtv.ca" site_id="10104" xmltv_id="CFCF: - CTV">CFCF: - CTV</channel>
+    <channel update="i" site="tvtv.ca" site_id="17406" xmltv_id="CKMI: - GLOBAL">CKMI: - GLOBAL</channel>
+    <channel update="i" site="tvtv.ca" site_id="17046" xmltv_id="CJNT">CJNT</channel>
+    <channel update="i" site="tvtv.ca" site_id="10092" xmltv_id="CBMT: - CBC">CBMT: - CBC</channel>
+    <channel update="i" site="tvtv.ca" site_id="105401" xmltv_id="ICIQ">ICIQ</channel>
+    <channel update="i" site="tvtv.ca" site_id="11220" xmltv_id="VISION">VISION</channel>
+    <channel update="i" site="tvtv.ca" site_id="59663" xmltv_id="APTNE">APTNE</channel>
+    <channel update="i" site="tvtv.ca" site_id="15997" xmltv_id="TSC">TSC</channel>
+    <channel update="i" site="tvtv.ca" site_id="87652" xmltv_id="CFHDDT">CFHDDT</channel>
+    <channel update="i" site="tvtv.ca" site_id="89607" xmltv_id="BLOCAL">BLOCAL</channel>
+    <channel update="i" site="tvtv.ca" site_id="11793" xmltv_id="WPTZ: - NBC">WPTZ: - NBC</channel>
+    <channel update="i" site="tvtv.ca" site_id="11967" xmltv_id="WVNY: - ABC">WVNY: - ABC</channel>
+    <channel update="i" site="tvtv.ca" site_id="11327" xmltv_id="WCAX: - CBS">WCAX: - CBS</channel>
+    <channel update="i" site="tvtv.ca" site_id="17633" xmltv_id="WFFF: - FOX">WFFF: - FOX</channel>
+    <channel update="i" site="tvtv.ca" site_id="12318" xmltv_id="WETK: - PBS">WETK: - PBS</channel>
+    <channel update="i" site="tvtv.ca" site_id="11342" xmltv_id="WCFE: - PBS">WCFE: - PBS</channel>
+    <channel update="i" site="tvtv.ca" site_id="21489" xmltv_id="CHEXTV2: - GLOBAL">CHEXTV2: - GLOBAL</channel>
+    <channel update="i" site="tvtv.ca" site_id="10114" xmltv_id="CHEX">CHEX</channel>
+    <channel update="i" site="tvtv.ca" site_id="10137" xmltv_id="CKWS">CKWS</channel>
+    <channel update="i" site="tvtv.ca" site_id="10105" xmltv_id="CFMT">CFMT</channel>
+    <channel update="i" site="tvtv.ca" site_id="31558" xmltv_id="CJMT">CJMT</channel>
+    <channel update="i" site="tvtv.ca" site_id="10113" xmltv_id="CHEK">CHEK</channel>
+    <channel update="i" site="tvtv.ca" site_id="10112" xmltv_id="CHCH">CHCH</channel>
+    <channel update="i" site="tvtv.ca" site_id="17344" xmltv_id="CIIT">CIIT</channel>
+    <channel update="i" site="tvtv.ca" site_id="27503" xmltv_id="CHNU">CHNU</channel>
+    <channel update="i" site="tvtv.ca" site_id="90230" xmltv_id="TIMEB">TIMEB</channel>
+    <channel update="i" site="tvtv.ca" site_id="14926" xmltv_id="CJON">CJON</channel>
+    <channel update="i" site="tvtv.ca" site_id="14863" xmltv_id="CJCH: - CTV">CJCH: - CTV</channel>
+    <channel update="i" site="tvtv.ca" site_id="10108" xmltv_id="CFTO: - CTV">CFTO: - CTV</channel>
+    <channel update="i" site="tvtv.ca" site_id="17594" xmltv_id="CIVT: - CTV">CIVT: - CTV</channel>
+    <channel update="i" site="tvtv.ca" site_id="10127" xmltv_id="CJOH: - CTV">CJOH: - CTV</channel>
+    <channel update="i" site="tvtv.ca" site_id="15940" xmltv_id="CFCN: - CTV">CFCN: - CTV</channel>
+    <channel update="i" site="tvtv.ca" site_id="15990" xmltv_id="CKCK: - CTV">CKCK: - CTV</channel>
+    <channel update="i" site="tvtv.ca" site_id="12892" xmltv_id="ASN: - CTV2">ASN: - CTV2</channel>
+    <channel update="i" site="tvtv.ca" site_id="10135" xmltv_id="CKVR: - CTV2">CKVR: - CTV2</channel>
+    <channel update="i" site="tvtv.ca" site_id="27190" xmltv_id="CIVI: - CTV2">CIVI: - CTV2</channel>
+    <channel update="i" site="tvtv.ca" site_id="13266" xmltv_id="CKY: - CTV">CKY: - CTV</channel>
+    <channel update="i" site="tvtv.ca" site_id="16545" xmltv_id="CJCB: - CTV">CJCB: - CTV</channel>
+    <channel update="i" site="tvtv.ca" site_id="16544" xmltv_id="CKCW: - CTV">CKCW: - CTV</channel>
+    <channel update="i" site="tvtv.ca" site_id="10128" xmltv_id="CKCO: - CTV">CKCO: - CTV</channel>
+    <channel update="i" site="tvtv.ca" site_id="10118" xmltv_id="CICI: - CTV">CICI: - CTV</channel>
+    <channel update="i" site="tvtv.ca" site_id="14724" xmltv_id="CBHT: - CBC">CBHT: - CBC</channel>
+    <channel update="i" site="tvtv.ca" site_id="10091" xmltv_id="CBLT: - CBC">CBLT: - CBC</channel>
+    <channel update="i" site="tvtv.ca" site_id="10097" xmltv_id="CBOT: - CBC">CBOT: - CBC</channel>
+    <channel update="i" site="tvtv.ca" site_id="13834" xmltv_id="CBWT: - CBC">CBWT: - CBC</channel>
+    <channel update="i" site="tvtv.ca" site_id="15939" xmltv_id="CBRT: - CBC">CBRT: - CBC</channel>
+    <channel update="i" site="tvtv.ca" site_id="10100" xmltv_id="CBUT: - CBC">CBUT: - CBC</channel>
+    <channel update="i" site="tvtv.ca" site_id="15941" xmltv_id="CBXT: - CBC">CBXT: - CBC</channel>
+    <channel update="i" site="tvtv.ca" site_id="17396" xmltv_id="CIHF: - GLOBAL">CIHF: - GLOBAL</channel>
+    <channel update="i" site="tvtv.ca" site_id="16160" xmltv_id="CIIIOT">CIIIOT</channel>
+    <channel update="i" site="tvtv.ca" site_id="10050" xmltv_id="CHAN: - GLOBAL">CHAN: - GLOBAL</channel>
+    <channel update="i" site="tvtv.ca" site_id="33725" xmltv_id="CHNM">CHNM</channel>
+    <channel update="i" site="tvtv.ca" site_id="10125" xmltv_id="CITY">CITY</channel>
+    <channel update="i" site="tvtv.ca" site_id="10136" xmltv_id="CKVU">CKVU</channel>
+    <channel update="i" site="tvtv.ca" site_id="16063" xmltv_id="CKNY: - CTV">CKNY: - CTV</channel>
+    <channel update="i" site="tvtv.ca" site_id="10111" xmltv_id="CHBX: - CTV">CHBX: - CTV</channel>
+    <channel update="i" site="tvtv.ca" site_id="16135" xmltv_id="CITO: - CTV">CITO: - CTV</channel>
+    <channel update="i" site="tvtv.ca" site_id="10518" xmltv_id="KING: - NBC">KING: - NBC</channel>
+    <channel update="i" site="tvtv.ca" site_id="10626" xmltv_id="KOMO: - ABC">KOMO: - ABC</channel>
+    <channel update="i" site="tvtv.ca" site_id="88515" xmltv_id="KIRO7SD: - CBS">KIRO7SD: - CBS</channel>
+    <channel update="i" site="tvtv.ca" site_id="10387" xmltv_id="KCPQ: - FOX">KCPQ: - FOX</channel>
+    <channel update="i" site="tvtv.ca" site_id="10392" xmltv_id="KCTS: - PBS">KCTS: - PBS</channel>
+    <channel update="i" site="tvtv.ca" site_id="19556" xmltv_id="WPCH">WPCH</channel>
+    <channel update="i" site="tvtv.ca" site_id="11474" xmltv_id="WGN">WGN</channel>
+    <channel update="i" site="tvtv.ca" site_id="11832" xmltv_id="WSBK: - MNT">WSBK: - MNT</channel>
+    <channel update="i" site="tvtv.ca" site_id="11779" xmltv_id="WPIX: - CW">WPIX: - CW</channel>
+    <channel update="i" site="tvtv.ca" site_id="10724" xmltv_id="KTLA: - CW">KTLA: - CW</channel>
+    <channel update="i" site="tvtv.ca" site_id="67139" xmltv_id="MVNETOD">MVNETOD</channel>
+    <channel update="i" site="tvtv.ca" site_id="10191" xmltv_id="CRV1">CRV1</channel>
+    <channel update="i" site="tvtv.ca" site_id="12222" xmltv_id="CRV2">CRV2</channel>
+    <channel update="i" site="tvtv.ca" site_id="12223" xmltv_id="CRV3">CRV3</channel>
+    <channel update="i" site="tvtv.ca" site_id="21351" xmltv_id="CRV4">CRV4</channel>
+    <channel update="i" site="tvtv.ca" site_id="14947" xmltv_id="STZ1S">STZ1S</channel>
+    <channel update="i" site="tvtv.ca" site_id="24804" xmltv_id="STZ2S">STZ2S</channel>
+    <channel update="i" site="tvtv.ca" site_id="61557" xmltv_id="HBO1">HBO1</channel>
+    <channel update="i" site="tvtv.ca" site_id="61628" xmltv_id="HBOCAW">HBOCAW</channel>
+    <channel update="i" site="tvtv.ca" site_id="38589" xmltv_id="HBODM">HBODM</channel>
+    <channel update="i" site="tvtv.ca" site_id="90995" xmltv_id="CRAVE">CRAVE</channel>
+    <channel update="i" site="tvtv.ca" site_id="97741" xmltv_id="NTFLX">NTFLX</channel>
+    <channel update="i" site="tvtv.ca" site_id="101209" xmltv_id="YOUTB">YOUTB</channel>
+    <channel update="i" site="tvtv.ca" site_id="115155" xmltv_id="BELLPV">BELLPV</channel>
+    <channel update="i" site="tvtv.ca" site_id="72782" xmltv_id="SUPCHOD">SUPCHOD</channel>
+    <channel update="i" site="tvtv.ca" site_id="58870" xmltv_id="SCFUSE">SCFUSE</channel>
+    <channel update="i" site="tvtv.ca" site_id="58889" xmltv_id="SCHTHM">SCHTHM</channel>
+    <channel update="i" site="tvtv.ca" site_id="58884" xmltv_id="SCVALT">SCVALT</channel>
+    <channel update="i" site="tvtv.ca" site_id="58885" xmltv_id="SCGINX">SCGINX</channel>
+    <channel update="i" site="tvtv.ca" site_id="73681" xmltv_id="FXC">FXC</channel>
+    <channel update="i" site="tvtv.ca" site_id="90948" xmltv_id="FXXCSD">FXXCSD</channel>
+    <channel update="i" site="tvtv.ca" site_id="26769" xmltv_id="ADSM">ADSM</channel>
+    <channel update="i" site="tvtv.ca" site_id="26768" xmltv_id="LIFEC">LIFEC</channel>
+    <channel update="i" site="tvtv.ca" site_id="26784" xmltv_id="DOCUC">DOCUC</channel>
+    <channel update="i" site="tvtv.ca" site_id="34290" xmltv_id="SSC">SSC</channel>
+    <channel update="i" site="tvtv.ca" site_id="48815" xmltv_id="TCMC">TCMC</channel>
+    <channel update="i" site="tvtv.ca" site_id="52247" xmltv_id="AMCCAN">AMCCAN</channel>
+    <channel update="i" site="tvtv.ca" site_id="27125" xmltv_id="MTIME">MTIME</channel>
+    <channel update="i" site="tvtv.ca" site_id="90124" xmltv_id="TSN5">TSN5</channel>
+    <channel update="i" site="tvtv.ca" site_id="11182" xmltv_id="TSN1">TSN1</channel>
+    <channel update="i" site="tvtv.ca" site_id="18990" xmltv_id="TSN2">TSN2</channel>
+    <channel update="i" site="tvtv.ca" site_id="90137" xmltv_id="TSN3BO">TSN3BO</channel>
+    <channel update="i" site="tvtv.ca" site_id="90133" xmltv_id="TSN4BO">TSN4BO</channel>
+    <channel update="i" site="tvtv.ca" site_id="18799" xmltv_id="SNO">SNO</channel>
+    <channel update="i" site="tvtv.ca" site_id="18798" xmltv_id="SNE">SNE</channel>
+    <channel update="i" site="tvtv.ca" site_id="18801" xmltv_id="SNP">SNP</channel>
+    <channel update="i" site="tvtv.ca" site_id="18800" xmltv_id="SNW">SNW</channel>
+    <channel update="i" site="tvtv.ca" site_id="68858" xmltv_id="SN1">SN1</channel>
+    <channel update="i" site="tvtv.ca" site_id="20203" xmltv_id="SN360">SN360</channel>
+    <channel update="i" site="tvtv.ca" site_id="17610" xmltv_id="OLN">OLN</channel>
+    <channel update="i" site="tvtv.ca" site_id="27200" xmltv_id="ESPNCLC">ESPNCLC</channel>
+    <channel update="i" site="tvtv.ca" site_id="106713" xmltv_id="REVHD">REVHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="27201" xmltv_id="NBATVC">NBATVC</channel>
+    <channel update="i" site="tvtv.ca" site_id="65384" xmltv_id="GOLFBO">GOLFBO</channel>
+    <channel update="i" site="tvtv.ca" site_id="71563" xmltv_id="CBSCCAN">CBSCCAN</channel>
+    <channel update="i" site="tvtv.ca" site_id="49030" xmltv_id="SPMN">SPMN</channel>
+    <channel update="i" site="tvtv.ca" site_id="57735" xmltv_id="SNWL">SNWL</channel>
+    <channel update="i" site="tvtv.ca" site_id="30189" xmltv_id="FSR">FSR</channel>
+    <channel update="i" site="tvtv.ca" site_id="81448" xmltv_id="FIGHTSD">FIGHTSD</channel>
+    <channel update="i" site="tvtv.ca" site_id="45324" xmltv_id="WILDTV">WILDTV</channel>
+    <channel update="i" site="tvtv.ca" site_id="87432" xmltv_id="GMPLSC">GMPLSC</channel>
+    <channel update="i" site="tvtv.ca" site_id="110532" xmltv_id="WILLOWC">WILLOWC</channel>
+    <channel update="i" site="tvtv.ca" site_id="72988" xmltv_id="NFLNETC">NFLNETC</channel>
+    <channel update="i" site="tvtv.ca" site_id="90155" xmltv_id="MLBNC">MLBNC</channel>
+    <channel update="i" site="tvtv.ca" site_id="106035" xmltv_id="HPICHD">HPICHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="106036" xmltv_id="HPIIHD">HPIIHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="106039" xmltv_id="HPIWHD">HPIWHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="106038" xmltv_id="HPITVHD">HPITVHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="10142" xmltv_id="CNN">CNN</channel>
+    <channel update="i" site="tvtv.ca" site_id="17615" xmltv_id="NEWSNET">NEWSNET</channel>
+    <channel update="i" site="tvtv.ca" site_id="10094" xmltv_id="CBNEWS">CBNEWS</channel>
+    <channel update="i" site="tvtv.ca" site_id="18168" xmltv_id="CP24">CP24</channel>
+    <channel update="i" site="tvtv.ca" site_id="20709" xmltv_id="BNNB">BNNB</channel>
+    <channel update="i" site="tvtv.ca" site_id="10170" xmltv_id="CWEA">CWEA</channel>
+    <channel update="i" site="tvtv.ca" site_id="16374" xmltv_id="FNC">FNC</channel>
+    <channel update="i" site="tvtv.ca" site_id="10145" xmltv_id="HLN">HLN</channel>
+    <channel update="i" site="tvtv.ca" site_id="18141" xmltv_id="CNBCC">CNBCC</channel>
+    <channel update="i" site="tvtv.ca" site_id="89542" xmltv_id="BBCWDNA">BBCWDNA</channel>
+    <channel update="i" site="tvtv.ca" site_id="10146" xmltv_id="CNNI">CNNI</channel>
+    <channel update="i" site="tvtv.ca" site_id="17608" xmltv_id="CPAC">CPAC</channel>
+    <channel update="i" site="tvtv.ca" site_id="115832" xmltv_id="TNF">TNF</channel>
+    <channel update="i" site="tvtv.ca" site_id="55559" xmltv_id="ALJZENG">ALJZENG</channel>
+    <channel update="i" site="tvtv.ca" site_id="58333" xmltv_id="RTTV">RTTV</channel>
+    <channel update="i" site="tvtv.ca" site_id="15098" xmltv_id="TDCC">TDCC</channel>
+    <channel update="i" site="tvtv.ca" site_id="60734" xmltv_id="TLCCAN">TLCCAN</channel>
+    <channel update="i" site="tvtv.ca" site_id="17593" xmltv_id="HISTC">HISTC</channel>
+    <channel update="i" site="tvtv.ca" site_id="26883" xmltv_id="SCI">SCI</channel>
+    <channel update="i" site="tvtv.ca" site_id="26882" xmltv_id="NATGC">NATGC</channel>
+    <channel update="i" site="tvtv.ca" site_id="26823" xmltv_id="APC">APC</channel>
+    <channel update="i" site="tvtv.ca" site_id="20714" xmltv_id="OWNC">OWNC</channel>
+    <channel update="i" site="tvtv.ca" site_id="26780" xmltv_id="TANDE">TANDE</channel>
+    <channel update="i" site="tvtv.ca" site_id="26884" xmltv_id="IDC">IDC</channel>
+    <channel update="i" site="tvtv.ca" site_id="97440" xmltv_id="FIRESD">FIRESD</channel>
+    <channel update="i" site="tvtv.ca" site_id="89501" xmltv_id="SANTA">SANTA</channel>
+    <channel update="i" site="tvtv.ca" site_id="90217" xmltv_id="KIDSSUI">KIDSSUI</channel>
+    <channel update="i" site="tvtv.ca" site_id="59119" xmltv_id="FJR">FJR</channel>
+    <channel update="i" site="tvtv.ca" site_id="69112" xmltv_id="YTVDM">YTVDM</channel>
+    <channel update="i" site="tvtv.ca" site_id="12045" xmltv_id="YTV">YTV</channel>
+    <channel update="i" site="tvtv.ca" site_id="16320" xmltv_id="YTVP">YTVP</channel>
+    <channel update="i" site="tvtv.ca" site_id="17417" xmltv_id="TOONC">TOONC</channel>
+    <channel update="i" site="tvtv.ca" site_id="17563" xmltv_id="TOONCP">TOONCP</channel>
+    <channel update="i" site="tvtv.ca" site_id="11156" xmltv_id="TFC">TFC</channel>
+    <channel update="i" site="tvtv.ca" site_id="13264" xmltv_id="TFCP">TFCP</channel>
+    <channel update="i" site="tvtv.ca" site_id="77598" xmltv_id="FAMCCDM">FAMCCDM</channel>
+    <channel update="i" site="tvtv.ca" site_id="65531" xmltv_id="NICKC">NICKC</channel>
+    <channel update="i" site="tvtv.ca" site_id="17639" xmltv_id="TREEC">TREEC</channel>
+    <channel update="i" site="tvtv.ca" site_id="46782" xmltv_id="TREEDM">TREEDM</channel>
+    <channel update="i" site="tvtv.ca" site_id="72093" xmltv_id="CHRGE">CHRGE</channel>
+    <channel update="i" site="tvtv.ca" site_id="75031" xmltv_id="SPARK">SPARK</channel>
+    <channel update="i" site="tvtv.ca" site_id="113497" xmltv_id="TOONAVN">TOONAVN</channel>
+    <channel update="i" site="tvtv.ca" site_id="76221" xmltv_id="CN">CN</channel>
+    <channel update="i" site="tvtv.ca" site_id="10984" xmltv_id="MUCH">MUCH</channel>
+    <channel update="i" site="tvtv.ca" site_id="54356" xmltv_id="AXSTVC">AXSTVC</channel>
+    <channel update="i" site="tvtv.ca" site_id="65409" xmltv_id="ASIDE">ASIDE</channel>
+    <channel update="i" site="tvtv.ca" site_id="24514" xmltv_id="MTVCAN">MTVCAN</channel>
+    <channel update="i" site="tvtv.ca" site_id="26775" xmltv_id="MTV2CAN">MTV2CAN</channel>
+    <channel update="i" site="tvtv.ca" site_id="15072" xmltv_id="CMT">CMT</channel>
+    <channel update="i" site="tvtv.ca" site_id="45733" xmltv_id="BETC">BETC</channel>
+    <channel update="i" site="tvtv.ca" site_id="34281" xmltv_id="STGRET">STGRET</channel>
+    <channel update="i" site="tvtv.ca" site_id="27210" xmltv_id="STGVIB">STGVIB</channel>
+    <channel update="i" site="tvtv.ca" site_id="27207" xmltv_id="STGLOU">STGLOU</channel>
+    <channel update="i" site="tvtv.ca" site_id="113664" xmltv_id="CTRYH">CTRYH</channel>
+    <channel update="i" site="tvtv.ca" site_id="90613" xmltv_id="NESCAPE">NESCAPE</channel>
+    <channel update="i" site="tvtv.ca" site_id="17638" xmltv_id="HGTVC">HGTVC</channel>
+    <channel update="i" site="tvtv.ca" site_id="15181" xmltv_id="SLICE">SLICE</channel>
+    <channel update="i" site="tvtv.ca" site_id="15024" xmltv_id="W">W</channel>
+    <channel update="i" site="tvtv.ca" site_id="24525" xmltv_id="FOODC">FOODC</channel>
+    <channel update="i" site="tvtv.ca" site_id="18808" xmltv_id="LIFES">LIFES</channel>
+    <channel update="i" site="tvtv.ca" site_id="26777" xmltv_id="ONE">ONE</channel>
+    <channel update="i" site="tvtv.ca" site_id="26829" xmltv_id="DIYC">DIYC</channel>
+    <channel update="i" site="tvtv.ca" site_id="26776" xmltv_id="OUTTV">OUTTV</channel>
+    <channel update="i" site="tvtv.ca" site_id="66793" xmltv_id="COOKC">COOKC</channel>
+    <channel update="i" site="tvtv.ca" site_id="10036" xmltv_id="ARTSC">ARTSC</channel>
+    <channel update="i" site="tvtv.ca" site_id="15085" xmltv_id="SHCASEC">SHCASEC</channel>
+    <channel update="i" site="tvtv.ca" site_id="68576" xmltv_id="AFRCAHD">AFRCAHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="17693" xmltv_id="DTOUR">DTOUR</channel>
+    <channel update="i" site="tvtv.ca" site_id="15176" xmltv_id="DRAMAS">DRAMAS</channel>
+    <channel update="i" site="tvtv.ca" site_id="20675" xmltv_id="ECAN">ECAN</channel>
+    <channel update="i" site="tvtv.ca" site_id="48727" xmltv_id="GAMETV">GAMETV</channel>
+    <channel update="i" site="tvtv.ca" site_id="17595" xmltv_id="CMDY">CMDY</channel>
+    <channel update="i" site="tvtv.ca" site_id="17648" xmltv_id="CMDYW">CMDYW</channel>
+    <channel update="i" site="tvtv.ca" site_id="17609" xmltv_id="SCIFIS">SCIFIS</channel>
+    <channel update="i" site="tvtv.ca" site_id="24771" xmltv_id="PARCAN">PARCAN</channel>
+    <channel update="i" site="tvtv.ca" site_id="26772" xmltv_id="H2C">H2C</channel>
+    <channel update="i" site="tvtv.ca" site_id="115163" xmltv_id="MUSEUM">MUSEUM</channel>
+    <channel update="i" site="tvtv.ca" site_id="29008" xmltv_id="AHCC">AHCC</channel>
+    <channel update="i" site="tvtv.ca" site_id="48742" xmltv_id="DYSTRC">DYSTRC</channel>
+    <channel update="i" site="tvtv.ca" site_id="33583" xmltv_id="EWTNC: - EWTN">EWTNC: - EWTN</channel>
+    <channel update="i" site="tvtv.ca" site_id="26873" xmltv_id="DEJA">DEJA</channel>
+    <channel update="i" site="tvtv.ca" site_id="99456" xmltv_id="CPISD">CPISD</channel>
+    <channel update="i" site="tvtv.ca" site_id="14909" xmltv_id="GSN">GSN</channel>
+    <channel update="i" site="tvtv.ca" site_id="46217" xmltv_id="MAKEFL">MAKEFL</channel>
+    <channel update="i" site="tvtv.ca" site_id="26779" xmltv_id="COTT">COTT</channel>
+    <channel update="i" site="tvtv.ca" site_id="89708" xmltv_id="BHARATI">BHARATI</channel>
+    <channel update="i" site="tvtv.ca" site_id="89709" xmltv_id="ADINDIA">ADINDIA</channel>
+    <channel update="i" site="tvtv.ca" site_id="90925" xmltv_id="ATNDDUR">ATNDDUR</channel>
+    <channel update="i" site="tvtv.ca" site_id="46169" xmltv_id="TVCI">TVCI</channel>
+    <channel update="i" site="tvtv.ca" site_id="89710" xmltv_id="ATNNEWS">ATNNEWS</channel>
+    <channel update="i" site="tvtv.ca" site_id="18805" xmltv_id="CITS">CITS</channel>
+    <channel update="i" site="tvtv.ca" site_id="89782" xmltv_id="NGRTV">NGRTV</channel>
+    <channel update="i" site="tvtv.ca" site_id="89786" xmltv_id="GRMC">GRMC</channel>
+    <channel update="i" site="tvtv.ca" site_id="104191" xmltv_id="SALTHD">SALTHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="79952" xmltv_id="CGTN9">CGTN9</channel>
+    <channel update="i" site="tvtv.ca" site_id="96547" xmltv_id="CGTNFR">CGTNFR</channel>
+    <channel update="i" site="tvtv.ca" site_id="29114" xmltv_id="CGTN">CGTN</channel>
+    <channel update="i" site="tvtv.ca" site_id="49411" xmltv_id="CARIBVN">CARIBVN</channel>
+    <channel update="i" site="tvtv.ca" site_id="89777" xmltv_id="WINTVHD">WINTVHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="89454" xmltv_id="CARR">CARR</channel>
+    <channel update="i" site="tvtv.ca" site_id="110958" xmltv_id="CEENHD">CEENHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="73396" xmltv_id="AFRPLUS">AFRPLUS</channel>
+    <channel update="i" site="tvtv.ca" site_id="89284" xmltv_id="AFROM">AFROM</channel>
+    <channel update="i" site="tvtv.ca" site_id="68006" xmltv_id="AFRMU">AFRMU</channel>
+    <channel update="i" site="tvtv.ca" site_id="89438" xmltv_id="TVNAI">TVNAI</channel>
+    <channel update="i" site="tvtv.ca" site_id="92152" xmltv_id="RAWALC">RAWALC</channel>
+    <channel update="i" site="tvtv.ca" site_id="89776" xmltv_id="ATNSK">ATNSK</channel>
+    <channel update="i" site="tvtv.ca" site_id="106408" xmltv_id="ZEEPUNC">ZEEPUNC</channel>
+    <channel update="i" site="tvtv.ca" site_id="89122" xmltv_id="HB">HB</channel>
+    <channel update="i" site="tvtv.ca" site_id="83346" xmltv_id="ZTAMIL">ZTAMIL</channel>
+    <channel update="i" site="tvtv.ca" site_id="89705" xmltv_id="KTV">KTV</channel>
+    <channel update="i" site="tvtv.ca" site_id="89597" xmltv_id="HELLO -">HELLO -</channel>
+    <channel update="i" site="tvtv.ca" site_id="89552" xmltv_id="VKMFM -">VKMFM -</channel>
+    <channel update="i" site="tvtv.ca" site_id="89778" xmltv_id="VKMHD">VKMHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="89784" xmltv_id="PASIAHD">PASIAHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="89775" xmltv_id="ATNBA">ATNBA</channel>
+    <channel update="i" site="tvtv.ca" site_id="83580" xmltv_id="ATNFF">ATNFF</channel>
+    <channel update="i" site="tvtv.ca" site_id="89700" xmltv_id="ATNMTVI">ATNMTVI</channel>
+    <channel update="i" site="tvtv.ca" site_id="90108" xmltv_id="B4UPL">B4UPL</channel>
+    <channel update="i" site="tvtv.ca" site_id="102595" xmltv_id="ZBOLLCH">ZBOLLCH</channel>
+    <channel update="i" site="tvtv.ca" site_id="89287" xmltv_id="PASIACR -">PASIACR -</channel>
+    <channel update="i" site="tvtv.ca" site_id="89322" xmltv_id="PASIAHR -">PASIAHR -</channel>
+    <channel update="i" site="tvtv.ca" site_id="89323" xmltv_id="PASIAPR -">PASIAPR -</channel>
+    <channel update="i" site="tvtv.ca" site_id="89324" xmltv_id="PASIASR -">PASIASR -</channel>
+    <channel update="i" site="tvtv.ca" site_id="90586" xmltv_id="RTSSATC">RTSSATC</channel>
+    <channel update="i" site="tvtv.ca" site_id="89283" xmltv_id="5KANL">5KANL</channel>
+    <channel update="i" site="tvtv.ca" site_id="89495" xmltv_id="FNTL">FNTL</channel>
+    <channel update="i" site="tvtv.ca" site_id="90947" xmltv_id="HRTCAN">HRTCAN</channel>
+    <channel update="i" site="tvtv.ca" site_id="89783" xmltv_id="RTLB">RTLB</channel>
+    <channel update="i" site="tvtv.ca" site_id="45314" xmltv_id="SKYTG24">SKYTG24</channel>
+    <channel update="i" site="tvtv.ca" site_id="90588" xmltv_id="MITALC">MITALC</channel>
+    <channel update="i" site="tvtv.ca" site_id="48933" xmltv_id="TLN2">TLN2</channel>
+    <channel update="i" site="tvtv.ca" site_id="105072" xmltv_id="TLNHD">TLNHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="109462" xmltv_id="RAIIHD">RAIIHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="78803" xmltv_id="RAINW24">RAINW24</channel>
+    <channel update="i" site="tvtv.ca" site_id="90215" xmltv_id="TELEBIM">TELEBIM</channel>
+    <channel update="i" site="tvtv.ca" site_id="81006" xmltv_id="FRCD2HD">FRCD2HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="68275" xmltv_id="WOW1HD">WOW1HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="44625" xmltv_id="GUAND">GUAND</channel>
+    <channel update="i" site="tvtv.ca" site_id="44642" xmltv_id="BEJTV">BEJTV</channel>
+    <channel update="i" site="tvtv.ca" site_id="44608" xmltv_id="CCENT">CCENT</channel>
+    <channel update="i" site="tvtv.ca" site_id="24935" xmltv_id="PNAX">PNAX</channel>
+    <channel update="i" site="tvtv.ca" site_id="115829" xmltv_id="TCHLDHD">TCHLDHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="115831" xmltv_id="VCHLDHD">VCHLDHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="115748" xmltv_id="TVSVHD">TVSVHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="24248" xmltv_id="CCTV4">CCTV4</channel>
+    <channel update="i" site="tvtv.ca" site_id="44562" xmltv_id="DRAGN">DRAGN</channel>
+    <channel update="i" site="tvtv.ca" site_id="44609" xmltv_id="FUJTV">FUJTV</channel>
+    <channel update="i" site="tvtv.ca" site_id="95643" xmltv_id="HUNANC">HUNANC</channel>
+    <channel update="i" site="tvtv.ca" site_id="44577" xmltv_id="JIG">JIG</channel>
+    <channel update="i" site="tvtv.ca" site_id="91048" xmltv_id="NTDCAN">NTDCAN</channel>
+    <channel update="i" site="tvtv.ca" site_id="106083" xmltv_id="LSTMSHD">LSTMSHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="93264" xmltv_id="CCTV1">CCTV1</channel>
+    <channel update="i" site="tvtv.ca" site_id="75056" xmltv_id="MOMO">MOMO</channel>
+    <channel update="i" site="tvtv.ca" site_id="47389" xmltv_id="CNTV">CNTV</channel>
+    <channel update="i" site="tvtv.ca" site_id="73554" xmltv_id="TVJPNHD">TVJPNHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="105060" xmltv_id="ALLTVHD">ALLTVHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="55999" xmltv_id="ALLTVK">ALLTVK</channel>
+    <channel update="i" site="tvtv.ca" site_id="89668" xmltv_id="SBNC">SBNC</channel>
+    <channel update="i" site="tvtv.ca" site_id="60165" xmltv_id="JLTV">JLTV</channel>
+    <channel update="i" site="tvtv.ca" site_id="49688" xmltv_id="MUSIK">MUSIK</channel>
+    <channel update="i" site="tvtv.ca" site_id="87155" xmltv_id="2MAROC">2MAROC</channel>
+    <channel update="i" site="tvtv.ca" site_id="109894" xmltv_id="ARYNW">ARYNW</channel>
+    <channel update="i" site="tvtv.ca" site_id="102562" xmltv_id="ARYZAUC">ARYZAUC</channel>
+    <channel update="i" site="tvtv.ca" site_id="84547" xmltv_id="YAHALA">YAHALA</channel>
+    <channel update="i" site="tvtv.ca" site_id="60324" xmltv_id="DREAM2">DREAM2</channel>
+    <channel update="i" site="tvtv.ca" site_id="20664" xmltv_id="FUTURE">FUTURE</channel>
+    <channel update="i" site="tvtv.ca" site_id="90681" xmltv_id="AFLAMC">AFLAMC</channel>
+    <channel update="i" site="tvtv.ca" site_id="91027" xmltv_id="MELHITS">MELHITS</channel>
+    <channel update="i" site="tvtv.ca" site_id="90651" xmltv_id="MDRAMA">MDRAMA</channel>
+    <channel update="i" site="tvtv.ca" site_id="64329" xmltv_id="BBCARAB">BBCARAB</channel>
+    <channel update="i" site="tvtv.ca" site_id="91091" xmltv_id="BMVNUSF">BMVNUSF</channel>
+    <channel update="i" site="tvtv.ca" site_id="26569" xmltv_id="PPV772">PPV772</channel>
+    <channel update="i" site="tvtv.ca" site_id="26570" xmltv_id="PPV773">PPV773</channel>
+    <channel update="i" site="tvtv.ca" site_id="26571" xmltv_id="PPV774">PPV774</channel>
+    <channel update="i" site="tvtv.ca" site_id="34234" xmltv_id="EXXXTSY">EXXXTSY</channel>
+    <channel update="i" site="tvtv.ca" site_id="68670" xmltv_id="PENTCPM">PENTCPM</channel>
+    <channel update="i" site="tvtv.ca" site_id="68531" xmltv_id="REDHOTP">REDHOTP</channel>
+    <channel update="i" site="tvtv.ca" site_id="80771" xmltv_id="DRCLFHD">DRCLFHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="89503" xmltv_id="DORCL">DORCL</channel>
+    <channel update="i" site="tvtv.ca" site_id="109265" xmltv_id="PLAYREG">PLAYREG</channel>
+    <channel update="i" site="tvtv.ca" site_id="45298" xmltv_id="AOVMV">AOVMV</channel>
+    <channel update="i" site="tvtv.ca" site_id="45329" xmltv_id="AOVGM">AOVGM</channel>
+    <channel update="i" site="tvtv.ca" site_id="50404" xmltv_id="PLAYHD">PLAYHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="65224" xmltv_id="HUSLRHD">HUSLRHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="21773" xmltv_id="ZCIN">ZCIN</channel>
+    <channel update="i" site="tvtv.ca" site_id="86123" xmltv_id="ATNTIME">ATNTIME</channel>
+    <channel update="i" site="tvtv.ca" site_id="48522" xmltv_id="HT">HT</channel>
+    <channel update="i" site="tvtv.ca" site_id="85862" xmltv_id="ATNCLRS">ATNCLRS</channel>
+    <channel update="i" site="tvtv.ca" site_id="75061" xmltv_id="ZOOMCAN">ZOOMCAN</channel>
+    <channel update="i" site="tvtv.ca" site_id="74146" xmltv_id="SABCAN">SABCAN</channel>
+    <channel update="i" site="tvtv.ca" site_id="86766" xmltv_id="ATNAAST">ATNAAST</channel>
+    <channel update="i" site="tvtv.ca" site_id="89779" xmltv_id="ATNSPRT">ATNSPRT</channel>
+    <channel update="i" site="tvtv.ca" site_id="24465" xmltv_id="B4UMUS">B4UMUS</channel>
+    <channel update="i" site="tvtv.ca" site_id="48859" xmltv_id="CBNNET">CBNNET</channel>
+    <channel update="i" site="tvtv.ca" site_id="71809" xmltv_id="ATNCRKP">ATNCRKP</channel>
+    <channel update="i" site="tvtv.ca" site_id="52285" xmltv_id="FILMY">FILMY</channel>
+    <channel update="i" site="tvtv.ca" site_id="72532" xmltv_id="NDTV2C">NDTV2C</channel>
+    <channel update="i" site="tvtv.ca" site_id="63360" xmltv_id="NDGT">NDGT</channel>
+    <channel update="i" site="tvtv.ca" site_id="76773" xmltv_id="TVASIA">TVASIA</channel>
+    <channel update="i" site="tvtv.ca" site_id="72296" xmltv_id="SETMXC">SETMXC</channel>
+    <channel update="i" site="tvtv.ca" site_id="79544" xmltv_id="ATNMAX2">ATNMAX2</channel>
+    <channel update="i" site="tvtv.ca" site_id="86447" xmltv_id="ATNABPN">ATNABPN</channel>
+    <channel update="i" site="tvtv.ca" site_id="106202" xmltv_id="ATNLFE">ATNLFE</channel>
+    <channel update="i" site="tvtv.ca" site_id="105936" xmltv_id="ATNTP">ATNTP</channel>
+    <channel update="i" site="tvtv.ca" site_id="48512" xmltv_id="AAJTK">AAJTK</channel>
+    <channel update="i" site="tvtv.ca" site_id="28755" xmltv_id="B4UCAN">B4UCAN</channel>
+    <channel update="i" site="tvtv.ca" site_id="76407" xmltv_id="ATNMOV">ATNMOV</channel>
+    <channel update="i" site="tvtv.ca" site_id="89731" xmltv_id="ATNZEEH">ATNZEEH</channel>
+    <channel update="i" site="tvtv.ca" site_id="47136" xmltv_id="SAHARA">SAHARA</channel>
+    <channel update="i" site="tvtv.ca" site_id="105172" xmltv_id="SETHCHD">SETHCHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="90652" xmltv_id="ATNBNGC">ATNBNGC</channel>
+    <channel update="i" site="tvtv.ca" site_id="44377" xmltv_id="NTV1">NTV1</channel>
+    <channel update="i" site="tvtv.ca" site_id="97029" xmltv_id="SAATH">SAATH</channel>
+    <channel update="i" site="tvtv.ca" site_id="30354" xmltv_id="PUNJA">PUNJA</channel>
+    <channel update="i" site="tvtv.ca" site_id="63512" xmltv_id="PNJBI">PNJBI</channel>
+    <channel update="i" site="tvtv.ca" site_id="75179" xmltv_id="CPUNJ">CPUNJ</channel>
+    <channel update="i" site="tvtv.ca" site_id="73965" xmltv_id="ATNPM1">ATNPM1</channel>
+    <channel update="i" site="tvtv.ca" site_id="86301" xmltv_id="ATNPUNJ">ATNPUNJ</channel>
+    <channel update="i" site="tvtv.ca" site_id="87099" xmltv_id="SSTVC">SSTVC</channel>
+    <channel update="i" site="tvtv.ca" site_id="28756" xmltv_id="JAYATV">JAYATV</channel>
+    <channel update="i" site="tvtv.ca" site_id="64721" xmltv_id="PTC">PTC</channel>
+    <channel update="i" site="tvtv.ca" site_id="79063" xmltv_id="ATNURDU">ATNURDU</channel>
+    <channel update="i" site="tvtv.ca" site_id="36118" xmltv_id="GEOTV">GEOTV</channel>
+    <channel update="i" site="tvtv.ca" site_id="64731" xmltv_id="TVONEGL">TVONEGL</channel>
+    <channel update="i" site="tvtv.ca" site_id="102618" xmltv_id="ARYQTVC">ARYQTVC</channel>
+    <channel update="i" site="tvtv.ca" site_id="66899" xmltv_id="HUMTV">HUMTV</channel>
+    <channel update="i" site="tvtv.ca" site_id="66908" xmltv_id="MASALA">MASALA</channel>
+    <channel update="i" site="tvtv.ca" site_id="50260" xmltv_id="PTVGLB">PTVGLB</channel>
+    <channel update="i" site="tvtv.ca" site_id="89707" xmltv_id="ZEES">ZEES</channel>
+    <channel update="i" site="tvtv.ca" site_id="90020" xmltv_id="BARYD">BARYD</channel>
+    <channel update="i" site="tvtv.ca" site_id="91024" xmltv_id="ZINGCAN">ZINGCAN</channel>
+    <channel update="i" site="tvtv.ca" site_id="83299" xmltv_id="ZEETVHD">ZEETVHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="97195" xmltv_id="ATNCOLB">ATNCOLB</channel>
+    <channel update="i" site="tvtv.ca" site_id="89704" xmltv_id="ATNGUJ">ATNGUJ</channel>
+    <channel update="i" site="tvtv.ca" site_id="47228" xmltv_id="CHI">CHI</channel>
+    <channel update="i" site="tvtv.ca" site_id="89780" xmltv_id="TETHD">TETHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="31634" xmltv_id="SUNTV">SUNTV</channel>
+    <channel update="i" site="tvtv.ca" site_id="30357" xmltv_id="TAMIL">TAMIL</channel>
+    <channel update="i" site="tvtv.ca" site_id="31758" xmltv_id="ABUDH">ABUDH</channel>
+    <channel update="i" site="tvtv.ca" site_id="100075" xmltv_id="ZBNGL">ZBNGL</channel>
+    <channel update="i" site="tvtv.ca" site_id="55629" xmltv_id="GKPL">GKPL</channel>
+    <channel update="i" site="tvtv.ca" site_id="89502" xmltv_id="SHGER">SHGER</channel>
+    <channel update="i" site="tvtv.ca" site_id="74479" xmltv_id="DWPLUS">DWPLUS</channel>
+    <channel update="i" site="tvtv.ca" site_id="96541" xmltv_id="PSIEB1C">PSIEB1C</channel>
+    <channel update="i" site="tvtv.ca" site_id="89549" xmltv_id="HERZ -">HERZ -</channel>
+    <channel update="i" site="tvtv.ca" site_id="75448" xmltv_id="GMANEWS">GMANEWS</channel>
+    <channel update="i" site="tvtv.ca" site_id="46463" xmltv_id="GMAPNY">GMAPNY</channel>
+    <channel update="i" site="tvtv.ca" site_id="60152" xmltv_id="GMALIFE">GMALIFE</channel>
+    <channel update="i" site="tvtv.ca" site_id="114812" xmltv_id="FILETHD">FILETHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="76355" xmltv_id="FLPNOTV">FLPNOTV</channel>
+    <channel update="i" site="tvtv.ca" site_id="75621" xmltv_id="KAPATID">KAPATID</channel>
+    <channel update="i" site="tvtv.ca" site_id="106484" xmltv_id="ESTRECA">ESTRECA</channel>
+    <channel update="i" site="tvtv.ca" site_id="39719" xmltv_id="CARAI">CARAI</channel>
+    <channel update="i" site="tvtv.ca" site_id="15210" xmltv_id="THMU">THMU</channel>
+    <channel update="i" site="tvtv.ca" site_id="102514" xmltv_id="UNICANH">UNICANH</channel>
+    <channel update="i" site="tvtv.ca" site_id="37232" xmltv_id="TLNOVEL">TLNOVEL</channel>
+    <channel update="i" site="tvtv.ca" site_id="79968" xmltv_id="MUND">MUND</channel>
+    <channel update="i" site="tvtv.ca" site_id="15296" xmltv_id="CINL">CINL</channel>
+    <channel update="i" site="tvtv.ca" site_id="16046" xmltv_id="TVNI">TVNI</channel>
+    <channel update="i" site="tvtv.ca" site_id="73812" xmltv_id="FOXLUS">FOXLUS</channel>
+    <channel update="i" site="tvtv.ca" site_id="76943" xmltv_id="BEINSES">BEINSES</channel>
+    <channel update="i" site="tvtv.ca" site_id="74631" xmltv_id="TELENIN">TELENIN</channel>
+    <channel update="i" site="tvtv.ca" site_id="28466" xmltv_id="RECI: - RREC">RECI: - RREC</channel>
+    <channel update="i" site="tvtv.ca" site_id="53004" xmltv_id="SICNO">SICNO</channel>
+    <channel update="i" site="tvtv.ca" site_id="89531" xmltv_id="CIRV -">CIRV -</channel>
+    <channel update="i" site="tvtv.ca" site_id="30440" xmltv_id="FPTV">FPTV</channel>
+    <channel update="i" site="tvtv.ca" site_id="15717" xmltv_id="RTPI">RTPI</channel>
+    <channel update="i" site="tvtv.ca" site_id="89550" xmltv_id="RDPI -">RDPI -</channel>
+    <channel update="i" site="tvtv.ca" site_id="21065" xmltv_id="RGTI: - REDEGL">RGTI: - REDEGL</channel>
+    <channel update="i" site="tvtv.ca" site_id="50595" xmltv_id="RBTI1">RBTI1</channel>
+    <channel update="i" site="tvtv.ca" site_id="68191" xmltv_id="BENFC">BENFC</channel>
+    <channel update="i" site="tvtv.ca" site_id="89788" xmltv_id="TVIP">TVIP</channel>
+    <channel update="i" site="tvtv.ca" site_id="21053" xmltv_id="MEGATV">MEGATV</channel>
+    <channel update="i" site="tvtv.ca" site_id="19906" xmltv_id="ODSYC">ODSYC</channel>
+    <channel update="i" site="tvtv.ca" site_id="33684" xmltv_id="ERTSAT">ERTSAT</channel>
+    <channel update="i" site="tvtv.ca" site_id="56072" xmltv_id="ALPHATV">ALPHATV</channel>
+    <channel update="i" site="tvtv.ca" site_id="89461" xmltv_id="CHTO -">CHTO -</channel>
+    <channel update="i" site="tvtv.ca" site_id="104046" xmltv_id="CMTVPOR">CMTVPOR</channel>
+    <channel update="i" site="tvtv.ca" site_id="21063" xmltv_id="RTVINT">RTVINT</channel>
+    <channel update="i" site="tvtv.ca" site_id="34128" xmltv_id="C1RWN">C1RWN</channel>
+    <channel update="i" site="tvtv.ca" site_id="43389" xmltv_id="RTR">RTR</channel>
+    <channel update="i" site="tvtv.ca" site_id="27549" xmltv_id="ISRAEL">ISRAEL</channel>
+    <channel update="i" site="tvtv.ca" site_id="90992" xmltv_id="RILLCAN">RILLCAN</channel>
+    <channel update="i" site="tvtv.ca" site_id="90658" xmltv_id="SMVDM">SMVDM</channel>
+    <channel update="i" site="tvtv.ca" site_id="45214" xmltv_id="SM036">SM036</channel>
+    <channel update="i" site="tvtv.ca" site_id="21623" xmltv_id="SM002">SM002</channel>
+    <channel update="i" site="tvtv.ca" site_id="21635" xmltv_id="SM003">SM003</channel>
+    <channel update="i" site="tvtv.ca" site_id="21612" xmltv_id="SM001">SM001</channel>
+    <channel update="i" site="tvtv.ca" site_id="21625" xmltv_id="SM021">SM021</channel>
+    <channel update="i" site="tvtv.ca" site_id="21640" xmltv_id="SM007">SM007</channel>
+    <channel update="i" site="tvtv.ca" site_id="21637" xmltv_id="SM004">SM004</channel>
+    <channel update="i" site="tvtv.ca" site_id="21628" xmltv_id="SM024">SM024</channel>
+    <channel update="i" site="tvtv.ca" site_id="45225" xmltv_id="SM037">SM037</channel>
+    <channel update="i" site="tvtv.ca" site_id="21618" xmltv_id="SM015">SM015</channel>
+    <channel update="i" site="tvtv.ca" site_id="21632" xmltv_id="SM028">SM028</channel>
+    <channel update="i" site="tvtv.ca" site_id="45224" xmltv_id="SM042">SM042</channel>
+    <channel update="i" site="tvtv.ca" site_id="21641" xmltv_id="SM008">SM008</channel>
+    <channel update="i" site="tvtv.ca" site_id="21642" xmltv_id="SM009">SM009</channel>
+    <channel update="i" site="tvtv.ca" site_id="21707" xmltv_id="SM032">SM032</channel>
+    <channel update="i" site="tvtv.ca" site_id="45222" xmltv_id="SM033">SM033</channel>
+    <channel update="i" site="tvtv.ca" site_id="21621" xmltv_id="SM018">SM018</channel>
+    <channel update="i" site="tvtv.ca" site_id="21639" xmltv_id="SM006">SM006</channel>
+    <channel update="i" site="tvtv.ca" site_id="45220" xmltv_id="SM045">SM045</channel>
+    <channel update="i" site="tvtv.ca" site_id="21619" xmltv_id="SM016">SM016</channel>
+    <channel update="i" site="tvtv.ca" site_id="21620" xmltv_id="SM017">SM017</channel>
+    <channel update="i" site="tvtv.ca" site_id="83290" xmltv_id="SM109">SM109</channel>
+    <channel update="i" site="tvtv.ca" site_id="45218" xmltv_id="SM039">SM039</channel>
+    <channel update="i" site="tvtv.ca" site_id="45217" xmltv_id="SM035">SM035</channel>
+    <channel update="i" site="tvtv.ca" site_id="21622" xmltv_id="SM019">SM019</channel>
+    <channel update="i" site="tvtv.ca" site_id="45215" xmltv_id="SM041">SM041</channel>
+    <channel update="i" site="tvtv.ca" site_id="21626" xmltv_id="SM020">SM020</channel>
+    <channel update="i" site="tvtv.ca" site_id="21627" xmltv_id="SM023">SM023</channel>
+    <channel update="i" site="tvtv.ca" site_id="21624" xmltv_id="SM022">SM022</channel>
+    <channel update="i" site="tvtv.ca" site_id="21638" xmltv_id="SM005">SM005</channel>
+    <channel update="i" site="tvtv.ca" site_id="21629" xmltv_id="SM025">SM025</channel>
+    <channel update="i" site="tvtv.ca" site_id="21630" xmltv_id="SM026">SM026</channel>
+    <channel update="i" site="tvtv.ca" site_id="21631" xmltv_id="SM027">SM027</channel>
+    <channel update="i" site="tvtv.ca" site_id="45249" xmltv_id="SM031">SM031</channel>
+    <channel update="i" site="tvtv.ca" site_id="83288" xmltv_id="SM108">SM108</channel>
+    <channel update="i" site="tvtv.ca" site_id="21735" xmltv_id="SM048">SM048</channel>
+    <channel update="i" site="tvtv.ca" site_id="45247" xmltv_id="SM044">SM044</channel>
+    <channel update="i" site="tvtv.ca" site_id="21616" xmltv_id="SM013">SM013</channel>
+    <channel update="i" site="tvtv.ca" site_id="21613" xmltv_id="SM010">SM010</channel>
+    <channel update="i" site="tvtv.ca" site_id="56194" xmltv_id="SM011">SM011</channel>
+    <channel update="i" site="tvtv.ca" site_id="21615" xmltv_id="SM012">SM012</channel>
+    <channel update="i" site="tvtv.ca" site_id="21617" xmltv_id="SM014">SM014</channel>
+    <channel update="i" site="tvtv.ca" site_id="45246" xmltv_id="SM043">SM043</channel>
+    <channel update="i" site="tvtv.ca" site_id="21636" xmltv_id="SM030">SM030</channel>
+    <channel update="i" site="tvtv.ca" site_id="76224" xmltv_id="SM101">SM101</channel>
+    <channel update="i" site="tvtv.ca" site_id="92242" xmltv_id="SM160">SM160</channel>
+    <channel update="i" site="tvtv.ca" site_id="89532" xmltv_id="CISM -">CISM -</channel>
+    <channel update="i" site="tvtv.ca" site_id="89536" xmltv_id="CKUT -">CKUT -</channel>
+    <channel update="i" site="tvtv.ca" site_id="89537" xmltv_id="CJLO -">CJLO -</channel>
+    <channel update="i" site="tvtv.ca" site_id="89462" xmltv_id="CHYZ -">CHYZ -</channel>
+    <channel update="i" site="tvtv.ca" site_id="67844" xmltv_id="CBME -">CBME -</channel>
+    <channel update="i" site="tvtv.ca" site_id="89455" xmltv_id="CBMRAD -">CBMRAD -</channel>
+    <channel update="i" site="tvtv.ca" site_id="26605" xmltv_id="CBLA -">CBLA -</channel>
+    <channel update="i" site="tvtv.ca" site_id="26606" xmltv_id="CBL -">CBL -</channel>
+    <channel update="i" site="tvtv.ca" site_id="89530" xmltv_id="CIRA -">CIRA -</channel>
+    <channel update="i" site="tvtv.ca" site_id="89528" xmltv_id="CIBL -">CIBL -</channel>
+    <channel update="i" site="tvtv.ca" site_id="89529" xmltv_id="CINQ -">CINQ -</channel>
+    <channel update="i" site="tvtv.ca" site_id="89446" xmltv_id="CHAIRAD -">CHAIRAD -</channel>
+    <channel update="i" site="tvtv.ca" site_id="89768" xmltv_id="CHAA -">CHAA -</channel>
+    <channel update="i" site="tvtv.ca" site_id="89458" xmltv_id="CHOC -">CHOC -</channel>
+    <channel update="i" site="tvtv.ca" site_id="47841" xmltv_id="EMRC -">EMRC -</channel>
+    <channel update="i" site="tvtv.ca" site_id="89538" xmltv_id="CKRK -">CKRK -</channel>
+    <channel update="i" site="tvtv.ca" site_id="89769" xmltv_id="CJBCA -">CJBCA -</channel>
+    <channel update="i" site="tvtv.ca" site_id="89459" xmltv_id="CHOQ -">CHOQ -</channel>
+    <channel update="i" site="tvtv.ca" site_id="89541" xmltv_id="NPRRAD -">NPRRAD -</channel>
+    <channel update="i" site="tvtv.ca" site_id="21703" xmltv_id="CIUTFM -">CIUTFM -</channel>
+    <channel update="i" site="tvtv.ca" site_id="19141" xmltv_id="RFI -">RFI -</channel>
+    <channel update="i" site="tvtv.ca" site_id="89460" xmltv_id="CHRY -">CHRY -</channel>
+    <channel update="i" site="tvtv.ca" site_id="47478" xmltv_id="CBFX -">CBFX -</channel>
+    <channel update="i" site="tvtv.ca" site_id="47474" xmltv_id="CBF -">CBF -</channel>
+    <channel update="i" site="tvtv.ca" site_id="26563" xmltv_id="CHUM -">CHUM -</channel>
+    <channel update="i" site="tvtv.ca" site_id="26607" xmltv_id="CHUMFM -">CHUMFM -</channel>
+    <channel update="i" site="tvtv.ca" site_id="61981" xmltv_id="CFRW -">CFRW -</channel>
+    <channel update="i" site="tvtv.ca" site_id="89551" xmltv_id="TSNRM -">TSNRM -</channel>
+    <channel update="i" site="tvtv.ca" site_id="89548" xmltv_id="PROUD -">PROUD -</channel>
+    <channel update="i" site="tvtv.ca" site_id="16910" xmltv_id="PPV">PPV</channel>
+    <channel update="i" site="tvtv.ca" site_id="89622" xmltv_id="PVRC">PVRC</channel>
+    <channel update="i" site="tvtv.ca" site_id="78791" xmltv_id="AMITVHD">AMITVHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="91112" xmltv_id="AMITELH">AMITELH</channel>
+    <channel update="i" site="tvtv.ca" site_id="45867" xmltv_id="CBFTDT: - SRC">CBFTDT: - SRC</channel>
+    <channel update="i" site="tvtv.ca" site_id="58688" xmltv_id="CFJPDT: - NOOVO">CFJPDT: - NOOVO</channel>
+    <channel update="i" site="tvtv.ca" site_id="72755" xmltv_id="CFTMDT: - TVA">CFTMDT: - TVA</channel>
+    <channel update="i" site="tvtv.ca" site_id="63040" xmltv_id="CIVMDT">CIVMDT</channel>
+    <channel update="i" site="tvtv.ca" site_id="79671" xmltv_id="METEOHD">METEOHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="89489" xmltv_id="FIBE3">FIBE3</channel>
+    <channel update="i" site="tvtv.ca" site_id="58592" xmltv_id="RDSHD">RDSHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="73275" xmltv_id="RDS2HD">RDS2HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="74610" xmltv_id="RDSIHD">RDSIHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="73142" xmltv_id="TVASPTH">TVASPTH</channel>
+    <channel update="i" site="tvtv.ca" site_id="90206" xmltv_id="TSP2H">TSP2H</channel>
+    <channel update="i" site="tvtv.ca" site_id="92074" xmltv_id="TSP3H">TSP3H</channel>
+    <channel update="i" site="tvtv.ca" site_id="67231" xmltv_id="LCNHD">LCNHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="60327" xmltv_id="RDIHD">RDIHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="72599" xmltv_id="TELEHD">TELEHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="66003" xmltv_id="ADDIKHD">ADDIKHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="56165" xmltv_id="ZHD">ZHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="56109" xmltv_id="SERIEHD">SERIEHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="66001" xmltv_id="EVASHD">EVASHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="56163" xmltv_id="HISTFHD">HISTFHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="56161" xmltv_id="CANDHD">CANDHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="75054" xmltv_id="EXPLRAH">EXPLRAH</channel>
+    <channel update="i" site="tvtv.ca" site_id="88753" xmltv_id="CANDINH">CANDINH</channel>
+    <channel update="i" site="tvtv.ca" site_id="70087" xmltv_id="PLNETHD">PLNETHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="94045" xmltv_id="MEZLVHD">MEZLVHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="69466" xmltv_id="ELLEHD">ELLEHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="69468" xmltv_id="MXHD">MXHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="56159" xmltv_id="VRAKHD">VRAKHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="61443" xmltv_id="ARTVHD">ARTVHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="70104" xmltv_id="TV5HD">TV5HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="59532" xmltv_id="CASATV">CASATV</channel>
+    <channel update="i" site="tvtv.ca" site_id="67429" xmltv_id="ZESTEHD">ZESTEHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="56105" xmltv_id="VIEHD">VIEHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="72006" xmltv_id="MOIHD">MOIHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="101338" xmltv_id="SEASONC">SEASONC</channel>
+    <channel update="i" site="tvtv.ca" site_id="76926" xmltv_id="PRIS2HD">PRIS2HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="90128" xmltv_id="UNISHD">UNISHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="80839" xmltv_id="ANATHD">ANATHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="105038" xmltv_id="CPACFHD">CPACFHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="66005" xmltv_id="TFOHD">TFOHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="74875" xmltv_id="CFTUDT">CFTUDT</channel>
+    <channel update="i" site="tvtv.ca" site_id="89494" xmltv_id="FOYRH">FOYRH</channel>
+    <channel update="i" site="tvtv.ca" site_id="81347" xmltv_id="MAGHD">MAGHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="67449" xmltv_id="YOOPAHD">YOOPAHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="91497" xmltv_id="TOONFHD">TOONFHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="96528" xmltv_id="DISNFHD">DISNFHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="53091" xmltv_id="ECRANHD">ECRANHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="69287" xmltv_id="ECRNHD2">ECRNHD2</channel>
+    <channel update="i" site="tvtv.ca" site_id="74083" xmltv_id="ECRANCH">ECRANCH</channel>
+    <channel update="i" site="tvtv.ca" site_id="74084" xmltv_id="ECRANDH">ECRANDH</channel>
+    <channel update="i" site="tvtv.ca" site_id="70699" xmltv_id="CINEPHD">CINEPHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="105853" xmltv_id="FRSSNSD">FRSSNSD</channel>
+    <channel update="i" site="tvtv.ca" site_id="49584" xmltv_id="CBVTDT: - SRC">CBVTDT: - SRC</channel>
+    <channel update="i" site="tvtv.ca" site_id="58759" xmltv_id="TVAHD: - TVA">TVAHD: - TVA</channel>
+    <channel update="i" site="tvtv.ca" site_id="72974" xmltv_id="CBAFTDT: - SRC">CBAFTDT: - SRC</channel>
+    <channel update="i" site="tvtv.ca" site_id="52235" xmltv_id="CBOFTDT: - SRC">CBOFTDT: - SRC</channel>
+    <channel update="i" site="tvtv.ca" site_id="45864" xmltv_id="CBLFTDT: - SRC">CBLFTDT: - SRC</channel>
+    <channel update="i" site="tvtv.ca" site_id="72984" xmltv_id="CBUFTDT: - SRC">CBUFTDT: - SRC</channel>
+    <channel update="i" site="tvtv.ca" site_id="115531" xmltv_id="RDSX1">RDSX1</channel>
+    <channel update="i" site="tvtv.ca" site_id="115532" xmltv_id="RDSX2">RDSX2</channel>
+    <channel update="i" site="tvtv.ca" site_id="115533" xmltv_id="RDSX3">RDSX3</channel>
+    <channel update="i" site="tvtv.ca" site_id="115534" xmltv_id="RDSX4">RDSX4</channel>
+    <channel update="i" site="tvtv.ca" site_id="115535" xmltv_id="RDSX5">RDSX5</channel>
+    <channel update="i" site="tvtv.ca" site_id="115536" xmltv_id="RDSX6">RDSX6</channel>
+    <channel update="i" site="tvtv.ca" site_id="115537" xmltv_id="RDSX7">RDSX7</channel>
+    <channel update="i" site="tvtv.ca" site_id="115538" xmltv_id="RDSX8">RDSX8</channel>
+    <channel update="i" site="tvtv.ca" site_id="65995" xmltv_id="CFCFDT: - CTV">CFCFDT: - CTV</channel>
+    <channel update="i" site="tvtv.ca" site_id="72865" xmltv_id="CKMIDT: - GLOBAL">CKMIDT: - GLOBAL</channel>
+    <channel update="i" site="tvtv.ca" site_id="72895" xmltv_id="CJNTDT">CJNTDT</channel>
+    <channel update="i" site="tvtv.ca" site_id="53502" xmltv_id="CBMTDT: - CBC">CBMTDT: - CBC</channel>
+    <channel update="i" site="tvtv.ca" site_id="105620" xmltv_id="ICIQCHD">ICIQCHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="102146" xmltv_id="VISIHD">VISIHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="61998" xmltv_id="APTNHD">APTNHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="108547" xmltv_id="FBTV6">FBTV6</channel>
+    <channel update="i" site="tvtv.ca" site_id="53391" xmltv_id="WPTZDT: - NBC">WPTZDT: - NBC</channel>
+    <channel update="i" site="tvtv.ca" site_id="54231" xmltv_id="WVNYDT: - ABC">WVNYDT: - ABC</channel>
+    <channel update="i" site="tvtv.ca" site_id="44991" xmltv_id="WCAXDT: - CBS">WCAXDT: - CBS</channel>
+    <channel update="i" site="tvtv.ca" site_id="54251" xmltv_id="WFFFDT: - FOX">WFFFDT: - FOX</channel>
+    <channel update="i" site="tvtv.ca" site_id="55052" xmltv_id="WETKDT: - PBS">WETKDT: - PBS</channel>
+    <channel update="i" site="tvtv.ca" site_id="44368" xmltv_id="WCFEDT: - PBS">WCFEDT: - PBS</channel>
+    <channel update="i" site="tvtv.ca" site_id="110789" xmltv_id="CHEX2HD">CHEX2HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="82669" xmltv_id="CHEXDT: - GLOBAL">CHEXDT: - GLOBAL</channel>
+    <channel update="i" site="tvtv.ca" site_id="85778" xmltv_id="CKWSDT">CKWSDT</channel>
+    <channel update="i" site="tvtv.ca" site_id="44788" xmltv_id="CFMTDT">CFMTDT</channel>
+    <channel update="i" site="tvtv.ca" site_id="44790" xmltv_id="CJMTDT">CJMTDT</channel>
+    <channel update="i" site="tvtv.ca" site_id="60123" xmltv_id="CHCHDT">CHCHDT</channel>
+    <channel update="i" site="tvtv.ca" site_id="72778" xmltv_id="CIITDT">CIITDT</channel>
+    <channel update="i" site="tvtv.ca" site_id="72813" xmltv_id="CHNUDT">CHNUDT</channel>
+    <channel update="i" site="tvtv.ca" site_id="72728" xmltv_id="CJONDT: - GLOBAL">CJONDT: - GLOBAL</channel>
+    <channel update="i" site="tvtv.ca" site_id="72780" xmltv_id="CJCHDT: - CTV">CJCHDT: - CTV</channel>
+    <channel update="i" site="tvtv.ca" site_id="44784" xmltv_id="CFTODT: - CTV">CFTODT: - CTV</channel>
+    <channel update="i" site="tvtv.ca" site_id="44786" xmltv_id="CIVTDT: - CTV">CIVTDT: - CTV</channel>
+    <channel update="i" site="tvtv.ca" site_id="68025" xmltv_id="CJOHDT: - CTV">CJOHDT: - CTV</channel>
+    <channel update="i" site="tvtv.ca" site_id="62890" xmltv_id="CFCNDT: - CTV">CFCNDT: - CTV</channel>
+    <channel update="i" site="tvtv.ca" site_id="72844" xmltv_id="CKCKDT: - CTV">CKCKDT: - CTV</channel>
+    <channel update="i" site="tvtv.ca" site_id="89746" xmltv_id="ASNHD: - CTV2">ASNHD: - CTV2</channel>
+    <channel update="i" site="tvtv.ca" site_id="72705" xmltv_id="CKVRDT: - CTV2">CKVRDT: - CTV2</channel>
+    <channel update="i" site="tvtv.ca" site_id="72729" xmltv_id="CIVIDT: - CTV2">CIVIDT: - CTV2</channel>
+    <channel update="i" site="tvtv.ca" site_id="72769" xmltv_id="CKYDT: - CTV">CKYDT: - CTV</channel>
+    <channel update="i" site="tvtv.ca" site_id="105441" xmltv_id="CJCBHD: - CTV">CJCBHD: - CTV</channel>
+    <channel update="i" site="tvtv.ca" site_id="72890" xmltv_id="CKCWDT: - CTV">CKCWDT: - CTV</channel>
+    <channel update="i" site="tvtv.ca" site_id="72614" xmltv_id="CKCODT: - CTV">CKCODT: - CTV</channel>
+    <channel update="i" site="tvtv.ca" site_id="91920" xmltv_id="CICIHD: - CTV">CICIHD: - CTV</channel>
+    <channel update="i" site="tvtv.ca" site_id="72723" xmltv_id="CBHTDT: - CBC">CBHTDT: - CBC</channel>
+    <channel update="i" site="tvtv.ca" site_id="46245" xmltv_id="CBLTDT: - CBC">CBLTDT: - CBC</channel>
+    <channel update="i" site="tvtv.ca" site_id="58494" xmltv_id="CBOTDT: - CBC">CBOTDT: - CBC</channel>
+    <channel update="i" site="tvtv.ca" site_id="72940" xmltv_id="CBWTDT: - CBC">CBWTDT: - CBC</channel>
+    <channel update="i" site="tvtv.ca" site_id="71729" xmltv_id="CBRTDT: - CBC">CBRTDT: - CBC</channel>
+    <channel update="i" site="tvtv.ca" site_id="51981" xmltv_id="CBUTDT: - CBC">CBUTDT: - CBC</channel>
+    <channel update="i" site="tvtv.ca" site_id="71733" xmltv_id="CBXTDT: - CBC">CBXTDT: - CBC</channel>
+    <channel update="i" site="tvtv.ca" site_id="44792" xmltv_id="CIIIDT: - GLOBAL">CIIIDT: - GLOBAL</channel>
+    <channel update="i" site="tvtv.ca" site_id="60121" xmltv_id="CHANDT: - GLOBAL">CHANDT: - GLOBAL</channel>
+    <channel update="i" site="tvtv.ca" site_id="66500" xmltv_id="CHNMDT">CHNMDT</channel>
+    <channel update="i" site="tvtv.ca" site_id="34200" xmltv_id="CITYDT">CITYDT</channel>
+    <channel update="i" site="tvtv.ca" site_id="67476" xmltv_id="CKVUDT">CKVUDT</channel>
+    <channel update="i" site="tvtv.ca" site_id="90311" xmltv_id="CKNYHD: - CTV">CKNYHD: - CTV</channel>
+    <channel update="i" site="tvtv.ca" site_id="90312" xmltv_id="CHBXHD: - CTV">CHBXHD: - CTV</channel>
+    <channel update="i" site="tvtv.ca" site_id="90310" xmltv_id="CITOHD: - CTV">CITOHD: - CTV</channel>
+    <channel update="i" site="tvtv.ca" site_id="19630" xmltv_id="KINGDT: - NBC">KINGDT: - NBC</channel>
+    <channel update="i" site="tvtv.ca" site_id="19629" xmltv_id="KOMODT: - ABC">KOMODT: - ABC</channel>
+    <channel update="i" site="tvtv.ca" site_id="86816" xmltv_id="KIRO7: - CBS">KIRO7: - CBS</channel>
+    <channel update="i" site="tvtv.ca" site_id="21254" xmltv_id="KCPQDT: - FOX">KCPQDT: - FOX</channel>
+    <channel update="i" site="tvtv.ca" site_id="19631" xmltv_id="KCTSDT: - PBS">KCTSDT: - PBS</channel>
+    <channel update="i" site="tvtv.ca" site_id="32795" xmltv_id="WPCHDT">WPCHDT</channel>
+    <channel update="i" site="tvtv.ca" site_id="20455" xmltv_id="WGNDT">WGNDT</channel>
+    <channel update="i" site="tvtv.ca" site_id="32723" xmltv_id="WSBKDT: - MNT">WSBKDT: - MNT</channel>
+    <channel update="i" site="tvtv.ca" site_id="20373" xmltv_id="WPIXDT: - CW">WPIXDT: - CW</channel>
+    <channel update="i" site="tvtv.ca" site_id="19515" xmltv_id="KTLADT: - CW">KTLADT: - CW</channel>
+    <channel update="i" site="tvtv.ca" site_id="33382" xmltv_id="CRV1H">CRV1H</channel>
+    <channel update="i" site="tvtv.ca" site_id="65988" xmltv_id="CRV2H">CRV2H</channel>
+    <channel update="i" site="tvtv.ca" site_id="65990" xmltv_id="CRV3H">CRV3H</channel>
+    <channel update="i" site="tvtv.ca" site_id="65992" xmltv_id="CRV4H">CRV4H</channel>
+    <channel update="i" site="tvtv.ca" site_id="49338" xmltv_id="STZ1H">STZ1H</channel>
+    <channel update="i" site="tvtv.ca" site_id="77045" xmltv_id="STZ2H">STZ2H</channel>
+    <channel update="i" site="tvtv.ca" site_id="61568" xmltv_id="HBO1HD">HBO1HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="61777" xmltv_id="HBOCWHD">HBOCWHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="77547" xmltv_id="STZVOD">STZVOD</channel>
+    <channel update="i" site="tvtv.ca" site_id="90860" xmltv_id="HWSDM">HWSDM</channel>
+    <channel update="i" site="tvtv.ca" site_id="73572" xmltv_id="HS70">HS70</channel>
+    <channel update="i" site="tvtv.ca" site_id="73574" xmltv_id="HS80">HS80</channel>
+    <channel update="i" site="tvtv.ca" site_id="73571" xmltv_id="HS90">HS90</channel>
+    <channel update="i" site="tvtv.ca" site_id="73578" xmltv_id="HS00">HS00</channel>
+    <channel update="i" site="tvtv.ca" site_id="58882" xmltv_id="SCFSHD">SCFSHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="58890" xmltv_id="SCHHHD">SCHHHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="80167" xmltv_id="SCVTHD">SCVTHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="80168" xmltv_id="SCGXHD">SCGXHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="73682" xmltv_id="FXCHD">FXCHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="87894" xmltv_id="FXXC">FXXC</channel>
+    <channel update="i" site="tvtv.ca" site_id="92160" xmltv_id="ADSMH">ADSMH</channel>
+    <channel update="i" site="tvtv.ca" site_id="81202" xmltv_id="LIFECHD">LIFECHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="73556" xmltv_id="DOCUCHD">DOCUCHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="108684" xmltv_id="SSCHD">SSCHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="67405" xmltv_id="TCMCHD">TCMCHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="64831" xmltv_id="AMCCHD">AMCCHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="67190" xmltv_id="MTIMEHD">MTIMEHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="115801" xmltv_id="BTOPIC">BTOPIC</channel>
+    <channel update="i" site="tvtv.ca" site_id="113196" xmltv_id="BVID26">BVID26</channel>
+    <channel update="i" site="tvtv.ca" site_id="113194" xmltv_id="BVID25">BVID25</channel>
+    <channel update="i" site="tvtv.ca" site_id="113193" xmltv_id="BVID24">BVID24</channel>
+    <channel update="i" site="tvtv.ca" site_id="34313" xmltv_id="TSNHD">TSNHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="61474" xmltv_id="TSN2HD">TSN2HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="90138" xmltv_id="TSN3HBO">TSN3HBO</channel>
+    <channel update="i" site="tvtv.ca" site_id="90134" xmltv_id="TSN4HBO">TSN4HBO</channel>
+    <channel update="i" site="tvtv.ca" site_id="90125" xmltv_id="TSN5HD">TSN5HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="111559" xmltv_id="TSNX1">TSNX1</channel>
+    <channel update="i" site="tvtv.ca" site_id="111560" xmltv_id="TSNX2">TSNX2</channel>
+    <channel update="i" site="tvtv.ca" site_id="111561" xmltv_id="TSNX3">TSNX3</channel>
+    <channel update="i" site="tvtv.ca" site_id="111562" xmltv_id="TSNX4">TSNX4</channel>
+    <channel update="i" site="tvtv.ca" site_id="115527" xmltv_id="TSNX5">TSNX5</channel>
+    <channel update="i" site="tvtv.ca" site_id="98222" xmltv_id="BELL4KB">BELL4KB</channel>
+    <channel update="i" site="tvtv.ca" site_id="115528" xmltv_id="TSNX6">TSNX6</channel>
+    <channel update="i" site="tvtv.ca" site_id="115529" xmltv_id="TSNX7">TSNX7</channel>
+    <channel update="i" site="tvtv.ca" site_id="115530" xmltv_id="TSNX8">TSNX8</channel>
+    <channel update="i" site="tvtv.ca" site_id="99158" xmltv_id="SP4KB">SP4KB</channel>
+    <channel update="i" site="tvtv.ca" site_id="100558" xmltv_id="SPNT14K">SPNT14K</channel>
+    <channel update="i" site="tvtv.ca" site_id="100573" xmltv_id="2TSNK">2TSNK</channel>
+    <channel update="i" site="tvtv.ca" site_id="97961" xmltv_id="BSPMO4K">BSPMO4K</channel>
+    <channel update="i" site="tvtv.ca" site_id="62111" xmltv_id="SNOHD">SNOHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="62109" xmltv_id="SNEHD">SNEHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="61714" xmltv_id="SNPHD">SNPHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="61742" xmltv_id="SNWHD">SNWHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="68859" xmltv_id="SN1HD">SN1HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="49952" xmltv_id="SN360H">SN360H</channel>
+    <channel update="i" site="tvtv.ca" site_id="72517" xmltv_id="OLCCHD">OLCCHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="91308" xmltv_id="BEINCHD">BEINCHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="76955" xmltv_id="BEIN2HD">BEIN2HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="53242" xmltv_id="NBATVCD">NBATVCD</channel>
+    <channel update="i" site="tvtv.ca" site_id="65385" xmltv_id="GOLFHDB">GOLFHDB</channel>
+    <channel update="i" site="tvtv.ca" site_id="71565" xmltv_id="CBSCNHD">CBSCNHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="60399" xmltv_id="SPMANHD">SPMANHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="68946" xmltv_id="SNWLH">SNWLH</channel>
+    <channel update="i" site="tvtv.ca" site_id="77077" xmltv_id="FSRHD">FSRHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="48099" xmltv_id="FIGHT">FIGHT</channel>
+    <channel update="i" site="tvtv.ca" site_id="66357" xmltv_id="WILDHD">WILDHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="87431" xmltv_id="GMPLSCH">GMPLSCH</channel>
+    <channel update="i" site="tvtv.ca" site_id="89378" xmltv_id="NHLH1">NHLH1</channel>
+    <channel update="i" site="tvtv.ca" site_id="89422" xmltv_id="NHLH2">NHLH2</channel>
+    <channel update="i" site="tvtv.ca" site_id="89423" xmltv_id="NHLH3">NHLH3</channel>
+    <channel update="i" site="tvtv.ca" site_id="89424" xmltv_id="NHLH4">NHLH4</channel>
+    <channel update="i" site="tvtv.ca" site_id="89425" xmltv_id="NHLH5">NHLH5</channel>
+    <channel update="i" site="tvtv.ca" site_id="89426" xmltv_id="NHLH6">NHLH6</channel>
+    <channel update="i" site="tvtv.ca" site_id="89427" xmltv_id="NHLH7">NHLH7</channel>
+    <channel update="i" site="tvtv.ca" site_id="89428" xmltv_id="NHLH8">NHLH8</channel>
+    <channel update="i" site="tvtv.ca" site_id="89429" xmltv_id="NHLH9">NHLH9</channel>
+    <channel update="i" site="tvtv.ca" site_id="89430" xmltv_id="NHH10">NHH10</channel>
+    <channel update="i" site="tvtv.ca" site_id="89431" xmltv_id="NHH11">NHH11</channel>
+    <channel update="i" site="tvtv.ca" site_id="89432" xmltv_id="NHH12">NHH12</channel>
+    <channel update="i" site="tvtv.ca" site_id="90616" xmltv_id="LNHH1">LNHH1</channel>
+    <channel update="i" site="tvtv.ca" site_id="90614" xmltv_id="LNHH2">LNHH2</channel>
+    <channel update="i" site="tvtv.ca" site_id="91306" xmltv_id="WWEHD">WWEHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="83116" xmltv_id="NFLNTCH">NFLNTCH</channel>
+    <channel update="i" site="tvtv.ca" site_id="90156" xmltv_id="MLBNCHD">MLBNCHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="44452" xmltv_id="NFLHD1">NFLHD1</channel>
+    <channel update="i" site="tvtv.ca" site_id="44453" xmltv_id="NFLHD2">NFLHD2</channel>
+    <channel update="i" site="tvtv.ca" site_id="44454" xmltv_id="NFLHD3">NFLHD3</channel>
+    <channel update="i" site="tvtv.ca" site_id="44455" xmltv_id="NFLHD4">NFLHD4</channel>
+    <channel update="i" site="tvtv.ca" site_id="44456" xmltv_id="NFLHD5">NFLHD5</channel>
+    <channel update="i" site="tvtv.ca" site_id="44457" xmltv_id="NFLHD6">NFLHD6</channel>
+    <channel update="i" site="tvtv.ca" site_id="44458" xmltv_id="NFLHD7">NFLHD7</channel>
+    <channel update="i" site="tvtv.ca" site_id="44459" xmltv_id="NFLHD8">NFLHD8</channel>
+    <channel update="i" site="tvtv.ca" site_id="44529" xmltv_id="NFLHD9">NFLHD9</channel>
+    <channel update="i" site="tvtv.ca" site_id="61431" xmltv_id="NFLHD10">NFLHD10</channel>
+    <channel update="i" site="tvtv.ca" site_id="89681" xmltv_id="NCAA0">NCAA0</channel>
+    <channel update="i" site="tvtv.ca" site_id="89682" xmltv_id="NCAA1B">NCAA1B</channel>
+    <channel update="i" site="tvtv.ca" site_id="89683" xmltv_id="NCAA2B">NCAA2B</channel>
+    <channel update="i" site="tvtv.ca" site_id="89684" xmltv_id="NCAA3B">NCAA3B</channel>
+    <channel update="i" site="tvtv.ca" site_id="89685" xmltv_id="NCAA4B">NCAA4B</channel>
+    <channel update="i" site="tvtv.ca" site_id="89686" xmltv_id="NCAA5B">NCAA5B</channel>
+    <channel update="i" site="tvtv.ca" site_id="89815" xmltv_id="NBAH1">NBAH1</channel>
+    <channel update="i" site="tvtv.ca" site_id="89817" xmltv_id="NBAH2">NBAH2</channel>
+    <channel update="i" site="tvtv.ca" site_id="89818" xmltv_id="NBAH3">NBAH3</channel>
+    <channel update="i" site="tvtv.ca" site_id="89819" xmltv_id="NBAH4">NBAH4</channel>
+    <channel update="i" site="tvtv.ca" site_id="89820" xmltv_id="NBAH5">NBAH5</channel>
+    <channel update="i" site="tvtv.ca" site_id="89821" xmltv_id="NBAH6">NBAH6</channel>
+    <channel update="i" site="tvtv.ca" site_id="89822" xmltv_id="NBAH7">NBAH7</channel>
+    <channel update="i" site="tvtv.ca" site_id="89823" xmltv_id="NBAH8">NBAH8</channel>
+    <channel update="i" site="tvtv.ca" site_id="89824" xmltv_id="NBAH9">NBAH9</channel>
+    <channel update="i" site="tvtv.ca" site_id="89816" xmltv_id="NBA10">NBA10</channel>
+    <channel update="i" site="tvtv.ca" site_id="89873" xmltv_id="MLBH1">MLBH1</channel>
+    <channel update="i" site="tvtv.ca" site_id="89807" xmltv_id="MLBH2">MLBH2</channel>
+    <channel update="i" site="tvtv.ca" site_id="89808" xmltv_id="MLBH3">MLBH3</channel>
+    <channel update="i" site="tvtv.ca" site_id="89809" xmltv_id="MLBH4">MLBH4</channel>
+    <channel update="i" site="tvtv.ca" site_id="89810" xmltv_id="MLBH5">MLBH5</channel>
+    <channel update="i" site="tvtv.ca" site_id="89811" xmltv_id="MLBH6">MLBH6</channel>
+    <channel update="i" site="tvtv.ca" site_id="89812" xmltv_id="MLBH7">MLBH7</channel>
+    <channel update="i" site="tvtv.ca" site_id="89813" xmltv_id="MLBH8">MLBH8</channel>
+    <channel update="i" site="tvtv.ca" site_id="89814" xmltv_id="MLBH9">MLBH9</channel>
+    <channel update="i" site="tvtv.ca" site_id="89874" xmltv_id="MLH10">MLH10</channel>
+    <channel update="i" site="tvtv.ca" site_id="89875" xmltv_id="MLH11">MLH11</channel>
+    <channel update="i" site="tvtv.ca" site_id="89804" xmltv_id="MLH12">MLH12</channel>
+    <channel update="i" site="tvtv.ca" site_id="89805" xmltv_id="MLH13">MLH13</channel>
+    <channel update="i" site="tvtv.ca" site_id="89806" xmltv_id="MLH14">MLH14</channel>
+    <channel update="i" site="tvtv.ca" site_id="58646" xmltv_id="CNNHD">CNNHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="76921" xmltv_id="NWSNTHD">NWSNTHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="75971" xmltv_id="CBNEWSH">CBNEWSH</channel>
+    <channel update="i" site="tvtv.ca" site_id="94289" xmltv_id="CP24HD">CP24HD</channel>
+    <channel update="i" site="tvtv.ca" site_id="73963" xmltv_id="BNNBH">BNNBH</channel>
+    <channel update="i" site="tvtv.ca" site_id="72183" xmltv_id="TWNHD">TWNHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="108897" xmltv_id="MSNBCHD">MSNBCHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="60179" xmltv_id="FNCHD">FNCHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="64549" xmltv_id="HLNHD">HLNHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="106080" xmltv_id="CNBCCHD">CNBCCHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="89690" xmltv_id="BBCNAHD">BBCNAHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="44794" xmltv_id="DVELO">DVELO</channel>
+    <channel update="i" site="tvtv.ca" site_id="72638" xmltv_id="TDCCHD">TDCCHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="60645" xmltv_id="TLCHDBO">TLCHDBO</channel>
+    <channel update="i" site="tvtv.ca" site_id="65619" xmltv_id="HISTHDC">HISTHDC</channel>
+    <channel update="i" site="tvtv.ca" site_id="76887" xmltv_id="DSCIHD">DSCIHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="54743" xmltv_id="NATGCHD">NATGCHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="74041" xmltv_id="APCHD">APCHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="71785" xmltv_id="OWNCHD">OWNCHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="74863" xmltv_id="TANDEHD">TANDEHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="76799" xmltv_id="IDCHD">IDCHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="75451" xmltv_id="NGWLDCH">NGWLDCH</channel>
+    <channel update="i" site="tvtv.ca" site_id="90620" xmltv_id="BFIRE">BFIRE</channel>
+    <channel update="i" site="tvtv.ca" site_id="80695" xmltv_id="FJRHD">FJRHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="97312" xmltv_id="DISJRCH">DISJRCH</channel>
+    <channel update="i" site="tvtv.ca" site_id="70827" xmltv_id="YTVHD">YTVHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="97315" xmltv_id="DISXDCH">DISXDCH</channel>
+    <channel update="i" site="tvtv.ca" site_id="75456" xmltv_id="TTHD">TTHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="70520" xmltv_id="TFCHD">TFCHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="106034" xmltv_id="TFCPHD">TFCPHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="117773" xmltv_id="NIKODDM">NIKODDM</channel>
+    <channel update="i" site="tvtv.ca" site_id="80175" xmltv_id="NICKCHD">NICKCHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="80173" xmltv_id="TREECHD">TREECHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="72270" xmltv_id="CHRHE">CHRHE</channel>
+    <channel update="i" site="tvtv.ca" site_id="75117" xmltv_id="SPARKHD">SPARKHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="76222" xmltv_id="CNHD">CNHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="96507" xmltv_id="DISCAHD">DISCAHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="72139" xmltv_id="MUCHHD">MUCHHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="81340" xmltv_id="ASIDEHD">ASIDEHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="81615" xmltv_id="MTVCHD">MTVCHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="106150" xmltv_id="MTV2CHD">MTV2CHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="80176" xmltv_id="CMTHD">CMTHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="105157" xmltv_id="BETCH">BETCH</channel>
+    <channel update="i" site="tvtv.ca" site_id="104957" xmltv_id="STGRETH">STGRETH</channel>
+    <channel update="i" site="tvtv.ca" site_id="104956" xmltv_id="STGVIBH">STGVIBH</channel>
+    <channel update="i" site="tvtv.ca" site_id="104955" xmltv_id="STGLOUH">STGLOUH</channel>
+    <channel update="i" site="tvtv.ca" site_id="100286" xmltv_id="SM165">SM165</channel>
+    <channel update="i" site="tvtv.ca" site_id="110652" xmltv_id="STGQO">STGQO</channel>
+    <channel update="i" site="tvtv.ca" site_id="98149" xmltv_id="FBTL6">FBTL6</channel>
+    <channel update="i" site="tvtv.ca" site_id="70676" xmltv_id="HGTVCH">HGTVCH</channel>
+    <channel update="i" site="tvtv.ca" site_id="81282" xmltv_id="SLICEHD">SLICEHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="71332" xmltv_id="WHD">WHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="73467" xmltv_id="FOODCHD">FOODCHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="82984" xmltv_id="LIFEH">LIFEH</channel>
+    <channel update="i" site="tvtv.ca" site_id="89519" xmltv_id="TES6">TES6</channel>
+    <channel update="i" site="tvtv.ca" site_id="102175" xmltv_id="ONEHD">ONEHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="98654" xmltv_id="DIYCHD">DIYCHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="78648" xmltv_id="OUTTVHD">OUTTVHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="71348" xmltv_id="COOKCHD">COOKCHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="90941" xmltv_id="TSCHD">TSCHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="55097" xmltv_id="ARTSCHD">ARTSCHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="53711" xmltv_id="SHCSCHD">SHCSCHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="82747" xmltv_id="DTOURHD">DTOURHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="73549" xmltv_id="DRAMA">DRAMA</channel>
+    <channel update="i" site="tvtv.ca" site_id="76792" xmltv_id="ECANHD">ECANHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="102147" xmltv_id="GAMTVHD">GAMTVHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="76863" xmltv_id="COMDY">COMDY</channel>
+    <channel update="i" site="tvtv.ca" site_id="80637" xmltv_id="COMDYW">COMDYW</channel>
+    <channel update="i" site="tvtv.ca" site_id="72484" xmltv_id="SCIFI">SCIFI</channel>
+    <channel update="i" site="tvtv.ca" site_id="81618" xmltv_id="PARCANH">PARCANH</channel>
+    <channel update="i" site="tvtv.ca" site_id="81208" xmltv_id="H2CHD">H2CHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="105149" xmltv_id="AHCCHD">AHCCHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="26773" xmltv_id="CI">CI</channel>
+    <channel update="i" site="tvtv.ca" site_id="68827" xmltv_id="GSNHD">GSNHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="68012" xmltv_id="COTTHD">COTTHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="60344" xmltv_id="CITSDT">CITSDT</channel>
+    <channel update="i" site="tvtv.ca" site_id="53120" xmltv_id="BBCF">BBCF</channel>
+    <channel update="i" site="tvtv.ca" site_id="52745" xmltv_id="NATUR">NATUR</channel>
+    <channel update="i" site="tvtv.ca" site_id="53128" xmltv_id="BBCEC">BBCEC</channel>
+    <channel update="i" site="tvtv.ca" site_id="53121" xmltv_id="SMTH">SMTH</channel>
+    <channel update="i" site="tvtv.ca" site_id="91089" xmltv_id="AQUHD">AQUHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="80214" xmltv_id="LSNET">LSNET</channel>
+    <channel update="i" site="tvtv.ca" site_id="71932" xmltv_id="CINONEG">CINONEG</channel>
+    <channel update="i" site="tvtv.ca" site_id="96318" xmltv_id="ATNNW18">ATNNW18</channel>
+    <channel update="i" site="tvtv.ca" site_id="108869" xmltv_id="ATNNW">ATNNW</channel>
+    <channel update="i" site="tvtv.ca" site_id="102619" xmltv_id="ATNRISH">ATNRISH</channel>
+    <channel update="i" site="tvtv.ca" site_id="62722" xmltv_id="ATNSVBC">ATNSVBC</channel>
+    <channel update="i" site="tvtv.ca" site_id="90214" xmltv_id="TRAVXP">TRAVXP</channel>
+    <channel update="i" site="tvtv.ca" site_id="102452" xmltv_id="CHARDTM">CHARDTM</channel>
+    <channel update="i" site="tvtv.ca" site_id="109204" xmltv_id="APBSJ">APBSJ</channel>
+    <channel update="i" site="tvtv.ca" site_id="80598" xmltv_id="PTCP">PTCP</channel>
+    <channel update="i" site="tvtv.ca" site_id="93531" xmltv_id="ATNPNEW">ATNPNEW</channel>
+    <channel update="i" site="tvtv.ca" site_id="96309" xmltv_id="ATNCOLM">ATNCOLM</channel>
+    <channel update="i" site="tvtv.ca" site_id="108688" xmltv_id="ATNIBSD">ATNIBSD</channel>
+    <channel update="i" site="tvtv.ca" site_id="106279" xmltv_id="SANJHA">SANJHA</channel>
+    <channel update="i" site="tvtv.ca" site_id="116582" xmltv_id="GURBANI">GURBANI</channel>
+    <channel update="i" site="tvtv.ca" site_id="116556" xmltv_id="PITAARA">PITAARA</channel>
+    <channel update="i" site="tvtv.ca" site_id="116558" xmltv_id="NEWSFYI">NEWSFYI</channel>
+    <channel update="i" site="tvtv.ca" site_id="91124" xmltv_id="24TAAS">24TAAS</channel>
+    <channel update="i" site="tvtv.ca" site_id="91125" xmltv_id="ZEEMARA">ZEEMARA</channel>
+    <channel update="i" site="tvtv.ca" site_id="91126" xmltv_id="ZEETALK">ZEETALK</channel>
+    <channel update="i" site="tvtv.ca" site_id="90426" xmltv_id="AFRICAS">AFRICAS</channel>
+    <channel update="i" site="tvtv.ca" site_id="68007" xmltv_id="OUITV">OUITV</channel>
+    <channel update="i" site="tvtv.ca" site_id="90427" xmltv_id="FEVATV">FEVATV</channel>
+    <channel update="i" site="tvtv.ca" site_id="68010" xmltv_id="AFRCA24">AFRCA24</channel>
+    <channel update="i" site="tvtv.ca" site_id="106079" xmltv_id="AGNTHD">AGNTHD</channel>
+    <channel update="i" site="tvtv.ca" site_id="79958" xmltv_id="ONECTV">ONECTV</channel>
+    <channel update="i" site="tvtv.ca" site_id="91743" xmltv_id="HAITI">HAITI</channel>
+    <channel update="i" site="tvtv.ca" site_id="35191" xmltv_id="MBC1">MBC1</channel>
+    <channel update="i" site="tvtv.ca" site_id="89370" xmltv_id="RKJA">RKJA</channel>
+    <channel update="i" site="tvtv.ca" site_id="89356" xmltv_id="RAFM">RAFM</channel>
+    <channel update="i" site="tvtv.ca" site_id="89357" xmltv_id="RCIN">RCIN</channel>
+    <channel update="i" site="tvtv.ca" site_id="89358" xmltv_id="RCLS">RCLS</channel>
+    <channel update="i" site="tvtv.ca" site_id="89359" xmltv_id="RCLP">RCLP</channel>
+    <channel update="i" site="tvtv.ca" site_id="89381" xmltv_id="RMOU">RMOU</channel>
+    <channel update="i" site="tvtv.ca" site_id="90662" xmltv_id="ALNAHAR">ALNAHAR</channel>
+    <channel update="i" site="tvtv.ca" site_id="89380" xmltv_id="RMSA">RMSA</channel>
+    <channel update="i" site="tvtv.ca" site_id="89285" xmltv_id="ALRSL">ALRSL</channel>
+    <channel update="i" site="tvtv.ca" site_id="97337" xmltv_id="ALNHRDR">ALNHRDR</channel>
+    <channel update="i" site="tvtv.ca" site_id="82192" xmltv_id="MBCM">MBCM</channel>
+    <channel update="i" site="tvtv.ca" site_id="99085" xmltv_id="SKYNWSA">SKYNWSA</channel>
+    <channel update="i" site="tvtv.ca" site_id="43786" xmltv_id="ARABIYA">ARABIYA</channel>
+    <channel update="i" site="tvtv.ca" site_id="16800" xmltv_id="ANT3I">ANT3I</channel>
+    <channel update="i" site="tvtv.ca" site_id="12750" xmltv_id="SUR">SUR</channel>
+    <channel update="i" site="tvtv.ca" site_id="32749" xmltv_id="TRIT">TRIT</channel>
+    <channel update="i" site="tvtv.ca" site_id="85728" xmltv_id="NTN24E">NTN24E</channel>
+    <channel update="i" site="tvtv.ca" site_id="33431" xmltv_id="NUESTRT">NUESTRT</channel>
+    <channel update="i" site="tvtv.ca" site_id="92153" xmltv_id="TELEFEC">TELEFEC</channel>
+    <channel update="i" site="tvtv.ca" site_id="16217" xmltv_id="TVEI">TVEI</channel>
+    <channel update="i" site="tvtv.ca" site_id="90425" xmltv_id="4E">4E</channel>
+    <channel update="i" site="tvtv.ca" site_id="90428" xmltv_id="RIKSAT">RIKSAT</channel>
+    <channel update="i" site="tvtv.ca" site_id="90429" xmltv_id="STARBL">STARBL</channel>
+    <channel update="i" site="tvtv.ca" site_id="89968" xmltv_id="SPRTPL">SPRTPL</channel>
+    <channel update="i" site="tvtv.ca" site_id="77035" xmltv_id="GRKCINE">GRKCINE</channel>
+    <channel update="i" site="tvtv.ca" site_id="90603" xmltv_id="CHIR">CHIR</channel>
+    <channel update="i" site="tvtv.ca" site_id="98639" xmltv_id="1P1INT">1P1INT</channel>
   </channels>
 </site>
