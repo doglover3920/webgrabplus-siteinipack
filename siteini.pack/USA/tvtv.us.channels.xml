@@ -1,510 +1,1001 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.11.0 -- Jan van Straaten" site="tvtv.us">
   <channels>
-    <channel update="i" site="tvtv.us" site_id="36504D/2_#_pbs.png" xmltv_id="PBS (WPBT) Miami, FL">PBS (WPBT) Miami, FL</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/4_#_cbs.png" xmltv_id="CBS (WFOR) Miami, FL">CBS (WFOR) Miami, FL</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/6_#_nbc.png" xmltv_id="NBC (WTVJ) Miami, FL">NBC (WTVJ) Miami, FL</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/7_#_foxcable.png" xmltv_id="FOX (WSVN) Miami, FL">FOX (WSVN) Miami, FL</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/8_#_" xmltv_id="Azteca (WGEN-LD2) SD Miami, FL">Azteca (WGEN-LD2) SD Miami, FL</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/10_#_abc.png" xmltv_id="ABC (WPLG) Miami, FL">ABC (WPLG) Miami, FL</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/17_#_pbs.png" xmltv_id="PBS (WLRN) Miami, FL">PBS (WLRN) Miami, FL</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/22_#_megatv-2019.png" xmltv_id="Mega TV (WSBS) Key West, FL">Mega TV (WSBS) Key West, FL</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/23_#_univision.png" xmltv_id="UNI (WLTV) Miami, FL">UNI (WLTV) Miami, FL</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/24_#_aztecaamerica.png" xmltv_id="Azteca (WDGT) Miami, FL">Azteca (WDGT) Miami, FL</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/33_#_mnt.png" xmltv_id="MNT (WBFS) Miami, FL">MNT (WBFS) Miami, FL</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/35_#_ion_2016.png" xmltv_id="ION (WPXM) Miami, FL">ION (WPXM) Miami, FL</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/39_#_wsfl-tv.png" xmltv_id="CW (WSFL) Miami, FL">CW (WSFL) Miami, FL</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/41_#_" xmltv_id="WJAN-DT2 \&quot;Teveo\&quot; - Miami, FL">WJAN-DT2 \"Teveo\" - Miami, FL</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/45_#_tbn.png" xmltv_id="TBN (WHFT) Miami, FL">TBN (WHFT) Miami, FL</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/51_#_telemundo.png" xmltv_id="Telemundo (WSCV) Fort Lauderdale, FL">Telemundo (WSCV) Fort Lauderdale, FL</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/63_#_" xmltv_id="WBEC-TV Boca Raton, FL">WBEC-TV Boca Raton, FL</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/69_#_unimas.png" xmltv_id="UniMás (WAMI) Miami, FL">UniMás (WAMI) Miami, FL</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/70_#_qvc.png" xmltv_id="QVC">QVC</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/71_#_gsn-2018.png" xmltv_id="Game Show Network - East">Game Show Network - East</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/72_#_jtv.png" xmltv_id="Jewelry Television">Jewelry Television</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/73_#_shophq.png" xmltv_id="SHOPHQ">SHOPHQ</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/75_#_shop-lc.png" xmltv_id="Shop LC (WLWT3) Cincinnati, OH">Shop LC (WLWT3) Cincinnati, OH</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/76_#_qvc.png" xmltv_id="QVC2">QVC2</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/77_#_" xmltv_id="SALE Network">SALE Network</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/79_#_qvc.png" xmltv_id="QVC2">QVC2</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/101_#_" xmltv_id="Audience Network">Audience Network</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/121_#_" xmltv_id="DirecTV Sports 121">DirecTV Sports 121</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/122_#_" xmltv_id="DirecTV Sports 122">DirecTV Sports 122</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/123_#_" xmltv_id="DirecTV Sports 123">DirecTV Sports 123</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/124_#_" xmltv_id="DirecTV Sports 124">DirecTV Sports 124</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/202_#_cnn.png" xmltv_id="CNN">CNN</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/204_#_hln.png" xmltv_id="HLN">HLN</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/206_#_espn.png" xmltv_id="ESPN">ESPN</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/207_#_espnnews.png" xmltv_id="ESPN News">ESPN News</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/208_#_espnu.png" xmltv_id="ESPN U">ESPN U</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/209_#_espn2.png" xmltv_id="ESPN2">ESPN2</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/212_#_nfl_network.png" xmltv_id="NFL Network">NFL Network</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/213_#_mlbnetwork.png" xmltv_id="MLB Network">MLB Network</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/214_#_mavtv_logo.png" xmltv_id="MavTV USA">MavTV USA</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/215_#_nhlnetwork.png" xmltv_id="NHL Network USA">NHL Network USA</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/216_#_nbatv.png" xmltv_id="NBA TV USA">NBA TV USA</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/217_#_tennischannel.png" xmltv_id="The Tennis Channel">The Tennis Channel</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/218_#_golf.png" xmltv_id="Golf Channel USA">Golf Channel USA</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/219_#_fs1.png" xmltv_id="Fox Sports 1">Fox Sports 1</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/220_#_nbcsports.png" xmltv_id="NBC Sports Network">NBC Sports Network</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/221_#_cbs_sports_network.png" xmltv_id="CBS Sports Network USA">CBS Sports Network USA</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/226_#_shop-lc.png" xmltv_id="Shop LC (WLWT3) Cincinnati, OH">Shop LC (WLWT3) Cincinnati, OH</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/228_#_gemshopping.png" xmltv_id="Gem Shopping Network">Gem Shopping Network</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/229_#_hgtv-usa.png" xmltv_id="HGTV USA - Eastern Feed">HGTV USA - Eastern Feed</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/230_#_diy.png" xmltv_id="Do It Yourself Network (USA) - East">Do It Yourself Network (USA) - East</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/231_#_foodtv.png" xmltv_id="Food Network USA - Eastern Feed">Food Network USA - Eastern Feed</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/232_#_cooking_channel.png" xmltv_id="The Cooking Channel">The Cooking Channel</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/233_#_gsn-2018.png" xmltv_id="Game Show Network - East">Game Show Network - East</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/236_#_eentertain.png" xmltv_id="E! Entertainment USA - Eastern Feed">E! Entertainment USA - Eastern Feed</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/237_#_bravousa.png" xmltv_id="Bravo USA - Eastern Feed">Bravo USA - Eastern Feed</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/238_#_reelz.png" xmltv_id="ReelzChannel">ReelzChannel</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/239_#_sundance.png" xmltv_id="SundanceTV USA - East">SundanceTV USA - East</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/240_#_homeshop.png" xmltv_id="HSN - Home Shopping Network">HSN - Home Shopping Network</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/241_#_paramount.png" xmltv_id="Paramount Network USA - Eastern Feed">Paramount Network USA - Eastern Feed</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/242_#_usa.png" xmltv_id="USA Network - East Feed">USA Network - East Feed</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/244_#_syfy.png" xmltv_id="Syfy - Eastern Feed">Syfy - Eastern Feed</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/245_#_tnt-16.png" xmltv_id="TNT - Eastern Feed">TNT - Eastern Feed</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/246_#_trutv.png" xmltv_id="truTV USA - Eastern">truTV USA - Eastern</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/247_#_tbs_15.png" xmltv_id="TBS - East">TBS - East</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/248_#_fx_logo.png" xmltv_id="FX Networks East Coast">FX Networks East Coast</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/249_#_comedycentral.png" xmltv_id="Comedy Central (US) - Eastern Feed">Comedy Central (US) - Eastern Feed</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/251_#_oxygen.png" xmltv_id="Oxygen - Eastern Feed">Oxygen - Eastern Feed</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/252_#_lifetime19.png" xmltv_id="Lifetime Network US - Eastern Feed">Lifetime Network US - Eastern Feed</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/253_#_lifetime-movies-v2.png" xmltv_id="Lifetime Movies - East">Lifetime Movies - East</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/254_#_amc.png" xmltv_id="AMC - Eastern Feed">AMC - Eastern Feed</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/256_#_tcm.png" xmltv_id="Turner Classic Movies USA">Turner Classic Movies USA</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/258_#_fxm.png" xmltv_id="FX Movie Channel">FX Movie Channel</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/259_#_fxx.png" xmltv_id="FXX USA - Eastern">FXX USA - Eastern</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/260_#_we_womens.png" xmltv_id="WE (Women's Entertainment) - Eastern">WE (Women's Entertainment) - Eastern</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/261_#_discovery_life.png" xmltv_id="Discovery Life Channel">Discovery Life Channel</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/264_#_bbcamerica.png" xmltv_id="BBC America - East">BBC America - East</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/265_#_aande.png" xmltv_id="A&amp;E US - Eastern Feed">A&amp;E US - Eastern Feed</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/266_#_fyi.png" xmltv_id="FYI USA - Eastern">FYI USA - Eastern</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/269_#_history.png" xmltv_id="History Channel US - Eastern Feed">History Channel US - Eastern Feed</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/271_#_viceland.png" xmltv_id="VICE">VICE</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/272_#_logo_tv.png" xmltv_id="LOGO - East">LOGO - East</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/273_#_pop.png" xmltv_id="POP - East">POP - East</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/274_#_ovation18.png" xmltv_id="Ovation">Ovation</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/275_#_qvc.png" xmltv_id="QVC">QVC</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/276_#_ngeog-copy.png" xmltv_id="National Geographic US - Eastern">National Geographic US - Eastern</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/277_#_travel_us.png" xmltv_id="Travel US - East">Travel US - East</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/278_#_discovery-19.png" xmltv_id="Discovery Channel (US) - Eastern Feed">Discovery Channel (US) - Eastern Feed</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/279_#_own.png" xmltv_id="Oprah Winfrey Network USA Eastern">Oprah Winfrey Network USA Eastern</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/280_#_tlc.png" xmltv_id="TLC USA - Eastern">TLC USA - Eastern</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/281_#_motortrend.png" xmltv_id="Motor Trend HD">Motor Trend HD</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/282_#_animalplanet-19.png" xmltv_id="Animal Planet US - East">Animal Planet US - East</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/283_#_natgeowild.png" xmltv_id="National Geographic Wild">National Geographic Wild</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/284_#_science16.png" xmltv_id="Science">Science</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/285_#_investigation_discovery.png" xmltv_id="Investigation Discovery USA - Eastern">Investigation Discovery USA - Eastern</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/286_#_destinationamerica.png" xmltv_id="Destination America">Destination America</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/287_#_ahc_logo.png" xmltv_id="American Heroes Channel">American Heroes Channel</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/289_#_disney_junior.png" xmltv_id="Disney Junior USA - East">Disney Junior USA - East</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/290_#_disney.png" xmltv_id="Disney - Eastern Feed">Disney - Eastern Feed</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/291_#_disney.png" xmltv_id="Disney - Pacific Feed">Disney - Pacific Feed</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/292_#_disneyxd.png" xmltv_id="Disney XD USA - Eastern Feed">Disney XD USA - Eastern Feed</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/293_#_babyfirst.png" xmltv_id="Baby First TV">Baby First TV</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/294_#_discoveryfamilychannel.png" xmltv_id="Discovery Family Channel">Discovery Family Channel</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/295_#_universalkids.png" xmltv_id="Universal Kids">Universal Kids</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/296_#_cartoonnetwork.png" xmltv_id="Cartoon Network USA - Eastern Feed">Cartoon Network USA - Eastern Feed</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/297_#_cartoonnetwork.png" xmltv_id="Cartoon Network USA - Pacific Feed">Cartoon Network USA - Pacific Feed</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/298_#_boomerang.png" xmltv_id="Boomerang">Boomerang</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/299_#_nickelodeon.png" xmltv_id="Nickelodeon USA - East Feed">Nickelodeon USA - East Feed</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/300_#_nickelodeon.png" xmltv_id="Nickelodeon USA - Pacific Feed">Nickelodeon USA - Pacific Feed</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/301_#_nickjr.png" xmltv_id="Nick Jr. - East">Nick Jr. - East</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/302_#_nicktoons.png" xmltv_id="Nicktoons - East">Nicktoons - East</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/303_#_teennick.png" xmltv_id="TeenNick - Eastern">TeenNick - Eastern</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/304_#_tvland2015.png" xmltv_id="TV Land - Eastern">TV Land - Eastern</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/305_#_ion_2016.png" xmltv_id="ION - Eastern Feed">ION - Eastern Feed</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/306_#_ion_2016.png" xmltv_id="ION - Pacific Feed">ION - Pacific Feed</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/307_#_newsnation-wgn.png" xmltv_id="NewsNation - Eastern Feed">NewsNation - Eastern Feed</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/309_#_" xmltv_id="SALE Network">SALE Network</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/311_#_freeform18.png" xmltv_id="Freeform - East Feed">Freeform - East Feed</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/312_#_hallmark.png" xmltv_id="Hallmark - Eastern Feed">Hallmark - Eastern Feed</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/313_#_jtv.png" xmltv_id="Jewelry Television">Jewelry Television</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/315_#_qvc.png" xmltv_id="QVC2">QVC2</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/316_#_shophq.png" xmltv_id="SHOPHQ">SHOPHQ</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/317_#_qvc.png" xmltv_id="QVC">QVC</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/321_#_russia-today.png" xmltv_id="RT America">RT America</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/323_#_fetv.png" xmltv_id="FETV (Family Entertainment Television)">FETV (Family Entertainment Television)</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/324_#_" xmltv_id="America's Auction Channel">America's Auction Channel</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/326_#_gacfamily.png" xmltv_id="GAC Family - East">GAC Family - East</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/327_#_cmt-us.png" xmltv_id="CMT US - Eastern Feed">CMT US - Eastern Feed</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/328_#_tvone.png" xmltv_id="TV One">TV One</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/329_#_bettv.png" xmltv_id="BET - Eastern Feed">BET - Eastern Feed</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/330_#_bet-her.png" xmltv_id="BET Her">BET Her</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/331_#_mtv.png" xmltv_id="MTV USA - Eastern Feed">MTV USA - Eastern Feed</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/332_#_mtv2.png" xmltv_id="MTV 2 - East">MTV 2 - East</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/333_#_ifc.png" xmltv_id="Independent Film Channel US">Independent Film Channel US</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/334_#_" xmltv_id="Audience Network">Audience Network</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/335_#_vh1.png" xmltv_id="VH1 - Eastern Feed">VH1 - Eastern Feed</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/337_#_vh1classics.png" xmltv_id="MTV Classic - East">MTV Classic - East</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/338_#_uptv-2018.png" xmltv_id="UP">UP</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/339_#_fuse-2018.png" xmltv_id="FUSE TV - Eastern feed">FUSE TV - Eastern feed</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/340_#_axstv.png" xmltv_id="AXS TV USA HD">AXS TV USA HD</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/342_#_fusion.png" xmltv_id="Fusion">Fusion</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/344_#_sbn.png" xmltv_id="SonLife Network">SonLife Network</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/345_#_rfd.png" xmltv_id="RFD-TV">RFD-TV</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/346_#_bbcworld.png" xmltv_id="BBC World - North America HD">BBC World - North America HD</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/347_#_oan-news.png" xmltv_id="One America News Network">One America News Network</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/348_#_freespeech.png" xmltv_id="Free Speech Network">Free Speech Network</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/349_#_newsmaxtv.png" xmltv_id="NewsMax TV">NewsMax TV</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/350_#_cspan.png" xmltv_id="C-SPAN">C-SPAN</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/351_#_cspan2.png" xmltv_id="C-SPAN 2">C-SPAN 2</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/352_#_nasatv.png" xmltv_id="NASA Public Educational Channel">NASA Public Educational Channel</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/353_#_bloomberg.png" xmltv_id="Bloomberg TV USA">Bloomberg TV USA</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/354_#_cheddar-news.png" xmltv_id="Cheddar News">Cheddar News</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/355_#_cnbc.png" xmltv_id="CNBC USA">CNBC USA</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/356_#_msnbc.png" xmltv_id="MSNBC USA">MSNBC USA</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/357_#_cnbc.png" xmltv_id="CNBC World">CNBC World</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/359_#_fbn2019.png" xmltv_id="Fox Business">Fox Business</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/360_#_fnc.png" xmltv_id="Fox News">Fox News</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/361_#_accuweather.png" xmltv_id="AccuWeather">AccuWeather</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/362_#_weatherchannel.png" xmltv_id="The Weather Channel">The Weather Channel</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/363_#_geb-america.png" xmltv_id="GEB America">GEB America</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/364_#_insp.png" xmltv_id="INSP">INSP</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/365_#_god-tv-usa.png" xmltv_id="God TV USA">God TV USA</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/366_#_jewish-life-tv.png" xmltv_id="Jewish Life Television">Jewish Life Television</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/367_#_worldharvest.png" xmltv_id="World Harvest Television">World Harvest Television</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/368_#_hopechannel.png" xmltv_id="Hope Channel">Hope Channel</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/369_#_daystar_tv.png" xmltv_id="Daystar - Network">Daystar - Network</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/370_#_ewtn2016.png" xmltv_id="EWTN USA">EWTN USA</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/371_#_hillsong.png" xmltv_id="Hillsong (K64FT) Alexandria, LA">Hillsong (K64FT) Alexandria, LA</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/372_#_tbn.png" xmltv_id="TBN - Trinity Broadcasting Network - East">TBN - Trinity Broadcasting Network - East</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/373_#_theword.png" xmltv_id="The Word Network">The Word Network</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/374_#_byutv-19.png" xmltv_id="BYU (Brigham Young University)">BYU (Brigham Young University)</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/375_#_linktv.png" xmltv_id="Link TV">Link TV</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/376_#_ctn.png" xmltv_id="CTN - Christian Television Network">CTN - Christian Television Network</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/377_#_tct_tv.png" xmltv_id="TCT - Network">TCT - Network</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/378_#_nrbnetwork.png" xmltv_id="National Religious Broadcasting - East">National Religious Broadcasting - East</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/379_#_uptv-2018.png" xmltv_id="UP">UP</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/380_#_impact-network.png" xmltv_id="Impact Television Network">Impact Television Network</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/381_#_aspiretv.png" xmltv_id="ASPiRE TV">ASPiRE TV</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/382_#_comedytv_logo.png" xmltv_id="Comedy.TV">Comedy.TV</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/383_#_justice-central.png" xmltv_id="Justice Central">Justice Central</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/384_#_revolt.png" xmltv_id="Revolt TV">Revolt TV</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/385_#_" xmltv_id="MBC Drama (Korean)">MBC Drama (Korean)</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/389_#_pbs.png" xmltv_id="PBS - Network HD - Eastern">PBS - Network HD - Eastern</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/390_#_cbs.png" xmltv_id="CBS (WCBS) New York, NY">CBS (WCBS) New York, NY</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/391_#_cbs.png" xmltv_id="CBS (KCBS) Los Angeles, CA">CBS (KCBS) Los Angeles, CA</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/392_#_nbc.png" xmltv_id="NBC (WNBC) New York, NY">NBC (WNBC) New York, NY</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/393_#_nbc.png" xmltv_id="NBC (KNBC) Los Angeles, CA">NBC (KNBC) Los Angeles, CA</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/394_#_cw.png" xmltv_id="CW (WDCW) District of Columbia">CW (WDCW) District of Columbia</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/395_#_cw-kfmbtv.png" xmltv_id="CW (KFMB-TV2) San Diego, CA">CW (KFMB-TV2) San Diego, CA</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/396_#_abc.png" xmltv_id="ABC (WABC) New York, NY">ABC (WABC) New York, NY</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/397_#_abc.png" xmltv_id="ABC (KABC) Los Angeles, CA">ABC (KABC) Los Angeles, CA</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/398_#_foxcable.png" xmltv_id="FOX (WNYW) New York, NY">FOX (WNYW) New York, NY</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/399_#_foxcable.png" xmltv_id="FOX (KTTV) Los Angeles, CA">FOX (KTTV) Los Angeles, CA</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/402_#_univision.png" xmltv_id="Univision - Eastern Feed">Univision - Eastern Feed</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/403_#_univision.png" xmltv_id="Univision - Pacific Feed">Univision - Pacific Feed</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/404_#_galavision.png" xmltv_id="Galavision - Eastern Feed">Galavision - Eastern Feed</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/405_#_megatv-2019.png" xmltv_id="Mega TV">Mega TV</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/406_#_telemundo.png" xmltv_id="Telemundo - Eastern Feed">Telemundo - Eastern Feed</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/407_#_telemundo.png" xmltv_id="Telemundo - Pacific Feed">Telemundo - Pacific Feed</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/408_#_unimas.png" xmltv_id="UniMás - Network Pacific">UniMás - Network Pacific</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/410_#_nbcuniverso_logo.png" xmltv_id="NBC Universo - Eastern feed">NBC Universo - Eastern feed</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/413_#_discovery.png" xmltv_id="Discovery en Espanol">Discovery en Espanol</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/414_#_wapatv.png" xmltv_id="Wapa America">Wapa America</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/416_#_" xmltv_id="RCN Nuestra Tele">RCN Nuestra Tele</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/417_#_" xmltv_id="Caracol TV Internacional">Caracol TV Internacional</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/418_#_" xmltv_id="Nuestra Tele">Nuestra Tele</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/419_#_cnn_es.png" xmltv_id="CNN Español">CNN Español</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/422_#_" xmltv_id="Cine Estelar">Cine Estelar</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/427_#_" xmltv_id="IVC Network - International">IVC Network - International</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/428_#_centroamerica.png" xmltv_id="CentroAmérica TV">CentroAmérica TV</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/429_#_" xmltv_id="Telecentro">Telecentro</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/431_#_" xmltv_id="Perú Mágico">Perú Mágico</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/433_#_bandamax.png" xmltv_id="Bandamax">Bandamax</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/435_#_nat-geo-mundo.png" xmltv_id="National Geographic Mundo">National Geographic Mundo</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/436_#_discovery-familia.png" xmltv_id="Discovery Familia">Discovery Familia</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/440_#_vme.png" xmltv_id="V-Me Television HD">V-Me Television HD</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/441_#_aztecaamerica.png" xmltv_id="Azteca America - East">Azteca America - East</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/443_#_history_es.png" xmltv_id="History Channel Espanol - Eastern">History Channel Espanol - Eastern</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/445_#_mtvtres.png" xmltv_id="MTV Tr3s - East">MTV Tr3s - East</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/447_#_once_mex.png" xmltv_id="Canal Once (Mexico)">Canal Once (Mexico)</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/448_#_tbnenlace.png" xmltv_id="Enlace">Enlace</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/449_#_" xmltv_id="Sony Cine">Sony Cine</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/450_#_viendomovies.png" xmltv_id="ViendoMovies">ViendoMovies</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/451_#_" xmltv_id="De Pelicula">De Pelicula</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/452_#_" xmltv_id="De Pelicula Clasico">De Pelicula Clasico</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/453_#_foro-tv.png" xmltv_id="FOROtv">FOROtv</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/461_#_" xmltv_id="HITN">HITN</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/462_#_" xmltv_id="Cine Mexicano">Cine Mexicano</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/464_#_tudn.png" xmltv_id="TUDN">TUDN</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/465_#_fox-deportes.png" xmltv_id="Fox Deportes">Fox Deportes</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/466_#_espndeportes.png" xmltv_id="ESPN Deportes">ESPN Deportes</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/468_#_goltv.png" xmltv_id="Gol TV USA">Gol TV USA</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/469_#_tycsports.png" xmltv_id="TyC Sports">TyC Sports</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/471_#_mlsdirectkick.png" xmltv_id="DirecTV MLS Direct Kick (471)">DirecTV MLS Direct Kick (471)</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/472_#_mlsdirectkick.png" xmltv_id="DirecTV MLS Direct Kick (472)">DirecTV MLS Direct Kick (472)</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/473_#_mlsdirectkick.png" xmltv_id="DirecTV MLS Direct Kick (473)">DirecTV MLS Direct Kick (473)</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/474_#_mlsdirectkick.png" xmltv_id="DirecTV MLS Direct Kick (474)">DirecTV MLS Direct Kick (474)</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/475_#_mlsdirectkick.png" xmltv_id="DirecTV MLS Direct Kick (475)">DirecTV MLS Direct Kick (475)</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/476_#_mlsdirectkick.png" xmltv_id="DirecTV MLS Direct Kick (476)">DirecTV MLS Direct Kick (476)</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/477_#_mlsdirectkick.png" xmltv_id="DirecTV MLS Direct Kick (477)">DirecTV MLS Direct Kick (477)</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/478_#_mlsdirectkick.png" xmltv_id="DirecTV MLS Direct Kick (478)">DirecTV MLS Direct Kick (478)</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/479_#_mlsdirectkick.png" xmltv_id="DirecTV MLS Direct Kick (479)">DirecTV MLS Direct Kick (479)</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/480_#_mlsdirectkick.png" xmltv_id="DirecTV MLS Direct Kick (480)">DirecTV MLS Direct Kick (480)</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/481_#_mlsdirectkick.png" xmltv_id="DirecTV MLS Direct Kick (481)">DirecTV MLS Direct Kick (481)</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/482_#_mlsdirectkick.png" xmltv_id="DirecTV MLS Direct Kick (482)">DirecTV MLS Direct Kick (482)</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/483_#_mlsdirectkick.png" xmltv_id="DirecTV MLS Direct Kick (483)">DirecTV MLS Direct Kick (483)</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/500_#_" xmltv_id="Audience Network">Audience Network</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/501_#_hbo.png" xmltv_id="HBO - Eastern Feed">HBO - Eastern Feed</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/502_#_hbo2.png" xmltv_id="HBO 2 - Eastern Feed">HBO 2 - Eastern Feed</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/503_#_hbo-signature.png" xmltv_id="HBO Signature (HBO 3) - Eastern">HBO Signature (HBO 3) - Eastern</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/504_#_hbo.png" xmltv_id="HBO - Pacific Feed">HBO - Pacific Feed</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/505_#_hbo2.png" xmltv_id="HBO 2 - Pacific Feed">HBO 2 - Pacific Feed</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/506_#_hbo-comedy.png" xmltv_id="HBO Comedy HD - East">HBO Comedy HD - East</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/507_#_hbo-family.png" xmltv_id="HBO Family - Eastern Feed">HBO Family - Eastern Feed</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/508_#_hbo-family.png" xmltv_id="HBO Family - Pacific Feed">HBO Family - Pacific Feed</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/509_#_hbo-zone.png" xmltv_id="HBO Zone HD - East">HBO Zone HD - East</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/511_#_hbo_latino.png" xmltv_id="HBO Latino (HBO 7) - Eastern">HBO Latino (HBO 7) - Eastern</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/515_#_cinemax.png" xmltv_id="Cinemax - Eastern Feed">Cinemax - Eastern Feed</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/516_#_cinemax.png" xmltv_id="Cinemax - Pacific Feed">Cinemax - Pacific Feed</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/517_#_moremax.png" xmltv_id="MoreMax Eastern">MoreMax Eastern</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/519_#_actionmax.png" xmltv_id="ActionMax - Eastern">ActionMax - Eastern</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/520_#_5max.png" xmltv_id="5 Star Max - Eastern">5 Star Max - Eastern</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/521_#_moviemax.png" xmltv_id="MovieMax (Max 6) - East">MovieMax (Max 6) - East</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/522_#_thrillermax.png" xmltv_id="ThrillerMax - East">ThrillerMax - East</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/523_#_cinemax.png" xmltv_id="Cinemax - Eastern HD">Cinemax - Eastern HD</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/525_#_starz.png" xmltv_id="Starz - Eastern">Starz - Eastern</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/526_#_starz.png" xmltv_id="Starz - Pacific">Starz - Pacific</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/527_#_starz_family.png" xmltv_id="Starz Kids &amp; Family - Eastern">Starz Kids &amp; Family - Eastern</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/528_#_starzcomedy.png" xmltv_id="Starz Comedy HD - Eastern">Starz Comedy HD - Eastern</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/529_#_starzedge.png" xmltv_id="Starz Edge - Eastern">Starz Edge - Eastern</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/530_#_starzinblack.png" xmltv_id="Starz In Black - Eastern">Starz In Black - Eastern</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/531_#_starz_cinema.png" xmltv_id="Starz Cinema HD - Eastern">Starz Cinema HD - Eastern</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/535_#_starz-encore.png" xmltv_id="Starz Encore - Eastern">Starz Encore - Eastern</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/536_#_starz-encore.png" xmltv_id="Starz Encore - Pacific">Starz Encore - Pacific</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/537_#_starz-encore-classic.png" xmltv_id="Starz Encore Classic - Eastern">Starz Encore Classic - Eastern</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/538_#_starz-encore-westerns.png" xmltv_id="Starz Encore Westerns - Eastern">Starz Encore Westerns - Eastern</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/539_#_starz-encore-suspense.png" xmltv_id="Starz Encore Suspense - Eastern">Starz Encore Suspense - Eastern</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/540_#_starz-encore-black.png" xmltv_id="Starz Encore Black - Eastern">Starz Encore Black - Eastern</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/541_#_starz-encore-action.png" xmltv_id="Starz Encore Action - Eastern">Starz Encore Action - Eastern</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/542_#_starz-encore-family.png" xmltv_id="Starz Encore Family - Eastern">Starz Encore Family - Eastern</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/545_#_sho.png" xmltv_id="Showtime - Eastern Feed">Showtime - Eastern Feed</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/546_#_sho.png" xmltv_id="Showtime West">Showtime West</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/547_#_sho.png" xmltv_id="Showtime 2 - Eastern">Showtime 2 - Eastern</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/548_#_shoxbet.png" xmltv_id="SHOXBET - Eastern">SHOXBET - Eastern</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/549_#_sho.png" xmltv_id="Showtime Extreme - Eastern">Showtime Extreme - Eastern</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/550_#_sho.png" xmltv_id="Showtime Showcase HD - East">Showtime Showcase HD - East</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/551_#_sho.png" xmltv_id="Showtime Next HD - Eastern">Showtime Next HD - Eastern</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/552_#_sho.png" xmltv_id="Showtime Women HD - Eastern">Showtime Women HD - Eastern</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/553_#_tmc.png" xmltv_id="TMC (US) - Eastern Feed">TMC (US) - Eastern Feed</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/554_#_tmc.png" xmltv_id="TMC (US) - Pacific Feed">TMC (US) - Pacific Feed</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/555_#_tmc.png" xmltv_id="TMC Xtra HD - Eastern">TMC Xtra HD - Eastern</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/556_#_flix.png" xmltv_id="FLIX - Eastern">FLIX - Eastern</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/557_#_" xmltv_id="AMC+">AMC+</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/565_#_hmm.png" xmltv_id="Hallmark Movies &amp; Mysteries Eastern - HD">Hallmark Movies &amp; Mysteries Eastern - HD</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/566_#_hdnet-movies.png" xmltv_id="HDNet Movies HD">HDNet Movies HD</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/567_#_mgmhd.png" xmltv_id="MGM HD (USA)">MGM HD (USA)</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/568_#_" xmltv_id="Sony Movies">Sony Movies</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/569_#_olympic-channel.png" xmltv_id="Olympic Channel">Olympic Channel</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/570_#_smithsonian.png" xmltv_id="Smithsonian Channel USA HD">Smithsonian Channel USA HD</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/571_#_crime_invest.png" xmltv_id="Crime &amp; Investigation Network USA HD">Crime &amp; Investigation Network USA HD</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/572_#_mtv_live.png" xmltv_id="MTV Live HD">MTV Live HD</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/573_#_" xmltv_id="Shorts HD">Shorts HD</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/575_#_playboy-od.png" xmltv_id="Playboy Interactive">Playboy Interactive</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/576_#_playboy_tv.png" xmltv_id="Playboy HD">Playboy HD</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/577_#_playboy_tv.png" xmltv_id="Playboy">Playboy</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/588_#_" xmltv_id="Hustler TV USA On Demand">Hustler TV USA On Demand</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/590_#_playboy_tv.png" xmltv_id="Playboy HD">Playboy HD</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/595_#_penthouse.png" xmltv_id="Penthouse TV USA">Penthouse TV USA</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/597_#_brazzers.png" xmltv_id="Brazzers TV">Brazzers TV</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/602_#_tvgnetwork.png" xmltv_id="TVG - Television Games Network">TVG - Television Games Network</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/604_#_pursuit-channel.png" xmltv_id="Pursuit Channel">Pursuit Channel</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/605_#_sportsman_channel.png" xmltv_id="Sportsman Channel">Sportsman Channel</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/606_#_outdoorchannel.png" xmltv_id="Outdoor Channel US">Outdoor Channel US</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/608_#_fox_college_sports.png" xmltv_id="Stadium College Sports - Atlantic">Stadium College Sports - Atlantic</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/610_#_bigten-2021.png" xmltv_id="Big Ten Network">Big Ten Network</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/611_#_sec_network.png" xmltv_id="SEC Network">SEC Network</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/612_#_acc-network.png" xmltv_id="ACC Network">ACC Network</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/614_#_espn_classics.png" xmltv_id="ESPN Classics USA">ESPN Classics USA</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/615_#_" xmltv_id="ESPN Goal Line">ESPN Goal Line</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/618_#_foxsports2.png" xmltv_id="Fox Sports 2">Fox Sports 2</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/621_#_fsplus.png" xmltv_id="FOX Soccer Plus">FOX Soccer Plus</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/623_#_" xmltv_id="Next Level Sports">Next Level Sports</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/624_#_olympic-channel.png" xmltv_id="Olympic Channel">Olympic Channel</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/628_#_nesn-19.png" xmltv_id="New England Sports Network">New England Sports Network</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/630_#_nbc_sports_boston.png" xmltv_id="NBC Sports Boston">NBC Sports Boston</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/631_#_yes.png" xmltv_id="YES Network">YES Network</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/634_#_msg.png" xmltv_id="MSG (Madison Square Gardens)">MSG (Madison Square Gardens)</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/635_#_msgplus.png" xmltv_id="MSG Plus">MSG Plus</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/639_#_sny.png" xmltv_id="SNY: SportsNet New York (Comcast)">SNY: SportsNet New York (Comcast)</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/640_#_masn.png" xmltv_id="Mid-Atlantic Sports Network">Mid-Atlantic Sports Network</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/642_#_nbc-sports-washington.png" xmltv_id="NBC Sports Washington">NBC Sports Washington</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/646_#_ballysports.png" xmltv_id="Bally Sports South">Bally Sports South</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/649_#_ballysports.png" xmltv_id="Bally Sports Southeast">Bally Sports Southeast</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/653_#_ballysports-sun.png" xmltv_id="Bally Sports Sun">Bally Sports Sun</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/654_#_ballysports-florida.png" xmltv_id="Bally Sports Florida">Bally Sports Florida</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/659_#_att-sportsnet.png" xmltv_id="AT&amp;T Sportsnet Pittsburgh">AT&amp;T Sportsnet Pittsburgh</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/660_#_ballysports-ohio.png" xmltv_id="Bally Sports Ohio - Cleveland">Bally Sports Ohio - Cleveland</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/661_#_ballysports-ohio.png" xmltv_id="Bally Sports Ohio - Cincinnati (2)">Bally Sports Ohio - Cincinnati (2)</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/662_#_ballysports-greatlakes.png" xmltv_id="Bally Sports Great Lakes">Bally Sports Great Lakes</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/663_#_ballysports.png" xmltv_id="Bally Sports Detroit">Bally Sports Detroit</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/664_#_marquee-sports.png" xmltv_id="Marquee Sports Network">Marquee Sports Network</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/665_#_nbc_sports_chicago.png" xmltv_id="NBC Sports Chicago">NBC Sports Chicago</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/668_#_ballysports.png" xmltv_id="Bally Sports North">Bally Sports North</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/671_#_ballysports.png" xmltv_id="Bally Sports Midwest">Bally Sports Midwest</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/674_#_att-sportsnet.png" xmltv_id="AT&amp;T Sportsnet Southwest - Houston">AT&amp;T Sportsnet Southwest - Houston</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/676_#_ballysports.png" xmltv_id="Bally Sports Southwest">Bally Sports Southwest</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/677_#_longhorn.png" xmltv_id="Longhorn Network">Longhorn Network</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/681_#_altitude.png" xmltv_id="Altitude Sports">Altitude Sports</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/683_#_att-sportsnet.png" xmltv_id="AT&amp;T Sportsnet Rocky Mountains">AT&amp;T Sportsnet Rocky Mountains</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/684_#_att-sportsnet.png" xmltv_id="AT&amp;T Sportsnet Rocky Mountains - West HD">AT&amp;T Sportsnet Rocky Mountains - West HD</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/686_#_ballysports-az.png" xmltv_id="Bally Sports Arizona">Bally Sports Arizona</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/687_#_root-sports.png" xmltv_id="Root Sports Northwest">Root Sports Northwest</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/691_#_specsports.png" xmltv_id="Spectrum SportsNet">Spectrum SportsNet</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/692_#_ballysports-west.png" xmltv_id="Bally Sports West">Bally Sports West</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/693_#_ballysports-socal.png" xmltv_id="Bally Sports SoCal">Bally Sports SoCal</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/694_#_ballysports.png" xmltv_id="Bally Sports San Diego">Bally Sports San Diego</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/696_#_nbc_sports_bayarea.png" xmltv_id="NBC Sports Bay Area">NBC Sports Bay Area</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/698_#_nbc_sports_california.png" xmltv_id="NBC Sports California">NBC Sports California</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/700_#_nflred.png" xmltv_id="NFL RedZone">NFL RedZone</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/701_#_nfl_sundayticket.png" xmltv_id="DirecTV Sports 701">DirecTV Sports 701</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/702_#_nfl_sundayticket.png" xmltv_id="DirecTV Sports 702">DirecTV Sports 702</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/703_#_nfl_sundayticket.png" xmltv_id="DirecTV Sports 703">DirecTV Sports 703</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/704_#_nfl_sundayticket.png" xmltv_id="DirecTV Sports 704">DirecTV Sports 704</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/705_#_nfl_sundayticket.png" xmltv_id="DirecTV Sports 705">DirecTV Sports 705</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/706_#_nfl_sundayticket.png" xmltv_id="DirecTV Sports 706">DirecTV Sports 706</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/707_#_nfl_sundayticket.png" xmltv_id="DirecTV Sports 707">DirecTV Sports 707</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/708_#_nfl_sundayticket.png" xmltv_id="DirecTV Sports 708">DirecTV Sports 708</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/709_#_nfl_sundayticket.png" xmltv_id="DirecTV Sports 709">DirecTV Sports 709</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/710_#_nfl_sundayticket.png" xmltv_id="DirecTV Sports 710">DirecTV Sports 710</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/711_#_nfl_sundayticket.png" xmltv_id="DirecTV Sports 711">DirecTV Sports 711</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/712_#_nfl_sundayticket.png" xmltv_id="DirecTV Sports 712">DirecTV Sports 712</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/713_#_nfl_sundayticket.png" xmltv_id="DirecTV Sports 713">DirecTV Sports 713</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/714_#_nfl_sundayticket.png" xmltv_id="DirecTV Sports 714">DirecTV Sports 714</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/715_#_nfl_sundayticket.png" xmltv_id="DirecTV Sports 715">DirecTV Sports 715</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/716_#_nfl_sundayticket.png" xmltv_id="DirecTV Sports 716">DirecTV Sports 716</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/717_#_nfl_sundayticket.png" xmltv_id="DirecTV Sports 717">DirecTV Sports 717</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/718_#_nfl_sundayticket.png" xmltv_id="DirecTV Sports 718">DirecTV Sports 718</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/719_#_nfl_sundayticket.png" xmltv_id="DirecTV Sports 719">DirecTV Sports 719</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/720_#_" xmltv_id="DirecTV Sports 720">DirecTV Sports 720</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/721_#_mlbextrainnings.png" xmltv_id="DirecTV MLB Extra Innings (721)">DirecTV MLB Extra Innings (721)</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/722_#_mlbextrainnings.png" xmltv_id="DirecTV MLB Extra Innings (722)">DirecTV MLB Extra Innings (722)</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/723_#_mlbextrainnings.png" xmltv_id="DirecTV MLB Extra Innings (723)">DirecTV MLB Extra Innings (723)</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/724_#_mlbextrainnings.png" xmltv_id="DirecTV MLB Extra Innings (724)">DirecTV MLB Extra Innings (724)</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/725_#_mlbextrainnings.png" xmltv_id="DirecTV MLB Extra Innings (725)">DirecTV MLB Extra Innings (725)</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/726_#_mlbextrainnings.png" xmltv_id="DirecTV MLB Extra Innings (726)">DirecTV MLB Extra Innings (726)</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/727_#_mlbextrainnings.png" xmltv_id="DirecTV MLB Extra Innings (727)">DirecTV MLB Extra Innings (727)</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/728_#_mlbextrainnings.png" xmltv_id="DirecTV MLB Extra Innings (728)">DirecTV MLB Extra Innings (728)</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/729_#_mlbextrainnings.png" xmltv_id="DirecTV MLB Extra Innings (729)">DirecTV MLB Extra Innings (729)</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/730_#_mlbextrainnings.png" xmltv_id="DirecTV MLB Extra Innings (730)">DirecTV MLB Extra Innings (730)</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/731_#_mlbextrainnings.png" xmltv_id="DirecTV MLB Extra Innings (731)">DirecTV MLB Extra Innings (731)</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/732_#_mlbextrainnings.png" xmltv_id="DirecTV MLB Extra Innings (732)">DirecTV MLB Extra Innings (732)</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/733_#_mlbextrainnings.png" xmltv_id="DirecTV MLB Extra Innings (733)">DirecTV MLB Extra Innings (733)</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/734_#_mlbextrainnings.png" xmltv_id="DirecTV MLB Extra Innings (734)">DirecTV MLB Extra Innings (734)</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/735_#_mlbextrainnings.png" xmltv_id="DirecTV MLB Extra Innings (735)">DirecTV MLB Extra Innings (735)</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/736_#_mlbextrainnings.png" xmltv_id="DirecTV MLB Extra Innings (736)">DirecTV MLB Extra Innings (736)</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/737_#_mlbextrainnings.png" xmltv_id="DirecTV MLB Extra Innings (737)">DirecTV MLB Extra Innings (737)</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/738_#_mlbextrainnings.png" xmltv_id="DirecTV MLB Extra Innings (738)">DirecTV MLB Extra Innings (738)</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/739_#_mlbextrainnings.png" xmltv_id="DirecTV MLB Extra Innings (739)">DirecTV MLB Extra Innings (739)</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/740_#_mlbextrainnings.png" xmltv_id="DirecTV MLB Extra Innings (740)">DirecTV MLB Extra Innings (740)</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/741_#_mlbextrainnings.png" xmltv_id="DirecTV MLB Extra Innings (741)">DirecTV MLB Extra Innings (741)</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/742_#_mlbextrainnings.png" xmltv_id="DirecTV MLB Extra Innings (742)">DirecTV MLB Extra Innings (742)</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/743_#_mlbextrainnings.png" xmltv_id="DirecTV MLB Extra Innings (743)">DirecTV MLB Extra Innings (743)</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/744_#_mlbextrainnings.png" xmltv_id="DirecTV MLB Extra Innings (744)">DirecTV MLB Extra Innings (744)</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/745_#_mlbextrainnings.png" xmltv_id="DirecTV MLB Extra Innings (745)">DirecTV MLB Extra Innings (745)</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/746_#_mlbextrainnings.png" xmltv_id="DirecTV MLB Extra Innings (746)">DirecTV MLB Extra Innings (746)</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/747_#_mlbextrainnings.png" xmltv_id="DirecTV MLB Extra Innings (747)">DirecTV MLB Extra Innings (747)</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/748_#_mlbextrainnings.png" xmltv_id="DirecTV MLB Extra Innings (748)">DirecTV MLB Extra Innings (748)</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/749_#_mlbextrainnings.png" xmltv_id="DirecTV MLB Extra Innings (749)">DirecTV MLB Extra Innings (749)</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/750_#_nbaleaguepass.png" xmltv_id="DirecTV NBA League Pass (750)">DirecTV NBA League Pass (750)</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/751_#_nbaleaguepass.png" xmltv_id="DirecTV NBA League Pass (751)">DirecTV NBA League Pass (751)</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/752_#_nbaleaguepass.png" xmltv_id="DirecTV NBA League Pass (752)">DirecTV NBA League Pass (752)</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/753_#_nbaleaguepass.png" xmltv_id="DirecTV NBA League Pass (753)">DirecTV NBA League Pass (753)</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/754_#_nbaleaguepass.png" xmltv_id="DirecTV NBA League Pass (754)">DirecTV NBA League Pass (754)</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/755_#_nbaleaguepass.png" xmltv_id="DirecTV NBA League Pass (755)">DirecTV NBA League Pass (755)</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/756_#_nbaleaguepass.png" xmltv_id="DirecTV NBA League Pass (756)">DirecTV NBA League Pass (756)</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/757_#_nbaleaguepass.png" xmltv_id="DirecTV NBA League Pass (757)">DirecTV NBA League Pass (757)</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/758_#_nbaleaguepass.png" xmltv_id="DirecTV NBA League Pass (758)">DirecTV NBA League Pass (758)</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/759_#_nbaleaguepass.png" xmltv_id="DirecTV NBA League Pass (759)">DirecTV NBA League Pass (759)</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/760_#_nbaleaguepass.png" xmltv_id="DirecTV NBA League Pass (760)">DirecTV NBA League Pass (760)</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/761_#_nbaleaguepass.png" xmltv_id="DirecTV NBA League Pass (761)">DirecTV NBA League Pass (761)</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/762_#_nbaleaguepass.png" xmltv_id="DirecTV NBA League Pass (762)">DirecTV NBA League Pass (762)</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/763_#_nbaleaguepass.png" xmltv_id="DirecTV NBA League Pass (763)">DirecTV NBA League Pass (763)</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/764_#_nbaleaguepass.png" xmltv_id="DirecTV NBA League Pass (764)">DirecTV NBA League Pass (764)</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/765_#_nbaleaguepass.png" xmltv_id="DirecTV NBA League Pass (765)">DirecTV NBA League Pass (765)</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/766_#_nbaleaguepass.png" xmltv_id="DirecTV NBA League Pass (766)">DirecTV NBA League Pass (766)</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/767_#_nbaleaguepass.png" xmltv_id="DirecTV NBA League Pass (767)">DirecTV NBA League Pass (767)</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/768_#_nbaleaguepass.png" xmltv_id="DirecTV NBA League Pass (768)">DirecTV NBA League Pass (768)</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/769_#_nhlcenterice.png" xmltv_id="DirecTV NHL Center Ice (769)">DirecTV NHL Center Ice (769)</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/770_#_nhlcenterice.png" xmltv_id="DirecTV NHL Center Ice (770)">DirecTV NHL Center Ice (770)</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/771_#_nhlcenterice.png" xmltv_id="DirecTV NHL Center Ice (771)">DirecTV NHL Center Ice (771)</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/772_#_nhlcenterice.png" xmltv_id="DirecTV NHL Center Ice (772)">DirecTV NHL Center Ice (772)</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/773_#_nhlcenterice.png" xmltv_id="DirecTV NHL Center Ice (773)">DirecTV NHL Center Ice (773)</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/774_#_nhlcenterice.png" xmltv_id="DirecTV NHL Center Ice (774)">DirecTV NHL Center Ice (774)</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/775_#_nhlcenterice.png" xmltv_id="DirecTV NHL Center Ice (775)">DirecTV NHL Center Ice (775)</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/776_#_nhlcenterice.png" xmltv_id="DirecTV NHL Center Ice (776)">DirecTV NHL Center Ice (776)</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/777_#_nhlcenterice.png" xmltv_id="DirecTV NHL Center Ice (777)">DirecTV NHL Center Ice (777)</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/778_#_nhlcenterice.png" xmltv_id="DirecTV NHL Center Ice (778)">DirecTV NHL Center Ice (778)</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/779_#_nhlcenterice.png" xmltv_id="DirecTV NHL Center Ice (779)">DirecTV NHL Center Ice (779)</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/780_#_nhlcenterice.png" xmltv_id="DirecTV NHL Center Ice (780)">DirecTV NHL Center Ice (780)</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/781_#_nhlcenterice.png" xmltv_id="DirecTV NHL Center Ice (781)">DirecTV NHL Center Ice (781)</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/782_#_nhlcenterice.png" xmltv_id="DirecTV NHL Center Ice (782)">DirecTV NHL Center Ice (782)</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/783_#_nhlcenterice.png" xmltv_id="DirecTV NHL Center Ice (783)">DirecTV NHL Center Ice (783)</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/784_#_nhlcenterice.png" xmltv_id="DirecTV NHL Center Ice (784)">DirecTV NHL Center Ice (784)</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/785_#_nhlcenterice.png" xmltv_id="DirecTV NHL Center Ice (785)">DirecTV NHL Center Ice (785)</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/786_#_nhlcenterice.png" xmltv_id="DirecTV NHL Center Ice (786)">DirecTV NHL Center Ice (786)</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/787_#_nhlcenterice.png" xmltv_id="DirecTV NHL Center Ice (787)">DirecTV NHL Center Ice (787)</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/788_#_espncollegeextra.png" xmltv_id="ESPN College Extra 1">ESPN College Extra 1</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/789_#_espncollegeextra.png" xmltv_id="ESPN College Extra 2">ESPN College Extra 2</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/790_#_espncollegeextra.png" xmltv_id="ESPN College Extra 3">ESPN College Extra 3</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/791_#_espncollegeextra.png" xmltv_id="ESPN College Extra 4">ESPN College Extra 4</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/792_#_espncollegeextra.png" xmltv_id="ESPN College Extra 5">ESPN College Extra 5</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/793_#_espncollegeextra.png" xmltv_id="ESPN College Extra 6">ESPN College Extra 6</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/794_#_espncollegeextra.png" xmltv_id="ESPN College Extra 7">ESPN College Extra 7</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/795_#_espncollegeextra.png" xmltv_id="ESPN College Extra 8">ESPN College Extra 8</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/796_#_espncollegeextra.png" xmltv_id="ESPN College Extra 3 HD">ESPN College Extra 3 HD</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/797_#_espncollegeextra.png" xmltv_id="ESPN College Extra 4 HD">ESPN College Extra 4 HD</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/798_#_espncollegeextra.png" xmltv_id="ESPN College Extra 5 HD">ESPN College Extra 5 HD</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/1202_#_cnn.png" xmltv_id="CNN on demand">CNN on demand</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/1206_#_espn_od.png" xmltv_id="ESPN On Demand">ESPN On Demand</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/1208_#_espn_od.png" xmltv_id="ESPNU On Demand">ESPNU On Demand</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/1246_#_trutv.png" xmltv_id="TruTV on Demand">TruTV on Demand</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/1249_#_comedycentral.png" xmltv_id="Comedy Central on Demand">Comedy Central on Demand</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/1278_#_discovery.png" xmltv_id="Discovery Channel (US) on demand">Discovery Channel (US) on demand</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/1287_#_ahc_logo.png" xmltv_id="American Heroes Channel">American Heroes Channel</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/1290_#_disney.png" xmltv_id="Disney on Demand">Disney on Demand</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/1298_#_boomerang.png" xmltv_id="Boomerang On Demand">Boomerang On Demand</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/1300_#_" xmltv_id="Nickelodeon USA On Demand">Nickelodeon USA On Demand</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/1311_#_freeform18.png" xmltv_id="Freeform On Demand">Freeform On Demand</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/1327_#_" xmltv_id="CMT US On Demand">CMT US On Demand</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/1339_#_" xmltv_id="Fuse On Demand">Fuse On Demand</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/1432_#_espn_od.png" xmltv_id="ESPN Deportes On Demand">ESPN Deportes On Demand</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/1501_#_hbo.png" xmltv_id="HBO On Demand">HBO On Demand</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/1515_#_cinemax.png" xmltv_id="Cinemax on Demand">Cinemax on Demand</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/1527_#_starz-od.png" xmltv_id="Starz On Demand">Starz On Demand</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/1535_#_starz-encore-od.png" xmltv_id="Starz Encore on Demand">Starz Encore on Demand</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/1545_#_sho.png" xmltv_id="Showtime on Demand">Showtime on Demand</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/1553_#_" xmltv_id="TMC on Demand">TMC on Demand</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/1566_#_hdnet-movies.png" xmltv_id="HDNet Movies On Dmenad">HDNet Movies On Dmenad</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/1576_#_playboy-od.png" xmltv_id="Playboy On Demand">Playboy On Demand</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/1610_#_bigten-2021.png" xmltv_id="Big Ten Network OnDemand">Big Ten Network OnDemand</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/2002_#_" xmltv_id="ABP News">ABP News</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/2051_#_" xmltv_id="Phoenix InfoNews">Phoenix InfoNews</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/2052_#_cgtn.png" xmltv_id="CGTN (CCTV4)">CGTN (CCTV4)</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/2053_#_cctv4.png" xmltv_id="CCTV-4 America">CCTV-4 America</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/2056_#_" xmltv_id="CTI-Zhong Tian Channel">CTI-Zhong Tian Channel</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/2057_#_" xmltv_id="TVBS (Mandarin)">TVBS (Mandarin)</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/2060_#_filipinochannel.png" xmltv_id="TFC - The Filipino Channel">TFC - The Filipino Channel</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/2061_#_gmapinoy.png" xmltv_id="GMA\/Pinoy TV">GMA\/Pinoy TV</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/2069_#_" xmltv_id="GMA Life TV">GMA Life TV</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/2072_#_sbtntv.png" xmltv_id="VGNTV (Saigon Broadcasting Television Network)">VGNTV (Saigon Broadcasting Television Network)</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/2076_#_" xmltv_id="TVBV (Vietnamese)">TVBV (Vietnamese)</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/2081_#_mbc-america.png" xmltv_id="MBC America (Korean)">MBC America (Korean)</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/2084_#_" xmltv_id="SBS (Korean)">SBS (Korean)</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/2095_#_arirang.png" xmltv_id="Arirang TV">Arirang TV</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/2119_#_cctv4.png" xmltv_id="CCTV-4 America">CCTV-4 America</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/2134_#_" xmltv_id="TV Globo">TV Globo</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/2140_#_channel1russia.png" xmltv_id="Channel 1 Russian">Channel 1 Russian</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/2148_#_rtvi.png" xmltv_id="RTVi">RTVi</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/9521_#_" xmltv_id="DTV 9521">DTV 9521</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/9522_#_" xmltv_id="DTV 9522">DTV 9522</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/9523_#_" xmltv_id="DTV 9523">DTV 9523</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/9524_#_" xmltv_id="DTV 9524">DTV 9524</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/9537_#_sho.png" xmltv_id="Showtime - Eastern Feed">Showtime - Eastern Feed</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/9539_#_" xmltv_id="DirecTV Special Events HD">DirecTV Special Events HD</channel>
-    <channel update="i" site="tvtv.us" site_id="36504D/9540_#_" xmltv_id="DirecTV Special Events">DirecTV Special Events</channel>
+    <channel update="i" site="tvtv.us" site_id="91035" xmltv_id="WINS">WINS</channel>
+    <channel update="i" site="tvtv.us" site_id="16689" xmltv_id="WCBSDT: - CBS">WCBSDT: - CBS</channel>
+    <channel update="i" site="tvtv.us" site_id="11331" xmltv_id="WCBS: - CBS">WCBS: - CBS</channel>
+    <channel update="i" site="tvtv.us" site_id="20459" xmltv_id="WNBCDT: - NBC">WNBCDT: - NBC</channel>
+    <channel update="i" site="tvtv.us" site_id="11705" xmltv_id="WNBC: - NBC">WNBC: - NBC</channel>
+    <channel update="i" site="tvtv.us" site_id="20360" xmltv_id="WNYWDT: - FOX">WNYWDT: - FOX</channel>
+    <channel update="i" site="tvtv.us" site_id="11746" xmltv_id="WNYW: - FOX">WNYW: - FOX</channel>
+    <channel update="i" site="tvtv.us" site_id="20453" xmltv_id="WABCDT: - ABC">WABCDT: - ABC</channel>
+    <channel update="i" site="tvtv.us" site_id="11259" xmltv_id="WABC: - ABC">WABC: - ABC</channel>
+    <channel update="i" site="tvtv.us" site_id="26566" xmltv_id="WWORDT: - MNT">WWORDT: - MNT</channel>
+    <channel update="i" site="tvtv.us" site_id="11760" xmltv_id="WWOR: - MNT">WWOR: - MNT</channel>
+    <channel update="i" site="tvtv.us" site_id="20373" xmltv_id="WPIXDT: - CW">WPIXDT: - CW</channel>
+    <channel update="i" site="tvtv.us" site_id="11779" xmltv_id="WPIX: - CW">WPIX: - CW</channel>
+    <channel update="i" site="tvtv.us" site_id="26182" xmltv_id="WNETDT: - PBS">WNETDT: - PBS</channel>
+    <channel update="i" site="tvtv.us" site_id="11715" xmltv_id="WNET: - PBS">WNET: - PBS</channel>
+    <channel update="i" site="tvtv.us" site_id="11643" xmltv_id="WLIW: - PBS">WLIW: - PBS</channel>
+    <channel update="i" site="tvtv.us" site_id="34325" xmltv_id="WLIWDT: - PBS">WLIWDT: - PBS</channel>
+    <channel update="i" site="tvtv.us" site_id="26196" xmltv_id="WNYEDT">WNYEDT</channel>
+    <channel update="i" site="tvtv.us" site_id="11744" xmltv_id="WNYE">WNYE</channel>
+    <channel update="i" site="tvtv.us" site_id="11743" xmltv_id="WPXN: - ION">WPXN: - ION</channel>
+    <channel update="i" site="tvtv.us" site_id="43818" xmltv_id="WPXNDT: - ION">WPXNDT: - ION</channel>
+    <channel update="i" site="tvtv.us" site_id="96311" xmltv_id="WJLPCAB: - METVN">WJLPCAB: - METVN</channel>
+    <channel update="i" site="tvtv.us" site_id="75523" xmltv_id="WJLPDT: - METVN">WJLPDT: - METVN</channel>
+    <channel update="i" site="tvtv.us" site_id="12001" xmltv_id="WXTV: - UNI">WXTV: - UNI</channel>
+    <channel update="i" site="tvtv.us" site_id="35361" xmltv_id="WXTVDT: - UNI">WXTVDT: - UNI</channel>
+    <channel update="i" site="tvtv.us" site_id="68621" xmltv_id="WKOBLD: - AZTECAE">WKOBLD: - AZTECAE</channel>
+    <channel update="i" site="tvtv.us" site_id="15715" xmltv_id="WZME: - METVPLS">WZME: - METVPLS</channel>
+    <channel update="i" site="tvtv.us" site_id="64008" xmltv_id="WZMEDT: - METVPLS">WZMEDT: - METVPLS</channel>
+    <channel update="i" site="tvtv.us" site_id="11726" xmltv_id="WNJU: - TELE">WNJU: - TELE</channel>
+    <channel update="i" site="tvtv.us" site_id="54437" xmltv_id="WNJUDT: - TELE">WNJUDT: - TELE</channel>
+    <channel update="i" site="tvtv.us" site_id="34254" xmltv_id="WEDWDT: - PBS">WEDWDT: - PBS</channel>
+    <channel update="i" site="tvtv.us" site_id="11723" xmltv_id="WNJN: - PBS">WNJN: - PBS</channel>
+    <channel update="i" site="tvtv.us" site_id="29139" xmltv_id="WNJNDT: - PBS">WNJNDT: - PBS</channel>
+    <channel update="i" site="tvtv.us" site_id="31225" xmltv_id="WLNYDT">WLNYDT</channel>
+    <channel update="i" site="tvtv.us" site_id="75363" xmltv_id="WLNYSD">WLNYSD</channel>
+    <channel update="i" site="tvtv.us" site_id="11933" xmltv_id="WRNN: - SHOPHQ">WRNN: - SHOPHQ</channel>
+    <channel update="i" site="tvtv.us" site_id="35855" xmltv_id="WRNNDT: - SHOPHQ">WRNNDT: - SHOPHQ</channel>
+    <channel update="i" site="tvtv.us" site_id="12477" xmltv_id="WMBC">WMBC</channel>
+    <channel update="i" site="tvtv.us" site_id="35911" xmltv_id="WMBCDT">WMBCDT</channel>
+    <channel update="i" site="tvtv.us" site_id="35364" xmltv_id="WFUTDT: - UNIMAS">WFUTDT: - UNIMAS</channel>
+    <channel update="i" site="tvtv.us" site_id="11527" xmltv_id="WFUT: - UNIMAS">WFUT: - UNIMAS</channel>
+    <channel update="i" site="tvtv.us" site_id="10269" xmltv_id="HSN">HSN</channel>
+    <channel update="i" site="tvtv.us" site_id="62077" xmltv_id="HSNHD">HSNHD</channel>
+    <channel update="i" site="tvtv.us" site_id="11069" xmltv_id="QVC">QVC</channel>
+    <channel update="i" site="tvtv.us" site_id="60222" xmltv_id="QVCHD: - QVC">QVCHD: - QVC</channel>
+    <channel update="i" site="tvtv.us" site_id="12782" xmltv_id="NEWSMIX">NEWSMIX</channel>
+    <channel update="i" site="tvtv.us" site_id="16604" xmltv_id="JTV">JTV</channel>
+    <channel update="i" site="tvtv.us" site_id="14948" xmltv_id="SHOPHQ">SHOPHQ</channel>
+    <channel update="i" site="tvtv.us" site_id="66110" xmltv_id="DT309">DT309</channel>
+    <channel update="i" site="tvtv.us" site_id="56032" xmltv_id="SHOPLC">SHOPLC</channel>
+    <channel update="i" site="tvtv.us" site_id="82682" xmltv_id="QVC2: - QVC">QVC2: - QVC</channel>
+    <channel update="i" site="tvtv.us" site_id="61313" xmltv_id="SALE">SALE</channel>
+    <channel update="i" site="tvtv.us" site_id="114483" xmltv_id="DTV203">DTV203</channel>
+    <channel update="i" site="tvtv.us" site_id="101697" xmltv_id="GETIT1">GETIT1</channel>
+    <channel update="i" site="tvtv.us" site_id="106173" xmltv_id="PRIMERF">PRIMERF</channel>
+    <channel update="i" site="tvtv.us" site_id="63156" xmltv_id="DT82">DT82</channel>
+    <channel update="i" site="tvtv.us" site_id="62955" xmltv_id="WOWU">WOWU</channel>
+    <channel update="i" site="tvtv.us" site_id="63137" xmltv_id="DT270">DT270</channel>
+    <channel update="i" site="tvtv.us" site_id="59534" xmltv_id="DT222">DT222</channel>
+    <channel update="i" site="tvtv.us" site_id="72611" xmltv_id="DT250">DT250</channel>
+    <channel update="i" site="tvtv.us" site_id="62894" xmltv_id="DT87">DT87</channel>
+    <channel update="i" site="tvtv.us" site_id="57806" xmltv_id="DT268">DT268</channel>
+    <channel update="i" site="tvtv.us" site_id="86448" xmltv_id="DT262">DT262</channel>
+    <channel update="i" site="tvtv.us" site_id="101279" xmltv_id="DT91">DT91</channel>
+    <channel update="i" site="tvtv.us" site_id="100082" xmltv_id="DT310">DT310</channel>
+    <channel update="i" site="tvtv.us" site_id="113720" xmltv_id="DTV308">DTV308</channel>
+    <channel update="i" site="tvtv.us" site_id="100304" xmltv_id="DT321">DT321</channel>
+    <channel update="i" site="tvtv.us" site_id="96368" xmltv_id="CASH">CASH</channel>
+    <channel update="i" site="tvtv.us" site_id="62094" xmltv_id="DT320">DT320</channel>
+    <channel update="i" site="tvtv.us" site_id="68502" xmltv_id="DT255">DT255</channel>
+    <channel update="i" site="tvtv.us" site_id="92534" xmltv_id="DTVSS">DTVSS</channel>
+    <channel update="i" site="tvtv.us" site_id="72276" xmltv_id="DT104">DT104</channel>
+    <channel update="i" site="tvtv.us" site_id="99076" xmltv_id="DTV4K">DTV4K</channel>
+    <channel update="i" site="tvtv.us" site_id="12785" xmltv_id="DITV105">DITV105</channel>
+    <channel update="i" site="tvtv.us" site_id="100372" xmltv_id="DT106">DT106</channel>
+    <channel update="i" site="tvtv.us" site_id="12788" xmltv_id="DITV108">DITV108</channel>
+    <channel update="i" site="tvtv.us" site_id="12789" xmltv_id="DITV109">DITV109</channel>
+    <channel update="i" site="tvtv.us" site_id="12790" xmltv_id="DITV110">DITV110</channel>
+    <channel update="i" site="tvtv.us" site_id="12791" xmltv_id="DITV111">DITV111</channel>
+    <channel update="i" site="tvtv.us" site_id="12792" xmltv_id="DITV112">DITV112</channel>
+    <channel update="i" site="tvtv.us" site_id="22447" xmltv_id="DITV113">DITV113</channel>
+    <channel update="i" site="tvtv.us" site_id="22448" xmltv_id="DITV114">DITV114</channel>
+    <channel update="i" site="tvtv.us" site_id="12793" xmltv_id="DITV115">DITV115</channel>
+    <channel update="i" site="tvtv.us" site_id="12795" xmltv_id="DITV117">DITV117</channel>
+    <channel update="i" site="tvtv.us" site_id="12796" xmltv_id="DITV118">DITV118</channel>
+    <channel update="i" site="tvtv.us" site_id="12797" xmltv_id="DITV119">DITV119</channel>
+    <channel update="i" site="tvtv.us" site_id="12798" xmltv_id="DITV120">DITV120</channel>
+    <channel update="i" site="tvtv.us" site_id="12799" xmltv_id="DITV121">DITV121</channel>
+    <channel update="i" site="tvtv.us" site_id="22422" xmltv_id="DITV122">DITV122</channel>
+    <channel update="i" site="tvtv.us" site_id="31548" xmltv_id="DITV123">DITV123</channel>
+    <channel update="i" site="tvtv.us" site_id="31303" xmltv_id="DITV124">DITV124</channel>
+    <channel update="i" site="tvtv.us" site_id="12800" xmltv_id="DITV125">DITV125</channel>
+    <channel update="i" site="tvtv.us" site_id="31549" xmltv_id="DITV126">DITV126</channel>
+    <channel update="i" site="tvtv.us" site_id="31550" xmltv_id="DITV127">DITV127</channel>
+    <channel update="i" site="tvtv.us" site_id="22423" xmltv_id="DITV128">DITV128</channel>
+    <channel update="i" site="tvtv.us" site_id="31551" xmltv_id="DITV129">DITV129</channel>
+    <channel update="i" site="tvtv.us" site_id="22424" xmltv_id="DITV130">DITV130</channel>
+    <channel update="i" site="tvtv.us" site_id="12801" xmltv_id="DITV131">DITV131</channel>
+    <channel update="i" site="tvtv.us" site_id="12802" xmltv_id="DITV132">DITV132</channel>
+    <channel update="i" site="tvtv.us" site_id="44307" xmltv_id="DITV133">DITV133</channel>
+    <channel update="i" site="tvtv.us" site_id="22425" xmltv_id="DITV134">DITV134</channel>
+    <channel update="i" site="tvtv.us" site_id="22426" xmltv_id="DITV135">DITV135</channel>
+    <channel update="i" site="tvtv.us" site_id="31552" xmltv_id="DITV136">DITV136</channel>
+    <channel update="i" site="tvtv.us" site_id="47376" xmltv_id="DITV137">DITV137</channel>
+    <channel update="i" site="tvtv.us" site_id="22427" xmltv_id="DITV138">DITV138</channel>
+    <channel update="i" site="tvtv.us" site_id="44308" xmltv_id="DITV139">DITV139</channel>
+    <channel update="i" site="tvtv.us" site_id="22428" xmltv_id="DITV140">DITV140</channel>
+    <channel update="i" site="tvtv.us" site_id="31553" xmltv_id="DITV141">DITV141</channel>
+    <channel update="i" site="tvtv.us" site_id="22429" xmltv_id="DITV142">DITV142</channel>
+    <channel update="i" site="tvtv.us" site_id="47218" xmltv_id="DITV143">DITV143</channel>
+    <channel update="i" site="tvtv.us" site_id="44696" xmltv_id="DITV144">DITV144</channel>
+    <channel update="i" site="tvtv.us" site_id="22430" xmltv_id="DITV145">DITV145</channel>
+    <channel update="i" site="tvtv.us" site_id="47220" xmltv_id="DITV146">DITV146</channel>
+    <channel update="i" site="tvtv.us" site_id="43504" xmltv_id="DITV147">DITV147</channel>
+    <channel update="i" site="tvtv.us" site_id="22431" xmltv_id="DITV148">DITV148</channel>
+    <channel update="i" site="tvtv.us" site_id="43505" xmltv_id="DITV149">DITV149</channel>
+    <channel update="i" site="tvtv.us" site_id="12803" xmltv_id="DITV150">DITV150</channel>
+    <channel update="i" site="tvtv.us" site_id="22432" xmltv_id="DITV151">DITV151</channel>
+    <channel update="i" site="tvtv.us" site_id="22433" xmltv_id="DITV152">DITV152</channel>
+    <channel update="i" site="tvtv.us" site_id="59762" xmltv_id="DITV153">DITV153</channel>
+    <channel update="i" site="tvtv.us" site_id="43507" xmltv_id="DITV154">DITV154</channel>
+    <channel update="i" site="tvtv.us" site_id="22434" xmltv_id="DITV155">DITV155</channel>
+    <channel update="i" site="tvtv.us" site_id="44309" xmltv_id="DITV156">DITV156</channel>
+    <channel update="i" site="tvtv.us" site_id="31554" xmltv_id="DITV157">DITV157</channel>
+    <channel update="i" site="tvtv.us" site_id="44310" xmltv_id="DITV158">DITV158</channel>
+    <channel update="i" site="tvtv.us" site_id="43508" xmltv_id="DITV159">DITV159</channel>
+    <channel update="i" site="tvtv.us" site_id="22435" xmltv_id="DITV160">DITV160</channel>
+    <channel update="i" site="tvtv.us" site_id="44311" xmltv_id="DITV161">DITV161</channel>
+    <channel update="i" site="tvtv.us" site_id="43509" xmltv_id="DITV162">DITV162</channel>
+    <channel update="i" site="tvtv.us" site_id="44312" xmltv_id="DITV163">DITV163</channel>
+    <channel update="i" site="tvtv.us" site_id="47379" xmltv_id="DITV164">DITV164</channel>
+    <channel update="i" site="tvtv.us" site_id="22436" xmltv_id="DITV165">DITV165</channel>
+    <channel update="i" site="tvtv.us" site_id="47222" xmltv_id="DITV166">DITV166</channel>
+    <channel update="i" site="tvtv.us" site_id="44313" xmltv_id="DITV167">DITV167</channel>
+    <channel update="i" site="tvtv.us" site_id="22437" xmltv_id="DITV168">DITV168</channel>
+    <channel update="i" site="tvtv.us" site_id="22756" xmltv_id="PPV169">PPV169</channel>
+    <channel update="i" site="tvtv.us" site_id="22438" xmltv_id="DITV170">DITV170</channel>
+    <channel update="i" site="tvtv.us" site_id="22439" xmltv_id="DITV171">DITV171</channel>
+    <channel update="i" site="tvtv.us" site_id="44314" xmltv_id="DITV172">DITV172</channel>
+    <channel update="i" site="tvtv.us" site_id="22760" xmltv_id="PPV173">PPV173</channel>
+    <channel update="i" site="tvtv.us" site_id="32261" xmltv_id="DITV174">DITV174</channel>
+    <channel update="i" site="tvtv.us" site_id="59737" xmltv_id="DITV175">DITV175</channel>
+    <channel update="i" site="tvtv.us" site_id="44315" xmltv_id="DITV176">DITV176</channel>
+    <channel update="i" site="tvtv.us" site_id="44316" xmltv_id="DITV177">DITV177</channel>
+    <channel update="i" site="tvtv.us" site_id="59005" xmltv_id="DITV178">DITV178</channel>
+    <channel update="i" site="tvtv.us" site_id="44317" xmltv_id="DITV179">DITV179</channel>
+    <channel update="i" site="tvtv.us" site_id="22442" xmltv_id="DITV180">DITV180</channel>
+    <channel update="i" site="tvtv.us" site_id="59004" xmltv_id="DITV181">DITV181</channel>
+    <channel update="i" site="tvtv.us" site_id="22443" xmltv_id="DITV182">DITV182</channel>
+    <channel update="i" site="tvtv.us" site_id="22444" xmltv_id="DITV183">DITV183</channel>
+    <channel update="i" site="tvtv.us" site_id="34245" xmltv_id="DITV184">DITV184</channel>
+    <channel update="i" site="tvtv.us" site_id="22445" xmltv_id="DITV185">DITV185</channel>
+    <channel update="i" site="tvtv.us" site_id="70544" xmltv_id="DITV186">DITV186</channel>
+    <channel update="i" site="tvtv.us" site_id="45907" xmltv_id="DITV187">DITV187</channel>
+    <channel update="i" site="tvtv.us" site_id="44318" xmltv_id="DITV188">DITV188</channel>
+    <channel update="i" site="tvtv.us" site_id="44319" xmltv_id="DITV189">DITV189</channel>
+    <channel update="i" site="tvtv.us" site_id="31696" xmltv_id="DITV190">DITV190</channel>
+    <channel update="i" site="tvtv.us" site_id="31697" xmltv_id="DITV191">DITV191</channel>
+    <channel update="i" site="tvtv.us" site_id="31973" xmltv_id="DITV192">DITV192</channel>
+    <channel update="i" site="tvtv.us" site_id="60629" xmltv_id="DITV193">DITV193</channel>
+    <channel update="i" site="tvtv.us" site_id="60632" xmltv_id="DITV194">DITV194</channel>
+    <channel update="i" site="tvtv.us" site_id="22782" xmltv_id="PPV195">PPV195</channel>
+    <channel update="i" site="tvtv.us" site_id="22783" xmltv_id="PPV196">PPV196</channel>
+    <channel update="i" site="tvtv.us" site_id="22784" xmltv_id="PPV197">PPV197</channel>
+    <channel update="i" site="tvtv.us" site_id="34253" xmltv_id="DITV198">DITV198</channel>
+    <channel update="i" site="tvtv.us" site_id="30412" xmltv_id="DITV199">DITV199</channel>
+    <channel update="i" site="tvtv.us" site_id="26853" xmltv_id="LOOR201">LOOR201</channel>
+    <channel update="i" site="tvtv.us" site_id="58646" xmltv_id="CNNHD">CNNHD</channel>
+    <channel update="i" site="tvtv.us" site_id="10142" xmltv_id="CNN">CNN</channel>
+    <channel update="i" site="tvtv.us" site_id="64549" xmltv_id="HLNHD">HLNHD</channel>
+    <channel update="i" site="tvtv.us" site_id="10145" xmltv_id="HLN">HLN</channel>
+    <channel update="i" site="tvtv.us" site_id="94102" xmltv_id="SMX">SMX</channel>
+    <channel update="i" site="tvtv.us" site_id="32645" xmltv_id="ESPNHD">ESPNHD</channel>
+    <channel update="i" site="tvtv.us" site_id="10179" xmltv_id="ESPN">ESPN</channel>
+    <channel update="i" site="tvtv.us" site_id="16485" xmltv_id="ESPNEWS">ESPNEWS</channel>
+    <channel update="i" site="tvtv.us" site_id="59976" xmltv_id="ESPNWHD">ESPNWHD</channel>
+    <channel update="i" site="tvtv.us" site_id="60696" xmltv_id="ESPNUHD">ESPNUHD</channel>
+    <channel update="i" site="tvtv.us" site_id="45654" xmltv_id="ESPNU">ESPNU</channel>
+    <channel update="i" site="tvtv.us" site_id="19621" xmltv_id="ESPN2A">ESPN2A</channel>
+    <channel update="i" site="tvtv.us" site_id="12444" xmltv_id="ESPN2">ESPN2</channel>
+    <channel update="i" site="tvtv.us" site_id="19620" xmltv_id="ESPNA">ESPNA</channel>
+    <channel update="i" site="tvtv.us" site_id="45507" xmltv_id="ESPN2HD">ESPN2HD</channel>
+    <channel update="i" site="tvtv.us" site_id="34710" xmltv_id="NFLNET">NFLNET</channel>
+    <channel update="i" site="tvtv.us" site_id="45399" xmltv_id="NFLHD">NFLHD</channel>
+    <channel update="i" site="tvtv.us" site_id="62079" xmltv_id="MLBN">MLBN</channel>
+    <channel update="i" site="tvtv.us" site_id="62081" xmltv_id="MLBHD">MLBHD</channel>
+    <channel update="i" site="tvtv.us" site_id="62083" xmltv_id="MLBNA">MLBNA</channel>
+    <channel update="i" site="tvtv.us" site_id="62085" xmltv_id="MLBHDA">MLBHDA</channel>
+    <channel update="i" site="tvtv.us" site_id="45169" xmltv_id="MAVTV">MAVTV</channel>
+    <channel update="i" site="tvtv.us" site_id="61036" xmltv_id="MAVTVHD">MAVTVHD</channel>
+    <channel update="i" site="tvtv.us" site_id="58690" xmltv_id="NHLHD">NHLHD</channel>
+    <channel update="i" site="tvtv.us" site_id="58570" xmltv_id="NHLNET">NHLNET</channel>
+    <channel update="i" site="tvtv.us" site_id="45526" xmltv_id="NBATVHD">NBATVHD</channel>
+    <channel update="i" site="tvtv.us" site_id="32281" xmltv_id="NBATV">NBATV</channel>
+    <channel update="i" site="tvtv.us" site_id="60316" xmltv_id="TENISHD">TENISHD</channel>
+    <channel update="i" site="tvtv.us" site_id="33395" xmltv_id="TENNIS">TENNIS</channel>
+    <channel update="i" site="tvtv.us" site_id="61854" xmltv_id="GOLFHD">GOLFHD</channel>
+    <channel update="i" site="tvtv.us" site_id="14899" xmltv_id="GOLF">GOLF</channel>
+    <channel update="i" site="tvtv.us" site_id="82547" xmltv_id="FS1HD">FS1HD</channel>
+    <channel update="i" site="tvtv.us" site_id="82541" xmltv_id="FS1">FS1</channel>
+    <channel update="i" site="tvtv.us" site_id="48639" xmltv_id="NBCSNHD">NBCSNHD</channel>
+    <channel update="i" site="tvtv.us" site_id="15952" xmltv_id="NBCSN">NBCSN</channel>
+    <channel update="i" site="tvtv.us" site_id="59250" xmltv_id="CBSSNHD">CBSSNHD</channel>
+    <channel update="i" site="tvtv.us" site_id="16365" xmltv_id="CBSSN">CBSSN</channel>
+    <channel update="i" site="tvtv.us" site_id="70460" xmltv_id="DTVCSHP">DTVCSHP</channel>
+    <channel update="i" site="tvtv.us" site_id="63039" xmltv_id="DT224">DT224</channel>
+    <channel update="i" site="tvtv.us" site_id="62058" xmltv_id="HOMENET">HOMENET</channel>
+    <channel update="i" site="tvtv.us" site_id="62055" xmltv_id="DT227">DT227</channel>
+    <channel update="i" site="tvtv.us" site_id="26643" xmltv_id="GEM">GEM</channel>
+    <channel update="i" site="tvtv.us" site_id="49788" xmltv_id="HGTVD">HGTVD</channel>
+    <channel update="i" site="tvtv.us" site_id="14902" xmltv_id="HGTV">HGTV</channel>
+    <channel update="i" site="tvtv.us" site_id="67375" xmltv_id="MAGNHD">MAGNHD</channel>
+    <channel update="i" site="tvtv.us" site_id="18544" xmltv_id="MAGN">MAGN</channel>
+    <channel update="i" site="tvtv.us" site_id="50747" xmltv_id="FOODHD">FOODHD</channel>
+    <channel update="i" site="tvtv.us" site_id="12574" xmltv_id="FOOD">FOOD</channel>
+    <channel update="i" site="tvtv.us" site_id="30156" xmltv_id="COOK">COOK</channel>
+    <channel update="i" site="tvtv.us" site_id="68065" xmltv_id="COOKHD">COOKHD</channel>
+    <channel update="i" site="tvtv.us" site_id="14909" xmltv_id="GSN">GSN</channel>
+    <channel update="i" site="tvtv.us" site_id="68827" xmltv_id="GSNHD">GSNHD</channel>
+    <channel update="i" site="tvtv.us" site_id="107076" xmltv_id="TASTE">TASTE</channel>
+    <channel update="i" site="tvtv.us" site_id="61812" xmltv_id="EHD">EHD</channel>
+    <channel update="i" site="tvtv.us" site_id="10989" xmltv_id="E">E</channel>
+    <channel update="i" site="tvtv.us" site_id="58625" xmltv_id="BRAVOHD">BRAVOHD</channel>
+    <channel update="i" site="tvtv.us" site_id="10057" xmltv_id="BRAVO">BRAVO</channel>
+    <channel update="i" site="tvtv.us" site_id="52199" xmltv_id="REELZ">REELZ</channel>
+    <channel update="i" site="tvtv.us" site_id="68385" xmltv_id="REELZHD">REELZHD</channel>
+    <channel update="i" site="tvtv.us" site_id="16108" xmltv_id="SUNDANC">SUNDANC</channel>
+    <channel update="i" site="tvtv.us" site_id="71280" xmltv_id="SUNDHD">SUNDHD</channel>
+    <channel update="i" site="tvtv.us" site_id="11163" xmltv_id="PAR">PAR</channel>
+    <channel update="i" site="tvtv.us" site_id="59186" xmltv_id="PARHD">PARHD</channel>
+    <channel update="i" site="tvtv.us" site_id="11207" xmltv_id="USA">USA</channel>
+    <channel update="i" site="tvtv.us" site_id="58452" xmltv_id="USAHD">USAHD</channel>
+    <channel update="i" site="tvtv.us" site_id="113717" xmltv_id="DT288">DT288</channel>
+    <channel update="i" site="tvtv.us" site_id="11097" xmltv_id="SYFY">SYFY</channel>
+    <channel update="i" site="tvtv.us" site_id="58623" xmltv_id="SYFYHD">SYFYHD</channel>
+    <channel update="i" site="tvtv.us" site_id="42642" xmltv_id="TNTHD">TNTHD</channel>
+    <channel update="i" site="tvtv.us" site_id="11164" xmltv_id="TNT">TNT</channel>
+    <channel update="i" site="tvtv.us" site_id="61340" xmltv_id="TNTPHD">TNTPHD</channel>
+    <channel update="i" site="tvtv.us" site_id="10153" xmltv_id="TRUTV">TRUTV</channel>
+    <channel update="i" site="tvtv.us" site_id="64490" xmltv_id="TRUTVHD">TRUTVHD</channel>
+    <channel update="i" site="tvtv.us" site_id="11867" xmltv_id="TBS">TBS</channel>
+    <channel update="i" site="tvtv.us" site_id="58515" xmltv_id="TBSHD">TBSHD</channel>
+    <channel update="i" site="tvtv.us" site_id="67890" xmltv_id="TBSHDP">TBSHDP</channel>
+    <channel update="i" site="tvtv.us" site_id="14321" xmltv_id="FX">FX</channel>
+    <channel update="i" site="tvtv.us" site_id="58574" xmltv_id="FXHD">FXHD</channel>
+    <channel update="i" site="tvtv.us" site_id="64599" xmltv_id="CCHDP">CCHDP</channel>
+    <channel update="i" site="tvtv.us" site_id="62420" xmltv_id="CCHD">CCHD</channel>
+    <channel update="i" site="tvtv.us" site_id="10149" xmltv_id="COMEDY">COMEDY</channel>
+    <channel update="i" site="tvtv.us" site_id="21484" xmltv_id="OXYGEN">OXYGEN</channel>
+    <channel update="i" site="tvtv.us" site_id="70522" xmltv_id="OXYGNHD">OXYGNHD</channel>
+    <channel update="i" site="tvtv.us" site_id="60150" xmltv_id="LIFEHD">LIFEHD</channel>
+    <channel update="i" site="tvtv.us" site_id="10918" xmltv_id="LIFE">LIFE</channel>
+    <channel update="i" site="tvtv.us" site_id="97682" xmltv_id="LIFED">LIFED</channel>
+    <channel update="i" site="tvtv.us" site_id="55887" xmltv_id="LMNHD">LMNHD</channel>
+    <channel update="i" site="tvtv.us" site_id="18480" xmltv_id="LMN">LMN</channel>
+    <channel update="i" site="tvtv.us" site_id="10021" xmltv_id="AMC">AMC</channel>
+    <channel update="i" site="tvtv.us" site_id="59337" xmltv_id="AMCHD">AMCHD</channel>
+    <channel update="i" site="tvtv.us" site_id="64312" xmltv_id="TCMHD">TCMHD</channel>
+    <channel update="i" site="tvtv.us" site_id="12852" xmltv_id="TCM">TCM</channel>
+    <channel update="i" site="tvtv.us" site_id="14988" xmltv_id="FXM">FXM</channel>
+    <channel update="i" site="tvtv.us" site_id="70253" xmltv_id="FXMHD">FXMHD</channel>
+    <channel update="i" site="tvtv.us" site_id="66379" xmltv_id="FXXHD">FXXHD</channel>
+    <channel update="i" site="tvtv.us" site_id="17927" xmltv_id="FXX">FXX</channel>
+    <channel update="i" site="tvtv.us" site_id="16409" xmltv_id="WE">WE</channel>
+    <channel update="i" site="tvtv.us" site_id="59296" xmltv_id="WEHD">WEHD</channel>
+    <channel update="i" site="tvtv.us" site_id="16125" xmltv_id="DLC">DLC</channel>
+    <channel update="i" site="tvtv.us" site_id="64492" xmltv_id="BBCAHD">BBCAHD</channel>
+    <channel update="i" site="tvtv.us" site_id="18332" xmltv_id="BBCA">BBCA</channel>
+    <channel update="i" site="tvtv.us" site_id="10035" xmltv_id="AETV">AETV</channel>
+    <channel update="i" site="tvtv.us" site_id="51529" xmltv_id="AETVHD">AETVHD</channel>
+    <channel update="i" site="tvtv.us" site_id="58988" xmltv_id="FYIHD">FYIHD</channel>
+    <channel update="i" site="tvtv.us" site_id="16834" xmltv_id="FYISD">FYISD</channel>
+    <channel update="i" site="tvtv.us" site_id="14771" xmltv_id="HISTORY">HISTORY</channel>
+    <channel update="i" site="tvtv.us" site_id="57708" xmltv_id="HSTRYHD">HSTRYHD</channel>
+    <channel update="i" site="tvtv.us" site_id="65732" xmltv_id="VICEHD">VICEHD</channel>
+    <channel update="i" site="tvtv.us" site_id="18822" xmltv_id="VICE">VICE</channel>
+    <channel update="i" site="tvtv.us" site_id="46762" xmltv_id="LOGO">LOGO</channel>
+    <channel update="i" site="tvtv.us" site_id="16715" xmltv_id="POPSD">POPSD</channel>
+    <channel update="i" site="tvtv.us" site_id="68796" xmltv_id="POPHD">POPHD</channel>
+    <channel update="i" site="tvtv.us" site_id="15807" xmltv_id="OVATION">OVATION</channel>
+    <channel update="i" site="tvtv.us" site_id="69061" xmltv_id="OVATNHD">OVATNHD</channel>
+    <channel update="i" site="tvtv.us" site_id="49438" xmltv_id="NGCHD">NGCHD</channel>
+    <channel update="i" site="tvtv.us" site_id="24959" xmltv_id="NGC">NGC</channel>
+    <channel update="i" site="tvtv.us" site_id="11180" xmltv_id="TRAV">TRAV</channel>
+    <channel update="i" site="tvtv.us" site_id="59303" xmltv_id="TRAVHD">TRAVHD</channel>
+    <channel update="i" site="tvtv.us" site_id="56905" xmltv_id="DSCHD">DSCHD</channel>
+    <channel update="i" site="tvtv.us" site_id="11150" xmltv_id="DSC">DSC</channel>
+    <channel update="i" site="tvtv.us" site_id="95746" xmltv_id="OWNPA">OWNPA</channel>
+    <channel update="i" site="tvtv.us" site_id="70388" xmltv_id="OWNHD">OWNHD</channel>
+    <channel update="i" site="tvtv.us" site_id="70387" xmltv_id="OWN">OWN</channel>
+    <channel update="i" site="tvtv.us" site_id="57391" xmltv_id="TLCHD">TLCHD</channel>
+    <channel update="i" site="tvtv.us" site_id="11158" xmltv_id="TLC">TLC</channel>
+    <channel update="i" site="tvtv.us" site_id="31046" xmltv_id="MTHD">MTHD</channel>
+    <channel update="i" site="tvtv.us" site_id="57394" xmltv_id="APLHD">APLHD</channel>
+    <channel update="i" site="tvtv.us" site_id="16331" xmltv_id="APL">APL</channel>
+    <channel update="i" site="tvtv.us" site_id="66804" xmltv_id="NGWILD">NGWILD</channel>
+    <channel update="i" site="tvtv.us" site_id="67331" xmltv_id="NGWIHD">NGWIHD</channel>
+    <channel update="i" site="tvtv.us" site_id="57390" xmltv_id="SCIHD">SCIHD</channel>
+    <channel update="i" site="tvtv.us" site_id="16616" xmltv_id="SCIENCE">SCIENCE</channel>
+    <channel update="i" site="tvtv.us" site_id="16615" xmltv_id="ID">ID</channel>
+    <channel update="i" site="tvtv.us" site_id="65342" xmltv_id="IDHD">IDHD</channel>
+    <channel update="i" site="tvtv.us" site_id="60468" xmltv_id="DESTHD">DESTHD</channel>
+    <channel update="i" site="tvtv.us" site_id="16617" xmltv_id="DEST">DEST</channel>
+    <channel update="i" site="tvtv.us" site_id="18284" xmltv_id="AHC">AHC</channel>
+    <channel update="i" site="tvtv.us" site_id="78808" xmltv_id="AHCHD">AHCHD</channel>
+    <channel update="i" site="tvtv.us" site_id="74796" xmltv_id="DJCH">DJCH</channel>
+    <channel update="i" site="tvtv.us" site_id="74885" xmltv_id="DJCHHD">DJCHHD</channel>
+    <channel update="i" site="tvtv.us" site_id="10171" xmltv_id="DISN">DISN</channel>
+    <channel update="i" site="tvtv.us" site_id="59684" xmltv_id="DISNHD">DISNHD</channel>
+    <channel update="i" site="tvtv.us" site_id="12510" xmltv_id="DISNP">DISNP</channel>
+    <channel update="i" site="tvtv.us" site_id="18279" xmltv_id="DXD">DXD</channel>
+    <channel update="i" site="tvtv.us" site_id="60006" xmltv_id="DXDHD">DXDHD</channel>
+    <channel update="i" site="tvtv.us" site_id="50338" xmltv_id="BABY1">BABY1</channel>
+    <channel update="i" site="tvtv.us" site_id="16618" xmltv_id="DFC">DFC</channel>
+    <channel update="i" site="tvtv.us" site_id="67749" xmltv_id="DFCHD">DFCHD</channel>
+    <channel update="i" site="tvtv.us" site_id="47540" xmltv_id="UKIDS">UKIDS</channel>
+    <channel update="i" site="tvtv.us" site_id="70225" xmltv_id="UKIDSH">UKIDSH</channel>
+    <channel update="i" site="tvtv.us" site_id="60048" xmltv_id="TOONHD">TOONHD</channel>
+    <channel update="i" site="tvtv.us" site_id="12131" xmltv_id="TOON">TOON</channel>
+    <channel update="i" site="tvtv.us" site_id="18151" xmltv_id="TOONP">TOONP</channel>
+    <channel update="i" site="tvtv.us" site_id="21883" xmltv_id="BOOM">BOOM</channel>
+    <channel update="i" site="tvtv.us" site_id="11006" xmltv_id="NIK">NIK</channel>
+    <channel update="i" site="tvtv.us" site_id="59432" xmltv_id="NIKHD">NIKHD</channel>
+    <channel update="i" site="tvtv.us" site_id="11007" xmltv_id="NIKP">NIKP</channel>
+    <channel update="i" site="tvtv.us" site_id="19211" xmltv_id="NICJR">NICJR</channel>
+    <channel update="i" site="tvtv.us" site_id="82649" xmltv_id="NICJRHD">NICJRHD</channel>
+    <channel update="i" site="tvtv.us" site_id="30420" xmltv_id="NIKTON">NIKTON</channel>
+    <channel update="i" site="tvtv.us" site_id="59036" xmltv_id="TNCK">TNCK</channel>
+    <channel update="i" site="tvtv.us" site_id="73541" xmltv_id="TVLNDHD">TVLNDHD</channel>
+    <channel update="i" site="tvtv.us" site_id="16123" xmltv_id="TVLAND">TVLAND</channel>
+    <channel update="i" site="tvtv.us" site_id="76894" xmltv_id="IONDHD: - ION">IONDHD: - ION</channel>
+    <channel update="i" site="tvtv.us" site_id="53058" xmltv_id="IONDTV: - ION">IONDTV: - ION</channel>
+    <channel update="i" site="tvtv.us" site_id="21596" xmltv_id="IONSATP: - ION">IONSATP: - ION</channel>
+    <channel update="i" site="tvtv.us" site_id="91096" xmltv_id="NEWSNTN">NEWSNTN</channel>
+    <channel update="i" site="tvtv.us" site_id="91097" xmltv_id="NWSNTSD">NWSNTSD</channel>
+    <channel update="i" site="tvtv.us" site_id="10270" xmltv_id="HSN2">HSN2</channel>
+    <channel update="i" site="tvtv.us" site_id="59615" xmltv_id="FREFMHD">FREFMHD</channel>
+    <channel update="i" site="tvtv.us" site_id="10093" xmltv_id="FREEFRM">FREEFRM</channel>
+    <channel update="i" site="tvtv.us" site_id="11221" xmltv_id="HALL">HALL</channel>
+    <channel update="i" site="tvtv.us" site_id="66268" xmltv_id="HALLHD">HALLHD</channel>
+    <channel update="i" site="tvtv.us" site_id="73367" xmltv_id="DTV314">DTV314</channel>
+    <channel update="i" site="tvtv.us" site_id="101260" xmltv_id="QVC3">QVC3</channel>
+    <channel update="i" site="tvtv.us" site_id="102490" xmltv_id="SCNTV">SCNTV</channel>
+    <channel update="i" site="tvtv.us" site_id="58333" xmltv_id="RTTV">RTTV</channel>
+    <channel update="i" site="tvtv.us" site_id="59155" xmltv_id="NHKWRLD">NHKWRLD</channel>
+    <channel update="i" site="tvtv.us" site_id="59646" xmltv_id="DTV323">DTV323</channel>
+    <channel update="i" site="tvtv.us" site_id="75761" xmltv_id="FRESH">FRESH</channel>
+    <channel update="i" site="tvtv.us" site_id="60165" xmltv_id="JLTV">JLTV</channel>
+    <channel update="i" site="tvtv.us" site_id="16062" xmltv_id="GACFSD">GACFSD</channel>
+    <channel update="i" site="tvtv.us" site_id="82892" xmltv_id="GACFHD">GACFHD</channel>
+    <channel update="i" site="tvtv.us" site_id="59440" xmltv_id="CMTVHD">CMTVHD</channel>
+    <channel update="i" site="tvtv.us" site_id="10138" xmltv_id="CMTV">CMTV</channel>
+    <channel update="i" site="tvtv.us" site_id="35513" xmltv_id="TVONE">TVONE</channel>
+    <channel update="i" site="tvtv.us" site_id="61960" xmltv_id="TVONEHD">TVONEHD</channel>
+    <channel update="i" site="tvtv.us" site_id="64673" xmltv_id="BETHDP">BETHDP</channel>
+    <channel update="i" site="tvtv.us" site_id="10051" xmltv_id="BET">BET</channel>
+    <channel update="i" site="tvtv.us" site_id="63236" xmltv_id="BETHD">BETHD</channel>
+    <channel update="i" site="tvtv.us" site_id="14897" xmltv_id="BHER">BHER</channel>
+    <channel update="i" site="tvtv.us" site_id="10986" xmltv_id="MTV">MTV</channel>
+    <channel update="i" site="tvtv.us" site_id="60964" xmltv_id="MTVHD">MTVHD</channel>
+    <channel update="i" site="tvtv.us" site_id="64630" xmltv_id="MTVPHD">MTVPHD</channel>
+    <channel update="i" site="tvtv.us" site_id="16361" xmltv_id="MTV2">MTV2</channel>
+    <channel update="i" site="tvtv.us" site_id="75077" xmltv_id="MTV2HD">MTV2HD</channel>
+    <channel update="i" site="tvtv.us" site_id="59444" xmltv_id="IFCHD">IFCHD</channel>
+    <channel update="i" site="tvtv.us" site_id="14873" xmltv_id="IFC">IFC</channel>
+    <channel update="i" site="tvtv.us" site_id="11218" xmltv_id="VH1">VH1</channel>
+    <channel update="i" site="tvtv.us" site_id="60046" xmltv_id="VH1HD">VH1HD</channel>
+    <channel update="i" site="tvtv.us" site_id="22561" xmltv_id="MTVCLAS">MTVCLAS</channel>
+    <channel update="i" site="tvtv.us" site_id="44940" xmltv_id="UP">UP</channel>
+    <channel update="i" site="tvtv.us" site_id="14929" xmltv_id="FUSE">FUSE</channel>
+    <channel update="i" site="tvtv.us" site_id="59116" xmltv_id="FUSEHD">FUSEHD</channel>
+    <channel update="i" site="tvtv.us" site_id="28506" xmltv_id="AXSTV">AXSTV</channel>
+    <channel update="i" site="tvtv.us" site_id="110289" xmltv_id="CLEOHD">CLEOHD</channel>
+    <channel update="i" site="tvtv.us" site_id="113492" xmltv_id="BNC">BNC</channel>
+    <channel update="i" site="tvtv.us" site_id="87376" xmltv_id="I24NWEN">I24NWEN</channel>
+    <channel update="i" site="tvtv.us" site_id="67676" xmltv_id="SBND">SBND</channel>
+    <channel update="i" site="tvtv.us" site_id="91314" xmltv_id="SONLFHD: - SBND">SONLFHD: - SBND</channel>
+    <channel update="i" site="tvtv.us" site_id="25148" xmltv_id="RFDTV">RFDTV</channel>
+    <channel update="i" site="tvtv.us" site_id="63717" xmltv_id="RFDHD: - RFDTV">RFDHD: - RFDTV</channel>
+    <channel update="i" site="tvtv.us" site_id="89690" xmltv_id="BBCNAHD">BBCNAHD</channel>
+    <channel update="i" site="tvtv.us" site_id="82542" xmltv_id="OAN">OAN</channel>
+    <channel update="i" site="tvtv.us" site_id="83953" xmltv_id="OANHD">OANHD</channel>
+    <channel update="i" site="tvtv.us" site_id="16220" xmltv_id="FSTV">FSTV</channel>
+    <channel update="i" site="tvtv.us" site_id="97163" xmltv_id="NEWSMXH">NEWSMXH</channel>
+    <channel update="i" site="tvtv.us" site_id="87925" xmltv_id="NEWSMX">NEWSMX</channel>
+    <channel update="i" site="tvtv.us" site_id="10161" xmltv_id="CSPAN">CSPAN</channel>
+    <channel update="i" site="tvtv.us" site_id="10162" xmltv_id="CSPAN2">CSPAN2</channel>
+    <channel update="i" site="tvtv.us" site_id="12553" xmltv_id="NASA">NASA</channel>
+    <channel update="i" site="tvtv.us" site_id="14755" xmltv_id="BLOOM">BLOOM</channel>
+    <channel update="i" site="tvtv.us" site_id="71799" xmltv_id="BLOOMHD">BLOOMHD</channel>
+    <channel update="i" site="tvtv.us" site_id="109333" xmltv_id="CHDDRSD">CHDDRSD</channel>
+    <channel update="i" site="tvtv.us" site_id="10139" xmltv_id="CNBC">CNBC</channel>
+    <channel update="i" site="tvtv.us" site_id="58780" xmltv_id="CNBCHD">CNBCHD</channel>
+    <channel update="i" site="tvtv.us" site_id="16300" xmltv_id="MSNBC">MSNBC</channel>
+    <channel update="i" site="tvtv.us" site_id="64241" xmltv_id="MNBCHD">MNBCHD</channel>
+    <channel update="i" site="tvtv.us" site_id="26849" xmltv_id="CNBCWLD">CNBCWLD</channel>
+    <channel update="i" site="tvtv.us" site_id="10146" xmltv_id="CNNI">CNNI</channel>
+    <channel update="i" site="tvtv.us" site_id="58649" xmltv_id="FBN">FBN</channel>
+    <channel update="i" site="tvtv.us" site_id="58718" xmltv_id="FBNHD">FBNHD</channel>
+    <channel update="i" site="tvtv.us" site_id="60179" xmltv_id="FNCHD">FNCHD</channel>
+    <channel update="i" site="tvtv.us" site_id="16374" xmltv_id="FNC">FNC</channel>
+    <channel update="i" site="tvtv.us" site_id="56193" xmltv_id="ACUWTHR">ACUWTHR</channel>
+    <channel update="i" site="tvtv.us" site_id="91994" xmltv_id="ACUWTHH: - ACUWTHR">ACUWTHH: - ACUWTHR</channel>
+    <channel update="i" site="tvtv.us" site_id="58812" xmltv_id="WEATHHD">WEATHHD</channel>
+    <channel update="i" site="tvtv.us" site_id="11187" xmltv_id="WEATH">WEATH</channel>
+    <channel update="i" site="tvtv.us" site_id="18999" xmltv_id="GEB">GEB</channel>
+    <channel update="i" site="tvtv.us" site_id="11066" xmltv_id="INSP">INSP</channel>
+    <channel update="i" site="tvtv.us" site_id="82773" xmltv_id="INSPHD">INSPHD</channel>
+    <channel update="i" site="tvtv.us" site_id="52697" xmltv_id="GODTV">GODTV</channel>
+    <channel update="i" site="tvtv.us" site_id="60597" xmltv_id="DITV366">DITV366</channel>
+    <channel update="i" site="tvtv.us" site_id="11514" xmltv_id="WHMBSAT">WHMBSAT</channel>
+    <channel update="i" site="tvtv.us" site_id="49266" xmltv_id="HOPE">HOPE</channel>
+    <channel update="i" site="tvtv.us" site_id="19026" xmltv_id="DYSTR">DYSTR</channel>
+    <channel update="i" site="tvtv.us" site_id="10183" xmltv_id="EWTN">EWTN</channel>
+    <channel update="i" site="tvtv.us" site_id="122276" xmltv_id="INSPIRE">INSPIRE</channel>
+    <channel update="i" site="tvtv.us" site_id="14767" xmltv_id="TBN">TBN</channel>
+    <channel update="i" site="tvtv.us" site_id="59539" xmltv_id="TBNHD: - TBN">TBNHD: - TBN</channel>
+    <channel update="i" site="tvtv.us" site_id="21781" xmltv_id="WORD">WORD</channel>
+    <channel update="i" site="tvtv.us" site_id="21855" xmltv_id="BYUTV">BYUTV</channel>
+    <channel update="i" site="tvtv.us" site_id="21450" xmltv_id="LINKTV">LINKTV</channel>
+    <channel update="i" site="tvtv.us" site_id="49128" xmltv_id="CTN">CTN</channel>
+    <channel update="i" site="tvtv.us" site_id="49486" xmltv_id="TCTWLD">TCTWLD</channel>
+    <channel update="i" site="tvtv.us" site_id="49097" xmltv_id="NRBTV">NRBTV</channel>
+    <channel update="i" site="tvtv.us" site_id="96013" xmltv_id="LFNHD">LFNHD</channel>
+    <channel update="i" site="tvtv.us" site_id="71798" xmltv_id="IMPCNET">IMPCNET</channel>
+    <channel update="i" site="tvtv.us" site_id="97409" xmltv_id="ASPREHD">ASPREHD</channel>
+    <channel update="i" site="tvtv.us" site_id="82470" xmltv_id="CMDTVHD">CMDTVHD</channel>
+    <channel update="i" site="tvtv.us" site_id="78850" xmltv_id="JUST">JUST</channel>
+    <channel update="i" site="tvtv.us" site_id="83098" xmltv_id="RVLTHD">RVLTHD</channel>
+    <channel update="i" site="tvtv.us" site_id="72094" xmltv_id="FMHD">FMHD</channel>
+    <channel update="i" site="tvtv.us" site_id="44895" xmltv_id="AWE">AWE</channel>
+    <channel update="i" site="tvtv.us" site_id="45438" xmltv_id="AWEHD">AWEHD</channel>
+    <channel update="i" site="tvtv.us" site_id="74978" xmltv_id="JBS">JBS</channel>
+    <channel update="i" site="tvtv.us" site_id="10367" xmltv_id="KCBS: - CBS">KCBS: - CBS</channel>
+    <channel update="i" site="tvtv.us" site_id="19567" xmltv_id="KCBSDT: - CBS">KCBSDT: - CBS</channel>
+    <channel update="i" site="tvtv.us" site_id="19568" xmltv_id="KNBCDT: - NBC">KNBCDT: - NBC</channel>
+    <channel update="i" site="tvtv.us" site_id="10590" xmltv_id="KNBC: - NBC">KNBC: - NBC</channel>
+    <channel update="i" site="tvtv.us" site_id="11450" xmltv_id="WDCW: - CW">WDCW: - CW</channel>
+    <channel update="i" site="tvtv.us" site_id="19515" xmltv_id="KTLADT: - CW">KTLADT: - CW</channel>
+    <channel update="i" site="tvtv.us" site_id="10724" xmltv_id="KTLA: - CW">KTLA: - CW</channel>
+    <channel update="i" site="tvtv.us" site_id="19570" xmltv_id="KABCDT: - ABC">KABCDT: - ABC</channel>
+    <channel update="i" site="tvtv.us" site_id="10309" xmltv_id="KABC: - ABC">KABC: - ABC</channel>
+    <channel update="i" site="tvtv.us" site_id="20450" xmltv_id="KTTVDT: - FOX">KTTVDT: - FOX</channel>
+    <channel update="i" site="tvtv.us" site_id="10741" xmltv_id="KTTV: - FOX">KTTV: - FOX</channel>
+    <channel update="i" site="tvtv.us" site_id="16910" xmltv_id="PPV">PPV</channel>
+    <channel update="i" site="tvtv.us" site_id="62957" xmltv_id="DT401">DT401</channel>
+    <channel update="i" site="tvtv.us" site_id="11118" xmltv_id="UNI: - UNI">UNI: - UNI</channel>
+    <channel update="i" site="tvtv.us" site_id="68049" xmltv_id="UNIHD: - UNI">UNIHD: - UNI</channel>
+    <channel update="i" site="tvtv.us" site_id="14762" xmltv_id="UNIP: - UNI">UNIP: - UNI</channel>
+    <channel update="i" site="tvtv.us" site_id="68367" xmltv_id="GALAHD">GALAHD</channel>
+    <channel update="i" site="tvtv.us" site_id="10222" xmltv_id="GALA">GALA</channel>
+    <channel update="i" site="tvtv.us" site_id="69301" xmltv_id="MEGAUSH: - MEGAUS">MEGAUSH: - MEGAUS</channel>
+    <channel update="i" site="tvtv.us" site_id="58698" xmltv_id="MEGAUS">MEGAUS</channel>
+    <channel update="i" site="tvtv.us" site_id="77606" xmltv_id="TELESAT">TELESAT</channel>
+    <channel update="i" site="tvtv.us" site_id="109979" xmltv_id="TELESAP">TELESAP</channel>
+    <channel update="i" site="tvtv.us" site_id="31541" xmltv_id="UNIMWST">UNIMWST</channel>
+    <channel update="i" site="tvtv.us" site_id="68040" xmltv_id="UNIMPHD: - UNIMAS">UNIMPHD: - UNIMAS</channel>
+    <channel update="i" site="tvtv.us" site_id="102305" xmltv_id="VEPTVU">VEPTVU</channel>
+    <channel update="i" site="tvtv.us" site_id="14791" xmltv_id="UNVSO">UNVSO</channel>
+    <channel update="i" site="tvtv.us" site_id="91588" xmltv_id="UNVSOHD">UNVSOHD</channel>
+    <channel update="i" site="tvtv.us" site_id="16189" xmltv_id="TEFEI">TEFEI</channel>
+    <channel update="i" site="tvtv.us" site_id="108573" xmltv_id="TEFEIHD">TEFEIHD</channel>
+    <channel update="i" site="tvtv.us" site_id="95743" xmltv_id="MMTVUS">MMTVUS</channel>
+    <channel update="i" site="tvtv.us" site_id="19247" xmltv_id="DSCE">DSCE</channel>
+    <channel update="i" site="tvtv.us" site_id="44322" xmltv_id="WAPAUS">WAPAUS</channel>
+    <channel update="i" site="tvtv.us" site_id="25615" xmltv_id="VROLA">VROLA</channel>
+    <channel update="i" site="tvtv.us" site_id="33431" xmltv_id="NUESTRT">NUESTRT</channel>
+    <channel update="i" site="tvtv.us" site_id="39719" xmltv_id="CARAI">CARAI</channel>
+    <channel update="i" site="tvtv.us" site_id="61988" xmltv_id="NTN24">NTN24</channel>
+    <channel update="i" site="tvtv.us" site_id="17054" xmltv_id="CNNL">CNNL</channel>
+    <channel update="i" site="tvtv.us" site_id="91998" xmltv_id="ATRESSE">ATRESSE</channel>
+    <channel update="i" site="tvtv.us" site_id="73812" xmltv_id="FOXLUS">FOXLUS</channel>
+    <channel update="i" site="tvtv.us" site_id="62125" xmltv_id="CINESTE">CINESTE</channel>
+    <channel update="i" site="tvtv.us" site_id="62401" xmltv_id="CINLUS">CINLUS</channel>
+    <channel update="i" site="tvtv.us" site_id="60631" xmltv_id="CINENOS">CINENOS</channel>
+    <channel update="i" site="tvtv.us" site_id="70337" xmltv_id="BABYUS">BABYUS</channel>
+    <channel update="i" site="tvtv.us" site_id="102905" xmltv_id="STZESPS">STZESPS</channel>
+    <channel update="i" site="tvtv.us" site_id="49262" xmltv_id="TVV">TVV</channel>
+    <channel update="i" site="tvtv.us" site_id="44448" xmltv_id="CENTROA">CENTROA</channel>
+    <channel update="i" site="tvtv.us" site_id="60690" xmltv_id="TLCN">TLCN</channel>
+    <channel update="i" site="tvtv.us" site_id="62161" xmltv_id="HOLATV">HOLATV</channel>
+    <channel update="i" site="tvtv.us" site_id="50335" xmltv_id="PMAGIC">PMAGIC</channel>
+    <channel update="i" site="tvtv.us" site_id="97041" xmltv_id="ZOOMOOD">ZOOMOOD</channel>
+    <channel update="i" site="tvtv.us" site_id="54867" xmltv_id="BANDAUS">BANDAUS</channel>
+    <channel update="i" site="tvtv.us" site_id="114881" xmltv_id="HOGARHD">HOGARHD</channel>
+    <channel update="i" site="tvtv.us" site_id="87063" xmltv_id="HOGAR">HOGAR</channel>
+    <channel update="i" site="tvtv.us" site_id="72449" xmltv_id="NGMUNDO">NGMUNDO</channel>
+    <channel update="i" site="tvtv.us" site_id="58428" xmltv_id="DFAM">DFAM</channel>
+    <channel update="i" site="tvtv.us" site_id="16046" xmltv_id="TVNI">TVNI</channel>
+    <channel update="i" site="tvtv.us" site_id="44644" xmltv_id="ECUAVI">ECUAVI</channel>
+    <channel update="i" site="tvtv.us" site_id="46753" xmltv_id="SURPERU">SURPERU</channel>
+    <channel update="i" site="tvtv.us" site_id="55250" xmltv_id="VME">VME</channel>
+    <channel update="i" site="tvtv.us" site_id="33652" xmltv_id="AZTECAE: - AZTECAE">AZTECAE: - AZTECAE</channel>
+    <channel update="i" site="tvtv.us" site_id="65064" xmltv_id="ESTRLLA">ESTRLLA</channel>
+    <channel update="i" site="tvtv.us" site_id="43362" xmltv_id="HISTE">HISTE</channel>
+    <channel update="i" site="tvtv.us" site_id="61776" xmltv_id="PASNUS">PASNUS</channel>
+    <channel update="i" site="tvtv.us" site_id="18715" xmltv_id="TR3S">TR3S</channel>
+    <channel update="i" site="tvtv.us" site_id="91060" xmltv_id="CNL22">CNL22</channel>
+    <channel update="i" site="tvtv.us" site_id="36139" xmltv_id="CANAL11">CANAL11</channel>
+    <channel update="i" site="tvtv.us" site_id="33527" xmltv_id="ENLUSA">ENLUSA</channel>
+    <channel update="i" site="tvtv.us" site_id="76408" xmltv_id="SOCINH">SOCINH</channel>
+    <channel update="i" site="tvtv.us" site_id="52208" xmltv_id="VMOV">VMOV</channel>
+    <channel update="i" site="tvtv.us" site_id="35401" xmltv_id="DEPELUS">DEPELUS</channel>
+    <channel update="i" site="tvtv.us" site_id="33628" xmltv_id="DEPELC">DEPELC</channel>
+    <channel update="i" site="tvtv.us" site_id="76964" xmltv_id="FOROUS">FOROUS</channel>
+    <channel update="i" site="tvtv.us" site_id="74550" xmltv_id="UNITLNO">UNITLNO</channel>
+    <channel update="i" site="tvtv.us" site_id="100858" xmltv_id="DT455">DT455</channel>
+    <channel update="i" site="tvtv.us" site_id="46421" xmltv_id="ESNE">ESNE</channel>
+    <channel update="i" site="tvtv.us" site_id="77742" xmltv_id="ECUTVIN">ECUTVIN</channel>
+    <channel update="i" site="tvtv.us" site_id="16800" xmltv_id="ANT3I">ANT3I</channel>
+    <channel update="i" site="tvtv.us" site_id="82808" xmltv_id="A3CINE">A3CINE</channel>
+    <channel update="i" site="tvtv.us" site_id="16217" xmltv_id="TVEI">TVEI</channel>
+    <channel update="i" site="tvtv.us" site_id="17142" xmltv_id="HITN">HITN</channel>
+    <channel update="i" site="tvtv.us" site_id="44714" xmltv_id="CMEX">CMEX</channel>
+    <channel update="i" site="tvtv.us" site_id="75176" xmltv_id="TUDNU">TUDNU</channel>
+    <channel update="i" site="tvtv.us" site_id="77033" xmltv_id="TUDNUH">TUDNUH</channel>
+    <channel update="i" site="tvtv.us" site_id="15377" xmltv_id="FXDEP">FXDEP</channel>
+    <channel update="i" site="tvtv.us" site_id="72189" xmltv_id="FXDEPHD">FXDEPHD</channel>
+    <channel update="i" site="tvtv.us" site_id="25595" xmltv_id="ESPND">ESPND</channel>
+    <channel update="i" site="tvtv.us" site_id="71914" xmltv_id="ESPNDHD">ESPNDHD</channel>
+    <channel update="i" site="tvtv.us" site_id="32161" xmltv_id="GOLTV">GOLTV</channel>
+    <channel update="i" site="tvtv.us" site_id="111046" xmltv_id="TYCINUH">TYCINUH</channel>
+    <channel update="i" site="tvtv.us" site_id="20612" xmltv_id="MLSSO">MLSSO</channel>
+    <channel update="i" site="tvtv.us" site_id="106819" xmltv_id="NSTRAVI">NSTRAVI</channel>
+    <channel update="i" site="tvtv.us" site_id="21040" xmltv_id="MLSSO3">MLSSO3</channel>
+    <channel update="i" site="tvtv.us" site_id="16292" xmltv_id="MNMX">MNMX</channel>
+    <channel update="i" site="tvtv.us" site_id="21042" xmltv_id="MLSSO5">MLSSO5</channel>
+    <channel update="i" site="tvtv.us" site_id="21043" xmltv_id="MLSSO6">MLSSO6</channel>
+    <channel update="i" site="tvtv.us" site_id="60403" xmltv_id="MLSSO7">MLSSO7</channel>
+    <channel update="i" site="tvtv.us" site_id="60404" xmltv_id="MLSSO8">MLSSO8</channel>
+    <channel update="i" site="tvtv.us" site_id="19548" xmltv_id="HBOHD">HBOHD</channel>
+    <channel update="i" site="tvtv.us" site_id="10240" xmltv_id="HBO">HBO</channel>
+    <channel update="i" site="tvtv.us" site_id="10241" xmltv_id="HBO2">HBO2</channel>
+    <channel update="i" site="tvtv.us" site_id="59368" xmltv_id="HBO2HD">HBO2HD</channel>
+    <channel update="i" site="tvtv.us" site_id="59363" xmltv_id="HBOSGHD">HBOSGHD</channel>
+    <channel update="i" site="tvtv.us" site_id="10243" xmltv_id="HBOSIG">HBOSIG</channel>
+    <channel update="i" site="tvtv.us" site_id="19566" xmltv_id="HBOHDP">HBOHDP</channel>
+    <channel update="i" site="tvtv.us" site_id="10244" xmltv_id="HBOP">HBOP</channel>
+    <channel update="i" site="tvtv.us" site_id="10242" xmltv_id="HBO2P">HBO2P</channel>
+    <channel update="i" site="tvtv.us" site_id="59355" xmltv_id="HBO2PHD">HBO2PHD</channel>
+    <channel update="i" site="tvtv.us" site_id="59839" xmltv_id="HBOCHD">HBOCHD</channel>
+    <channel update="i" site="tvtv.us" site_id="59357" xmltv_id="HBOFHD">HBOFHD</channel>
+    <channel update="i" site="tvtv.us" site_id="16585" xmltv_id="HBOF">HBOF</channel>
+    <channel update="i" site="tvtv.us" site_id="16619" xmltv_id="HBOFP">HBOFP</channel>
+    <channel update="i" site="tvtv.us" site_id="59845" xmltv_id="HBOZHD">HBOZHD</channel>
+    <channel update="i" site="tvtv.us" site_id="24553" xmltv_id="HBOLAT">HBOLAT</channel>
+    <channel update="i" site="tvtv.us" site_id="59837" xmltv_id="HBOLAHD">HBOLAHD</channel>
+    <channel update="i" site="tvtv.us" site_id="10120" xmltv_id="MAX">MAX</channel>
+    <channel update="i" site="tvtv.us" site_id="34933" xmltv_id="MAXHD">MAXHD</channel>
+    <channel update="i" site="tvtv.us" site_id="35975" xmltv_id="MAXHDP">MAXHDP</channel>
+    <channel update="i" site="tvtv.us" site_id="12508" xmltv_id="MAXP">MAXP</channel>
+    <channel update="i" site="tvtv.us" site_id="59373" xmltv_id="MOMAXHD">MOMAXHD</channel>
+    <channel update="i" site="tvtv.us" site_id="10121" xmltv_id="MOMAX">MOMAX</channel>
+    <channel update="i" site="tvtv.us" site_id="59948" xmltv_id="ACMAXHD">ACMAXHD</channel>
+    <channel update="i" site="tvtv.us" site_id="59961" xmltv_id="5MAXHD">5MAXHD</channel>
+    <channel update="i" site="tvtv.us" site_id="59963" xmltv_id="MOVIEHD">MOVIEHD</channel>
+    <channel update="i" site="tvtv.us" site_id="59954" xmltv_id="THMAXHD">THMAXHD</channel>
+    <channel update="i" site="tvtv.us" site_id="59965" xmltv_id="CMAXHD">CMAXHD</channel>
+    <channel update="i" site="tvtv.us" site_id="12719" xmltv_id="STARZ">STARZ</channel>
+    <channel update="i" site="tvtv.us" site_id="34941" xmltv_id="STZHD">STZHD</channel>
+    <channel update="i" site="tvtv.us" site_id="12741" xmltv_id="STARZP">STARZP</channel>
+    <channel update="i" site="tvtv.us" site_id="34949" xmltv_id="STZHDP">STZHDP</channel>
+    <channel update="i" site="tvtv.us" site_id="57581" xmltv_id="STZKHD">STZKHD</channel>
+    <channel update="i" site="tvtv.us" site_id="57569" xmltv_id="STZCHD">STZCHD</channel>
+    <channel update="i" site="tvtv.us" site_id="57573" xmltv_id="STZEHD">STZEHD</channel>
+    <channel update="i" site="tvtv.us" site_id="16311" xmltv_id="STZE">STZE</channel>
+    <channel update="i" site="tvtv.us" site_id="16833" xmltv_id="STZIB">STZIB</channel>
+    <channel update="i" site="tvtv.us" site_id="67235" xmltv_id="STRZIBH">STRZIBH</channel>
+    <channel update="i" site="tvtv.us" site_id="67236" xmltv_id="STRZCIH">STRZCIH</channel>
+    <channel update="i" site="tvtv.us" site_id="10178" xmltv_id="STZENC">STZENC</channel>
+    <channel update="i" site="tvtv.us" site_id="36225" xmltv_id="STZENHD">STZENHD</channel>
+    <channel update="i" site="tvtv.us" site_id="17125" xmltv_id="STZENCP">STZENCP</channel>
+    <channel update="i" site="tvtv.us" site_id="14764" xmltv_id="STZENCL">STZENCL</channel>
+    <channel update="i" site="tvtv.us" site_id="102906" xmltv_id="STZEWSS">STZEWSS</channel>
+    <channel update="i" site="tvtv.us" site_id="14766" xmltv_id="STZENSU">STZENSU</channel>
+    <channel update="i" site="tvtv.us" site_id="14870" xmltv_id="STZENBK">STZENBK</channel>
+    <channel update="i" site="tvtv.us" site_id="14871" xmltv_id="STZENAC">STZENAC</channel>
+    <channel update="i" site="tvtv.us" site_id="72015" xmltv_id="SZEAHD">SZEAHD</channel>
+    <channel update="i" site="tvtv.us" site_id="102903" xmltv_id="STZENFS">STZENFS</channel>
+    <channel update="i" site="tvtv.us" site_id="21868" xmltv_id="SHOWHD">SHOWHD</channel>
+    <channel update="i" site="tvtv.us" site_id="11115" xmltv_id="SHOW">SHOW</channel>
+    <channel update="i" site="tvtv.us" site_id="22532" xmltv_id="SHOWHDP">SHOWHDP</channel>
+    <channel update="i" site="tvtv.us" site_id="11117" xmltv_id="SHOWP">SHOWP</channel>
+    <channel update="i" site="tvtv.us" site_id="11116" xmltv_id="SHO2">SHO2</channel>
+    <channel update="i" site="tvtv.us" site_id="58533" xmltv_id="SHO2HD">SHO2HD</channel>
+    <channel update="i" site="tvtv.us" site_id="68340" xmltv_id="SHOBETH">SHOBETH</channel>
+    <channel update="i" site="tvtv.us" site_id="20622" xmltv_id="SHOBET">SHOBET</channel>
+    <channel update="i" site="tvtv.us" site_id="18086" xmltv_id="SHOWX">SHOWX</channel>
+    <channel update="i" site="tvtv.us" site_id="60947" xmltv_id="SHOWXHD">SHOWXHD</channel>
+    <channel update="i" site="tvtv.us" site_id="61001" xmltv_id="SHOCSHD">SHOCSHD</channel>
+    <channel update="i" site="tvtv.us" site_id="68342" xmltv_id="NEXTHD">NEXTHD</channel>
+    <channel update="i" site="tvtv.us" site_id="103892" xmltv_id="FAMZHD">FAMZHD</channel>
+    <channel update="i" site="tvtv.us" site_id="35329" xmltv_id="TMCHD">TMCHD</channel>
+    <channel update="i" site="tvtv.us" site_id="11160" xmltv_id="TMC">TMC</channel>
+    <channel update="i" site="tvtv.us" site_id="12509" xmltv_id="TMCP">TMCP</channel>
+    <channel update="i" site="tvtv.us" site_id="60951" xmltv_id="TMCXHD">TMCXHD</channel>
+    <channel update="i" site="tvtv.us" site_id="10201" xmltv_id="FLIX">FLIX</channel>
+    <channel update="i" site="tvtv.us" site_id="114759" xmltv_id="AMCPLUS">AMCPLUS</channel>
+    <channel update="i" site="tvtv.us" site_id="65687" xmltv_id="EPIXHD">EPIXHD</channel>
+    <channel update="i" site="tvtv.us" site_id="67929" xmltv_id="EPIX2HD">EPIX2HD</channel>
+    <channel update="i" site="tvtv.us" site_id="74073" xmltv_id="EPIXHIT">EPIXHIT</channel>
+    <channel update="i" site="tvtv.us" site_id="82446" xmltv_id="DOGTV">DOGTV</channel>
+    <channel update="i" site="tvtv.us" site_id="115674" xmltv_id="YUM">YUM</channel>
+    <channel update="i" site="tvtv.us" site_id="105723" xmltv_id="HALLDR">HALLDR</channel>
+    <channel update="i" site="tvtv.us" site_id="46710" xmltv_id="HMMHD">HMMHD</channel>
+    <channel update="i" site="tvtv.us" site_id="33668" xmltv_id="HDNETMV">HDNETMV</channel>
+    <channel update="i" site="tvtv.us" site_id="58530" xmltv_id="MGMHD">MGMHD</channel>
+    <channel update="i" site="tvtv.us" site_id="69130" xmltv_id="SONYHD">SONYHD</channel>
+    <channel update="i" site="tvtv.us" site_id="58532" xmltv_id="SMTHHD">SMTHHD</channel>
+    <channel update="i" site="tvtv.us" site_id="61469" xmltv_id="CINHD">CINHD</channel>
+    <channel update="i" site="tvtv.us" site_id="49141" xmltv_id="MTVLIVE">MTVLIVE</channel>
+    <channel update="i" site="tvtv.us" site_id="67454" xmltv_id="SHORTS">SHORTS</channel>
+    <channel update="i" site="tvtv.us" site_id="70640" xmltv_id="PPVADLT">PPVADLT</channel>
+    <channel update="i" site="tvtv.us" site_id="76898" xmltv_id="PLYPRMH">PLYPRMH</channel>
+    <channel update="i" site="tvtv.us" site_id="111177" xmltv_id="DTVPLBY">DTVPLBY</channel>
+    <channel update="i" site="tvtv.us" site_id="38944" xmltv_id="PLAYESP">PLAYESP</channel>
+    <channel update="i" site="tvtv.us" site_id="31698" xmltv_id="DITV582">DITV582</channel>
+    <channel update="i" site="tvtv.us" site_id="32181" xmltv_id="DITV583">DITV583</channel>
+    <channel update="i" site="tvtv.us" site_id="46174" xmltv_id="DITV584">DITV584</channel>
+    <channel update="i" site="tvtv.us" site_id="79566" xmltv_id="VIVIDTV">VIVIDTV</channel>
+    <channel update="i" site="tvtv.us" site_id="74711" xmltv_id="PXX5PRM">PXX5PRM</channel>
+    <channel update="i" site="tvtv.us" site_id="50404" xmltv_id="PLAYHD">PLAYHD</channel>
+    <channel update="i" site="tvtv.us" site_id="14075" xmltv_id="PLAYBOY">PLAYBOY</channel>
+    <channel update="i" site="tvtv.us" site_id="31590" xmltv_id="ADLTDM">ADLTDM</channel>
+    <channel update="i" site="tvtv.us" site_id="58933" xmltv_id="ADLTPPV">ADLTPPV</channel>
+    <channel update="i" site="tvtv.us" site_id="65223" xmltv_id="RKTV">RKTV</channel>
+    <channel update="i" site="tvtv.us" site_id="59522" xmltv_id="PNTXX5">PNTXX5</channel>
+    <channel update="i" site="tvtv.us" site_id="74063" xmltv_id="BANGU">BANGU</channel>
+    <channel update="i" site="tvtv.us" site_id="74065" xmltv_id="BRAZZPL">BRAZZPL</channel>
+    <channel update="i" site="tvtv.us" site_id="45498" xmltv_id="HUSTLR">HUSTLR</channel>
+    <channel update="i" site="tvtv.us" site_id="21345" xmltv_id="TVG">TVG</channel>
+    <channel update="i" site="tvtv.us" site_id="10188" xmltv_id="COWBOY">COWBOY</channel>
+    <channel update="i" site="tvtv.us" site_id="60111" xmltv_id="PURST">PURST</channel>
+    <channel update="i" site="tvtv.us" site_id="33930" xmltv_id="SPRTMAN">SPRTMAN</channel>
+    <channel update="i" site="tvtv.us" site_id="14776" xmltv_id="OUTD">OUTD</channel>
+    <channel update="i" site="tvtv.us" site_id="46737" xmltv_id="OUTHD">OUTHD</channel>
+    <channel update="i" site="tvtv.us" site_id="26077" xmltv_id="SCSA">SCSA</channel>
+    <channel update="i" site="tvtv.us" site_id="26079" xmltv_id="SCSP">SCSP</channel>
+    <channel update="i" site="tvtv.us" site_id="26078" xmltv_id="SCSC">SCSC</channel>
+    <channel update="i" site="tvtv.us" site_id="61143" xmltv_id="BTENOHD">BTENOHD</channel>
+    <channel update="i" site="tvtv.us" site_id="61135" xmltv_id="BIGTENO">BIGTENO</channel>
+    <channel update="i" site="tvtv.us" site_id="58321" xmltv_id="BIG10HD">BIG10HD</channel>
+    <channel update="i" site="tvtv.us" site_id="56783" xmltv_id="BIGTEN">BIGTEN</channel>
+    <channel update="i" site="tvtv.us" site_id="89535" xmltv_id="SEC">SEC</channel>
+    <channel update="i" site="tvtv.us" site_id="89714" xmltv_id="SECH">SECH</channel>
+    <channel update="i" site="tvtv.us" site_id="111871" xmltv_id="ACC">ACC</channel>
+    <channel update="i" site="tvtv.us" site_id="111905" xmltv_id="ACCSD">ACCSD</channel>
+    <channel update="i" site="tvtv.us" site_id="59305" xmltv_id="FS2HD">FS2HD</channel>
+    <channel update="i" site="tvtv.us" site_id="33178" xmltv_id="FS2">FS2</channel>
+    <channel update="i" site="tvtv.us" site_id="66879" xmltv_id="FSP">FSP</channel>
+    <channel update="i" site="tvtv.us" site_id="66880" xmltv_id="FSCPLHD">FSCPLHD</channel>
+    <channel update="i" site="tvtv.us" site_id="87000" xmltv_id="NLSHD">NLSHD</channel>
+    <channel update="i" site="tvtv.us" site_id="104089" xmltv_id="OLYHD">OLYHD</channel>
+    <channel update="i" site="tvtv.us" site_id="104186" xmltv_id="OLY">OLY</channel>
+    <channel update="i" site="tvtv.us" site_id="63198" xmltv_id="NESNPL">NESNPL</channel>
+    <channel update="i" site="tvtv.us" site_id="35038" xmltv_id="NESNHD">NESNHD</channel>
+    <channel update="i" site="tvtv.us" site_id="10996" xmltv_id="NESN">NESN</channel>
+    <channel update="i" site="tvtv.us" site_id="63516" xmltv_id="NESNPLD">NESNPLD</channel>
+    <channel update="i" site="tvtv.us" site_id="11104" xmltv_id="NBCSB">NBCSB</channel>
+    <channel update="i" site="tvtv.us" site_id="49198" xmltv_id="NBCSBH">NBCSBH</channel>
+    <channel update="i" site="tvtv.us" site_id="30017" xmltv_id="YES">YES</channel>
+    <channel update="i" site="tvtv.us" site_id="46275" xmltv_id="YESHDNY">YESHDNY</channel>
+    <channel update="i" site="tvtv.us" site_id="10979" xmltv_id="MSG">MSG</channel>
+    <channel update="i" site="tvtv.us" site_id="35402" xmltv_id="MSGHD">MSGHD</channel>
+    <channel update="i" site="tvtv.us" site_id="35383" xmltv_id="MSGPLHD">MSGPLHD</channel>
+    <channel update="i" site="tvtv.us" site_id="11105" xmltv_id="MSGPL">MSGPL</channel>
+    <channel update="i" site="tvtv.us" site_id="50038" xmltv_id="SNYHD">SNYHD</channel>
+    <channel update="i" site="tvtv.us" site_id="49603" xmltv_id="SNY">SNY</channel>
+    <channel update="i" site="tvtv.us" site_id="55433" xmltv_id="MASN2">MASN2</channel>
+    <channel update="i" site="tvtv.us" site_id="46817" xmltv_id="MASN">MASN</channel>
+    <channel update="i" site="tvtv.us" site_id="59607" xmltv_id="MASNHD">MASNHD</channel>
+    <channel update="i" site="tvtv.us" site_id="66485" xmltv_id="MASN2HD">MASN2HD</channel>
+    <channel update="i" site="tvtv.us" site_id="32537" xmltv_id="NBCSWAH">NBCSWAH</channel>
+    <channel update="i" site="tvtv.us" site_id="10271" xmltv_id="NBCSWA">NBCSWA</channel>
+    <channel update="i" site="tvtv.us" site_id="61092" xmltv_id="DBSOHD">DBSOHD</channel>
+    <channel update="i" site="tvtv.us" site_id="12410" xmltv_id="BSSO">BSSO</channel>
+    <channel update="i" site="tvtv.us" site_id="20789" xmltv_id="BSSE">BSSE</channel>
+    <channel update="i" site="tvtv.us" site_id="61138" xmltv_id="BSEGA1H">BSEGA1H</channel>
+    <channel update="i" site="tvtv.us" site_id="18003" xmltv_id="SUNNET">SUNNET</channel>
+    <channel update="i" site="tvtv.us" site_id="61084" xmltv_id="DTVSUNN">DTVSUNN</channel>
+    <channel update="i" site="tvtv.us" site_id="11095" xmltv_id="BSFL">BSFL</channel>
+    <channel update="i" site="tvtv.us" site_id="65412" xmltv_id="BSFLHD">BSFLHD</channel>
+    <channel update="i" site="tvtv.us" site_id="26028" xmltv_id="ATTPT">ATTPT</channel>
+    <channel update="i" site="tvtv.us" site_id="49882" xmltv_id="ATTPTHD">ATTPTHD</channel>
+    <channel update="i" site="tvtv.us" site_id="16176" xmltv_id="BSOH1">BSOH1</channel>
+    <channel update="i" site="tvtv.us" site_id="15796" xmltv_id="BSOH2">BSOH2</channel>
+    <channel update="i" site="tvtv.us" site_id="49848" xmltv_id="BSGLHD">BSGLHD</channel>
+    <channel update="i" site="tvtv.us" site_id="50167" xmltv_id="BSGL">BSGL</channel>
+    <channel update="i" site="tvtv.us" site_id="17619" xmltv_id="BSD">BSD</channel>
+    <channel update="i" site="tvtv.us" site_id="59644" xmltv_id="BSDTHD">BSDTHD</channel>
+    <channel update="i" site="tvtv.us" site_id="113768" xmltv_id="MARQ">MARQ</channel>
+    <channel update="i" site="tvtv.us" site_id="44905" xmltv_id="NBCSCHD">NBCSCHD</channel>
+    <channel update="i" site="tvtv.us" site_id="44447" xmltv_id="NBCSCH">NBCSCH</channel>
+    <channel update="i" site="tvtv.us" site_id="10977" xmltv_id="BSNOR">BSNOR</channel>
+    <channel update="i" site="tvtv.us" site_id="74436" xmltv_id="BSNORHD">BSNORHD</channel>
+    <channel update="i" site="tvtv.us" site_id="65460" xmltv_id="BSWIHD">BSWIHD</channel>
+    <channel update="i" site="tvtv.us" site_id="16348" xmltv_id="BSWI">BSWI</channel>
+    <channel update="i" site="tvtv.us" site_id="74333" xmltv_id="BSMSATH">BSMSATH</channel>
+    <channel update="i" site="tvtv.us" site_id="20638" xmltv_id="BSMWSAT">BSMWSAT</channel>
+    <channel update="i" site="tvtv.us" site_id="77744" xmltv_id="ATTSW">ATTSW</channel>
+    <channel update="i" site="tvtv.us" site_id="81287" xmltv_id="ATTSWPL">ATTSWPL</channel>
+    <channel update="i" site="tvtv.us" site_id="77746" xmltv_id="ATTSWHD">ATTSWHD</channel>
+    <channel update="i" site="tvtv.us" site_id="87624" xmltv_id="BSSW4HD">BSSW4HD</channel>
+    <channel update="i" site="tvtv.us" site_id="16056" xmltv_id="BSSW4">BSSW4</channel>
+    <channel update="i" site="tvtv.us" site_id="59629" xmltv_id="BSSWHD">BSSWHD</channel>
+    <channel update="i" site="tvtv.us" site_id="10262" xmltv_id="BSSW">BSSW</channel>
+    <channel update="i" site="tvtv.us" site_id="72861" xmltv_id="LNGHRNH">LNGHRNH</channel>
+    <channel update="i" site="tvtv.us" site_id="65596" xmltv_id="ALTSPHD">ALTSPHD</channel>
+    <channel update="i" site="tvtv.us" site_id="44263" xmltv_id="ALTSPRT">ALTSPRT</channel>
+    <channel update="i" site="tvtv.us" site_id="61109" xmltv_id="ATTRMHD">ATTRMHD</channel>
+    <channel update="i" site="tvtv.us" site_id="11059" xmltv_id="ATTRM">ATTRM</channel>
+    <channel update="i" site="tvtv.us" site_id="105628" xmltv_id="ATTLVHD">ATTLVHD</channel>
+    <channel update="i" site="tvtv.us" site_id="105619" xmltv_id="ATTLV">ATTLV</channel>
+    <channel update="i" site="tvtv.us" site_id="118605" xmltv_id="BSAZX">BSAZX</channel>
+    <channel update="i" site="tvtv.us" site_id="75119" xmltv_id="BSAP2">BSAP2</channel>
+    <channel update="i" site="tvtv.us" site_id="16512" xmltv_id="BSAZ">BSAZ</channel>
+    <channel update="i" site="tvtv.us" site_id="61101" xmltv_id="BSAZHD">BSAZHD</channel>
+    <channel update="i" site="tvtv.us" site_id="61090" xmltv_id="RTNWHD">RTNWHD</channel>
+    <channel update="i" site="tvtv.us" site_id="11062" xmltv_id="RTNW">RTNW</channel>
+    <channel update="i" site="tvtv.us" site_id="87024" xmltv_id="SNLA">SNLA</channel>
+    <channel update="i" site="tvtv.us" site_id="87023" xmltv_id="SSNLA">SSNLA</channel>
+    <channel update="i" site="tvtv.us" site_id="77375" xmltv_id="SPECTSN">SPECTSN</channel>
+    <channel update="i" site="tvtv.us" site_id="77376" xmltv_id="SPECSN">SPECSN</channel>
+    <channel update="i" site="tvtv.us" site_id="11054" xmltv_id="BSW">BSW</channel>
+    <channel update="i" site="tvtv.us" site_id="59627" xmltv_id="BSWHD">BSWHD</channel>
+    <channel update="i" site="tvtv.us" site_id="59625" xmltv_id="BSSCHD">BSSCHD</channel>
+    <channel update="i" site="tvtv.us" site_id="16743" xmltv_id="BSSC">BSSC</channel>
+    <channel update="i" site="tvtv.us" site_id="74900" xmltv_id="BSSDHD">BSSDHD</channel>
+    <channel update="i" site="tvtv.us" site_id="74859" xmltv_id="BSSD">BSSD</channel>
+    <channel update="i" site="tvtv.us" site_id="63138" xmltv_id="NBCSBAH">NBCSBAH</channel>
+    <channel update="i" site="tvtv.us" site_id="11109" xmltv_id="NBCSBA">NBCSBA</channel>
+    <channel update="i" site="tvtv.us" site_id="73564" xmltv_id="NBCSCAS">NBCSCAS</channel>
+    <channel update="i" site="tvtv.us" site_id="73565" xmltv_id="NBSCASH">NBSCASH</channel>
+    <channel update="i" site="tvtv.us" site_id="17798" xmltv_id="MSGPLOV">MSGPLOV</channel>
+    <channel update="i" site="tvtv.us" site_id="47213" xmltv_id="NFLMIX1">NFLMIX1</channel>
+    <channel update="i" site="tvtv.us" site_id="47214" xmltv_id="NFLMIX2">NFLMIX2</channel>
+    <channel update="i" site="tvtv.us" site_id="65025" xmltv_id="NFLNRZD">NFLNRZD</channel>
+    <channel update="i" site="tvtv.us" site_id="47216" xmltv_id="NFLRZ">NFLRZ</channel>
+    <channel update="i" site="tvtv.us" site_id="17678" xmltv_id="NFL704">NFL704</channel>
+    <channel update="i" site="tvtv.us" site_id="17679" xmltv_id="NFL705">NFL705</channel>
+    <channel update="i" site="tvtv.us" site_id="17680" xmltv_id="NFL706">NFL706</channel>
+    <channel update="i" site="tvtv.us" site_id="17681" xmltv_id="NFL707">NFL707</channel>
+    <channel update="i" site="tvtv.us" site_id="17682" xmltv_id="NFL708">NFL708</channel>
+    <channel update="i" site="tvtv.us" site_id="17683" xmltv_id="NFL709">NFL709</channel>
+    <channel update="i" site="tvtv.us" site_id="17684" xmltv_id="NFL710">NFL710</channel>
+    <channel update="i" site="tvtv.us" site_id="17685" xmltv_id="NFL711">NFL711</channel>
+    <channel update="i" site="tvtv.us" site_id="17686" xmltv_id="NFL712">NFL712</channel>
+    <channel update="i" site="tvtv.us" site_id="24258" xmltv_id="NFL713">NFL713</channel>
+    <channel update="i" site="tvtv.us" site_id="17728" xmltv_id="NFL714">NFL714</channel>
+    <channel update="i" site="tvtv.us" site_id="17729" xmltv_id="NFL715">NFL715</channel>
+    <channel update="i" site="tvtv.us" site_id="17789" xmltv_id="NFL716">NFL716</channel>
+    <channel update="i" site="tvtv.us" site_id="26686" xmltv_id="NFL717">NFL717</channel>
+    <channel update="i" site="tvtv.us" site_id="31477" xmltv_id="NFL718">NFL718</channel>
+    <channel update="i" site="tvtv.us" site_id="75220" xmltv_id="MLBSZHD">MLBSZHD</channel>
+    <channel update="i" site="tvtv.us" site_id="20609" xmltv_id="MLBEI">MLBEI</channel>
+    <channel update="i" site="tvtv.us" site_id="75674" xmltv_id="MLBD721">MLBD721</channel>
+    <channel update="i" site="tvtv.us" site_id="60878" xmltv_id="MLBD722">MLBD722</channel>
+    <channel update="i" site="tvtv.us" site_id="60879" xmltv_id="MLBD723">MLBD723</channel>
+    <channel update="i" site="tvtv.us" site_id="60880" xmltv_id="MLBD724">MLBD724</channel>
+    <channel update="i" site="tvtv.us" site_id="60881" xmltv_id="MLBD725">MLBD725</channel>
+    <channel update="i" site="tvtv.us" site_id="60882" xmltv_id="MLBD726">MLBD726</channel>
+    <channel update="i" site="tvtv.us" site_id="60883" xmltv_id="MLBD727">MLBD727</channel>
+    <channel update="i" site="tvtv.us" site_id="60884" xmltv_id="MLBD728">MLBD728</channel>
+    <channel update="i" site="tvtv.us" site_id="60885" xmltv_id="MLBD729">MLBD729</channel>
+    <channel update="i" site="tvtv.us" site_id="60887" xmltv_id="MLBD730">MLBD730</channel>
+    <channel update="i" site="tvtv.us" site_id="60888" xmltv_id="MLBD731">MLBD731</channel>
+    <channel update="i" site="tvtv.us" site_id="60889" xmltv_id="MLBD732">MLBD732</channel>
+    <channel update="i" site="tvtv.us" site_id="60890" xmltv_id="MLBD733">MLBD733</channel>
+    <channel update="i" site="tvtv.us" site_id="50109" xmltv_id="MLBD734">MLBD734</channel>
+    <channel update="i" site="tvtv.us" site_id="50110" xmltv_id="MLBD735">MLBD735</channel>
+    <channel update="i" site="tvtv.us" site_id="50111" xmltv_id="MLBD736">MLBD736</channel>
+    <channel update="i" site="tvtv.us" site_id="50112" xmltv_id="MLBD737">MLBD737</channel>
+    <channel update="i" site="tvtv.us" site_id="50113" xmltv_id="MLBD738">MLBD738</channel>
+    <channel update="i" site="tvtv.us" site_id="50114" xmltv_id="MLBD739">MLBD739</channel>
+    <channel update="i" site="tvtv.us" site_id="50116" xmltv_id="MLBD740">MLBD740</channel>
+    <channel update="i" site="tvtv.us" site_id="50117" xmltv_id="MLBD741">MLBD741</channel>
+    <channel update="i" site="tvtv.us" site_id="50118" xmltv_id="MLBD742">MLBD742</channel>
+    <channel update="i" site="tvtv.us" site_id="50119" xmltv_id="MLBD743">MLBD743</channel>
+    <channel update="i" site="tvtv.us" site_id="50120" xmltv_id="MLBD744">MLBD744</channel>
+    <channel update="i" site="tvtv.us" site_id="50121" xmltv_id="MLBD745">MLBD745</channel>
+    <channel update="i" site="tvtv.us" site_id="50122" xmltv_id="MLBD746">MLBD746</channel>
+    <channel update="i" site="tvtv.us" site_id="50123" xmltv_id="MLBD747">MLBD747</channel>
+    <channel update="i" site="tvtv.us" site_id="50124" xmltv_id="MLBD748">MLBD748</channel>
+    <channel update="i" site="tvtv.us" site_id="50125" xmltv_id="MLBD749">MLBD749</channel>
+    <channel update="i" site="tvtv.us" site_id="12784" xmltv_id="SPMIX">SPMIX</channel>
+    <channel update="i" site="tvtv.us" site_id="20810" xmltv_id="TEAM1">TEAM1</channel>
+    <channel update="i" site="tvtv.us" site_id="95845" xmltv_id="TEAMHD1">TEAMHD1</channel>
+    <channel update="i" site="tvtv.us" site_id="20811" xmltv_id="TEAM2">TEAM2</channel>
+    <channel update="i" site="tvtv.us" site_id="72809" xmltv_id="TMHD2">TMHD2</channel>
+    <channel update="i" site="tvtv.us" site_id="72831" xmltv_id="TMHD3">TMHD3</channel>
+    <channel update="i" site="tvtv.us" site_id="20812" xmltv_id="TEAM3">TEAM3</channel>
+    <channel update="i" site="tvtv.us" site_id="72832" xmltv_id="TMHD4">TMHD4</channel>
+    <channel update="i" site="tvtv.us" site_id="21044" xmltv_id="TEAM4">TEAM4</channel>
+    <channel update="i" site="tvtv.us" site_id="21045" xmltv_id="TEAM5">TEAM5</channel>
+    <channel update="i" site="tvtv.us" site_id="72833" xmltv_id="TMHD5">TMHD5</channel>
+    <channel update="i" site="tvtv.us" site_id="21046" xmltv_id="TEAM6">TEAM6</channel>
+    <channel update="i" site="tvtv.us" site_id="72834" xmltv_id="TMHD6">TMHD6</channel>
+    <channel update="i" site="tvtv.us" site_id="72835" xmltv_id="TMHD7">TMHD7</channel>
+    <channel update="i" site="tvtv.us" site_id="21047" xmltv_id="TEAM7">TEAM7</channel>
+    <channel update="i" site="tvtv.us" site_id="21048" xmltv_id="TEAM8">TEAM8</channel>
+    <channel update="i" site="tvtv.us" site_id="72836" xmltv_id="TMHD8">TMHD8</channel>
+    <channel update="i" site="tvtv.us" site_id="21049" xmltv_id="TEAM9">TEAM9</channel>
+    <channel update="i" site="tvtv.us" site_id="72837" xmltv_id="TMHD9">TMHD9</channel>
+    <channel update="i" site="tvtv.us" site_id="21115" xmltv_id="TEA10">TEA10</channel>
+    <channel update="i" site="tvtv.us" site_id="50152" xmltv_id="NBAD761">NBAD761</channel>
+    <channel update="i" site="tvtv.us" site_id="50153" xmltv_id="NBAD762">NBAD762</channel>
+    <channel update="i" site="tvtv.us" site_id="50154" xmltv_id="NBAD763">NBAD763</channel>
+    <channel update="i" site="tvtv.us" site_id="65313" xmltv_id="NBAD764">NBAD764</channel>
+    <channel update="i" site="tvtv.us" site_id="65315" xmltv_id="NBAD765">NBAD765</channel>
+    <channel update="i" site="tvtv.us" site_id="65317" xmltv_id="NBAD766">NBAD766</channel>
+    <channel update="i" site="tvtv.us" site_id="65318" xmltv_id="NBAD767">NBAD767</channel>
+    <channel update="i" site="tvtv.us" site_id="65319" xmltv_id="NBAD768">NBAD768</channel>
+    <channel update="i" site="tvtv.us" site_id="50135" xmltv_id="NHLD769">NHLD769</channel>
+    <channel update="i" site="tvtv.us" site_id="50136" xmltv_id="NHLD770">NHLD770</channel>
+    <channel update="i" site="tvtv.us" site_id="50137" xmltv_id="NHLD771">NHLD771</channel>
+    <channel update="i" site="tvtv.us" site_id="50138" xmltv_id="NHLD772">NHLD772</channel>
+    <channel update="i" site="tvtv.us" site_id="50139" xmltv_id="NHLD773">NHLD773</channel>
+    <channel update="i" site="tvtv.us" site_id="50140" xmltv_id="NHLD774">NHLD774</channel>
+    <channel update="i" site="tvtv.us" site_id="54348" xmltv_id="NHLD775">NHLD775</channel>
+    <channel update="i" site="tvtv.us" site_id="54349" xmltv_id="NHLD776">NHLD776</channel>
+    <channel update="i" site="tvtv.us" site_id="83059" xmltv_id="NHLD777">NHLD777</channel>
+    <channel update="i" site="tvtv.us" site_id="83060" xmltv_id="NHLD778">NHLD778</channel>
+    <channel update="i" site="tvtv.us" site_id="83061" xmltv_id="NHLD779">NHLD779</channel>
+    <channel update="i" site="tvtv.us" site_id="83064" xmltv_id="NHLD780">NHLD780</channel>
+    <channel update="i" site="tvtv.us" site_id="83065" xmltv_id="NHLD781">NHLD781</channel>
+    <channel update="i" site="tvtv.us" site_id="83069" xmltv_id="NHLD782">NHLD782</channel>
+    <channel update="i" site="tvtv.us" site_id="83070" xmltv_id="NHLD783">NHLD783</channel>
+    <channel update="i" site="tvtv.us" site_id="83158" xmltv_id="NHLD784">NHLD784</channel>
+    <channel update="i" site="tvtv.us" site_id="83171" xmltv_id="NHLD785">NHLD785</channel>
+    <channel update="i" site="tvtv.us" site_id="83207" xmltv_id="NHLD786">NHLD786</channel>
+    <channel update="i" site="tvtv.us" site_id="83307" xmltv_id="NHLD787">NHLD787</channel>
+    <channel update="i" site="tvtv.us" site_id="96626" xmltv_id="ESPCE1H">ESPCE1H</channel>
+    <channel update="i" site="tvtv.us" site_id="96628" xmltv_id="ESPCE2H">ESPCE2H</channel>
+    <channel update="i" site="tvtv.us" site_id="96629" xmltv_id="ESPCE3H">ESPCE3H</channel>
+    <channel update="i" site="tvtv.us" site_id="96627" xmltv_id="ESPCE4H">ESPCE4H</channel>
+    <channel update="i" site="tvtv.us" site_id="96625" xmltv_id="ESPCE5H">ESPCE5H</channel>
+    <channel update="i" site="tvtv.us" site_id="96631" xmltv_id="ESPCE6H">ESPCE6H</channel>
+    <channel update="i" site="tvtv.us" site_id="96632" xmltv_id="ESPCE7H">ESPCE7H</channel>
+    <channel update="i" site="tvtv.us" site_id="96635" xmltv_id="ESPCE8H">ESPCE8H</channel>
+    <channel update="i" site="tvtv.us" site_id="107583" xmltv_id="MCBIG">MCBIG</channel>
+    <channel update="i" site="tvtv.us" site_id="107587" xmltv_id="MCMF">MCMF</channel>
+    <channel update="i" site="tvtv.us" site_id="107588" xmltv_id="MC60M">MC60M</channel>
+    <channel update="i" site="tvtv.us" site_id="19326" xmltv_id="MC29">MC29</channel>
+    <channel update="i" site="tvtv.us" site_id="24405" xmltv_id="MC28">MC28</channel>
+    <channel update="i" site="tvtv.us" site_id="19336" xmltv_id="MC27">MC27</channel>
+    <channel update="i" site="tvtv.us" site_id="83184" xmltv_id="MC47">MC47</channel>
+    <channel update="i" site="tvtv.us" site_id="19319" xmltv_id="MC34">MC34</channel>
+    <channel update="i" site="tvtv.us" site_id="19342" xmltv_id="MC33">MC33</channel>
+    <channel update="i" site="tvtv.us" site_id="103440" xmltv_id="MC65">MC65</channel>
+    <channel update="i" site="tvtv.us" site_id="107589" xmltv_id="MCHT">MCHT</channel>
+    <channel update="i" site="tvtv.us" site_id="103442" xmltv_id="MC66">MC66</channel>
+    <channel update="i" site="tvtv.us" site_id="103439" xmltv_id="MC64">MC64</channel>
+    <channel update="i" site="tvtv.us" site_id="26248" xmltv_id="MC32">MC32</channel>
+    <channel update="i" site="tvtv.us" site_id="19317" xmltv_id="MC41">MC41</channel>
+    <channel update="i" site="tvtv.us" site_id="19313" xmltv_id="MC01">MC01</channel>
+    <channel update="i" site="tvtv.us" site_id="26228" xmltv_id="MC26">MC26</channel>
+    <channel update="i" site="tvtv.us" site_id="19346" xmltv_id="MC02">MC02</channel>
+    <channel update="i" site="tvtv.us" site_id="19314" xmltv_id="MC20">MC20</channel>
+    <channel update="i" site="tvtv.us" site_id="26220" xmltv_id="MCCIN">MCCIN</channel>
+    <channel update="i" site="tvtv.us" site_id="43335" xmltv_id="MC21">MC21</channel>
+    <channel update="i" site="tvtv.us" site_id="112723" xmltv_id="DTVMCMS">DTVMCMS</channel>
+    <channel update="i" site="tvtv.us" site_id="107590" xmltv_id="MCBW">MCBW</channel>
+    <channel update="i" site="tvtv.us" site_id="84313" xmltv_id="MC52">MC52</channel>
+    <channel update="i" site="tvtv.us" site_id="26230" xmltv_id="MC05">MC05</channel>
+    <channel update="i" site="tvtv.us" site_id="19324" xmltv_id="MC35">MC35</channel>
+    <channel update="i" site="tvtv.us" site_id="26229" xmltv_id="MC11">MC11</channel>
+    <channel update="i" site="tvtv.us" site_id="107591" xmltv_id="MCGH">MCGH</channel>
+    <channel update="i" site="tvtv.us" site_id="103454" xmltv_id="MC58">MC58</channel>
+    <channel update="i" site="tvtv.us" site_id="31030" xmltv_id="MC14">MC14</channel>
+    <channel update="i" site="tvtv.us" site_id="19332" xmltv_id="MC04">MC04</channel>
+    <channel update="i" site="tvtv.us" site_id="19142" xmltv_id="MC16">MC16</channel>
+    <channel update="i" site="tvtv.us" site_id="19311" xmltv_id="MC18">MC18</channel>
+    <channel update="i" site="tvtv.us" site_id="19310" xmltv_id="MC15">MC15</channel>
+    <channel update="i" site="tvtv.us" site_id="107592" xmltv_id="MCHR">MCHR</channel>
+    <channel update="i" site="tvtv.us" site_id="107594" xmltv_id="MCCS">MCCS</channel>
+    <channel update="i" site="tvtv.us" site_id="31029" xmltv_id="MC17">MC17</channel>
+    <channel update="i" site="tvtv.us" site_id="103456" xmltv_id="MC60">MC60</channel>
+    <channel update="i" site="tvtv.us" site_id="103457" xmltv_id="MC61">MC61</channel>
+    <channel update="i" site="tvtv.us" site_id="19325" xmltv_id="MC31">MC31</channel>
+    <channel update="i" site="tvtv.us" site_id="19312" xmltv_id="MC13">MC13</channel>
+    <channel update="i" site="tvtv.us" site_id="19344" xmltv_id="MC09">MC09</channel>
+    <channel update="i" site="tvtv.us" site_id="26250" xmltv_id="MC10">MC10</channel>
+    <channel update="i" site="tvtv.us" site_id="103452" xmltv_id="MC56">MC56</channel>
+    <channel update="i" site="tvtv.us" site_id="103453" xmltv_id="MC57">MC57</channel>
+    <channel update="i" site="tvtv.us" site_id="24378" xmltv_id="MC06">MC06</channel>
+    <channel update="i" site="tvtv.us" site_id="107595" xmltv_id="MCMR">MCMR</channel>
+    <channel update="i" site="tvtv.us" site_id="26232" xmltv_id="MC08">MC08</channel>
+    <channel update="i" site="tvtv.us" site_id="19315" xmltv_id="MC19">MC19</channel>
+    <channel update="i" site="tvtv.us" site_id="107596" xmltv_id="MCJH">MCJH</channel>
+    <channel update="i" site="tvtv.us" site_id="19362" xmltv_id="MC44">MC44</channel>
+    <channel update="i" site="tvtv.us" site_id="19357" xmltv_id="MC45">MC45</channel>
+    <channel update="i" site="tvtv.us" site_id="83186" xmltv_id="MC48">MC48</channel>
+    <channel update="i" site="tvtv.us" site_id="19341" xmltv_id="MC46">MC46</channel>
+    <channel update="i" site="tvtv.us" site_id="107597" xmltv_id="MCJV">MCJV</channel>
+    <channel update="i" site="tvtv.us" site_id="107598" xmltv_id="MCNA">MCNA</channel>
+    <channel update="i" site="tvtv.us" site_id="31028" xmltv_id="MC43">MC43</channel>
+    <channel update="i" site="tvtv.us" site_id="103444" xmltv_id="MC68">MC68</channel>
+    <channel update="i" site="tvtv.us" site_id="76302" xmltv_id="MC03">MC03</channel>
+    <channel update="i" site="tvtv.us" site_id="107599" xmltv_id="MCWO">MCWO</channel>
+    <channel update="i" site="tvtv.us" site_id="103449" xmltv_id="MC73">MC73</channel>
+    <channel update="i" site="tvtv.us" site_id="107600" xmltv_id="MCRW">MCRW</channel>
+    <channel update="i" site="tvtv.us" site_id="26221" xmltv_id="MC12">MC12</channel>
+    <channel update="i" site="tvtv.us" site_id="107602" xmltv_id="MCSY">MCSY</channel>
+    <channel update="i" site="tvtv.us" site_id="83194" xmltv_id="MC49">MC49</channel>
+    <channel update="i" site="tvtv.us" site_id="83197" xmltv_id="MC50">MC50</channel>
+    <channel update="i" site="tvtv.us" site_id="19327" xmltv_id="MC23">MC23</channel>
+    <channel update="i" site="tvtv.us" site_id="19330" xmltv_id="MC24">MC24</channel>
+    <channel update="i" site="tvtv.us" site_id="19329" xmltv_id="MC25">MC25</channel>
+    <channel update="i" site="tvtv.us" site_id="19316" xmltv_id="MC40">MC40</channel>
+    <channel update="i" site="tvtv.us" site_id="24380" xmltv_id="MC36">MC36</channel>
+    <channel update="i" site="tvtv.us" site_id="19335" xmltv_id="MC39">MC39</channel>
+    <channel update="i" site="tvtv.us" site_id="24382" xmltv_id="MC37">MC37</channel>
+    <channel update="i" site="tvtv.us" site_id="19320" xmltv_id="MC38">MC38</channel>
+    <channel update="i" site="tvtv.us" site_id="103450" xmltv_id="MC74">MC74</channel>
+    <channel update="i" site="tvtv.us" site_id="103447" xmltv_id="MC71">MC71</channel>
+    <channel update="i" site="tvtv.us" site_id="103448" xmltv_id="MC72">MC72</channel>
+    <channel update="i" site="tvtv.us" site_id="19328" xmltv_id="MC22">MC22</channel>
+    <channel update="i" site="tvtv.us" site_id="19350" xmltv_id="MCTOI">MCTOI</channel>
+    <channel update="i" site="tvtv.us" site_id="107603" xmltv_id="MCIT">MCIT</channel>
+    <channel update="i" site="tvtv.us" site_id="107612" xmltv_id="MCIR">MCIR</channel>
+    <channel update="i" site="tvtv.us" site_id="107613" xmltv_id="MCNS">MCNS</channel>
+    <channel update="i" site="tvtv.us" site_id="103451" xmltv_id="MC75">MC75</channel>
+    <channel update="i" site="tvtv.us" site_id="107614" xmltv_id="MCVI">MCVI</channel>
+    <channel update="i" site="tvtv.us" site_id="25955" xmltv_id="WNYJ">WNYJ</channel>
+    <channel update="i" site="tvtv.us" site_id="69529" xmltv_id="MITALIA">MITALIA</channel>
+    <channel update="i" site="tvtv.us" site_id="17250" xmltv_id="RAII">RAII</channel>
+    <channel update="i" site="tvtv.us" site_id="78803" xmltv_id="RAINW24">RAINW24</channel>
+    <channel update="i" site="tvtv.us" site_id="46350" xmltv_id="RAIPREM">RAIPREM</channel>
+    <channel update="i" site="tvtv.us" site_id="94884" xmltv_id="RAIRAD1">RAIRAD1</channel>
+    <channel update="i" site="tvtv.us" site_id="30324" xmltv_id="SBN">SBN</channel>
+    <channel update="i" site="tvtv.us" site_id="88484" xmltv_id="VGNTV">VGNTV</channel>
+    <channel update="i" site="tvtv.us" site_id="78609" xmltv_id="VETV">VETV</channel>
+    <channel update="i" site="tvtv.us" site_id="78754" xmltv_id="VFACE">VFACE</channel>
+    <channel update="i" site="tvtv.us" site_id="105858" xmltv_id="SCHANNL">SCHANNL</channel>
+    <channel update="i" site="tvtv.us" site_id="71661" xmltv_id="VIENTTV">VIENTTV</channel>
+    <channel update="i" site="tvtv.us" site_id="87690" xmltv_id="VIETV">VIETV</channel>
+    <channel update="i" site="tvtv.us" site_id="105824" xmltv_id="FILM24H">FILM24H</channel>
+    <channel update="i" site="tvtv.us" site_id="60296" xmltv_id="HONV">HONV</channel>
+    <channel update="i" site="tvtv.us" site_id="93372" xmltv_id="LSRC">LSRC</channel>
+    <channel update="i" site="tvtv.us" site_id="73554" xmltv_id="TVJPNHD">TVJPNHD</channel>
+    <channel update="i" site="tvtv.us" site_id="111293" xmltv_id="NTVCHD">NTVCHD</channel>
+    <channel update="i" site="tvtv.us" site_id="111292" xmltv_id="NECOHD">NECOHD</channel>
+    <channel update="i" site="tvtv.us" site_id="98286" xmltv_id="NHK1HD">NHK1HD</channel>
+    <channel update="i" site="tvtv.us" site_id="24935" xmltv_id="PNAX">PNAX</channel>
+    <channel update="i" site="tvtv.us" site_id="44617" xmltv_id="PHNIN">PHNIN</channel>
+    <channel update="i" site="tvtv.us" site_id="24248" xmltv_id="CCTV4">CCTV4</channel>
+    <channel update="i" site="tvtv.us" site_id="29114" xmltv_id="CGTN">CGTN</channel>
+    <channel update="i" site="tvtv.us" site_id="66645" xmltv_id="HXTV">HXTV</channel>
+    <channel update="i" site="tvtv.us" site_id="20655" xmltv_id="CTIZTC">CTIZTC</channel>
+    <channel update="i" site="tvtv.us" site_id="92409" xmltv_id="CBOCH">CBOCH</channel>
+    <channel update="i" site="tvtv.us" site_id="14968" xmltv_id="FILIP">FILIP</channel>
+    <channel update="i" site="tvtv.us" site_id="46463" xmltv_id="GMAPNY">GMAPNY</channel>
+    <channel update="i" site="tvtv.us" site_id="116899" xmltv_id="PBO">PBO</channel>
+    <channel update="i" site="tvtv.us" site_id="46736" xmltv_id="CINEONE">CINEONE</channel>
+    <channel update="i" site="tvtv.us" site_id="116898" xmltv_id="OPMTV">OPMTV</channel>
+    <channel update="i" site="tvtv.us" site_id="47146" xmltv_id="WRR - ,">WRR - ,</channel>
+    <channel update="i" site="tvtv.us" site_id="47147" xmltv_id="DZMM - ,">DZMM - ,</channel>
+    <channel update="i" site="tvtv.us" site_id="55451" xmltv_id="MYX">MYX</channel>
+    <channel update="i" site="tvtv.us" site_id="117009" xmltv_id="SARISARI">SARISARI</channel>
+    <channel update="i" site="tvtv.us" site_id="60152" xmltv_id="GMALIFE">GMALIFE</channel>
+    <channel update="i" site="tvtv.us" site_id="47174" xmltv_id="ANC">ANC</channel>
+    <channel update="i" site="tvtv.us" site_id="75621" xmltv_id="KAPATID">KAPATID</channel>
+    <channel update="i" site="tvtv.us" site_id="34085" xmltv_id="SBS">SBS</channel>
+    <channel update="i" site="tvtv.us" site_id="100432" xmltv_id="SBSHD">SBSHD</channel>
+    <channel update="i" site="tvtv.us" site_id="50270" xmltv_id="MBCKOR">MBCKOR</channel>
+    <channel update="i" site="tvtv.us" site_id="53079" xmltv_id="PI">PI</channel>
+    <channel update="i" site="tvtv.us" site_id="48970" xmltv_id="YTN">YTN</channel>
+    <channel update="i" site="tvtv.us" site_id="52755" xmltv_id="SBSPL">SBSPL</channel>
+    <channel update="i" site="tvtv.us" site_id="110950" xmltv_id="KBSW24">KBSW24</channel>
+    <channel update="i" site="tvtv.us" site_id="69411" xmltv_id="EBSAMER">EBSAMER</channel>
+    <channel update="i" site="tvtv.us" site_id="72536" xmltv_id="MBNP">MBNP</channel>
+    <channel update="i" site="tvtv.us" site_id="55533" xmltv_id="TANTV">TANTV</channel>
+    <channel update="i" site="tvtv.us" site_id="67371" xmltv_id="NGCK">NGCK</channel>
+    <channel update="i" site="tvtv.us" site_id="50229" xmltv_id="CTSKOCH">CTSKOCH</channel>
+    <channel update="i" site="tvtv.us" site_id="67067" xmltv_id="RADKOR">RADKOR</channel>
+    <channel update="i" site="tvtv.us" site_id="87649" xmltv_id="DARANG">DARANG</channel>
+    <channel update="i" site="tvtv.us" site_id="87930" xmltv_id="GZTV">GZTV</channel>
+    <channel update="i" site="tvtv.us" site_id="78651" xmltv_id="88TV">88TV</channel>
+    <channel update="i" site="tvtv.us" site_id="92401" xmltv_id="PHKC">PHKC</channel>
+    <channel update="i" site="tvtv.us" site_id="78649" xmltv_id="88FILMS">88FILMS</channel>
+    <channel update="i" site="tvtv.us" site_id="79880" xmltv_id="ICBLEFN">ICBLEFN</channel>
+    <channel update="i" site="tvtv.us" site_id="78910" xmltv_id="ICABNWS">ICABNWS</channel>
+    <channel update="i" site="tvtv.us" site_id="21065" xmltv_id="RGTI: - REDEGL">RGTI: - REDEGL</channel>
+    <channel update="i" site="tvtv.us" site_id="54394" xmltv_id="SPORTVI">SPORTVI</channel>
+    <channel update="i" site="tvtv.us" site_id="34128" xmltv_id="C1RWN">C1RWN</channel>
+    <channel update="i" site="tvtv.us" site_id="43389" xmltv_id="RTR">RTR</channel>
+    <channel update="i" site="tvtv.us" site_id="48959" xmltv_id="DOMKINO">DOMKINO</channel>
+    <channel update="i" site="tvtv.us" site_id="48963" xmltv_id="MUZIKP">MUZIKP</channel>
+    <channel update="i" site="tvtv.us" site_id="48958" xmltv_id="VREMYA">VREMYA</channel>
+    <channel update="i" site="tvtv.us" site_id="60054" xmltv_id="CARUSL">CARUSL</channel>
+    <channel update="i" site="tvtv.us" site_id="31631" xmltv_id="NTVA">NTVA</channel>
+    <channel update="i" site="tvtv.us" site_id="56693" xmltv_id="ROSSIYA">ROSSIYA</channel>
+    <channel update="i" site="tvtv.us" site_id="21063" xmltv_id="RTVINT">RTVINT</channel>
+    <channel update="i" site="tvtv.us" site_id="71790" xmltv_id="ANBUSCH">ANBUSCH</channel>
+    <channel update="i" site="tvtv.us" site_id="116634" xmltv_id="BAR">BAR</channel>
+    <channel update="i" site="tvtv.us" site_id="106387" xmltv_id="DTV9800">DTV9800</channel>
   </channels>
 </site>
