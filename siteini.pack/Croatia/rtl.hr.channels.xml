@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.4 -- Jan van Straaten" site="rtl.hr">
+  <channels>
+    <channel update="i" site="rtl.hr" site_id="rtl" xmltv_id="RTL">RTL</channel>
+    <channel update="i" site="rtl.hr" site_id="rtl2" xmltv_id="RTL 2">RTL 2</channel>
+    <channel update="i" site="rtl.hr" site_id="rtl-kockica" xmltv_id="RTL Kockica">RTL Kockica</channel>
+    <channel update="i" site="rtl.hr" site_id="rtl-living" xmltv_id="RTL Living">RTL Living</channel>
+    <channel update="i" site="rtl.hr" site_id="rtl-passion" xmltv_id="RTL Passion">RTL Passion</channel>
+    <channel update="i" site="rtl.hr" site_id="rtl-crime" xmltv_id="RTL Crime">RTL Crime</channel>
+    <channel update="i" site="rtl.hr" site_id="rtl-adria" xmltv_id="RTL Adria">RTL Adria</channel>
+    <channel update="i" site="rtl.hr" site_id="rtl-croworld" xmltv_id="RTL Croatia World">RTL Croatia World</channel>
+  </channels>
+</site>
