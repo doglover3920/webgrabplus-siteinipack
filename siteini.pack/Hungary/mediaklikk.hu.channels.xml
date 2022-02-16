@@ -8,6 +8,6 @@
     <channel update="i" site="mediaklikk.hu" site_id="M4 Sport" xmltv_id="M4 Sport">M4 Sport</channel>
     <channel update="i" site="mediaklikk.hu" site_id="M5" xmltv_id="M5">M5</channel>
     <channel update="i" site="mediaklikk.hu" site_id="Duna World" xmltv_id="Duna World">Duna World</channel>
-    <channel update="i" site="mediaklikk.hu" site_id="M4 Sport +" xmltv_id="M4 Sport +">M4 Sport +</channel>
+    <channel update="i" site="mediaklikk.hu" site_id="M4 Sport" xmltv_id="M4 Sport +">M4 Sport +</channel>
   </channels>
 </site>
