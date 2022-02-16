@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.4 -- Jan van Straaten" site="mediaklikk.hu">
+  <channels>
+    <channel update="i" site="mediaklikk.hu" site_id="Duna" xmltv_id="Duna">Duna</channel>
+    <channel update="i" site="mediaklikk.hu" site_id="M1" xmltv_id="M1">M1</channel>
+    <channel update="i" site="mediaklikk.hu" site_id="M2" xmltv_id="M2">M2</channel>
+    <channel update="i" site="mediaklikk.hu" site_id="M3" xmltv_id="M3">M3</channel>
+    <channel update="i" site="mediaklikk.hu" site_id="M4 Sport" xmltv_id="M4 Sport">M4 Sport</channel>
+    <channel update="i" site="mediaklikk.hu" site_id="M5" xmltv_id="M5">M5</channel>
+    <channel update="i" site="mediaklikk.hu" site_id="Duna World" xmltv_id="Duna World">Duna World</channel>
+    <channel update="i" site="mediaklikk.hu" site_id="M4 Sport +" xmltv_id="M4 Sport +">M4 Sport +</channel>
+  </channels>
+</site>
