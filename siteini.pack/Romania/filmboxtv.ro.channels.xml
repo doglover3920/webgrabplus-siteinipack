@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.11.0 -- Jan van Straaten" site="filmboxtv.ro">
+  <channels>
+    <channel update="i" site="filmboxtv.ro" site_id="61" xmltv_id="FilmBox">FilmBox</channel>
+    <channel update="i" site="filmboxtv.ro" site_id="91" xmltv_id="FilmBox Extra">FilmBox Extra</channel>
+    <channel update="i" site="filmboxtv.ro" site_id="71" xmltv_id="FilmBox Premium">FilmBox Premium</channel>
+    <channel update="i" site="filmboxtv.ro" site_id="96" xmltv_id="FilmBox Stars">FilmBox Stars</channel>
+    <channel update="i" site="filmboxtv.ro" site_id="81" xmltv_id="FilmBox Family">FilmBox Family</channel>
+  </channels>
+</site>
