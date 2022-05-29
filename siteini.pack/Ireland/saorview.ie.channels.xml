@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.4 -- Jan van Straaten" site="saorview.ie">
   <channels>
-    <channel update="i" site="saorview.ie" site_id="_RTE-one" xmltv_id="RTE one">RTE one</channel>
-    <channel update="i" site="saorview.ie" site_id="_RTE2" xmltv_id="RTE2">RTE2</channel>
-    <channel update="i" site="saorview.ie" site_id="_VirginMedia-One" xmltv_id="VirginMedia One">VirginMedia One</channel>
-    <channel update="i" site="saorview.ie" site_id="_TG4_on" xmltv_id="TG4on">TG4on</channel>
-    <channel update="i" site="saorview.ie" site_id="_VirginMedia-Two" xmltv_id="VirginMedia Two">VirginMedia Two</channel>
-    <channel update="i" site="saorview.ie" site_id="_VirginMedia-Three" xmltv_id="VirginMedia Three">VirginMedia Three</channel>
-    <channel update="i" site="saorview.ie" site_id="_RTEjr" xmltv_id="RTEjr">RTEjr</channel>
-    <channel update="i" site="saorview.ie" site_id="_RTE-one-p1_on" xmltv_id="RTE one p1on">RTE one p1on</channel>
-    <channel update="i" site="saorview.ie" site_id="_RTE_2_p1" xmltv_id="RTE2p1">RTE2p1</channel>
-    <channel update="i" site="saorview.ie" site_id="_RTE-news_on" xmltv_id="RTE newson">RTE newson</channel>
-    <channel update="i" site="saorview.ie" site_id="_Oireachtas_on" xmltv_id="Oireachtason">Oireachtason</channel>
-    <channel update="i" site="saorview.ie" site_id="_sky-news" xmltv_id="sky news">sky news</channel>
-    <channel update="i" site="saorview.ie" site_id="_RTE-radio1_on" xmltv_id="RTE radio1on">RTE radio1on</channel>
-    <channel update="i" site="saorview.ie" site_id="_RTE-radio1x_on" xmltv_id="RTE radio1xon">RTE radio1xon</channel>
-    <channel update="i" site="saorview.ie" site_id="_RTE2fm_on" xmltv_id="RTE2fmon">RTE2fmon</channel>
-    <channel update="i" site="saorview.ie" site_id="_RTE-lyric_on" xmltv_id="RTE lyricon">RTE lyricon</channel>
-    <channel update="i" site="saorview.ie" site_id="_RTE-rnaG_on" xmltv_id="RTE rnaGon">RTE rnaGon</channel>
-    <channel update="i" site="saorview.ie" site_id="_RTE-pulse_on" xmltv_id="RTE pulseon">RTE pulseon</channel>
-    <channel update="i" site="saorview.ie" site_id="_RTE-2xm_on" xmltv_id="RTE 2xmon">RTE 2xmon</channel>
-    <channel update="i" site="saorview.ie" site_id="_RTEjr-radio" xmltv_id="RTEjr radio">RTEjr radio</channel>
-    <channel update="i" site="saorview.ie" site_id="_RTE-gold_on" xmltv_id="RTE goldon">RTE goldon</channel>
-    <channel update="i" site="saorview.ie" site_id="_Radio-Maria" xmltv_id="Radio Maria">Radio Maria</channel>
-    <channel update="i" site="saorview.ie" site_id="-ucb" xmltv_id=" ucb"> ucb</channel>
+    <channel update="i" site="saorview.ie" site_id="7" xmltv_id="RTÉJr">RTÉJr</channel>
+    <channel update="i" site="saorview.ie" site_id="1" xmltv_id="RTÉ One">RTÉ One</channel>
+    <channel update="i" site="saorview.ie" site_id="2" xmltv_id="RTÉ 2">RTÉ 2</channel>
+    <channel update="i" site="saorview.ie" site_id="3" xmltv_id="Virgin Media One">Virgin Media One</channel>
+    <channel update="i" site="saorview.ie" site_id="4" xmltv_id="TG4">TG4</channel>
+    <channel update="i" site="saorview.ie" site_id="5" xmltv_id="Virgin Media Two">Virgin Media Two</channel>
+    <channel update="i" site="saorview.ie" site_id="6" xmltv_id="Virgin Media Three">Virgin Media Three</channel>
+    <channel update="i" site="saorview.ie" site_id="11" xmltv_id="RTÉ One +1">RTÉ One +1</channel>
+    <channel update="i" site="saorview.ie" site_id="12" xmltv_id="RTÉ 2 +1">RTÉ 2 +1</channel>
+    <channel update="i" site="saorview.ie" site_id="21" xmltv_id="RTÉ News">RTÉ News</channel>
+    <channel update="i" site="saorview.ie" site_id="22" xmltv_id="Tithe an Oireachtas">Tithe an Oireachtas</channel>
+    <channel update="i" site="saorview.ie" site_id="23" xmltv_id="Sky News">Sky News</channel>
+    <channel update="i" site="saorview.ie" site_id="200" xmltv_id="RTÉ Radio 1">RTÉ Radio 1</channel>
+    <channel update="i" site="saorview.ie" site_id="201" xmltv_id="RTÉ Radio 1 Extra">RTÉ Radio 1 Extra</channel>
+    <channel update="i" site="saorview.ie" site_id="202" xmltv_id="RTÉ 2fm">RTÉ 2fm</channel>
+    <channel update="i" site="saorview.ie" site_id="203" xmltv_id="RTÉ Lyric">RTÉ Lyric</channel>
+    <channel update="i" site="saorview.ie" site_id="204" xmltv_id="RTÉ Raidió na Gaeltachta">RTÉ Raidió na Gaeltachta</channel>
+    <channel update="i" site="saorview.ie" site_id="205" xmltv_id="RTÉ Pulse">RTÉ Pulse</channel>
+    <channel update="i" site="saorview.ie" site_id="206" xmltv_id="RTÉ 2XM">RTÉ 2XM</channel>
+    <channel update="i" site="saorview.ie" site_id="207" xmltv_id="RTÉ Jr Radio">RTÉ Jr Radio</channel>
+    <channel update="i" site="saorview.ie" site_id="208" xmltv_id="RTÉ Gold">RTÉ Gold</channel>
+    <channel update="i" site="saorview.ie" site_id="210" xmltv_id="Radio Maria Ireland">Radio Maria Ireland</channel>
+    <channel update="i" site="saorview.ie" site_id="211" xmltv_id="UBC Ireland">UBC Ireland</channel>
   </channels>
 </site>
