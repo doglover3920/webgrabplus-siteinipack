@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.9 -- Jan van Straaten" site="eurosport.int">
+  <channels>
+    <channel update="i" site="eurosport.int" site_id="0" xmltv_id="Eurosport 1">Eurosport 1</channel>
+    <channel update="i" site="eurosport.int" site_id="200" xmltv_id="Eurosport 2">Eurosport 2</channel>
+  </channels>
+</site>
