@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.9 -- Jan van Straaten" site="tvasta.pl">
+  <channels>
+    <channel update="i" site="tvasta.pl" site_id="dummy" xmltv_id="TV Asta">TV Asta</channel>
+  </channels>
+</site>
