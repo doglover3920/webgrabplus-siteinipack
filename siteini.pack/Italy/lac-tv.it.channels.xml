@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.9 -- Jan van Straaten" site="lacplay.it">
+  <channels>
+    <channel update="i" site="lac-tv.it" site_id="lac-tv" xmltv_id="LaC tv">LaC tv</channel>
+    <channel update="i" site="lac-tv.it" site_id="lac-news24" xmltv_id="LaC News24">LaC News24</channel>
+  </channels>
+</site>
