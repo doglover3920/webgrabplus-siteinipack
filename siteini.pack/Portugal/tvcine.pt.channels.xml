@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.4 -- Jan van Straaten" site="tvcine.pt">
+  <channels>
+    <channel update="i" site="tvcine.pt" site_id="TVC Action" xmltv_id="TVC Action">TVC Action</channel>
+    <channel update="i" site="tvcine.pt" site_id="TVC Emotion" xmltv_id="TVC Emotion">TVC Emotion</channel>
+    <channel update="i" site="tvcine.pt" site_id="TVC Top" xmltv_id="TVC Top">TVC Top</channel>
+    <channel update="i" site="tvcine.pt" site_id="TVC Edition" xmltv_id="TVC Edition">TVC Edition</channel>
+    <channel update="i" site="tvcine.pt" site_id="TVCine Africa" xmltv_id="TVCine Africa">TVCine Africa</channel>
+  </channels>
+</site>
