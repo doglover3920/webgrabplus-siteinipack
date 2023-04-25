@@ -1,0 +1,204 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.4 -- Jan van Straaten" site="tvprogram.online">
+  <channels>
+    <channel update="i" site="tvprogram.online" site_id="3sat" xmltv_id="3sat">3sat</channel>
+    <channel update="i" site="tvprogram.online" site_id="amc" xmltv_id="AMC">AMC</channel>
+    <channel update="i" site="tvprogram.online" site_id="animal-planet" xmltv_id="Animal Planet">Animal Planet</channel>
+    <channel update="i" site="tvprogram.online" site_id="ard" xmltv_id="ARD">ARD</channel>
+    <channel update="i" site="tvprogram.online" site_id="arena-sport-1" xmltv_id="Arena Sport 1">Arena Sport 1</channel>
+    <channel update="i" site="tvprogram.online" site_id="arena-sport-2" xmltv_id="Arena Sport 2">Arena Sport 2</channel>
+    <channel update="i" site="tvprogram.online" site_id="arthouse" xmltv_id="Arthouse">Arthouse</channel>
+    <channel update="i" site="tvprogram.online" site_id="axn" xmltv_id="AXN">AXN</channel>
+    <channel update="i" site="tvprogram.online" site_id="axn-black" xmltv_id="AXN Black">AXN Black</channel>
+    <channel update="i" site="tvprogram.online" site_id="axn-digi" xmltv_id="AXN Digi">AXN Digi</channel>
+    <channel update="i" site="tvprogram.online" site_id="axn-hd" xmltv_id="AXN HD">AXN HD</channel>
+    <channel update="i" site="tvprogram.online" site_id="axn-white" xmltv_id="AXN White">AXN White</channel>
+    <channel update="i" site="tvprogram.online" site_id="barrandov-krimi" xmltv_id="Barrandov Krimi">Barrandov Krimi</channel>
+    <channel update="i" site="tvprogram.online" site_id="bbc-earth" xmltv_id="BBC Earth">BBC Earth</channel>
+    <channel update="i" site="tvprogram.online" site_id="canal-action" xmltv_id="Canal+ Action">Canal+ Action</channel>
+    <channel update="i" site="tvprogram.online" site_id="canal-domo" xmltv_id="Canal+ Domo">Canal+ Domo</channel>
+    <channel update="i" site="tvprogram.online" site_id="canal-sport-2" xmltv_id="Canal+ Sport 2">Canal+ Sport 2</channel>
+    <channel update="i" site="tvprogram.online" site_id="canal-sport-3" xmltv_id="Canal+ Sport 3">Canal+ Sport 3</channel>
+    <channel update="i" site="tvprogram.online" site_id="canal-sport-4" xmltv_id="Canal+ Sport 4">Canal+ Sport 4</channel>
+    <channel update="i" site="tvprogram.online" site_id="canal-sport-5" xmltv_id="Canal+ Sport 5">Canal+ Sport 5</channel>
+    <channel update="i" site="tvprogram.online" site_id="canal-sport-6" xmltv_id="Canal+ Sport 6">Canal+ Sport 6</channel>
+    <channel update="i" site="tvprogram.online" site_id="canal-sport-7" xmltv_id="Canal+ Sport 7">Canal+ Sport 7</channel>
+    <channel update="i" site="tvprogram.online" site_id="canal-sport-cz" xmltv_id="Canal+ Sport CZ">Canal+ Sport CZ</channel>
+    <channel update="i" site="tvprogram.online" site_id="cartoon-network" xmltv_id="Cartoon Network">Cartoon Network</channel>
+    <channel update="i" site="tvprogram.online" site_id="cbs-reality" xmltv_id="CBS Reality">CBS Reality</channel>
+    <channel update="i" site="tvprogram.online" site_id="cinemax-" xmltv_id="Cinemax ">Cinemax </channel>
+    <channel update="i" site="tvprogram.online" site_id="cinemax-2" xmltv_id="Cinemax 2">Cinemax 2</channel>
+    <channel update="i" site="tvprogram.online" site_id="club-mtv" xmltv_id="Club MTV">Club MTV</channel>
+    <channel update="i" site="tvprogram.online" site_id="cnn-prima-news" xmltv_id="CNN Prima News">CNN Prima News</channel>
+    <channel update="i" site="tvprogram.online" site_id="crime-investigation" xmltv_id="Crime + Investigation">Crime + Investigation</channel>
+    <channel update="i" site="tvprogram.online" site_id="cs-film" xmltv_id="CS FILM">CS FILM</channel>
+    <channel update="i" site="tvprogram.online" site_id="cs-history" xmltv_id="CS HISTORY">CS HISTORY</channel>
+    <channel update="i" site="tvprogram.online" site_id="cs-horror" xmltv_id="CS HORROR">CS HORROR</channel>
+    <channel update="i" site="tvprogram.online" site_id="cs-mystery" xmltv_id="CS MYSTERY">CS MYSTERY</channel>
+    <channel update="i" site="tvprogram.online" site_id="ct-d" xmltv_id="ČT :D">ČT :D</channel>
+    <channel update="i" site="tvprogram.online" site_id="ct-1" xmltv_id="ČT 1">ČT 1</channel>
+    <channel update="i" site="tvprogram.online" site_id="ct-2" xmltv_id="ČT 2">ČT 2</channel>
+    <channel update="i" site="tvprogram.online" site_id="ct-art" xmltv_id="ČT art">ČT art</channel>
+    <channel update="i" site="tvprogram.online" site_id="ct-sport" xmltv_id="ČT Sport">ČT Sport</channel>
+    <channel update="i" site="tvprogram.online" site_id="ct-sport-plus" xmltv_id="ČT Sport Plus">ČT Sport Plus</channel>
+    <channel update="i" site="tvprogram.online" site_id="ct24" xmltv_id="ČT24">ČT24</channel>
+    <channel update="i" site="tvprogram.online" site_id="dajto" xmltv_id="Dajto">Dajto</channel>
+    <channel update="i" site="tvprogram.online" site_id="discovery-channel" xmltv_id="Discovery Channel">Discovery Channel</channel>
+    <channel update="i" site="tvprogram.online" site_id="discovery-id" xmltv_id="Discovery ID">Discovery ID</channel>
+    <channel update="i" site="tvprogram.online" site_id="discovery-science" xmltv_id="Discovery Science">Discovery Science</channel>
+    <channel update="i" site="tvprogram.online" site_id="disney-channel" xmltv_id="Disney Channel">Disney Channel</channel>
+    <channel update="i" site="tvprogram.online" site_id="doma" xmltv_id="Doma">Doma</channel>
+    <channel update="i" site="tvprogram.online" site_id="dtx" xmltv_id="DTX">DTX</channel>
+    <channel update="i" site="tvprogram.online" site_id="duna-tv" xmltv_id="Duna TV">Duna TV</channel>
+    <channel update="i" site="tvprogram.online" site_id="duna-world" xmltv_id="Duna World">Duna World</channel>
+    <channel update="i" site="tvprogram.online" site_id="dvojka" xmltv_id="Dvojka">Dvojka</channel>
+    <channel update="i" site="tvprogram.online" site_id="epic-drama-cz" xmltv_id="Epic Drama CZ">Epic Drama CZ</channel>
+    <channel update="i" site="tvprogram.online" site_id="eurosport-1" xmltv_id="Eurosport 1">Eurosport 1</channel>
+    <channel update="i" site="tvprogram.online" site_id="eurosport-2" xmltv_id="Eurosport 2">Eurosport 2</channel>
+    <channel update="i" site="tvprogram.online" site_id="eurosport-4k" xmltv_id="Eurosport 4K">Eurosport 4K</channel>
+    <channel update="i" site="tvprogram.online" site_id="film-europe" xmltv_id="Film Europe">Film Europe</channel>
+    <channel update="i" site="tvprogram.online" site_id="film-europe-" xmltv_id="Film Europe+">Film Europe+</channel>
+    <channel update="i" site="tvprogram.online" site_id="film-" xmltv_id="Film+">Film+</channel>
+    <channel update="i" site="tvprogram.online" site_id="filmbox" xmltv_id="FilmBox">FilmBox</channel>
+    <channel update="i" site="tvprogram.online" site_id="filmbox-extra-hd" xmltv_id="FilmBox Extra HD">FilmBox Extra HD</channel>
+    <channel update="i" site="tvprogram.online" site_id="filmbox-family" xmltv_id="FilmBox Family">FilmBox Family</channel>
+    <channel update="i" site="tvprogram.online" site_id="filmbox-premium" xmltv_id="FilmBox Premium">FilmBox Premium</channel>
+    <channel update="i" site="tvprogram.online" site_id="filmbox-stars" xmltv_id="FilmBox Stars">FilmBox Stars</channel>
+    <channel update="i" site="tvprogram.online" site_id="fnh-skylink-" xmltv_id="FNH (Skylink)">FNH (Skylink)</channel>
+    <channel update="i" site="tvprogram.online" site_id="fnh-upc-" xmltv_id="FNH (UPC)">FNH (UPC)</channel>
+    <channel update="i" site="tvprogram.online" site_id="food-network" xmltv_id="Food Network">Food Network</channel>
+    <channel update="i" site="tvprogram.online" site_id="golf-channel" xmltv_id="Golf Channel">Golf Channel</channel>
+    <channel update="i" site="tvprogram.online" site_id="hbo" xmltv_id="HBO">HBO</channel>
+    <channel update="i" site="tvprogram.online" site_id="hbo-2" xmltv_id="HBO 2">HBO 2</channel>
+    <channel update="i" site="tvprogram.online" site_id="hbo-3" xmltv_id="HBO 3">HBO 3</channel>
+    <channel update="i" site="tvprogram.online" site_id="hgtv" xmltv_id="HGTV">HGTV</channel>
+    <channel update="i" site="tvprogram.online" site_id="history" xmltv_id="History">History</channel>
+    <channel update="i" site="tvprogram.online" site_id="hobby-tv" xmltv_id="Hobby TV">Hobby TV</channel>
+    <channel update="i" site="tvprogram.online" site_id="jednotka" xmltv_id="Jednotka">Jednotka</channel>
+    <channel update="i" site="tvprogram.online" site_id="jimjam" xmltv_id="JimJam">JimJam</channel>
+    <channel update="i" site="tvprogram.online" site_id="joj-24" xmltv_id="JOJ 24">JOJ 24</channel>
+    <channel update="i" site="tvprogram.online" site_id="joj-cinema" xmltv_id="JOJ Cinema">JOJ Cinema</channel>
+    <channel update="i" site="tvprogram.online" site_id="joj-cinema-1" xmltv_id="JOJ Cinema +1">JOJ Cinema +1</channel>
+    <channel update="i" site="tvprogram.online" site_id="joj-cinema-cz" xmltv_id="JOJ Cinema CZ">JOJ Cinema CZ</channel>
+    <channel update="i" site="tvprogram.online" site_id="joj-cinema-cz-1" xmltv_id="JOJ Cinema CZ +1">JOJ Cinema CZ +1</channel>
+    <channel update="i" site="tvprogram.online" site_id="jojko" xmltv_id="Jojko">Jojko</channel>
+    <channel update="i" site="tvprogram.online" site_id="kino-barrandov" xmltv_id="Kino Barrandov">Kino Barrandov</channel>
+    <channel update="i" site="tvprogram.online" site_id="lala-tv" xmltv_id="LALA TV">LALA TV</channel>
+    <channel update="i" site="tvprogram.online" site_id="love-nature" xmltv_id="Love Nature">Love Nature</channel>
+    <channel update="i" site="tvprogram.online" site_id="m1" xmltv_id="m1">m1</channel>
+    <channel update="i" site="tvprogram.online" site_id="m2" xmltv_id="m2">m2</channel>
+    <channel update="i" site="tvprogram.online" site_id="m4-sport" xmltv_id="m4 Sport">m4 Sport</channel>
+    <channel update="i" site="tvprogram.online" site_id="m4-sport-" xmltv_id="m4 Sport+">m4 Sport+</channel>
+    <channel update="i" site="tvprogram.online" site_id="m5" xmltv_id="m5">m5</channel>
+    <channel update="i" site="tvprogram.online" site_id="markiza" xmltv_id="Markíza">Markíza</channel>
+    <channel update="i" site="tvprogram.online" site_id="markiza-1" xmltv_id="Markíza +1">Markíza +1</channel>
+    <channel update="i" site="tvprogram.online" site_id="markiza-international" xmltv_id="Markíza International">Markíza International</channel>
+    <channel update="i" site="tvprogram.online" site_id="markiza-krimi" xmltv_id="Markíza Krimi">Markíza Krimi</channel>
+    <channel update="i" site="tvprogram.online" site_id="minimax" xmltv_id="Minimax">Minimax</channel>
+    <channel update="i" site="tvprogram.online" site_id="mnam-tv" xmltv_id="Mňam TV">Mňam TV</channel>
+    <channel update="i" site="tvprogram.online" site_id="mnau-tv" xmltv_id="Mňau TV">Mňau TV</channel>
+    <channel update="i" site="tvprogram.online" site_id="mtv-hits" xmltv_id="MTV Hits">MTV Hits</channel>
+    <channel update="i" site="tvprogram.online" site_id="mtv-live" xmltv_id="MTV Live">MTV Live</channel>
+    <channel update="i" site="tvprogram.online" site_id="mtv80s" xmltv_id="MTV80s">MTV80s</channel>
+    <channel update="i" site="tvprogram.online" site_id="mtv90s" xmltv_id="MTV90s">MTV90s</channel>
+    <channel update="i" site="tvprogram.online" site_id="ng-sd-hd" xmltv_id="NG SD/HD">NG SD/HD</channel>
+    <channel update="i" site="tvprogram.online" site_id="ng-wild" xmltv_id="NG Wild">NG Wild</channel>
+    <channel update="i" site="tvprogram.online" site_id="nick-jr-" xmltv_id="Nick Jr.">Nick Jr.</channel>
+    <channel update="i" site="tvprogram.online" site_id="nickelodeon" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel update="i" site="tvprogram.online" site_id="nicktoons" xmltv_id="NickToons">NickToons</channel>
+    <channel update="i" site="tvprogram.online" site_id="nova" xmltv_id="Nova">Nova</channel>
+    <channel update="i" site="tvprogram.online" site_id="nova-1" xmltv_id="Nova +1">Nova +1</channel>
+    <channel update="i" site="tvprogram.online" site_id="nova-action" xmltv_id="Nova Action">Nova Action</channel>
+    <channel update="i" site="tvprogram.online" site_id="nova-cinema" xmltv_id="Nova Cinema">Nova Cinema</channel>
+    <channel update="i" site="tvprogram.online" site_id="nova-fun" xmltv_id="Nova Fun">Nova Fun</channel>
+    <channel update="i" site="tvprogram.online" site_id="nova-gold" xmltv_id="Nova Gold">Nova Gold</channel>
+    <channel update="i" site="tvprogram.online" site_id="nova-international" xmltv_id="Nova International">Nova International</channel>
+    <channel update="i" site="tvprogram.online" site_id="nova-lady" xmltv_id="Nova Lady">Nova Lady</channel>
+    <channel update="i" site="tvprogram.online" site_id="nova-sport-1" xmltv_id="Nova Sport 1">Nova Sport 1</channel>
+    <channel update="i" site="tvprogram.online" site_id="nova-sport-2" xmltv_id="Nova Sport 2">Nova Sport 2</channel>
+    <channel update="i" site="tvprogram.online" site_id="nova-sport-3" xmltv_id="Nova Sport 3">Nova Sport 3</channel>
+    <channel update="i" site="tvprogram.online" site_id="nova-sport-4" xmltv_id="Nova Sport 4">Nova Sport 4</channel>
+    <channel update="i" site="tvprogram.online" site_id="o2tv-fotbal" xmltv_id="O2TV Fotbal">O2TV Fotbal</channel>
+    <channel update="i" site="tvprogram.online" site_id="o2tv-sport" xmltv_id="O2TV Sport">O2TV Sport</channel>
+    <channel update="i" site="tvprogram.online" site_id="o2tv-sport1" xmltv_id="O2TV Sport1">O2TV Sport1</channel>
+    <channel update="i" site="tvprogram.online" site_id="o2tv-sport2" xmltv_id="O2TV Sport2">O2TV Sport2</channel>
+    <channel update="i" site="tvprogram.online" site_id="o2tv-sport3" xmltv_id="O2TV Sport3">O2TV Sport3</channel>
+    <channel update="i" site="tvprogram.online" site_id="o2tv-sport4" xmltv_id="O2TV Sport4">O2TV Sport4</channel>
+    <channel update="i" site="tvprogram.online" site_id="o2tv-sport5" xmltv_id="O2TV Sport5">O2TV Sport5</channel>
+    <channel update="i" site="tvprogram.online" site_id="o2tv-sport6" xmltv_id="O2TV Sport6">O2TV Sport6</channel>
+    <channel update="i" site="tvprogram.online" site_id="o2tv-tenis" xmltv_id="O2TV Tenis">O2TV Tenis</channel>
+    <channel update="i" site="tvprogram.online" site_id="orf-1" xmltv_id="ORF 1">ORF 1</channel>
+    <channel update="i" site="tvprogram.online" site_id="orf-2" xmltv_id="ORF 2">ORF 2</channel>
+    <channel update="i" site="tvprogram.online" site_id="orf-iii" xmltv_id="ORF III">ORF III</channel>
+    <channel update="i" site="tvprogram.online" site_id="orf-sport-" xmltv_id="ORF Sport+">ORF Sport+</channel>
+    <channel update="i" site="tvprogram.online" site_id="paramount-network" xmltv_id="Paramount Network">Paramount Network</channel>
+    <channel update="i" site="tvprogram.online" site_id="park-tv" xmltv_id="Park TV">Park TV</channel>
+    <channel update="i" site="tvprogram.online" site_id="plus" xmltv_id="Plus">Plus</channel>
+    <channel update="i" site="tvprogram.online" site_id="polsat" xmltv_id="Polsat">Polsat</channel>
+    <channel update="i" site="tvprogram.online" site_id="premier-sport" xmltv_id="Premier Sport">Premier Sport</channel>
+    <channel update="i" site="tvprogram.online" site_id="premier-sport-2-cz" xmltv_id="Premier Sport 2 CZ">Premier Sport 2 CZ</channel>
+    <channel update="i" site="tvprogram.online" site_id="premier-sport-2-sk" xmltv_id="Premier Sport 2 SK">Premier Sport 2 SK</channel>
+    <channel update="i" site="tvprogram.online" site_id="prima" xmltv_id="Prima">Prima</channel>
+    <channel update="i" site="tvprogram.online" site_id="prima-1" xmltv_id="Prima +1">Prima +1</channel>
+    <channel update="i" site="tvprogram.online" site_id="prima-cool" xmltv_id="Prima COOL">Prima COOL</channel>
+    <channel update="i" site="tvprogram.online" site_id="prima-krimi" xmltv_id="Prima KRIMI">Prima KRIMI</channel>
+    <channel update="i" site="tvprogram.online" site_id="prima-love" xmltv_id="Prima LOVE">Prima LOVE</channel>
+    <channel update="i" site="tvprogram.online" site_id="prima-max" xmltv_id="Prima MAX">Prima MAX</channel>
+    <channel update="i" site="tvprogram.online" site_id="prima-plus" xmltv_id="Prima PLUS">Prima PLUS</channel>
+    <channel update="i" site="tvprogram.online" site_id="prima-show" xmltv_id="Prima Show">Prima Show</channel>
+    <channel update="i" site="tvprogram.online" site_id="prima-star" xmltv_id="Prima Star">Prima Star</channel>
+    <channel update="i" site="tvprogram.online" site_id="prima-zoom" xmltv_id="Prima ZOOM">Prima ZOOM</channel>
+    <channel update="i" site="tvprogram.online" site_id="rik" xmltv_id="RiK">RiK</channel>
+    <channel update="i" site="tvprogram.online" site_id="rtvs-24" xmltv_id="RTVS 24">RTVS 24</channel>
+    <channel update="i" site="tvprogram.online" site_id="rtvs-sport" xmltv_id="RTVS Šport">RTVS Šport</channel>
+    <channel update="i" site="tvprogram.online" site_id="senzi" xmltv_id="SENZI">SENZI</channel>
+    <channel update="i" site="tvprogram.online" site_id="seznam-cz-tv" xmltv_id="Seznam.cz TV">Seznam.cz TV</channel>
+    <channel update="i" site="tvprogram.online" site_id="skvele-tv" xmltv_id="Skvele TV">Skvele TV</channel>
+    <channel update="i" site="tvprogram.online" site_id="skylink-7" xmltv_id="Skylink 7">Skylink 7</channel>
+    <channel update="i" site="tvprogram.online" site_id="spark-tv" xmltv_id="Spark TV">Spark TV</channel>
+    <channel update="i" site="tvprogram.online" site_id="spektrum" xmltv_id="Spektrum">Spektrum</channel>
+    <channel update="i" site="tvprogram.online" site_id="spektrum-home" xmltv_id="Spektrum Home">Spektrum Home</channel>
+    <channel update="i" site="tvprogram.online" site_id="sport-1" xmltv_id="Sport 1">Sport 1</channel>
+    <channel update="i" site="tvprogram.online" site_id="sport-1-hu" xmltv_id="Sport 1 HU">Sport 1 HU</channel>
+    <channel update="i" site="tvprogram.online" site_id="sport-2" xmltv_id="Sport 2">Sport 2</channel>
+    <channel update="i" site="tvprogram.online" site_id="sport-2-hu" xmltv_id="Sport 2 HU">Sport 2 HU</channel>
+    <channel update="i" site="tvprogram.online" site_id="sport-5" xmltv_id="Sport 5">Sport 5</channel>
+    <channel update="i" site="tvprogram.online" site_id="striketv" xmltv_id="StrikeTV">StrikeTV</channel>
+    <channel update="i" site="tvprogram.online" site_id="slagr-muzika" xmltv_id="Šlágr Muzika">Šlágr Muzika</channel>
+    <channel update="i" site="tvprogram.online" site_id="slagr-original" xmltv_id="Šlágr Original">Šlágr Original</channel>
+    <channel update="i" site="tvprogram.online" site_id="slagr-premium" xmltv_id="Šlágr Premium">Šlágr Premium</channel>
+    <channel update="i" site="tvprogram.online" site_id="ta3" xmltv_id="TA3">TA3</channel>
+    <channel update="i" site="tvprogram.online" site_id="tlc" xmltv_id="TLC">TLC</channel>
+    <channel update="i" site="tvprogram.online" site_id="travel-channel" xmltv_id="Travel Channel">Travel Channel</channel>
+    <channel update="i" site="tvprogram.online" site_id="travelxp" xmltv_id="Travelxp">Travelxp</channel>
+    <channel update="i" site="tvprogram.online" site_id="travelxp-4k" xmltv_id="Travelxp 4K">Travelxp 4K</channel>
+    <channel update="i" site="tvprogram.online" site_id="tv-1000-global-kino" xmltv_id="TV 1000 Global Kino">TV 1000 Global Kino</channel>
+    <channel update="i" site="tvprogram.online" site_id="tv-barrandov" xmltv_id="TV Barrandov">TV Barrandov</channel>
+    <channel update="i" site="tvprogram.online" site_id="tv-folklorika" xmltv_id="TV Folklorika">TV Folklorika</channel>
+    <channel update="i" site="tvprogram.online" site_id="tv-joj" xmltv_id="TV JOJ">TV JOJ</channel>
+    <channel update="i" site="tvprogram.online" site_id="tv-joj-1" xmltv_id="TV JOJ +1">TV JOJ +1</channel>
+    <channel update="i" site="tvprogram.online" site_id="tv-lux" xmltv_id="TV LUX">TV LUX</channel>
+    <channel update="i" site="tvprogram.online" site_id="tv-noe" xmltv_id="TV Noe">TV Noe</channel>
+    <channel update="i" site="tvprogram.online" site_id="tv-noe-" xmltv_id="TV Noe+">TV Noe+</channel>
+    <channel update="i" site="tvprogram.online" site_id="tv-paprika" xmltv_id="TV Paprika">TV Paprika</channel>
+    <channel update="i" site="tvprogram.online" site_id="tvn" xmltv_id="TVN">TVN</channel>
+    <channel update="i" site="tvprogram.online" site_id="tvn-7" xmltv_id="TVN 7">TVN 7</channel>
+    <channel update="i" site="tvprogram.online" site_id="tvp-1" xmltv_id="TVP 1">TVP 1</channel>
+    <channel update="i" site="tvprogram.online" site_id="tvp-2" xmltv_id="TVP 2">TVP 2</channel>
+    <channel update="i" site="tvprogram.online" site_id="tvp-3" xmltv_id="TVP 3">TVP 3</channel>
+    <channel update="i" site="tvprogram.online" site_id="tvp-dokument" xmltv_id="TVP Dokument">TVP Dokument</channel>
+    <channel update="i" site="tvprogram.online" site_id="tvp-info" xmltv_id="TVP Info">TVP Info</channel>
+    <channel update="i" site="tvprogram.online" site_id="tvp-sport" xmltv_id="TVP Sport">TVP Sport</channel>
+    <channel update="i" site="tvprogram.online" site_id="tuki-tv" xmltv_id="Ťuki TV">Ťuki TV</channel>
+    <channel update="i" site="tvprogram.online" site_id="vh1" xmltv_id="VH1">VH1</channel>
+    <channel update="i" site="tvprogram.online" site_id="viasat-explore" xmltv_id="Viasat Explore">Viasat Explore</channel>
+    <channel update="i" site="tvprogram.online" site_id="viasat-history" xmltv_id="Viasat History">Viasat History</channel>
+    <channel update="i" site="tvprogram.online" site_id="viasat-nature" xmltv_id="Viasat Nature">Viasat Nature</channel>
+    <channel update="i" site="tvprogram.online" site_id="voyo-cz" xmltv_id="Voyo CZ">Voyo CZ</channel>
+    <channel update="i" site="tvprogram.online" site_id="voyo-sk" xmltv_id="Voyo SK">Voyo SK</channel>
+    <channel update="i" site="tvprogram.online" site_id="wau" xmltv_id="WAU">WAU</channel>
+    <channel update="i" site="tvprogram.online" site_id="zdf" xmltv_id="ZDF">ZDF</channel>
+    <channel update="i" site="tvprogram.online" site_id="zdfinfo" xmltv_id="ZDFinfo">ZDFinfo</channel>
+    <channel update="i" site="tvprogram.online" site_id="zdfneo" xmltv_id="ZDFneo">ZDFneo</channel>
+  </channels>
+</site>
