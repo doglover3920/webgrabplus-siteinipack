@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.4 -- Jan van Straaten" site="tvheute.at">
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.9 -- Jan van Straaten" site="tvheute.at">
   <channels>
     <channel update="i" site="tvheute.at" site_id="orf1-programm" xmltv_id="ORF1">ORF1</channel>
     <channel update="i" site="tvheute.at" site_id="orf2-programm" xmltv_id="ORF2">ORF2</channel>
@@ -8,6 +8,7 @@
     <channel update="i" site="tvheute.at" site_id="atv-programm" xmltv_id="ATV">ATV</channel>
     <channel update="i" site="tvheute.at" site_id="puls_4-programm" xmltv_id="PULS 4">PULS 4</channel>
     <channel update="i" site="tvheute.at" site_id="atv2-programm" xmltv_id="ATV2">ATV2</channel>
+    <channel update="i" site="tvheute.at" site_id="canal%2b-programm" xmltv_id="CANAL+">CANAL+</channel>
     <channel update="i" site="tvheute.at" site_id="ard-programm" xmltv_id="ARD">ARD</channel>
     <channel update="i" site="tvheute.at" site_id="zdf-programm" xmltv_id="ZDF">ZDF</channel>
     <channel update="i" site="tvheute.at" site_id="3sat-programm" xmltv_id="3SAT">3SAT</channel>
@@ -20,7 +21,7 @@
     <channel update="i" site="tvheute.at" site_id="rtl2-programm" xmltv_id="RTL2">RTL2</channel>
     <channel update="i" site="tvheute.at" site_id="sixx-programm" xmltv_id="sixx">sixx</channel>
     <channel update="i" site="tvheute.at" site_id="sat1gold-programm" xmltv_id="Sat1Gold">Sat1Gold</channel>
-    <channel update="i" site="tvheute.at" site_id="rtlnitro-programm" xmltv_id="RTLNitro">RTLNitro</channel>
+    <channel update="i" site="tvheute.at" site_id="nitro-programm" xmltv_id="NITRO">NITRO</channel>
     <channel update="i" site="tvheute.at" site_id="rtlcrime-programm" xmltv_id="RTLCrime">RTLCrime</channel>
     <channel update="i" site="tvheute.at" site_id="rtlliving-programm" xmltv_id="RTLLiving">RTLLiving</channel>
     <channel update="i" site="tvheute.at" site_id="7maxx-programm" xmltv_id="7MAXX">7MAXX</channel>
