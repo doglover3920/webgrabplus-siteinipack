@@ -1,81 +1,72 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.9 -- Jan van Straaten" site="proximus.be">
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.4 -- Jan van Straaten" site="proximus.be">
   <channels>
-    <channel update="i" site="proximus.nl.be" site_id="DTV29670499" xmltv_id="Maghreb TV">Maghreb TV</channel>
-    <channel update="i" site="proximus.nl.be" site_id="NETFLIX" xmltv_id="Netflix">Netflix</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID0022" xmltv_id="NGC Wild F">NGC Wild F</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID0023" xmltv_id="NGC Wild N">NGC Wild N</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID0024" xmltv_id="Das Erste">Das Erste</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID0025" xmltv_id="TIPIK vision">TIPIK vision</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID0030" xmltv_id="ZDF">ZDF</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID0037" xmltv_id="Dobbit TV N">Dobbit TV N</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50208" xmltv_id="VRT 1 HD">VRT 1 HD</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50306" xmltv_id="VRT Canvas HD">VRT Canvas HD</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50297" xmltv_id="VTM HD">VTM HD</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID2120" xmltv_id="Play4 HD">Play4 HD</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID2121" xmltv_id="Play5 HD">Play5 HD</channel>
     <channel update="i" site="proximus.nl.be" site_id="UID0039" xmltv_id="VTM 2 HD">VTM 2 HD</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID0041" xmltv_id="Pickx+ F">Pickx+ F</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID0042" xmltv_id="Pickx+ N">Pickx+ N</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID0043" xmltv_id="Dobbit TV F">Dobbit TV F</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID0047" xmltv_id="TIPIK HD">TIPIK HD</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID0062" xmltv_id="Plattelands">Plattelands</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID0080" xmltv_id="DisnJr N">DisnJr N</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID0081" xmltv_id="Pickx+ F HD">Pickx+ F HD</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID0082" xmltv_id="Pickx+ N HD">Pickx+ N HD</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID0084" xmltv_id="AB3 HD">AB3 HD</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID0090" xmltv_id="Discovery F">Discovery F</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID0091" xmltv_id="Disc HD F">Disc HD F</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID0092" xmltv_id="MezzoLive">MezzoLive</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID0096" xmltv_id="DRS Test">DRS Test</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID0102" xmltv_id="RTL tvi HD">RTL tvi HD</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID0106" xmltv_id="RTL plug HD">RTL plug HD</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID0117" xmltv_id="Télé Sambre">Télé Sambre</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID0118" xmltv_id="Vedia">Vedia</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID0119" xmltv_id="TV Com">TV Com</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID0120" xmltv_id="TV Lux">TV Lux</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID0121" xmltv_id="MaTélé">MaTélé</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID0131" xmltv_id="Disney+">Disney+</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID0132" xmltv_id="BBC First">BBC First</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID0133" xmltv_id="Mediaset">Mediaset</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID0135" xmltv_id="nick N HD">nick N HD</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID0142" xmltv_id="FOX">FOX</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID0145" xmltv_id="Test 86">Test 86</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID0146" xmltv_id="Play6">Play6</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID0147" xmltv_id="Play6 HD">Play6 HD</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID0149" xmltv_id="France 24 HD">France 24 HD</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID0154" xmltv_id="Euronews F">Euronews F</channel>
     <channel update="i" site="proximus.nl.be" site_id="UID0155" xmltv_id="VTM 3 HD">VTM 3 HD</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID0189" xmltv_id="Crime District">Crime District</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID0194" xmltv_id="bel RTL HD">bel RTL HD</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID0211" xmltv_id="Eclips">Eclips</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID0231" xmltv_id="ABXPLO HD">ABXPLO HD</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID0232" xmltv_id="Njam! HD">Njam! HD</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID0234" xmltv_id="Njam">Njam</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID0239" xmltv_id="arte HD">arte HD</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID0246" xmltv_id="Animal Pl HD">Animal Pl HD</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID2073" xmltv_id="VTM 4 HD">VTM 4 HD</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID2033" xmltv_id="ST100TV HD N">ST100TV HD N</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50309" xmltv_id="RegInfo N">RegInfo N</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50112" xmltv_id="PickxLive N">PickxLive N</channel>
     <channel update="i" site="proximus.nl.be" site_id="UID0248" xmltv_id="Ketnet HD">Ketnet HD</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID0082" xmltv_id="Pickx+ N HD">Pickx+ N HD</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID2217" xmltv_id="Pickx+ Sports 1 N HD">Pickx+ Sports 1 N HD</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID0147" xmltv_id="Play6 HD">Play6 HD</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID2293" xmltv_id="Play7 HD">Play7 HD</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID2049" xmltv_id="Kanaal Z HD">Kanaal Z HD</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID0313" xmltv_id="VTM Gold">VTM Gold</channel>
     <channel update="i" site="proximus.nl.be" site_id="UID0256" xmltv_id="NPO 1 HD">NPO 1 HD</channel>
     <channel update="i" site="proximus.nl.be" site_id="UID0257" xmltv_id="NPO 2 HD">NPO 2 HD</channel>
     <channel update="i" site="proximus.nl.be" site_id="UID0258" xmltv_id="NPO 3 HD">NPO 3 HD</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID0300" xmltv_id="Be1">Be1</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID0301" xmltv_id="Be Ciné">Be Ciné</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID0302" xmltv_id="Be Séries">Be Séries</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID0303" xmltv_id="Ciné+Premier">Ciné+Premier</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID0304" xmltv_id="Ciné+Frisson">Ciné+Frisson</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID0305" xmltv_id="Ciné+Classic">Ciné+Classic</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID0307" xmltv_id="OUT tv">OUT tv</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50323" xmltv_id="La Une HD">La Une HD</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID0047" xmltv_id="TIPIK HD">TIPIK HD</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID0102" xmltv_id="RTL tvi HD">RTL tvi HD</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50209" xmltv_id="RTL club HD">RTL club HD</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID0106" xmltv_id="RTL plug HD">RTL plug HD</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50190" xmltv_id="TF1 HD">TF1 HD</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50211" xmltv_id="France 2 HD">France 2 HD</channel>
     <channel update="i" site="proximus.nl.be" site_id="UID0308" xmltv_id="France 3 HD">France 3 HD</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50334" xmltv_id="La Trois HD">La Trois HD</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50303" xmltv_id="RegInfo F">RegInfo F</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50113" xmltv_id="PickxLive F">PickxLive F</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID2065" xmltv_id="TV5 Monde HD">TV5 Monde HD</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID0081" xmltv_id="Pickx+ F HD">Pickx+ F HD</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID2216" xmltv_id="Pickx+ Sports 1 F HD">Pickx+ Sports 1 F HD</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID2050" xmltv_id="Canal Z HD">Canal Z HD</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID0311" xmltv_id="LN24">LN24</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID0084" xmltv_id="AB3 HD">AB3 HD</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID0231" xmltv_id="ABXPLO HD">ABXPLO HD</channel>
     <channel update="i" site="proximus.nl.be" site_id="UID0309" xmltv_id="France 4 HD">France 4 HD</channel>
     <channel update="i" site="proximus.nl.be" site_id="UID0310" xmltv_id="France 5 HD">France 5 HD</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID0311" xmltv_id="LN24">LN24</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID0312" xmltv_id="C8">C8</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID0313" xmltv_id="VTM Gold">VTM Gold</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID0461" xmltv_id="Penthouse Gold">Penthouse Gold</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID0601" xmltv_id="Pickx+ Sports 1 N">Pickx+ Sports 1 N</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID0602" xmltv_id="Pickx+ Sports 2 N">Pickx+ Sports 2 N</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID0603" xmltv_id="Pickx+ Sports 3 N">Pickx+ Sports 3 N</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID0604" xmltv_id="Pickx+ Sports 4 N">Pickx+ Sports 4 N</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID0605" xmltv_id="Pickx+ Sports 5 N">Pickx+ Sports 5 N</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID0606" xmltv_id="Pickx+ Sports 6 N">Pickx+ Sports 6 N</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID0625" xmltv_id="Pickx+ Sports 8 N HD">Pickx+ Sports 8 N HD</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID0626" xmltv_id="Pickx+ Sports 9 N HD">Pickx+ Sports 9 N HD</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID0628" xmltv_id="Dusk">Dusk</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID0239" xmltv_id="arte HD">arte HD</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID2219" xmltv_id="Pickx+ N HD">Pickx+ N HD</channel>
+    <channel update="i" site="proximus.nl.be" site_id="NETFLIX" xmltv_id="Netflix">Netflix</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID0131" xmltv_id="Disney+">Disney+</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50144" xmltv_id="Comedy Central N">Comedy Central N</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID2047" xmltv_id="VTM NON-STOP DOKTERS HD">VTM NON-STOP DOKTERS HD</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID0142" xmltv_id="FOX">FOX</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50199" xmltv_id="Disc HD N">Disc HD N</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID2061" xmltv_id="NGC HD N">NGC HD N</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID0246" xmltv_id="Animal Pl HD">Animal Pl HD</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50223" xmltv_id="Inv Disc">Inv Disc</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50154" xmltv_id="History">History</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID0023" xmltv_id="NGC Wild N">NGC Wild N</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50029" xmltv_id="Disc Science">Disc Science</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID2350" xmltv_id="INPLUS">INPLUS</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID2173" xmltv_id="TLC">TLC</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID0232" xmltv_id="Njam! HD">Njam! HD</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID0037" xmltv_id="Dobbit TV N">Dobbit TV N</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID0211" xmltv_id="Eclips">Eclips</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID2041" xmltv_id="E! HD N">E! HD N</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50031" xmltv_id="FashionTV">FashionTV</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50143" xmltv_id="MTV N">MTV N</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID0307" xmltv_id="OUT tv">OUT tv</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID0062" xmltv_id="Plattelands">Plattelands</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID2319" xmltv_id="Pickx+ N HD">Pickx+ N HD</channel>
     <channel update="i" site="proximus.nl.be" site_id="UID0629" xmltv_id="PickxLive N HD">PickxLive N HD</channel>
     <channel update="i" site="proximus.nl.be" site_id="UID0630" xmltv_id="Pickx+ Sports 1 N HD">Pickx+ Sports 1 N HD</channel>
     <channel update="i" site="proximus.nl.be" site_id="UID0631" xmltv_id="Pickx+ Sports 2 N HD">Pickx+ Sports 2 N HD</channel>
@@ -83,26 +74,133 @@
     <channel update="i" site="proximus.nl.be" site_id="UID0633" xmltv_id="Pickx+ Sports 4 N HD">Pickx+ Sports 4 N HD</channel>
     <channel update="i" site="proximus.nl.be" site_id="UID0634" xmltv_id="Pickx+ Sports 5 N HD">Pickx+ Sports 5 N HD</channel>
     <channel update="i" site="proximus.nl.be" site_id="UID0635" xmltv_id="Pickx+ Sports 6 N HD">Pickx+ Sports 6 N HD</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID0639" xmltv_id="Studio PXS F">Studio PXS F</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID0640" xmltv_id="ES1 F">ES1 F</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID0641" xmltv_id="ES1 N">ES1 N</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID0642" xmltv_id="ES2 F">ES2 F</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID0643" xmltv_id="ES2 N">ES2 N</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID0644" xmltv_id="ES1 F HD">ES1 F HD</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50290" xmltv_id="Pickx+ Sports 7 N HD">Pickx+ Sports 7 N HD</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID0625" xmltv_id="Pickx+ Sports 8 N HD">Pickx+ Sports 8 N HD</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID0626" xmltv_id="Pickx+ Sports 9 N HD">Pickx+ Sports 9 N HD</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID0694" xmltv_id="Pickx+ Sports 10 N HD">Pickx+ Sports 10 N HD</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID2180" xmltv_id="Eleven Pro League 1 (NL) [HD">Eleven Pro League 1 (NL) [HD</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID2184" xmltv_id="Eleven Pro League 2 (NL) [HD">Eleven Pro League 2 (NL) [HD</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID2188" xmltv_id="Eleven Pro League 3 (NL) [HD">Eleven Pro League 3 (NL) [HD</channel>
     <channel update="i" site="proximus.nl.be" site_id="UID0645" xmltv_id="ES1 N HD">ES1 N HD</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID0646" xmltv_id="ES2 F HD">ES2 F HD</channel>
     <channel update="i" site="proximus.nl.be" site_id="UID0647" xmltv_id="ES2 N HD">ES2 N HD</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID0648" xmltv_id="ES3 F">ES3 F</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID0649" xmltv_id="ES3 N">ES3 N</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID0651" xmltv_id="Pickx+ Sports 1 F">Pickx+ Sports 1 F</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID0652" xmltv_id="Pickx+ Sports 2 F">Pickx+ Sports 2 F</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID0653" xmltv_id="Pickx+ Sports 3 F">Pickx+ Sports 3 F</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID0654" xmltv_id="Pickx+ Sports 4 F">Pickx+ Sports 4 F</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID0655" xmltv_id="Pickx+ Sports 5 F">Pickx+ Sports 5 F</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID0656" xmltv_id="Pickx+ Sports 6 F">Pickx+ Sports 6 F</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID0671" xmltv_id="Pickx+ Sports 8 F HD">Pickx+ Sports 8 F HD</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID0672" xmltv_id="Pickx+ Sports 9 F HD">Pickx+ Sports 9 F HD</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID0674" xmltv_id="Pickx+ Sports 10 F HD">Pickx+ Sports 10 F HD</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID0698" xmltv_id="ES3 N HD">ES3 N HD</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50210" xmltv_id="Eurosp HD N">Eurosp HD N</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50269" xmltv_id="Eurosp2 N">Eurosp2 N</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50201" xmltv_id="Sport 10 HD">Sport 10 HD</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID2067" xmltv_id="Motorvision+ HD">Motorvision+ HD</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50111" xmltv_id="AUTOMOTO">AUTOMOTO</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID2366" xmltv_id="W Sports">W Sports</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID2353" xmltv_id="Q-Music Kijk Live">Q-Music Kijk Live</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50319" xmltv_id="Ment TV">Ment TV</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50198" xmltv_id="Classica">Classica</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID0092" xmltv_id="MezzoLive">MezzoLive</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50168" xmltv_id="MTV 80s">MTV 80s</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50315" xmltv_id="MTV Live HD">MTV Live HD</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50331" xmltv_id="MTV Hits">MTV Hits</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50157" xmltv_id="Melody.tv">Melody.tv</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50075" xmltv_id="bx1">bx1</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50147" xmltv_id="Antenne C">Antenne C</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50145" xmltv_id="Bouké">Bouké</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50146" xmltv_id="Canal Zoom">Canal Zoom</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID0121" xmltv_id="MaTélé">MaTélé</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50136" xmltv_id="No Télé">No Télé</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID29769866" xmltv_id="RTC Liège">RTC Liège</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50140" xmltv_id="Télé MB">Télé MB</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID0117" xmltv_id="Télé Sambre">Télé Sambre</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID0119" xmltv_id="TV Com">TV Com</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID0120" xmltv_id="TV Lux">TV Lux</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID0118" xmltv_id="Vedia">Vedia</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID1102" xmltv_id="Vlaamsparlement.tv">Vlaamsparlement.tv</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50130" xmltv_id="BRUZZ">BRUZZ</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50116" xmltv_id="ATV">ATV</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50117" xmltv_id="AVS Gent">AVS Gent</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50115" xmltv_id="Focus TV">Focus TV</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50135" xmltv_id="Ring TV">Ring TV</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50121" xmltv_id="ROB TV">ROB TV</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50132" xmltv_id="RTV Kempen O">RTV Kempen O</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50133" xmltv_id="RTV Mech">RTV Mech</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50120" xmltv_id="TVLimbC">TVLimbC</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50129" xmltv_id="TV Oost">TV Oost</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50114" xmltv_id="WTV">WTV</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID2056" xmltv_id="CNN HD">CNN HD</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50085" xmltv_id="Euronews E">Euronews E</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50067" xmltv_id="LCI">LCI</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID0154" xmltv_id="Euronews F">Euronews F</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID0149" xmltv_id="France 24 HD">France 24 HD</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID0024" xmltv_id="Das Erste">Das Erste</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID0030" xmltv_id="ZDF">ZDF</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID2210" xmltv_id="RTL">RTL</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID58335" xmltv_id="BRF TV">BRF TV</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50027" xmltv_id="TVE Int">TVE Int</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50164" xmltv_id="KTO">KTO</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50048" xmltv_id="RAI Uno">RAI Uno</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50015" xmltv_id="RAI Due">RAI Due</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50020" xmltv_id="RAI Tre">RAI Tre</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID0133" xmltv_id="Mediaset">Mediaset</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID2045" xmltv_id="2M Monde">2M Monde</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50141" xmltv_id="Al Aoula">Al Aoula</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50162" xmltv_id="Al Jazeera">Al Jazeera</channel>
+    <channel update="i" site="proximus.nl.be" site_id="DTV29670499" xmltv_id="Maghreb TV">Maghreb TV</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50071" xmltv_id="BBC One">BBC One</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50295" xmltv_id="BBC Two">BBC Two</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50069" xmltv_id="BBC News">BBC News</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID0132" xmltv_id="BBC First">BBC First</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50316" xmltv_id="BBC Ent">BBC Ent</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID2034" xmltv_id="ST100TV N">ST100TV N</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50310" xmltv_id="Ketnet">Ketnet</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID0135" xmltv_id="nick N HD">nick N HD</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID2043" xmltv_id="Disn Ch HD N">Disn Ch HD N</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID0080" xmltv_id="DisnJr N">DisnJr N</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50052" xmltv_id="Baby TV N">Baby TV N</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50022" xmltv_id="Cartoon N">Cartoon N</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50153" xmltv_id="nick jr N">nick jr N</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50165" xmltv_id="nick Toons">nick Toons</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50305" xmltv_id="Cartoonito">Cartoonito</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID2160" xmltv_id="ST100 GO">ST100 GO</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID0312" xmltv_id="C8">C8</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50314" xmltv_id="nick F">nick F</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID2042" xmltv_id="Disn Ch HD F">Disn Ch HD F</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50137" xmltv_id="Disn Jr F">Disn Jr F</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50021" xmltv_id="Cartoon F">Cartoon F</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50011" xmltv_id="Baby TV F">Baby TV F</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50103" xmltv_id="Boomerang F">Boomerang F</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID2070" xmltv_id="nick jr F">nick jr F</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50095" xmltv_id="Tiji">Tiji</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50057" xmltv_id="Canal J">Canal J</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50045" xmltv_id="Mangas">Mangas</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID2060" xmltv_id="Gulli HD">Gulli HD</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID2218" xmltv_id="Pickx+ F HD">Pickx+ F HD</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID0300" xmltv_id="Be1">Be1</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID0302" xmltv_id="Be Séries">Be Séries</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID0301" xmltv_id="Be Ciné">Be Ciné</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID0303" xmltv_id="Ciné+Premier">Ciné+Premier</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID0304" xmltv_id="Ciné+Frisson">Ciné+Frisson</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID0305" xmltv_id="Ciné+Classic">Ciné+Classic</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID2055" xmltv_id="Action HD">Action HD</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID2051" xmltv_id="TV Breizh HD">TV Breizh HD</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID2054" xmltv_id="13è Rue HD">13è Rue HD</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID2053" xmltv_id="SyFy HD F">SyFy HD F</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID2052" xmltv_id="TCM Cinéma HD">TCM Cinéma HD</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID2068" xmltv_id="Comedy Central F">Comedy Central F</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID2276" xmltv_id="TMC HD">TMC HD</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID2069" xmltv_id="Paramount Channel">Paramount Channel</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID2351" xmltv_id="TF1 Séries Films">TF1 Séries Films</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID0091" xmltv_id="Disc HD F">Disc HD F</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50203" xmltv_id="NGC HD F">NGC HD F</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID2179" xmltv_id="TREK HD">TREK HD</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID2320" xmltv_id="Museum TV">Museum TV</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID0022" xmltv_id="NGC Wild F">NGC Wild F</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50102" xmltv_id="Sc et Vie TV">Sc et Vie TV</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50013" xmltv_id="Histoire">Histoire</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50197" xmltv_id="Ushuaïa HD">Ushuaïa HD</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50053" xmltv_id="Animaux">Animaux</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID0189" xmltv_id="Crime District">Crime District</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID2040" xmltv_id="E! HD F">E! HD F</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID0043" xmltv_id="Dobbit TV F">Dobbit TV F</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID2066" xmltv_id="Game One">Game One</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50142" xmltv_id="MTV F">MTV F</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID2317" xmltv_id="MyZen.tv">MyZen.tv</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID2318" xmltv_id="Pickx+ F HD">Pickx+ F HD</channel>
     <channel update="i" site="proximus.nl.be" site_id="UID0679" xmltv_id="PickxLive F HD">PickxLive F HD</channel>
     <channel update="i" site="proximus.nl.be" site_id="UID0680" xmltv_id="Pickx+ Sports 1 F HD">Pickx+ Sports 1 F HD</channel>
     <channel update="i" site="proximus.nl.be" site_id="UID0681" xmltv_id="Pickx+ Sports 2 F HD">Pickx+ Sports 2 F HD</channel>
@@ -110,324 +208,217 @@
     <channel update="i" site="proximus.nl.be" site_id="UID0683" xmltv_id="Pickx+ Sports 4 F HD">Pickx+ Sports 4 F HD</channel>
     <channel update="i" site="proximus.nl.be" site_id="UID0684" xmltv_id="Pickx+ Sports 5 F HD">Pickx+ Sports 5 F HD</channel>
     <channel update="i" site="proximus.nl.be" site_id="UID0685" xmltv_id="Pickx+ Sports 6 F HD">Pickx+ Sports 6 F HD</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID0694" xmltv_id="Pickx+ Sports 10 N HD">Pickx+ Sports 10 N HD</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID0697" xmltv_id="ES3 F HD">ES3 F HD</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID0698" xmltv_id="ES3 N HD">ES3 N HD</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID0813" xmltv_id="StuBru">StuBru</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID0999" xmltv_id="InfoChannel">InfoChannel</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID1102" xmltv_id="Vlaamsparlement.tv">Vlaamsparlement.tv</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID2033" xmltv_id="ST100TV HD N">ST100TV HD N</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID2034" xmltv_id="ST100TV N">ST100TV N</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID2036" xmltv_id="eng-Titan-VRT">eng-Titan-VRT</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID2039" xmltv_id="Test 976">Test 976</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID2040" xmltv_id="E! HD F">E! HD F</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID2041" xmltv_id="E! HD N">E! HD N</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID2042" xmltv_id="Disn Ch HD F">Disn Ch HD F</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID2043" xmltv_id="Disn Ch HD N">Disn Ch HD N</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID2044" xmltv_id="Test 80">Test 80</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID2045" xmltv_id="2M Monde">2M Monde</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID2046" xmltv_id="Test 89">Test 89</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID2047" xmltv_id="VTM NON-STOP DOKTERS HD">VTM NON-STOP DOKTERS HD</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID2049" xmltv_id="Kanaal Z HD">Kanaal Z HD</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID2050" xmltv_id="Canal Z HD">Canal Z HD</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID2051" xmltv_id="TV Breizh HD">TV Breizh HD</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID2052" xmltv_id="TCM Cinéma HD">TCM Cinéma HD</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID2053" xmltv_id="SyFy HD F">SyFy HD F</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID2054" xmltv_id="13è Rue HD">13è Rue HD</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID2055" xmltv_id="Action HD">Action HD</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID2056" xmltv_id="CNN HD">CNN HD</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID2059" xmltv_id="Sport 10">Sport 10</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID2060" xmltv_id="Gulli HD">Gulli HD</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID2061" xmltv_id="NGC HD N">NGC HD N</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID2063" xmltv_id="MVTV">MVTV</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID2065" xmltv_id="TV5 Monde HD">TV5 Monde HD</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID2066" xmltv_id="Game One">Game One</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID2067" xmltv_id="MVTV HD">MVTV HD</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID2068" xmltv_id="Comedy Central F">Comedy Central F</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID2069" xmltv_id="Paramount Channel">Paramount Channel</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID2070" xmltv_id="nick jr F">nick jr F</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID2071" xmltv_id="PickxLive F HD">PickxLive F HD</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID2073" xmltv_id="VTM 4 HD">VTM 4 HD</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID2074" xmltv_id="PickxLive N HD">PickxLive N HD</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID2120" xmltv_id="Play4 HD">Play4 HD</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID2121" xmltv_id="Play5 HD">Play5 HD</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50289" xmltv_id="Pickx+ Sports 7 F HD">Pickx+ Sports 7 F HD</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID0671" xmltv_id="Pickx+ Sports 8 F HD">Pickx+ Sports 8 F HD</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID0672" xmltv_id="Pickx+ Sports 9 F HD">Pickx+ Sports 9 F HD</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID0674" xmltv_id="Pickx+ Sports 10 F HD">Pickx+ Sports 10 F HD</channel>
     <channel update="i" site="proximus.nl.be" site_id="UID2130" xmltv_id="Eleven Pro League 1 (FR) [HD">Eleven Pro League 1 (FR) [HD</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID2131" xmltv_id="Eleven Pro League 1 (FR)">Eleven Pro League 1 (FR)</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID2160" xmltv_id="ST100 GO">ST100 GO</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID2173" xmltv_id="TLC">TLC</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID2175" xmltv_id="VTM NON-STOP DOKTERS">VTM NON-STOP DOKTERS</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID2179" xmltv_id="TREK HD">TREK HD</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID2180" xmltv_id="Eleven Pro League 1 (NL) [HD">Eleven Pro League 1 (NL) [HD</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID2181" xmltv_id="Eleven Pro League 1 (NL)">Eleven Pro League 1 (NL)</channel>
     <channel update="i" site="proximus.nl.be" site_id="UID2182" xmltv_id="Eleven Pro League 2 (FR) [HD">Eleven Pro League 2 (FR) [HD</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID2183" xmltv_id="Eleven Pro League 2 (FR)">Eleven Pro League 2 (FR)</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID2184" xmltv_id="Eleven Pro League 2 (NL) [HD">Eleven Pro League 2 (NL) [HD</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID2185" xmltv_id="Eleven Pro League 2 (NL)">Eleven Pro League 2 (NL)</channel>
     <channel update="i" site="proximus.nl.be" site_id="UID2186" xmltv_id="Eleven Pro League 3 (FR) [HD">Eleven Pro League 3 (FR) [HD</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID2187" xmltv_id="Eleven Pro League 3 (FR)">Eleven Pro League 3 (FR)</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID2188" xmltv_id="Eleven Pro League 3 (NL) [HD">Eleven Pro League 3 (NL) [HD</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID2189" xmltv_id="Eleven Pro League 3 (NL)">Eleven Pro League 3 (NL)</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID2210" xmltv_id="RTL">RTL</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID2216" xmltv_id="Pickx+ Sports 1 F HD">Pickx+ Sports 1 F HD</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID2217" xmltv_id="Pickx+ Sports 1 N HD">Pickx+ Sports 1 N HD</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID2218" xmltv_id="Pickx+ F HD">Pickx+ F HD</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID2219" xmltv_id="Pickx+ N HD">Pickx+ N HD</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID2276" xmltv_id="TMC HD">TMC HD</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID2293" xmltv_id="Play7 HD">Play7 HD</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID2317" xmltv_id="MyZen.tv">MyZen.tv</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID2318" xmltv_id="Pickx+ F HD">Pickx+ F HD</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID2319" xmltv_id="Pickx+ N HD">Pickx+ N HD</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID2320" xmltv_id="Museum TV">Museum TV</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID2321" xmltv_id="Antenne Centre HD">Antenne Centre HD</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID2322" xmltv_id="ATV HD">ATV HD</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID2323" xmltv_id="AVS HD">AVS HD</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID2326" xmltv_id="BRUZZ HD">BRUZZ HD</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID2327" xmltv_id="bx1 HD">bx1 HD</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID2328" xmltv_id="Bouké HD">Bouké HD</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID2329" xmltv_id="Canal Zoom HD">Canal Zoom HD</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID2330" xmltv_id="Focus TV HD">Focus TV HD</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID2331" xmltv_id="MaTélé HD">MaTélé HD</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID2332" xmltv_id="No Télé HD">No Télé HD</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID2333" xmltv_id="Ring TV HD">Ring TV HD</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID2334" xmltv_id="ROBTV HD">ROBTV HD</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID2335" xmltv_id="RTC Liège HD">RTC Liège HD</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID2336" xmltv_id="RTV Kempen HD">RTV Kempen HD</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID2339" xmltv_id="RTV Mech HD">RTV Mech HD</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID2340" xmltv_id="Télé MB HD">Télé MB HD</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID2341" xmltv_id="Télé Sambre HD">Télé Sambre HD</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID2342" xmltv_id="TV Com HD">TV Com HD</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID2343" xmltv_id="TV Limburg HD">TV Limburg HD</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID2344" xmltv_id="TV Lux HD">TV Lux HD</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID2345" xmltv_id="TV Oost HD">TV Oost HD</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID2346" xmltv_id="Védia HD">Védia HD</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID2347" xmltv_id="WTV HD">WTV HD</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID2348" xmltv_id="BRF TV HD">BRF TV HD</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID2349" xmltv_id="Ment TV HD">Ment TV HD</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID2350" xmltv_id="INPLUS">INPLUS</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID2351" xmltv_id="TF1 Séries Films">TF1 Séries Films</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID2353" xmltv_id="Q-Music Kijk Live">Q-Music Kijk Live</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID0644" xmltv_id="ES1 F HD">ES1 F HD</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID0646" xmltv_id="ES2 F HD">ES2 F HD</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID0697" xmltv_id="ES3 F HD">ES3 F HD</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50212" xmltv_id="Eurosp HD F">Eurosp HD F</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50090" xmltv_id="Eurosp2 F">Eurosp2 F</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID0194" xmltv_id="bel RTL HD">bel RTL HD</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID0025" xmltv_id="TIPIK vision">TIPIK vision</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50014" xmltv_id="ContactV">ContactV</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50043" xmltv_id="RFM TV">RFM TV</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50028" xmltv_id="TraceUrban">TraceUrban</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50037" xmltv_id="VRT 1">VRT 1</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50084" xmltv_id="VRT Canvas">VRT Canvas</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50040" xmltv_id="VTM">VTM</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50083" xmltv_id="Play4">Play4</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50066" xmltv_id="Play5">Play5</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50044" xmltv_id="VTM 2">VTM 2</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50082" xmltv_id="VTM 3">VTM 3</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50301" xmltv_id="VTM 4">VTM 4</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID2074" xmltv_id="PickxLive N HD">PickxLive N HD</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID0146" xmltv_id="Play6">Play6</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50034" xmltv_id="Kanaal Z">Kanaal Z</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50047" xmltv_id="NPO 1">NPO 1</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50080" xmltv_id="NPO 2">NPO 2</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50079" xmltv_id="NPO 3">NPO 3</channel>
     <channel update="i" site="proximus.nl.be" site_id="UID2355" xmltv_id="BBC One HD">BBC One HD</channel>
     <channel update="i" site="proximus.nl.be" site_id="UID2356" xmltv_id="BBC Two HD">BBC Two HD</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID2357" xmltv_id="Eurosp2 HD F">Eurosp2 HD F</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID2358" xmltv_id="Eurosp2 HD N">Eurosp2 HD N</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID2359" xmltv_id="Boom F HD">Boom F HD</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID2360" xmltv_id="Cartoonito HD">Cartoonito HD</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID2361" xmltv_id="Cartoon F HD">Cartoon F HD</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID2362" xmltv_id="Cartoon N HD">Cartoon N HD</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID2363" xmltv_id="Disc Sc HD">Disc Sc HD</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID2481" xmltv_id="BBC News HD">BBC News HD</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50060" xmltv_id="La Une">La Une</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50059" xmltv_id="TIPIK">TIPIK</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50072" xmltv_id="RTL tvi">RTL tvi</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50070" xmltv_id="RTL club">RTL club</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50026" xmltv_id="RTL plug">RTL plug</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50068" xmltv_id="TF1">TF1</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50088" xmltv_id="France 2">France 2</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50089" xmltv_id="France 3">France 3</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50302" xmltv_id="La Trois">La Trois</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID2349" xmltv_id="Ment TV HD">Ment TV HD</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50035" xmltv_id="Canal Z">Canal Z</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50058" xmltv_id="AB3">AB3</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50041" xmltv_id="ABXPLORE">ABXPLORE</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50081" xmltv_id="France 4">France 4</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50038" xmltv_id="France 5">France 5</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50018" xmltv_id="Arte">Arte</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50030" xmltv_id="TV5 Monde">TV5 Monde</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID2376" xmltv_id="Comedy Central N HD">Comedy Central N HD</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID2175" xmltv_id="VTM NON-STOP DOKTERS">VTM NON-STOP DOKTERS</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID0042" xmltv_id="Pickx+ N">Pickx+ N</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50017" xmltv_id="Discovery N">Discovery N</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50087" xmltv_id="NGC N">NGC N</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50092" xmltv_id="Animal Pl">Animal Pl</channel>
     <channel update="i" site="proximus.nl.be" site_id="UID2364" xmltv_id="Inv Disc HD">Inv Disc HD</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID2366" xmltv_id="W Sports">W Sports</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID2367" xmltv_id="Disn Jr F HD">Disn Jr F HD</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID2368" xmltv_id="Sc et Vie TV HD">Sc et Vie TV HD</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID2369" xmltv_id="Histoire HD">Histoire HD</channel>
     <channel update="i" site="proximus.nl.be" site_id="UID2370" xmltv_id="History HD">History HD</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID2363" xmltv_id="Disc Sc HD">Disc Sc HD</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID0234" xmltv_id="Njam">Njam</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50128" xmltv_id="E! N">E! N</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID2374" xmltv_id="Dobbit N HD">Dobbit N HD</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID2470" xmltv_id="Fashion TV HD">Fashion TV HD</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID2472" xmltv_id="MTV N HD">MTV N HD</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID2478" xmltv_id="RFM TV HD">RFM TV HD</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID2468" xmltv_id="Trace HD">Trace HD</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID2473" xmltv_id="MTV Hits HD">MTV Hits HD</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID2471" xmltv_id="Melody.tv HD">Melody.tv HD</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50213" xmltv_id="PickxLive N">PickxLive N</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID0601" xmltv_id="Pickx+ Sports 1 N">Pickx+ Sports 1 N</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID0602" xmltv_id="Pickx+ Sports 2 N">Pickx+ Sports 2 N</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID0603" xmltv_id="Pickx+ Sports 3 N">Pickx+ Sports 3 N</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID0604" xmltv_id="Pickx+ Sports 4 N">Pickx+ Sports 4 N</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID0605" xmltv_id="Pickx+ Sports 5 N">Pickx+ Sports 5 N</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID0606" xmltv_id="Pickx+ Sports 6 N">Pickx+ Sports 6 N</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50219" xmltv_id="Pickx+ Sports 7 N">Pickx+ Sports 7 N</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50230" xmltv_id="Pickx+ Sports 8 N">Pickx+ Sports 8 N</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50224" xmltv_id="Pickx+ Sports 9 N">Pickx+ Sports 9 N</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50225" xmltv_id="Pickx+ Sports 10 N">Pickx+ Sports 10 N</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID2181" xmltv_id="Eleven Pro League 1 (NL)">Eleven Pro League 1 (NL)</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID2185" xmltv_id="Eleven Pro League 2 (NL)">Eleven Pro League 2 (NL)</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID2189" xmltv_id="Eleven Pro League 3 (NL)">Eleven Pro League 3 (NL)</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID0641" xmltv_id="ES1 N">ES1 N</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID0643" xmltv_id="ES2 N">ES2 N</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID0649" xmltv_id="ES3 N">ES3 N</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50094" xmltv_id="Eurosp N">Eurosp N</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID2358" xmltv_id="Eurosp2 HD N">Eurosp2 HD N</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID2059" xmltv_id="Sport 10">Sport 10</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID2063" xmltv_id="Motorvision+">Motorvision+</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID2476" xmltv_id="AUTOMOTO HD">AUTOMOTO HD</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50039" xmltv_id="nick N">nick N</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50329" xmltv_id="Disn Ch N">Disn Ch N</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID2480" xmltv_id="Baby TV N HD">Baby TV N HD</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID2360" xmltv_id="Cartoonito HD">Cartoonito HD</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID2362" xmltv_id="Cartoon N HD">Cartoon N HD</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID2071" xmltv_id="PickxLive F HD">PickxLive F HD</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50024" xmltv_id="Disn Ch F">Disn Ch F</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID2367" xmltv_id="Disn Jr F HD">Disn Jr F HD</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID2361" xmltv_id="Cartoon F HD">Cartoon F HD</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID2479" xmltv_id="Baby TV F HD">Baby TV F HD</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID2359" xmltv_id="Boom F HD">Boom F HD</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID2467" xmltv_id="Tiji HD">Tiji HD</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID2469" xmltv_id="Canal J HD">Canal J HD</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID2378" xmltv_id="Mangas HD">Mangas HD</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID2375" xmltv_id="Das Erste HD">Das Erste HD</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID2379" xmltv_id="ZDF HD">ZDF HD</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID2482" xmltv_id="RTL Deutschland HD">RTL Deutschland HD</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID2348" xmltv_id="BRF TV HD">BRF TV HD</channel>
     <channel update="i" site="proximus.nl.be" site_id="UID2371" xmltv_id="RAI Uno HD">RAI Uno HD</channel>
     <channel update="i" site="proximus.nl.be" site_id="UID2372" xmltv_id="RAI Due HD">RAI Due HD</channel>
     <channel update="i" site="proximus.nl.be" site_id="UID2373" xmltv_id="RAI Tre HD">RAI Tre HD</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID2374" xmltv_id="Dobbit N HD">Dobbit N HD</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID2375" xmltv_id="Das Erste HD">Das Erste HD</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID2376" xmltv_id="Comedy Central N HD">Comedy Central N HD</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID2377" xmltv_id="LCI HD">LCI HD</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID2378" xmltv_id="Mangas HD">Mangas HD</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID2379" xmltv_id="ZDF HD">ZDF HD</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID2464" xmltv_id="Dorcel XXX HD">Dorcel XXX HD</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID2465" xmltv_id="Passie XXX HD">Passie XXX HD</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID2466" xmltv_id="Pink HD">Pink HD</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID2467" xmltv_id="Tiji HD">Tiji HD</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID2468" xmltv_id="Trace HD">Trace HD</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID2469" xmltv_id="Canal J HD">Canal J HD</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID2470" xmltv_id="Fashion TV HD">Fashion TV HD</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID2471" xmltv_id="Melody.tv HD">Melody.tv HD</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID2472" xmltv_id="MTV N HD">MTV N HD</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID2473" xmltv_id="MTV Hits HD">MTV Hits HD</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50019" xmltv_id="Action">Action</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50012" xmltv_id="TV Breizh">TV Breizh</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50110" xmltv_id="13è Rue">13è Rue</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50064" xmltv_id="SyFy F">SyFy F</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50097" xmltv_id="TCM cinéma">TCM cinéma</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID0041" xmltv_id="Pickx+ F">Pickx+ F</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID0090" xmltv_id="Discovery F">Discovery F</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50065" xmltv_id="NGC F">NGC F</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50023" xmltv_id="TREK">TREK</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID2487" xmltv_id="Animaux HD">Animaux HD</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID2368" xmltv_id="Sc et Vie TV HD">Sc et Vie TV HD</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID2369" xmltv_id="Histoire HD">Histoire HD</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50025" xmltv_id="Ushuaïa">Ushuaïa</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50109" xmltv_id="E! F">E! F</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID2483" xmltv_id="TVE International HD">TVE International HD</channel>
     <channel update="i" site="proximus.nl.be" site_id="UID2474" xmltv_id="Al Aoula HD">Al Aoula HD</channel>
     <channel update="i" site="proximus.nl.be" site_id="UID2475" xmltv_id="Al Jazeera HD">Al Jazeera HD</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID2476" xmltv_id="AUTOMOTO HD">AUTOMOTO HD</channel>
     <channel update="i" site="proximus.nl.be" site_id="UID2477" xmltv_id="AMTV HD">AMTV HD</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID2478" xmltv_id="RFM TV HD">RFM TV HD</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID2479" xmltv_id="Baby TV F HD">Baby TV F HD</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID2480" xmltv_id="Baby TV N HD">Baby TV N HD</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID2481" xmltv_id="BBC News HD">BBC News HD</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID2482" xmltv_id="RTL Deutschland HD">RTL Deutschland HD</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID2483" xmltv_id="TVE International HD">TVE International HD</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID2487" xmltv_id="Animaux HD">Animaux HD</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID2488" xmltv_id="Euronews E HD">Euronews E HD</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID2489" xmltv_id="Euronews F HD">Euronews F HD</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID2531" xmltv_id="Studio PXS N">Studio PXS N</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID29769866" xmltv_id="RTC Liège">RTC Liège</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50011" xmltv_id="Baby TV F">Baby TV F</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50012" xmltv_id="TV Breizh">TV Breizh</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50013" xmltv_id="Histoire">Histoire</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50014" xmltv_id="ContactV">ContactV</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50015" xmltv_id="RAI Due">RAI Due</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50017" xmltv_id="Discovery N">Discovery N</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50018" xmltv_id="Arte">Arte</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50019" xmltv_id="Action">Action</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50020" xmltv_id="RAI Tre">RAI Tre</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50021" xmltv_id="Cartoon F">Cartoon F</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50022" xmltv_id="Cartoon N">Cartoon N</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50023" xmltv_id="TREK">TREK</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50024" xmltv_id="Disn Ch F">Disn Ch F</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50025" xmltv_id="Ushuaïa">Ushuaïa</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50026" xmltv_id="RTL plug">RTL plug</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50027" xmltv_id="TVE Int">TVE Int</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50028" xmltv_id="TraceUrban">TraceUrban</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50029" xmltv_id="Disc Science">Disc Science</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50030" xmltv_id="TV5 Monde">TV5 Monde</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50031" xmltv_id="FashionTV">FashionTV</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50032" xmltv_id="CNN">CNN</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50034" xmltv_id="Kanaal Z">Kanaal Z</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50035" xmltv_id="Canal Z">Canal Z</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50037" xmltv_id="VRT 1">VRT 1</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50038" xmltv_id="France 5">France 5</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50039" xmltv_id="nick N">nick N</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50040" xmltv_id="VTM">VTM</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50041" xmltv_id="ABXPLORE">ABXPLORE</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50043" xmltv_id="RFM TV">RFM TV</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50044" xmltv_id="VTM 2">VTM 2</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50045" xmltv_id="Mangas">Mangas</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50047" xmltv_id="NPO 1">NPO 1</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50048" xmltv_id="RAI Uno">RAI Uno</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50052" xmltv_id="Baby TV N">Baby TV N</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50053" xmltv_id="Animaux">Animaux</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50057" xmltv_id="Canal J">Canal J</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50058" xmltv_id="AB3">AB3</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50059" xmltv_id="TIPIK">TIPIK</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50060" xmltv_id="La Une">La Une</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50064" xmltv_id="SyFy F">SyFy F</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50065" xmltv_id="NGC F">NGC F</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50066" xmltv_id="Play5">Play5</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50067" xmltv_id="LCI">LCI</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50068" xmltv_id="TF1">TF1</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50069" xmltv_id="BBC News">BBC News</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50070" xmltv_id="RTL club">RTL club</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50071" xmltv_id="BBC One">BBC One</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50072" xmltv_id="RTL tvi">RTL tvi</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50073" xmltv_id="France 24 F">France 24 F</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50075" xmltv_id="bx1">bx1</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50251" xmltv_id="PickxLive F">PickxLive F</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID0651" xmltv_id="Pickx+ Sports 1 F">Pickx+ Sports 1 F</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID0652" xmltv_id="Pickx+ Sports 2 F">Pickx+ Sports 2 F</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID0653" xmltv_id="Pickx+ Sports 3 F">Pickx+ Sports 3 F</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID0654" xmltv_id="Pickx+ Sports 4 F">Pickx+ Sports 4 F</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID0655" xmltv_id="Pickx+ Sports 5 F">Pickx+ Sports 5 F</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID0656" xmltv_id="Pickx+ Sports 6 F">Pickx+ Sports 6 F</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50257" xmltv_id="Pickx+ Sports 7 F">Pickx+ Sports 7 F</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50258" xmltv_id="Pickx+ Sports 8 F">Pickx+ Sports 8 F</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50259" xmltv_id="Pickx+ Sports 9 F">Pickx+ Sports 9 F</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50231" xmltv_id="Pickx+ Sports 10 F">Pickx+ Sports 10 F</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID2131" xmltv_id="Eleven Pro League 1 (FR)">Eleven Pro League 1 (FR)</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID2183" xmltv_id="Eleven Pro League 2 (FR)">Eleven Pro League 2 (FR)</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID2187" xmltv_id="Eleven Pro League 3 (FR)">Eleven Pro League 3 (FR)</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID0640" xmltv_id="ES1 F">ES1 F</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID0642" xmltv_id="ES2 F">ES2 F</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID0648" xmltv_id="ES3 F">ES3 F</channel>
     <channel update="i" site="proximus.nl.be" site_id="UID50077" xmltv_id="Eurosp F">Eurosp F</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50079" xmltv_id="NPO 3">NPO 3</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50080" xmltv_id="NPO 2">NPO 2</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50081" xmltv_id="France 4">France 4</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50082" xmltv_id="VTM 3">VTM 3</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50083" xmltv_id="Play4">Play4</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50084" xmltv_id="VRT Canvas">VRT Canvas</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50085" xmltv_id="Euronews E">Euronews E</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50087" xmltv_id="NGC N">NGC N</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50088" xmltv_id="France 2">France 2</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50089" xmltv_id="France 3">France 3</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50090" xmltv_id="Eurosp2 F">Eurosp2 F</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50092" xmltv_id="Animal Pl">Animal Pl</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50094" xmltv_id="Eurosp N">Eurosp N</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50095" xmltv_id="Tiji">Tiji</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50097" xmltv_id="TCM cinéma">TCM cinéma</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50099" xmltv_id="Dorcel XXX">Dorcel XXX</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50102" xmltv_id="Sc et Vie TV">Sc et Vie TV</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50103" xmltv_id="Boomerang F">Boomerang F</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50104" xmltv_id="LaPrem1ère">LaPrem1ère</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50105" xmltv_id="VivaCité">VivaCité</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50106" xmltv_id="Musiq'3">Musiq'3</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50107" xmltv_id="Classic21">Classic21</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50108" xmltv_id="TIPIK radio">TIPIK radio</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50109" xmltv_id="E! F">E! F</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50110" xmltv_id="13è Rue">13è Rue</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50111" xmltv_id="AUTOMOTO">AUTOMOTO</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50112" xmltv_id="PickxLive N">PickxLive N</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50113" xmltv_id="PickxLive F">PickxLive F</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50114" xmltv_id="WTV">WTV</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50115" xmltv_id="Focus TV">Focus TV</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50116" xmltv_id="ATV">ATV</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50117" xmltv_id="AVS Gent">AVS Gent</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50120" xmltv_id="TVLimbC">TVLimbC</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50121" xmltv_id="ROB TV">ROB TV</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50128" xmltv_id="E! N">E! N</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50129" xmltv_id="TV Oost">TV Oost</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50130" xmltv_id="BRUZZ">BRUZZ</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50132" xmltv_id="RTV Kempen O">RTV Kempen O</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50133" xmltv_id="RTV Mech">RTV Mech</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50135" xmltv_id="Ring TV">Ring TV</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50136" xmltv_id="No Télé">No Télé</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50137" xmltv_id="Disn Jr F">Disn Jr F</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50140" xmltv_id="Télé MB">Télé MB</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50141" xmltv_id="Al Aoula">Al Aoula</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50142" xmltv_id="MTV F">MTV F</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50143" xmltv_id="MTV N">MTV N</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50144" xmltv_id="Comedy Central N">Comedy Central N</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50145" xmltv_id="Bouké">Bouké</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50146" xmltv_id="Canal Zoom">Canal Zoom</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50147" xmltv_id="Antenne C">Antenne C</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50148" xmltv_id="JOE">JOE</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID2357" xmltv_id="Eurosp2 HD F">Eurosp2 HD F</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50032" xmltv_id="CNN">CNN</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID2488" xmltv_id="Euronews E HD">Euronews E HD</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID2377" xmltv_id="LCI HD">LCI HD</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID2489" xmltv_id="Euronews F HD">Euronews F HD</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50073" xmltv_id="France 24 F">France 24 F</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID2327" xmltv_id="bx1 HD">bx1 HD</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID2321" xmltv_id="Antenne Centre HD">Antenne Centre HD</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID2328" xmltv_id="Bouké HD">Bouké HD</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID2329" xmltv_id="Canal Zoom HD">Canal Zoom HD</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID2331" xmltv_id="MaTélé HD">MaTélé HD</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID2332" xmltv_id="No Télé HD">No Télé HD</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID2335" xmltv_id="RTC Liège HD">RTC Liège HD</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID2340" xmltv_id="Télé MB HD">Télé MB HD</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID2341" xmltv_id="Télé Sambre HD">Télé Sambre HD</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID2342" xmltv_id="TV Com HD">TV Com HD</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID2344" xmltv_id="TV Lux HD">TV Lux HD</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID2346" xmltv_id="Védia HD">Védia HD</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID2326" xmltv_id="BRUZZ HD">BRUZZ HD</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID2322" xmltv_id="ATV HD">ATV HD</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID2323" xmltv_id="AVS HD">AVS HD</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID2330" xmltv_id="Focus TV HD">Focus TV HD</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID2333" xmltv_id="Ring TV HD">Ring TV HD</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID2334" xmltv_id="ROBTV HD">ROBTV HD</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID2336" xmltv_id="RTV Kempen HD">RTV Kempen HD</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID2339" xmltv_id="RTV Mech HD">RTV Mech HD</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID2343" xmltv_id="TV Limburg HD">TV Limburg HD</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID2345" xmltv_id="TV Oost HD">TV Oost HD</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID2347" xmltv_id="WTV HD">WTV HD</channel>
     <channel update="i" site="proximus.nl.be" site_id="UID50151" xmltv_id="Passie XXX">Passie XXX</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50153" xmltv_id="nick jr N">nick jr N</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50154" xmltv_id="History">History</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50157" xmltv_id="Melody.tv">Melody.tv</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50162" xmltv_id="Al Jazeera">Al Jazeera</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50164" xmltv_id="KTO">KTO</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50165" xmltv_id="nick Toons">nick Toons</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50168" xmltv_id="MTV 80s">MTV 80s</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50099" xmltv_id="Dorcel XXX">Dorcel XXX</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID0461" xmltv_id="Penthouse Gold">Penthouse Gold</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID0628" xmltv_id="Dusk">Dusk</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50192" xmltv_id="Pink">Pink</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID2465" xmltv_id="Passie XXX HD">Passie XXX HD</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID2464" xmltv_id="Dorcel XXX HD">Dorcel XXX HD</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID2466" xmltv_id="Pink HD">Pink HD</channel>
     <channel update="i" site="proximus.nl.be" site_id="UID50170" xmltv_id="Radio1">Radio1</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50171" xmltv_id="R2OV">R2OV</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50172" xmltv_id="R2WV">R2WV</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50173" xmltv_id="R2VB">R2VB</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50174" xmltv_id="R2L">R2L</channel>
     <channel update="i" site="proximus.nl.be" site_id="UID50175" xmltv_id="R2A">R2A</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50174" xmltv_id="R2L">R2L</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50171" xmltv_id="R2OV">R2OV</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50173" xmltv_id="R2VB">R2VB</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50172" xmltv_id="R2WV">R2WV</channel>
     <channel update="i" site="proximus.nl.be" site_id="UID50176" xmltv_id="StuBru">StuBru</channel>
     <channel update="i" site="proximus.nl.be" site_id="UID50177" xmltv_id="MNM">MNM</channel>
     <channel update="i" site="proximus.nl.be" site_id="UID50178" xmltv_id="MNMH">MNMH</channel>
     <channel update="i" site="proximus.nl.be" site_id="UID50179" xmltv_id="Klara">Klara</channel>
     <channel update="i" site="proximus.nl.be" site_id="UID50180" xmltv_id="KlaraC">KlaraC</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50181" xmltv_id="De Tijdloze">De Tijdloze</channel>
     <channel update="i" site="proximus.nl.be" site_id="UID50182" xmltv_id="VRTNWS">VRTNWS</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50181" xmltv_id="De Tijdloze">De Tijdloze</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50185" xmltv_id="Qmusic">Qmusic</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50148" xmltv_id="JOE">JOE</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50186" xmltv_id="BRF 1">BRF 1</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50104" xmltv_id="LaPrem1ère">LaPrem1ère</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50105" xmltv_id="VivaCité">VivaCité</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50106" xmltv_id="Musiq'3">Musiq'3</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50107" xmltv_id="Classic21">Classic21</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID50108" xmltv_id="TIPIK radio">TIPIK radio</channel>
     <channel update="i" site="proximus.nl.be" site_id="UID50183" xmltv_id="bel RTL">bel RTL</channel>
     <channel update="i" site="proximus.nl.be" site_id="UID50184" xmltv_id="MINT">MINT</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50185" xmltv_id="Qmusic">Qmusic</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50186" xmltv_id="BRF 1">BRF 1</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50190" xmltv_id="TF1 HD">TF1 HD</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50192" xmltv_id="Pink">Pink</channel>
     <channel update="i" site="proximus.nl.be" site_id="UID50194" xmltv_id="Contct">Contct</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50197" xmltv_id="Ushuaïa HD">Ushuaïa HD</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50198" xmltv_id="Classica">Classica</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50199" xmltv_id="Disc HD N">Disc HD N</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50201" xmltv_id="Sport 10 HD">Sport 10 HD</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50203" xmltv_id="NGC HD F">NGC HD F</channel>
     <channel update="i" site="proximus.nl.be" site_id="UID50206" xmltv_id="RNostF">RNostF</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50208" xmltv_id="VRT 1 HD">VRT 1 HD</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50209" xmltv_id="RTL club HD">RTL club HD</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50210" xmltv_id="Eurosp HD N">Eurosp HD N</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50211" xmltv_id="France 2 HD">France 2 HD</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50212" xmltv_id="Eurosp HD F">Eurosp HD F</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50213" xmltv_id="PickxLive N">PickxLive N</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50219" xmltv_id="Pickx+ Sports 7 N">Pickx+ Sports 7 N</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50223" xmltv_id="Inv Disc">Inv Disc</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50224" xmltv_id="Pickx+ Sports 9 N">Pickx+ Sports 9 N</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50225" xmltv_id="Pickx+ Sports 10 N">Pickx+ Sports 10 N</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50230" xmltv_id="Pickx+ Sports 8 N">Pickx+ Sports 8 N</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50231" xmltv_id="Pickx+ Sports 10 F">Pickx+ Sports 10 F</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50251" xmltv_id="PickxLive F">PickxLive F</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50257" xmltv_id="Pickx+ Sports 7 F">Pickx+ Sports 7 F</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50258" xmltv_id="Pickx+ Sports 8 F">Pickx+ Sports 8 F</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50259" xmltv_id="Pickx+ Sports 9 F">Pickx+ Sports 9 F</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50269" xmltv_id="Eurosp2 N">Eurosp2 N</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50289" xmltv_id="Pickx+ Sports 7 F HD">Pickx+ Sports 7 F HD</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50290" xmltv_id="Pickx+ Sports 7 N HD">Pickx+ Sports 7 N HD</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50295" xmltv_id="BBC Two">BBC Two</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50297" xmltv_id="VTM HD">VTM HD</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50301" xmltv_id="VTM 4">VTM 4</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50302" xmltv_id="La Trois">La Trois</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50303" xmltv_id="RegInfo F">RegInfo F</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50305" xmltv_id="Cartoonito">Cartoonito</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50306" xmltv_id="VRT Canvas HD">VRT Canvas HD</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50309" xmltv_id="RegInfo N">RegInfo N</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50310" xmltv_id="Ketnet">Ketnet</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50314" xmltv_id="nick F">nick F</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50315" xmltv_id="MTV Live HD">MTV Live HD</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50316" xmltv_id="BBC Ent">BBC Ent</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50319" xmltv_id="Ment TV">Ment TV</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50323" xmltv_id="La Une HD">La Une HD</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50329" xmltv_id="Disn Ch N">Disn Ch N</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50331" xmltv_id="MTV Hits">MTV Hits</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID50334" xmltv_id="La Trois HD">La Trois HD</channel>
-    <channel update="i" site="proximus.nl.be" site_id="UID58335" xmltv_id="BRF TV">BRF TV</channel>
     <channel update="i" site="proximus.nl.be" site_id="UIDR641" xmltv_id="LN">LN</channel>
+    <channel update="i" site="proximus.nl.be" site_id="UID0999" xmltv_id="InfoChannel">InfoChannel</channel>
   </channels>
 </site>
