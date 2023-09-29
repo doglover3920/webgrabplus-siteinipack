@@ -1,455 +1,312 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.4 -- Jan van Straaten" site="ziggogo.tv">
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.4 -- Jan van Straaten" site="magenta.at">
   <channels>
-    <channel update="i" site="magenta.at" site_id="Magenta_PULS24_HD" xmltv_id="Magenta HD">Magenta HD</channel>
-    <channel update="i" site="magenta.at" site_id="ORF_eins_HD" xmltv_id="ORF 1 HD">ORF 1 HD</channel>
-    <channel update="i" site="magenta.at" site_id="ORF2_Wien_HD" xmltv_id="ORF 2 Wien HD">ORF 2 Wien HD</channel>
-    <channel update="i" site="magenta.at" site_id="ATV_HD" xmltv_id="ATV HD">ATV HD</channel>
-    <channel update="i" site="magenta.at" site_id="PULS_4_HD" xmltv_id="PULS 4 HD">PULS 4 HD</channel>
-    <channel update="i" site="magenta.at" site_id="Servus_TV_HD" xmltv_id="Servus TV HD">Servus TV HD</channel>
-    <channel update="i" site="magenta.at" site_id="ZDF_HD" xmltv_id="ZDF HD">ZDF HD</channel>
-    <channel update="i" site="magenta.at" site_id="ProSieben_HD" xmltv_id="ProSieben HD">ProSieben HD</channel>
-    <channel update="i" site="magenta.at" site_id="RTL_HD" xmltv_id="RTL HD">RTL HD</channel>
-    <channel update="i" site="magenta.at" site_id="W24_HD" xmltv_id="W24 HD">W24 HD</channel>
-    <channel update="i" site="magenta.at" site_id="VOX_HD" xmltv_id="VOX HD">VOX HD</channel>
-    <channel update="i" site="magenta.at" site_id="Sat_1_HD" xmltv_id="SAT.1 HD">SAT.1 HD</channel>
-    <channel update="i" site="magenta.at" site_id="ORF_III_HD" xmltv_id="ORF III HD">ORF III HD</channel>
-    <channel update="i" site="magenta.at" site_id="Das_Erste_HD" xmltv_id="Das Erste HD">Das Erste HD</channel>
-    <channel update="i" site="magenta.at" site_id="kabel_eins_HD" xmltv_id="Kabel Eins HD">Kabel Eins HD</channel>
-    <channel update="i" site="magenta.at" site_id="RTL_II_HD" xmltv_id="RTLZWEI HD">RTLZWEI HD</channel>
-    <channel update="i" site="magenta.at" site_id="ATV_II_HD" xmltv_id="ATV2 HD">ATV2 HD</channel>
-    <channel update="i" site="magenta.at" site_id="PULS24_HD" xmltv_id="PULS24 HD">PULS24 HD</channel>
-    <channel update="i" site="magenta.at" site_id="oe24_TV_HD" xmltv_id="oe24.TV HD">oe24.TV HD</channel>
-    <channel update="i" site="magenta.at" site_id="n_tv_HD" xmltv_id="n-tv HD">n-tv HD</channel>
-    <channel update="i" site="magenta.at" site_id="exxpress_TV" xmltv_id="eXXpressTV">eXXpressTV</channel>
-    <channel update="i" site="magenta.at" site_id="Sat_1_Gold_HD" xmltv_id="SAT.1 Gold HD">SAT.1 Gold HD</channel>
-    <channel update="i" site="magenta.at" site_id="RTL_Nitro_HD" xmltv_id="Nitro HD">Nitro HD</channel>
-    <channel update="i" site="magenta.at" site_id="Sixx_Austria_HD" xmltv_id="sixx austria HD">sixx austria HD</channel>
-    <channel update="i" site="magenta.at" site_id="RTLplus_HD" xmltv_id="RTLup HD">RTLup HD</channel>
-    <channel update="i" site="magenta.at" site_id="ProSieben_Maxx_HD" xmltv_id="ProSieben Maxx HD">ProSieben Maxx HD</channel>
-    <channel update="i" site="magenta.at" site_id="DMAX_HD" xmltv_id="DMAX HD">DMAX HD</channel>
-    <channel update="i" site="magenta.at" site_id="kabel_eins_Doku_HD" xmltv_id="Kabel Eins Doku HD">Kabel Eins Doku HD</channel>
-    <channel update="i" site="magenta.at" site_id="N24_Austria" xmltv_id="N24 doku">N24 doku</channel>
-    <channel update="i" site="magenta.at" site_id="ZDF_neo_HD" xmltv_id="ZDFneo HD">ZDFneo HD</channel>
-    <channel update="i" site="magenta.at" site_id="EinsFestival_HD" xmltv_id="One HD">One HD</channel>
-    <channel update="i" site="magenta.at" site_id="Comedy_Central_VIVA_HD" xmltv_id="Comedy Central HD">Comedy Central HD</channel>
-    <channel update="i" site="magenta.at" site_id="TLC_HD" xmltv_id="TLC HD">TLC HD</channel>
-    <channel update="i" site="magenta.at" site_id="TELE_5" xmltv_id="TELE 5">TELE 5</channel>
-    <channel update="i" site="magenta.at" site_id="arte_HD" xmltv_id="arte HD">arte HD</channel>
-    <channel update="i" site="magenta.at" site_id="3sat_HD" xmltv_id="3sat HD">3sat HD</channel>
-    <channel update="i" site="magenta.at" site_id="BR_HD" xmltv_id="BR Fernsehen HD">BR Fernsehen HD</channel>
-    <channel update="i" site="magenta.at" site_id="R9_HD" xmltv_id="R9 HD">R9 HD</channel>
-    <channel update="i" site="magenta.at" site_id="Schau_TV_HD" xmltv_id="Schau TV HD">Schau TV HD</channel>
-    <channel update="i" site="magenta.at" site_id="krone_tv_HD" xmltv_id="krone.tv HD">krone.tv HD</channel>
-    <channel update="i" site="magenta.at" site_id="OKTO_HD" xmltv_id="Okto HD">Okto HD</channel>
-    <channel update="i" site="magenta.at" site_id="ARCADIA_World_HD" xmltv_id="ARCADIA World HD">ARCADIA World HD</channel>
-    <channel update="i" site="magenta.at" site_id="Phoenix_HD" xmltv_id="phoenix HD">phoenix HD</channel>
-    <channel update="i" site="magenta.at" site_id="ZDF_info_HD" xmltv_id="ZDFinfo HD">ZDFinfo HD</channel>
-    <channel update="i" site="magenta.at" site_id="tagesschau24_HD" xmltv_id="tagesschau24 HD">tagesschau24 HD</channel>
-    <channel update="i" site="magenta.at" site_id="ARD_alpha_HD" xmltv_id="ARD alpha HD">ARD alpha HD</channel>
-    <channel update="i" site="magenta.at" site_id="Bibel_TV_HD" xmltv_id="Bibel TV HD">Bibel TV HD</channel>
-    <channel update="i" site="magenta.at" site_id="WDR_Koeln_HD" xmltv_id="WDR Fernsehen HD">WDR Fernsehen HD</channel>
-    <channel update="i" site="magenta.at" site_id="MDR_HD" xmltv_id="MDR Fernsehen HD">MDR Fernsehen HD</channel>
-    <channel update="i" site="magenta.at" site_id="SWR_HD" xmltv_id="SWR HD">SWR HD</channel>
-    <channel update="i" site="magenta.at" site_id="NDR_FS_NDS_HD" xmltv_id="NDR Fernsehen HD">NDR Fernsehen HD</channel>
-    <channel update="i" site="magenta.at" site_id="hessen_fernsehen_HD" xmltv_id="hr-fernsehen HD">hr-fernsehen HD</channel>
-    <channel update="i" site="magenta.at" site_id="RBB_Berlin_HD" xmltv_id="rbb HD">rbb HD</channel>
-    <channel update="i" site="magenta.at" site_id="SRF_Info_HD" xmltv_id="SRF info HD">SRF info HD</channel>
-    <channel update="i" site="magenta.at" site_id="SR_HD" xmltv_id="SR HD">SR HD</channel>
-    <channel update="i" site="magenta.at" site_id="KI_KA_HD" xmltv_id="KiKA HD">KiKA HD</channel>
-    <channel update="i" site="magenta.at" site_id="Super_RTL_HD" xmltv_id="Super RTL HD">Super RTL HD</channel>
-    <channel update="i" site="magenta.at" site_id="Nickelodeon_HD" xmltv_id="Nick HD">Nick HD</channel>
-    <channel update="i" site="magenta.at" site_id="Disney_Channel" xmltv_id="Disney Channel">Disney Channel</channel>
-    <channel update="i" site="magenta.at" site_id="RiC" xmltv_id="RiC">RiC</channel>
-    <channel update="i" site="magenta.at" site_id="Cartoon_Network_HD" xmltv_id="Cartoon Network HD">Cartoon Network HD</channel>
-    <channel update="i" site="magenta.at" site_id="fix___foxi" xmltv_id="Fix &amp; Foxi">Fix &amp; Foxi</channel>
-    <channel update="i" site="magenta.at" site_id="Baby_TV" xmltv_id="Baby TV">Baby TV</channel>
-    <channel update="i" site="magenta.at" site_id="Nick_Junior" xmltv_id="Nick Junior">Nick Junior</channel>
-    <channel update="i" site="magenta.at" site_id="Nickelodeon_Ukraine" xmltv_id="Nickelodeon Ukraine">Nickelodeon Ukraine</channel>
-    <channel update="i" site="magenta.at" site_id="Deluxe_Music_HD" xmltv_id="Deluxe Music HD">Deluxe Music HD</channel>
-    <channel update="i" site="magenta.at" site_id="MTV_HD" xmltv_id="MTV HD">MTV HD</channel>
-    <channel update="i" site="magenta.at" site_id="Melodie_TV" xmltv_id="Melodie TV">Melodie TV</channel>
-    <channel update="i" site="magenta.at" site_id="QVC_HD" xmltv_id="QVC HD">QVC HD</channel>
-    <channel update="i" site="magenta.at" site_id="HSE24_HD" xmltv_id="HSE HD">HSE HD</channel>
-    <channel update="i" site="magenta.at" site_id="QVC_2_HD" xmltv_id="QVC 2 HD">QVC 2 HD</channel>
-    <channel update="i" site="magenta.at" site_id="HSE24_Extra_HD" xmltv_id="HSE Extra HD">HSE Extra HD</channel>
-    <channel update="i" site="magenta.at" site_id="123_tv" xmltv_id="123.tv">123.tv</channel>
-    <channel update="i" site="magenta.at" site_id="HSE24_Trend" xmltv_id="HSE Trend">HSE Trend</channel>
-    <channel update="i" site="magenta.at" site_id="QVC_Beauty_Style" xmltv_id="QVC Style">QVC Style</channel>
-    <channel update="i" site="magenta.at" site_id="HGTV" xmltv_id="Home &amp; Garden TV">Home &amp; Garden TV</channel>
-    <channel update="i" site="magenta.at" site_id="Auto_Motor_und_Sport_Channel_UHD_Hinweistafel" xmltv_id="auto motor und sport channel UHD">auto motor und sport channel UHD</channel>
-    <channel update="i" site="magenta.at" site_id="Auto_Motor_und_Sport_Channel_UHD" xmltv_id="auto motor und sport channel UHD">auto motor und sport channel UHD</channel>
-    <channel update="i" site="magenta.at" site_id="ORF_Sport__HD" xmltv_id="ORF Sport+ HD">ORF Sport+ HD</channel>
-    <channel update="i" site="magenta.at" site_id="Eurosport_1_HD" xmltv_id="Eurosport 1 HD">Eurosport 1 HD</channel>
-    <channel update="i" site="magenta.at" site_id="Sport_1_HD" xmltv_id="Sport 1 HD">Sport 1 HD</channel>
-    <channel update="i" site="magenta.at" site_id="Laola1_TV_HD" xmltv_id="Laola1.TV HD">Laola1.TV HD</channel>
-    <channel update="i" site="magenta.at" site_id="AlpentourTV_HD" xmltv_id="K19">K19</channel>
-    <channel update="i" site="magenta.at" site_id="Sport1__HD" xmltv_id="Sport1+ HD">Sport1+ HD</channel>
-    <channel update="i" site="magenta.at" site_id="sportdigital_HD" xmltv_id="SPORTDIGITAL FUSSBALL HD">SPORTDIGITAL FUSSBALL HD</channel>
-    <channel update="i" site="magenta.at" site_id="Auto_Motor_und_Sport_Channel_HD" xmltv_id="auto motor und sport channel HD">auto motor und sport channel HD</channel>
-    <channel update="i" site="magenta.at" site_id="Motorvision_HD" xmltv_id="Motorvision HD">Motorvision HD</channel>
-    <channel update="i" site="magenta.at" site_id="Sport_1_US_HD" xmltv_id="eSports1 HD">eSports1 HD</channel>
-    <channel update="i" site="magenta.at" site_id="Streamster_tv" xmltv_id="Streamster.tv">Streamster.tv</channel>
-    <channel update="i" site="magenta.at" site_id="ORF2_Burgenland_HD" xmltv_id="ORF 2 Burgenland HD">ORF 2 Burgenland HD</channel>
-    <channel update="i" site="magenta.at" site_id="ORF2_K_rnten_HD" xmltv_id="ORF 2 Kärnten HD">ORF 2 Kärnten HD</channel>
-    <channel update="i" site="magenta.at" site_id="ORF2_Nieder_sterreich_HD" xmltv_id="ORF 2 Nö HD">ORF 2 Nö HD</channel>
-    <channel update="i" site="magenta.at" site_id="ORF2_Ober_sterreich_HD" xmltv_id="ORF 2 Oberösterreich HD">ORF 2 Oberösterreich HD</channel>
-    <channel update="i" site="magenta.at" site_id="ORF2_Salzburg_HD" xmltv_id="ORF 2 Salzburg HD">ORF 2 Salzburg HD</channel>
-    <channel update="i" site="magenta.at" site_id="ORF2_Steiermark_HD" xmltv_id="ORF 2 Steiermark HD">ORF 2 Steiermark HD</channel>
-    <channel update="i" site="magenta.at" site_id="ORF2_Tirol_HD" xmltv_id="ORF 2 Tirol HD">ORF 2 Tirol HD</channel>
-    <channel update="i" site="magenta.at" site_id="ORF2_Vorarlberg_HD" xmltv_id="ORF 2 Vorarlberg HD">ORF 2 Vorarlberg HD</channel>
-    <channel update="i" site="magenta.at" site_id="Hitradio_OE3_HD" xmltv_id="Hitradio OE3 HD">Hitradio OE3 HD</channel>
-    <channel update="i" site="magenta.at" site_id="ORF2_Europa" xmltv_id="ORF 2 EUROPE">ORF 2 EUROPE</channel>
-    <channel update="i" site="magenta.at" site_id="Tirol_TV_HD" xmltv_id="Tirol TV HD">Tirol TV HD</channel>
-    <channel update="i" site="magenta.at" site_id="Laendle_TV_HD" xmltv_id="Ländle TV HD">Ländle TV HD</channel>
-    <channel update="i" site="magenta.at" site_id="WNTV_HD" xmltv_id="WNTV HD">WNTV HD</channel>
-    <channel update="i" site="magenta.at" site_id="KT_1" xmltv_id="KT 1">KT 1</channel>
-    <channel update="i" site="magenta.at" site_id="VOD_Fullscreen" xmltv_id="Magenta On Demand">Magenta On Demand</channel>
-    <channel update="i" site="magenta.at" site_id="13TH_STREET_HD" xmltv_id="13TH STREET HD">13TH STREET HD</channel>
-    <channel update="i" site="magenta.at" site_id="RTL_Crime_HD" xmltv_id="RTL Crime HD">RTL Crime HD</channel>
-    <channel update="i" site="magenta.at" site_id="Universal_Channel_HD" xmltv_id="Universal TV HD">Universal TV HD</channel>
-    <channel update="i" site="magenta.at" site_id="Syfy_HD" xmltv_id="Syfy HD">Syfy HD</channel>
-    <channel update="i" site="magenta.at" site_id="TNT_Serie_HD" xmltv_id="Warner TV Serie HD">Warner TV Serie HD</channel>
-    <channel update="i" site="magenta.at" site_id="TNT_Comedy_HD" xmltv_id="Warner TV Comedy HD">Warner TV Comedy HD</channel>
-    <channel update="i" site="magenta.at" site_id="Kinowelt_TV_HD" xmltv_id="Kinowelt TV HD">Kinowelt TV HD</channel>
-    <channel update="i" site="magenta.at" site_id="kabel_eins_classics_HD" xmltv_id="kabel eins CLASSICS HD">kabel eins CLASSICS HD</channel>
-    <channel update="i" site="magenta.at" site_id="Romance_TV_HD" xmltv_id="Romance TV HD">Romance TV HD</channel>
-    <channel update="i" site="magenta.at" site_id="RTL_Passion_HD" xmltv_id="RTL Passion HD">RTL Passion HD</channel>
-    <channel update="i" site="magenta.at" site_id="Heimatkanal" xmltv_id="Heimatkanal">Heimatkanal</channel>
-    <channel update="i" site="magenta.at" site_id="Sky_Krimi" xmltv_id="Sky Krimi HD">Sky Krimi HD</channel>
-    <channel update="i" site="magenta.at" site_id="BBC_Entertainment" xmltv_id="BBC Entertainment">BBC Entertainment</channel>
-    <channel update="i" site="magenta.at" site_id="Sat_1_emotions_HD" xmltv_id="SAT.1 emotions HD">SAT.1 emotions HD</channel>
-    <channel update="i" site="magenta.at" site_id="ProSieben_FUN_HD" xmltv_id="ProSieben FUN HD">ProSieben FUN HD</channel>
-    <channel update="i" site="magenta.at" site_id="GEO_Television_HD" xmltv_id="GEO Television HD">GEO Television HD</channel>
-    <channel update="i" site="magenta.at" site_id="Spiegel_Geschichte_HD" xmltv_id="Spiegel Geschichte HD">Spiegel Geschichte HD</channel>
-    <channel update="i" site="magenta.at" site_id="Spiegel_Wissen_HD" xmltv_id="Curiosity Channel">Curiosity Channel</channel>
-    <channel update="i" site="magenta.at" site_id="History_HD" xmltv_id="History HD">History HD</channel>
-    <channel update="i" site="magenta.at" site_id="Nat_Geo_HD" xmltv_id="Nat Geo HD">Nat Geo HD</channel>
-    <channel update="i" site="magenta.at" site_id="Nat_Geo_People_HD" xmltv_id="Nat Geo Wild HD">Nat Geo Wild HD</channel>
-    <channel update="i" site="magenta.at" site_id="Planet_HD" xmltv_id="Bergblick">Bergblick</channel>
-    <channel update="i" site="magenta.at" site_id="A_E_HD" xmltv_id="Crime + Investigation HD">Crime + Investigation HD</channel>
-    <channel update="i" site="magenta.at" site_id="RTL_Living_HD" xmltv_id="RTL Living HD">RTL Living HD</channel>
-    <channel update="i" site="magenta.at" site_id="Bongusto_HD" xmltv_id="Bongusto HD">Bongusto HD</channel>
-    <channel update="i" site="magenta.at" site_id="Fashion_TV_HD" xmltv_id="Fashion-TV HD">Fashion-TV HD</channel>
-    <channel update="i" site="magenta.at" site_id="E__Entertainment_HD" xmltv_id="E! HD">E! HD</channel>
-    <channel update="i" site="magenta.at" site_id="VH_1_Classic" xmltv_id="MTV 80s">MTV 80s</channel>
-    <channel update="i" site="magenta.at" site_id="Gute_Laune_TV" xmltv_id="Gute Laune TV">Gute Laune TV</channel>
-    <channel update="i" site="magenta.at" site_id="Classica_HD" xmltv_id="Stingray Classica HD">Stingray Classica HD</channel>
-    <channel update="i" site="magenta.at" site_id="MTV_live_HD" xmltv_id="MTV live HD">MTV live HD</channel>
-    <channel update="i" site="magenta.at" site_id="Euronews" xmltv_id="euronews HD">euronews HD</channel>
-    <channel update="i" site="magenta.at" site_id="BBC_World" xmltv_id="BBC World News">BBC World News</channel>
-    <channel update="i" site="magenta.at" site_id="CNN" xmltv_id="CNN International">CNN International</channel>
-    <channel update="i" site="magenta.at" site_id="CNBC" xmltv_id="CNBC">CNBC</channel>
-    <channel update="i" site="magenta.at" site_id="TV5Monde_Europe" xmltv_id="TV5Monde Europe">TV5Monde Europe</channel>
-    <channel update="i" site="magenta.at" site_id="France_24" xmltv_id="France 24 HD">France 24 HD</channel>
-    <channel update="i" site="magenta.at" site_id="CCTV_News" xmltv_id="CGTN">CGTN</channel>
-    <channel update="i" site="magenta.at" site_id="Bloomberg_Europe" xmltv_id="Bloomberg TV">Bloomberg TV</channel>
-    <channel update="i" site="magenta.at" site_id="YouTube_App" xmltv_id="YouTube">YouTube</channel>
-    <channel update="i" site="magenta.at" site_id="PrimeVideo_App" xmltv_id="Prime Video">Prime Video</channel>
-    <channel update="i" site="magenta.at" site_id="YouTubeKids_App" xmltv_id="YouTube Kids">YouTube Kids</channel>
-    <channel update="i" site="magenta.at" site_id="ORF_eins" xmltv_id="ORF 1">ORF 1</channel>
-    <channel update="i" site="magenta.at" site_id="ORF2_Wien" xmltv_id="ORF 2 Wien">ORF 2 Wien</channel>
-    <channel update="i" site="magenta.at" site_id="ATV" xmltv_id="ATV">ATV</channel>
-    <channel update="i" site="magenta.at" site_id="PULS_4" xmltv_id="PULS 4">PULS 4</channel>
-    <channel update="i" site="magenta.at" site_id="Servus_TV" xmltv_id="Servus TV">Servus TV</channel>
-    <channel update="i" site="magenta.at" site_id="ProSieben" xmltv_id="ProSieben">ProSieben</channel>
-    <channel update="i" site="magenta.at" site_id="RTL" xmltv_id="RTL">RTL</channel>
-    <channel update="i" site="magenta.at" site_id="VOX" xmltv_id="VOX">VOX</channel>
-    <channel update="i" site="magenta.at" site_id="Sat_1" xmltv_id="SAT.1">SAT.1</channel>
-    <channel update="i" site="magenta.at" site_id="ORF_III" xmltv_id="ORF III">ORF III</channel>
-    <channel update="i" site="magenta.at" site_id="kabel_eins" xmltv_id="Kabel Eins">Kabel Eins</channel>
-    <channel update="i" site="magenta.at" site_id="RTL_II" xmltv_id="RTLZWEI">RTLZWEI</channel>
-    <channel update="i" site="magenta.at" site_id="ATV_II" xmltv_id="ATV2">ATV2</channel>
-    <channel update="i" site="magenta.at" site_id="PULS24" xmltv_id="PULS24">PULS24</channel>
-    <channel update="i" site="magenta.at" site_id="oe24_TV" xmltv_id="oe24.TV">oe24.TV</channel>
-    <channel update="i" site="magenta.at" site_id="n_tv" xmltv_id="n-tv">n-tv</channel>
-    <channel update="i" site="magenta.at" site_id="krone_tv" xmltv_id="krone.tv">krone.tv</channel>
-    <channel update="i" site="magenta.at" site_id="OKTO" xmltv_id="Okto">Okto</channel>
-    <channel update="i" site="magenta.at" site_id="Sat_1_Gold" xmltv_id="Sat.1 Gold">Sat.1 Gold</channel>
-    <channel update="i" site="magenta.at" site_id="RTL_Nitro" xmltv_id="Nitro">Nitro</channel>
-    <channel update="i" site="magenta.at" site_id="Sixx_Austria" xmltv_id="sixx austria">sixx austria</channel>
-    <channel update="i" site="magenta.at" site_id="RTLplus" xmltv_id="RTLup">RTLup</channel>
-    <channel update="i" site="magenta.at" site_id="Pro7_Maxx" xmltv_id="ProSieben Maxx">ProSieben Maxx</channel>
-    <channel update="i" site="magenta.at" site_id="DMAX" xmltv_id="DMAX">DMAX</channel>
-    <channel update="i" site="magenta.at" site_id="kabel_eins_Doku" xmltv_id="Kabel Eins Doku">Kabel Eins Doku</channel>
-    <channel update="i" site="magenta.at" site_id="Super_RTL" xmltv_id="Super RTL">Super RTL</channel>
-    <channel update="i" site="magenta.at" site_id="ORF_Sport_" xmltv_id="ORF Sport+">ORF Sport+</channel>
-    <channel update="i" site="magenta.at" site_id="VESTI" xmltv_id="VESTI">VESTI</channel>
-    <channel update="i" site="magenta.at" site_id="Toxic_TV_HD" xmltv_id="Toxic TV HD">Toxic TV HD</channel>
-    <channel update="i" site="magenta.at" site_id="Film_Klub" xmltv_id="Film Klub">Film Klub</channel>
-    <channel update="i" site="magenta.at" site_id="RTS_Sat" xmltv_id="RTS Svet HD">RTS Svet HD</channel>
-    <channel update="i" site="magenta.at" site_id="RTV_Montenegro" xmltv_id="RTCG SAT">RTCG SAT</channel>
-    <channel update="i" site="magenta.at" site_id="Eurosport_Srbija" xmltv_id="Eurosport 1 Srbija">Eurosport 1 Srbija</channel>
-    <channel update="i" site="magenta.at" site_id="HRT_TV_1" xmltv_id="HRT TV1 HD">HRT TV1 HD</channel>
-    <channel update="i" site="magenta.at" site_id="TV_Polonia" xmltv_id="TV Polonia">TV Polonia</channel>
-    <channel update="i" site="magenta.at" site_id="Duna_TV" xmltv_id="Duna TV">Duna TV</channel>
-    <channel update="i" site="magenta.at" site_id="TRT_International" xmltv_id="TRT World">TRT World</channel>
-    <channel update="i" site="magenta.at" site_id="Eurosport_Turkce" xmltv_id="Eurosport Türkiye">Eurosport Türkiye</channel>
-    <channel update="i" site="magenta.at" site_id="Klasik_TV" xmltv_id="Klasik TV">Klasik TV</channel>
-    <channel update="i" site="magenta.at" site_id="Habertuerk_TV" xmltv_id="Habertürk TV">Habertürk TV</channel>
-    <channel update="i" site="magenta.at" site_id="Al_Jazeera" xmltv_id="Al Jazeera">Al Jazeera</channel>
-    <channel update="i" site="magenta.at" site_id="RAI_Uno" xmltv_id="RAI Uno">RAI Uno</channel>
-    <channel update="i" site="magenta.at" site_id="RAI_Due" xmltv_id="RAI Due">RAI Due</channel>
-    <channel update="i" site="magenta.at" site_id="RAI_Tre" xmltv_id="RAI Tre">RAI Tre</channel>
-    <channel update="i" site="magenta.at" site_id="EDTV_1" xmltv_id="Dubai TV">Dubai TV</channel>
-    <channel update="i" site="magenta.at" site_id="CCTV4" xmltv_id="CCTV4">CCTV4</channel>
-    <channel update="i" site="magenta.at" site_id="MTV_90s" xmltv_id="MTV 90s">MTV 90s</channel>
-    <channel update="i" site="magenta.at" site_id="MTV_Dance" xmltv_id="Club MTV">Club MTV</channel>
-    <channel update="i" site="magenta.at" site_id="MTVhits_" xmltv_id="MTVhits!">MTVhits!</channel>
-    <channel update="i" site="magenta.at" site_id="VH_1_Europe" xmltv_id="MTV 00s">MTV 00s</channel>
-    <channel update="i" site="magenta.at" site_id="Hayat" xmltv_id="Hayat">Hayat</channel>
-    <channel update="i" site="magenta.at" site_id="Pink_Plus" xmltv_id="Pink Plus">Pink Plus</channel>
-    <channel update="i" site="magenta.at" site_id="Pink_Extra" xmltv_id="Pink Extra">Pink Extra</channel>
-    <channel update="i" site="magenta.at" site_id="Pink_Film" xmltv_id="Pink Film">Pink Film</channel>
-    <channel update="i" site="magenta.at" site_id="Pink_Music" xmltv_id="Pink Music">Pink Music</channel>
-    <channel update="i" site="magenta.at" site_id="Blue_Hustler" xmltv_id="Blue Hustler">Blue Hustler</channel>
-    <channel update="i" site="magenta.at" site_id="Hustler_TV" xmltv_id="Hustler TV">Hustler TV</channel>
-    <channel update="i" site="magenta.at" site_id="Evil_Angel_HD" xmltv_id="Evil Angel HD">Evil Angel HD</channel>
-    <channel update="i" site="magenta.at" site_id="Lokal_TV_Wien" xmltv_id="Lokal TV">Lokal TV</channel>
-    <channel update="i" site="magenta.at" site_id="Magenta_PULS24" xmltv_id="Magenta">Magenta</channel>
-    <channel update="i" site="magenta.at" site_id="ZDF" xmltv_id="ZDF">ZDF</channel>
-    <channel update="i" site="magenta.at" site_id="Das_Erste" xmltv_id="Das Erste">Das Erste</channel>
-    <channel update="i" site="magenta.at" site_id="ZDF_neo" xmltv_id="ZDFneo">ZDFneo</channel>
-    <channel update="i" site="magenta.at" site_id="EinsFestival" xmltv_id="One">One</channel>
-    <channel update="i" site="magenta.at" site_id="Comedy_Central_VIVA" xmltv_id="Comedy Central">Comedy Central</channel>
-    <channel update="i" site="magenta.at" site_id="TLC" xmltv_id="TLC">TLC</channel>
-    <channel update="i" site="magenta.at" site_id="arte" xmltv_id="arte">arte</channel>
-    <channel update="i" site="magenta.at" site_id="3sat" xmltv_id="3sat">3sat</channel>
-    <channel update="i" site="magenta.at" site_id="BR" xmltv_id="BR Fernsehen">BR Fernsehen</channel>
-    <channel update="i" site="magenta.at" site_id="Phoenix" xmltv_id="phoenix">phoenix</channel>
-    <channel update="i" site="magenta.at" site_id="ZDF_info" xmltv_id="ZDFinfo">ZDFinfo</channel>
-    <channel update="i" site="magenta.at" site_id="tagesschau24" xmltv_id="tagesschau24">tagesschau24</channel>
-    <channel update="i" site="magenta.at" site_id="WDR" xmltv_id="WDR Fernsehen">WDR Fernsehen</channel>
-    <channel update="i" site="magenta.at" site_id="MDR" xmltv_id="MDR Fernsehen">MDR Fernsehen</channel>
-    <channel update="i" site="magenta.at" site_id="SWR" xmltv_id="SWR Fernsehen">SWR Fernsehen</channel>
-    <channel update="i" site="magenta.at" site_id="NDR" xmltv_id="NDR Fernsehen">NDR Fernsehen</channel>
-    <channel update="i" site="magenta.at" site_id="hessen_fernsehen" xmltv_id="HR">HR</channel>
-    <channel update="i" site="magenta.at" site_id="RBB_Fernsehen" xmltv_id="RBB Fernsehen">RBB Fernsehen</channel>
-    <channel update="i" site="magenta.at" site_id="KI_KA" xmltv_id="KiKA">KiKA</channel>
-    <channel update="i" site="magenta.at" site_id="Nickelodeon" xmltv_id="Nick">Nick</channel>
-    <channel update="i" site="magenta.at" site_id="QVC" xmltv_id="QVC">QVC</channel>
-    <channel update="i" site="magenta.at" site_id="HSE24" xmltv_id="HSE">HSE</channel>
-    <channel update="i" site="magenta.at" site_id="QVC_Plus" xmltv_id="QVC ZWEI">QVC ZWEI</channel>
-    <channel update="i" site="magenta.at" site_id="HSE24_Extra" xmltv_id="HSE Extra">HSE Extra</channel>
-    <channel update="i" site="magenta.at" site_id="Eurosport_1" xmltv_id="Eurosport 1">Eurosport 1</channel>
-    <channel update="i" site="magenta.at" site_id="Sport_1" xmltv_id="Sport 1">Sport 1</channel>
-    <channel update="i" site="magenta.at" site_id="Tirol_TV" xmltv_id="Tirol TV">Tirol TV</channel>
-    <channel update="i" site="magenta.at" site_id="L_ndle_TV" xmltv_id="Ländle TV">Ländle TV</channel>
-    <channel update="i" site="magenta.at" site_id="W24" xmltv_id="W24">W24</channel>
-    <channel update="i" site="magenta.at" site_id="WNTV" xmltv_id="WNTV">WNTV</channel>
-    <channel update="i" site="magenta.at" site_id="ORF2_Burgenland" xmltv_id="ORF 2 Burgenland">ORF 2 Burgenland</channel>
-    <channel update="i" site="magenta.at" site_id="ORF2_K_rnten" xmltv_id="ORF 2 Kärnten">ORF 2 Kärnten</channel>
-    <channel update="i" site="magenta.at" site_id="ORF2_Nieder_sterreich" xmltv_id="ORF 2 Nö">ORF 2 Nö</channel>
-    <channel update="i" site="magenta.at" site_id="ORF2_Ober_sterreich" xmltv_id="ORF 2 Oberösterreich">ORF 2 Oberösterreich</channel>
-    <channel update="i" site="magenta.at" site_id="ORF2_Salzburg" xmltv_id="ORF 2 Salzburg">ORF 2 Salzburg</channel>
-    <channel update="i" site="magenta.at" site_id="ORF2_Steiermark" xmltv_id="ORF 2 Steiermark">ORF 2 Steiermark</channel>
-    <channel update="i" site="magenta.at" site_id="ORF2_Tirol" xmltv_id="ORF 2 Tirol">ORF 2 Tirol</channel>
-    <channel update="i" site="magenta.at" site_id="ORF2_Vorarlberg" xmltv_id="ORF 2 Vorarlberg">ORF 2 Vorarlberg</channel>
-    <channel update="i" site="magenta.at" site_id="Sky_1" xmltv_id="Sky One HD">Sky One HD</channel>
-    <channel update="i" site="magenta.at" site_id="Sky_Nature_HD" xmltv_id="Sky Nature HD">Sky Nature HD</channel>
-    <channel update="i" site="magenta.at" site_id="Sky_Documentaries_HD" xmltv_id="Sky Documentaries HD">Sky Documentaries HD</channel>
-    <channel update="i" site="magenta.at" site_id="Sky_Showcase_HD" xmltv_id="Sky Showcase HD">Sky Showcase HD</channel>
-    <channel update="i" site="magenta.at" site_id="Disney_XD" xmltv_id="Boomerang">Boomerang</channel>
-    <channel update="i" site="magenta.at" site_id="Sky_Popup_Channel_HD" xmltv_id="Sky Replay HD">Sky Replay HD</channel>
-    <channel update="i" site="magenta.at" site_id="Sky_Crime_HD" xmltv_id="Sky Crime HD">Sky Crime HD</channel>
-    <channel update="i" site="magenta.at" site_id="Sky_Comedy_HD" xmltv_id="Sky Comedy HD">Sky Comedy HD</channel>
-    <channel update="i" site="magenta.at" site_id="Sky_Atlantic_HD" xmltv_id="Sky Atlantic HD">Sky Atlantic HD</channel>
-    <channel update="i" site="magenta.at" site_id="Sky_Cinema_HD" xmltv_id="Sky Cinema Premieren HD">Sky Cinema Premieren HD</channel>
-    <channel update="i" site="magenta.at" site_id="Sky_Hits_HD" xmltv_id="Sky Cinema Best of HD">Sky Cinema Best of HD</channel>
-    <channel update="i" site="magenta.at" site_id="Sky_Cinema_Family_HD" xmltv_id="Sky Cinema Family HD">Sky Cinema Family HD</channel>
-    <channel update="i" site="magenta.at" site_id="Disney_Cinemagic_HD" xmltv_id="Sky Cinema Special HD">Sky Cinema Special HD</channel>
-    <channel update="i" site="magenta.at" site_id="Sky_Cinema_Action_HD" xmltv_id="Sky Cinema Action HD">Sky Cinema Action HD</channel>
-    <channel update="i" site="magenta.at" site_id="Sky_Cinema_Thriller_HD" xmltv_id="Sky Cinema Thriller HD">Sky Cinema Thriller HD</channel>
-    <channel update="i" site="magenta.at" site_id="Sky_Cinema__24" xmltv_id="Sky Cinema Premieren +24 HD">Sky Cinema Premieren +24 HD</channel>
-    <channel update="i" site="magenta.at" site_id="Sky_Nostalgie" xmltv_id="Sky Cinema Classics">Sky Cinema Classics</channel>
-    <channel update="i" site="magenta.at" site_id="Sky_Comedy" xmltv_id="Sky Cinema Fun">Sky Cinema Fun</channel>
-    <channel update="i" site="magenta.at" site_id="Sky_Sport_News_HD" xmltv_id="Sky Sport News HD">Sky Sport News HD</channel>
-    <channel update="i" site="magenta.at" site_id="Sky_Sport_Austria_HD" xmltv_id="Sky Sport Austria 1 HD">Sky Sport Austria 1 HD</channel>
-    <channel update="i" site="magenta.at" site_id="Sky_Sport_Austria_2_HD" xmltv_id="Sky Sport Austria 2 HD">Sky Sport Austria 2 HD</channel>
-    <channel update="i" site="magenta.at" site_id="Sky_Sport_Austria_3_HD" xmltv_id="Sky Sport Austria 3 HD">Sky Sport Austria 3 HD</channel>
-    <channel update="i" site="magenta.at" site_id="Sky_Sport_Austria_4_HD" xmltv_id="Sky Sport Austria 4 HD">Sky Sport Austria 4 HD</channel>
-    <channel update="i" site="magenta.at" site_id="Sky_Sport_Austria_5_HD" xmltv_id="Sky Sport Austria 5 HD">Sky Sport Austria 5 HD</channel>
-    <channel update="i" site="magenta.at" site_id="Sky_Sport_Austria_6_HD" xmltv_id="Sky Sport Austria 6 HD">Sky Sport Austria 6 HD</channel>
-    <channel update="i" site="magenta.at" site_id="Sky_Sport_Austria_7_HD" xmltv_id="Sky Sport Austria 7 HD">Sky Sport Austria 7 HD</channel>
-    <channel update="i" site="magenta.at" site_id="Sky_Sport_Premier_League_HD" xmltv_id="Sky Sport Premier League HD">Sky Sport Premier League HD</channel>
-    <channel update="i" site="magenta.at" site_id="Sky_Sport_Golf_HD" xmltv_id="Sky Sport Golf HD">Sky Sport Golf HD</channel>
-    <channel update="i" site="magenta.at" site_id="Sky_Sport_F1_HD" xmltv_id="Sky Sport F1">Sky Sport F1</channel>
-    <channel update="i" site="magenta.at" site_id="Sky_Sport_HD_1" xmltv_id="Sky Sport Mix HD">Sky Sport Mix HD</channel>
-    <channel update="i" site="magenta.at" site_id="Sky_Sport_HD_2" xmltv_id="Sky Sport Tennis HD">Sky Sport Tennis HD</channel>
-    <channel update="i" site="magenta.at" site_id="Sky_Sport_HD_3" xmltv_id="Sky Sport HD 1">Sky Sport HD 1</channel>
-    <channel update="i" site="magenta.at" site_id="Sky_Sport_HD_4" xmltv_id="Sky Sport HD 2">Sky Sport HD 2</channel>
-    <channel update="i" site="magenta.at" site_id="Sky_Sport_HD_5" xmltv_id="Sky Sport HD 3">Sky Sport HD 3</channel>
-    <channel update="i" site="magenta.at" site_id="Sky_Sport_HD_6" xmltv_id="Sky Sport HD 4">Sky Sport HD 4</channel>
-    <channel update="i" site="magenta.at" site_id="Sky_Sport_HD_7" xmltv_id="Sky Sport HD 5">Sky Sport HD 5</channel>
-    <channel update="i" site="magenta.at" site_id="Sky_Sport_HD_8" xmltv_id="Sky Sport HD 6">Sky Sport HD 6</channel>
-    <channel update="i" site="magenta.at" site_id="Sky_Sport_HD_9" xmltv_id="Sky Sport HD 7">Sky Sport HD 7</channel>
-    <channel update="i" site="magenta.at" site_id="Sky_Sport_HD_10" xmltv_id="Sky Sport HD 8">Sky Sport HD 8</channel>
-    <channel update="i" site="magenta.at" site_id="Sky_Sport_HD_11" xmltv_id="Sky Sport HD 9">Sky Sport HD 9</channel>
-    <channel update="i" site="magenta.at" site_id="Sky_Sport_10_HD_July22" xmltv_id="Sky Sport 10 HD">Sky Sport 10 HD</channel>
-    <channel update="i" site="magenta.at" site_id="Sky_Bundesliga_HD_1" xmltv_id="Sky Bundesliga HD">Sky Bundesliga HD</channel>
-    <channel update="i" site="magenta.at" site_id="Sky_Bundesliga_HD_2" xmltv_id="Sky Bundesliga HD 1">Sky Bundesliga HD 1</channel>
-    <channel update="i" site="magenta.at" site_id="Sky_Bundesliga_HD_3" xmltv_id="Sky Bundesliga HD 2">Sky Bundesliga HD 2</channel>
-    <channel update="i" site="magenta.at" site_id="Sky_Bundesliga_HD_4" xmltv_id="Sky Bundesliga HD 3">Sky Bundesliga HD 3</channel>
-    <channel update="i" site="magenta.at" site_id="Sky_Bundesliga_HD_5" xmltv_id="Sky Bundesliga HD 4">Sky Bundesliga HD 4</channel>
-    <channel update="i" site="magenta.at" site_id="Sky_Bundesliga_HD_6" xmltv_id="Sky Bundesliga HD 5">Sky Bundesliga HD 5</channel>
-    <channel update="i" site="magenta.at" site_id="Sky_Bundesliga_HD_7" xmltv_id="Sky Bundesliga HD 6">Sky Bundesliga HD 6</channel>
-    <channel update="i" site="magenta.at" site_id="Sky_Bundesliga_HD_8" xmltv_id="Sky Bundesliga HD 7">Sky Bundesliga HD 7</channel>
-    <channel update="i" site="magenta.at" site_id="Sky_Bundesliga_HD_9" xmltv_id="Sky Bundesliga HD 8">Sky Bundesliga HD 8</channel>
-    <channel update="i" site="magenta.at" site_id="Sky_Bundesliga_HD_10" xmltv_id="Sky Bundesliga HD 9">Sky Bundesliga HD 9</channel>
-    <channel update="i" site="magenta.at" site_id="Sky_Bundesliga_HD_10_July22" xmltv_id="Sky Bundesliga HD 10">Sky Bundesliga HD 10</channel>
-    <channel update="i" site="magenta.at" site_id="Total_Hits_Austria" xmltv_id="Total Hits Österreich">Total Hits Österreich</channel>
-    <channel update="i" site="magenta.at" site_id="Total_Hits_Deutschland" xmltv_id="Total Hits Deutschland">Total Hits Deutschland</channel>
-    <channel update="i" site="magenta.at" site_id="Total_Hits_UK" xmltv_id="Total Hits UK">Total Hits UK</channel>
-    <channel update="i" site="magenta.at" site_id="Total_Hits_Italien" xmltv_id="Total Hits Italien">Total Hits Italien</channel>
-    <channel update="i" site="magenta.at" site_id="Total_Hits_Spanien" xmltv_id="Total Hits Spanien">Total Hits Spanien</channel>
-    <channel update="i" site="magenta.at" site_id="Total_Hits_Frankreich" xmltv_id="Total Hits Frankreich">Total Hits Frankreich</channel>
-    <channel update="i" site="magenta.at" site_id="Kuschelsongs" xmltv_id="Kuschelsongs">Kuschelsongs</channel>
-    <channel update="i" site="magenta.at" site_id="All_Day_Party" xmltv_id="All Day Party">All Day Party</channel>
-    <channel update="i" site="magenta.at" site_id="2000s" xmltv_id="2000's">2000's</channel>
-    <channel update="i" site="magenta.at" site_id="90s" xmltv_id="90's">90's</channel>
-    <channel update="i" site="magenta.at" site_id="80s" xmltv_id="80's">80's</channel>
-    <channel update="i" site="magenta.at" site_id="70s" xmltv_id="Soho 70's">Soho 70's</channel>
-    <channel update="i" site="magenta.at" site_id="60s" xmltv_id="60's">60's</channel>
-    <channel update="i" site="magenta.at" site_id="Rock_n_Roll_Era" xmltv_id="Rock'n'Roll">Rock'n'Roll</channel>
-    <channel update="i" site="magenta.at" site_id="Revival" xmltv_id="Revival - 60er &amp; 70er">Revival - 60er &amp; 70er</channel>
-    <channel update="i" site="magenta.at" site_id="Ultimate_Urban" xmltv_id="Urban - Germany">Urban - Germany</channel>
-    <channel update="i" site="magenta.at" site_id="Groove_Disco_Funk" xmltv_id="Groove (Disco &amp; Funk)">Groove (Disco &amp; Funk)</channel>
-    <channel update="i" site="magenta.at" site_id="Classic_RnB_Soul" xmltv_id="Classic R'n'B &amp; Soul">Classic R'n'B &amp; Soul</channel>
-    <channel update="i" site="magenta.at" site_id="Reggae" xmltv_id="Reggae">Reggae</channel>
-    <channel update="i" site="magenta.at" site_id="Blues" xmltv_id="Blues">Blues</channel>
-    <channel update="i" site="magenta.at" site_id="Dance_Floor_Fillers" xmltv_id="Dance Floor Fillers">Dance Floor Fillers</channel>
-    <channel update="i" site="magenta.at" site_id="Bass_Breaks_Beates" xmltv_id="Bass Breaks &amp; Beats">Bass Breaks &amp; Beats</channel>
-    <channel update="i" site="magenta.at" site_id="Chillout" xmltv_id="Chillout">Chillout</channel>
-    <channel update="i" site="magenta.at" site_id="The_Alternative" xmltv_id="The Alternative">The Alternative</channel>
-    <channel update="i" site="magenta.at" site_id="Rock_Anthems" xmltv_id="Rock Anthems">Rock Anthems</channel>
-    <channel update="i" site="magenta.at" site_id="Classic_Rock" xmltv_id="Classic Rock">Classic Rock</channel>
-    <channel update="i" site="magenta.at" site_id="Headbangers" xmltv_id="Headbangers">Headbangers</channel>
-    <channel update="i" site="magenta.at" site_id="Indie_Classic" xmltv_id="Indie Classic">Indie Classic</channel>
-    <channel update="i" site="magenta.at" site_id="Romantische_Klassik" xmltv_id="Classical Calm">Classical Calm</channel>
-    <channel update="i" site="magenta.at" site_id="Populaere_Klassik" xmltv_id="Classical Greats">Classical Greats</channel>
-    <channel update="i" site="magenta.at" site_id="Orchester_Klassik" xmltv_id="Orchester Klassik">Orchester Klassik</channel>
-    <channel update="i" site="magenta.at" site_id="Cool_Jazz" xmltv_id="Cool Jazz">Cool Jazz</channel>
-    <channel update="i" site="magenta.at" site_id="Jass_Classics" xmltv_id="Jazz Classics">Jazz Classics</channel>
-    <channel update="i" site="magenta.at" site_id="Cocktail_Lounge" xmltv_id="Cocktail Lounge">Cocktail Lounge</channel>
-    <channel update="i" site="magenta.at" site_id="Hot_Country" xmltv_id="Hot Country">Hot Country</channel>
-    <channel update="i" site="magenta.at" site_id="Latin" xmltv_id="Latin">Latin</channel>
-    <channel update="i" site="magenta.at" site_id="World_Carnival" xmltv_id="World Carnival">World Carnival</channel>
-    <channel update="i" site="magenta.at" site_id="Chansons" xmltv_id="Chansons">Chansons</channel>
-    <channel update="i" site="magenta.at" site_id="Kinder" xmltv_id="Kinder">Kinder</channel>
-    <channel update="i" site="magenta.at" site_id="Schlager" xmltv_id="Schlager">Schlager</channel>
-    <channel update="i" site="magenta.at" site_id="Sommer_Hits" xmltv_id="Sommer Hits">Sommer Hits</channel>
-    <channel update="i" site="magenta.at" site_id="Volksmusik" xmltv_id="Volksmusik">Volksmusik</channel>
-    <channel update="i" site="magenta.at" site_id="Tuerk_Muezigi" xmltv_id="Türk Müzigi">Türk Müzigi</channel>
-    <channel update="i" site="magenta.at" site_id="Total_Hits_Poland" xmltv_id="Total Hits Polen">Total Hits Polen</channel>
-    <channel update="i" site="magenta.at" site_id="Event_Specials" xmltv_id="Event-Specials">Event-Specials</channel>
-    <channel update="i" site="magenta.at" site_id="Total_Hits_Austria_radio_portal" xmltv_id="Total Hits Österreich">Total Hits Österreich</channel>
-    <channel update="i" site="magenta.at" site_id="Total_Hits_Deutschland_radio_portal" xmltv_id="Total Hits Deutschland">Total Hits Deutschland</channel>
-    <channel update="i" site="magenta.at" site_id="Total_Hits_UK_radio_portal" xmltv_id="Total Hits UK">Total Hits UK</channel>
-    <channel update="i" site="magenta.at" site_id="Total_Hits_Italien_radio_portal" xmltv_id="Total Hits Italien">Total Hits Italien</channel>
-    <channel update="i" site="magenta.at" site_id="Total_Hits_Spanien_radio_portal" xmltv_id="Total Hits Spanien">Total Hits Spanien</channel>
-    <channel update="i" site="magenta.at" site_id="Total_Hits_Frankreich_radio_portal" xmltv_id="Total Hits Frankreich">Total Hits Frankreich</channel>
-    <channel update="i" site="magenta.at" site_id="Kuschelsongs_radio_portal" xmltv_id="Kuschelsongs">Kuschelsongs</channel>
-    <channel update="i" site="magenta.at" site_id="All_Day_Party_radio_portal" xmltv_id="All Day Party">All Day Party</channel>
-    <channel update="i" site="magenta.at" site_id="2000s_radio_portal" xmltv_id="2000's">2000's</channel>
-    <channel update="i" site="magenta.at" site_id="90s_radio_portal" xmltv_id="90's">90's</channel>
-    <channel update="i" site="magenta.at" site_id="80s_radio_portal" xmltv_id="80's">80's</channel>
-    <channel update="i" site="magenta.at" site_id="70s_radio_portal" xmltv_id="Soho 70's">Soho 70's</channel>
-    <channel update="i" site="magenta.at" site_id="60s_radio_portal" xmltv_id="60's">60's</channel>
-    <channel update="i" site="magenta.at" site_id="Rock_n_Roll_Era_radio_portal" xmltv_id="Rock'n'Roll">Rock'n'Roll</channel>
-    <channel update="i" site="magenta.at" site_id="Revival_radio_portal" xmltv_id="Revival - 60er &amp; 70er">Revival - 60er &amp; 70er</channel>
-    <channel update="i" site="magenta.at" site_id="Ultimate_Urban_radio_portal" xmltv_id="Urban - Germany">Urban - Germany</channel>
-    <channel update="i" site="magenta.at" site_id="Groove_Disco_Funk_radio_portal" xmltv_id="Groove (Disco &amp; Funk)">Groove (Disco &amp; Funk)</channel>
-    <channel update="i" site="magenta.at" site_id="Classic_RnB_Soul_radio_portal" xmltv_id="Classic R'n'B &amp; Soul">Classic R'n'B &amp; Soul</channel>
-    <channel update="i" site="magenta.at" site_id="Reggae_radio_portal" xmltv_id="Reggae">Reggae</channel>
-    <channel update="i" site="magenta.at" site_id="Blues_radio_portal" xmltv_id="Blues">Blues</channel>
-    <channel update="i" site="magenta.at" site_id="Dance_Floor_Fillers_radio_portal" xmltv_id="Dance Floor Fillers">Dance Floor Fillers</channel>
-    <channel update="i" site="magenta.at" site_id="Bass_Breaks_Beates_radio_portal" xmltv_id="Bass Breaks &amp; Beats">Bass Breaks &amp; Beats</channel>
-    <channel update="i" site="magenta.at" site_id="Chillout_radio_portal" xmltv_id="Chillout">Chillout</channel>
-    <channel update="i" site="magenta.at" site_id="The_Alternative_radio_portal" xmltv_id="The Alternative">The Alternative</channel>
-    <channel update="i" site="magenta.at" site_id="Rock_Anthems_radio_portal" xmltv_id="Rock Anthems">Rock Anthems</channel>
-    <channel update="i" site="magenta.at" site_id="Classic_Rock_radio_portal" xmltv_id="Classic Rock">Classic Rock</channel>
-    <channel update="i" site="magenta.at" site_id="Headbangers_radio_portal" xmltv_id="Headbangers">Headbangers</channel>
-    <channel update="i" site="magenta.at" site_id="Indie_Classic_radio_portal" xmltv_id="Indie Classic">Indie Classic</channel>
-    <channel update="i" site="magenta.at" site_id="Romantische_Klassik_radio_portal" xmltv_id="Classical Calm">Classical Calm</channel>
-    <channel update="i" site="magenta.at" site_id="Populaere_Klassik_radio_portal" xmltv_id="Classical Greats">Classical Greats</channel>
-    <channel update="i" site="magenta.at" site_id="Orchester_Klassik_radio_portal" xmltv_id="Orchester Klassik">Orchester Klassik</channel>
-    <channel update="i" site="magenta.at" site_id="Cool_Jazz_radio_portal" xmltv_id="Cool Jazz">Cool Jazz</channel>
-    <channel update="i" site="magenta.at" site_id="Jass_Classics_radio_portal" xmltv_id="Jazz Classics">Jazz Classics</channel>
-    <channel update="i" site="magenta.at" site_id="Cocktail_Lounge_radio_portal" xmltv_id="Cocktail Lounge">Cocktail Lounge</channel>
-    <channel update="i" site="magenta.at" site_id="Hot_Country_radio_portal" xmltv_id="Hot Country">Hot Country</channel>
-    <channel update="i" site="magenta.at" site_id="Latin_radio_portal" xmltv_id="Latin">Latin</channel>
-    <channel update="i" site="magenta.at" site_id="World_Carnival_radio_portal" xmltv_id="World Carnival">World Carnival</channel>
-    <channel update="i" site="magenta.at" site_id="Chansons_radio_portal" xmltv_id="Chansons">Chansons</channel>
-    <channel update="i" site="magenta.at" site_id="Kinder_radio_portal" xmltv_id="Kinder">Kinder</channel>
-    <channel update="i" site="magenta.at" site_id="Schlager_radio_portal" xmltv_id="Schlager">Schlager</channel>
-    <channel update="i" site="magenta.at" site_id="Sommer_Hits_radio_portal" xmltv_id="Sommer Hits">Sommer Hits</channel>
-    <channel update="i" site="magenta.at" site_id="Volksmusik_radio_portal" xmltv_id="Volksmusik">Volksmusik</channel>
-    <channel update="i" site="magenta.at" site_id="Tuerk_Muezigi_radio_portal" xmltv_id="Türk Müzigi">Türk Müzigi</channel>
-    <channel update="i" site="magenta.at" site_id="Total_Hits_Poland_radio_portal" xmltv_id="Total Hits Polen">Total Hits Polen</channel>
-    <channel update="i" site="magenta.at" site_id="Event_Specials_radio_portal" xmltv_id="Event-Specials">Event-Specials</channel>
-    <channel update="i" site="magenta.at" site_id="OE3" xmltv_id="Hitradio Ö3">Hitradio Ö3</channel>
-    <channel update="i" site="magenta.at" site_id="FM4" xmltv_id="FM4">FM4</channel>
-    <channel update="i" site="magenta.at" site_id="OE2_Wien" xmltv_id="Ö2 Wien">Ö2 Wien</channel>
-    <channel update="i" site="magenta.at" site_id="OE2_Niederoesterreich" xmltv_id="Ö2 Niederösterreich">Ö2 Niederösterreich</channel>
-    <channel update="i" site="magenta.at" site_id="OE2_Burgenland" xmltv_id="Ö2 Burgenland">Ö2 Burgenland</channel>
-    <channel update="i" site="magenta.at" site_id="OE2_Steiermark" xmltv_id="Ö2 Steiermark">Ö2 Steiermark</channel>
-    <channel update="i" site="magenta.at" site_id="OE2_Kaernten" xmltv_id="Ö2 Kärnten">Ö2 Kärnten</channel>
-    <channel update="i" site="magenta.at" site_id="OE2_Oberoesterreich" xmltv_id="Ö2 Oberösterreich">Ö2 Oberösterreich</channel>
-    <channel update="i" site="magenta.at" site_id="OE2_Salzburg" xmltv_id="Ö2 Salzburg">Ö2 Salzburg</channel>
-    <channel update="i" site="magenta.at" site_id="OE2_Tirol" xmltv_id="Ö2 Tirol">Ö2 Tirol</channel>
-    <channel update="i" site="magenta.at" site_id="OE2_Vorarlberg" xmltv_id="Ö2 Vorarlberg">Ö2 Vorarlberg</channel>
-    <channel update="i" site="magenta.at" site_id="OE1" xmltv_id="Ö1">Ö1</channel>
-    <channel update="i" site="magenta.at" site_id="OE1_DD" xmltv_id="Ö1 DD">Ö1 DD</channel>
-    <channel update="i" site="magenta.at" site_id="Radio_Stephansdom" xmltv_id="radio klassik Stephansdom">radio klassik Stephansdom</channel>
-    <channel update="i" site="magenta.at" site_id="RADIO_MARIA" xmltv_id="RADIO MARIA">RADIO MARIA</channel>
-    <channel update="i" site="magenta.at" site_id="LoungeFM" xmltv_id="LoungeFM">LoungeFM</channel>
-    <channel update="i" site="magenta.at" site_id="Superfly" xmltv_id="Superfly.fm">Superfly.fm</channel>
-    <channel update="i" site="magenta.at" site_id="88_6_Der_Musiksender_Wien" xmltv_id="radio 88.6">radio 88.6</channel>
-    <channel update="i" site="magenta.at" site_id="Radio_Arabella_Wien" xmltv_id="Radio Arabella">Radio Arabella</channel>
-    <channel update="i" site="magenta.at" site_id="Radio_Oe24_Wien" xmltv_id="Radio Ö24">Radio Ö24</channel>
-    <channel update="i" site="magenta.at" site_id="Radio_Energy_Wien" xmltv_id="Radio Energy">Radio Energy</channel>
-    <channel update="i" site="magenta.at" site_id="Orange_94_0_Wien" xmltv_id="Radio Orange 94.0">Radio Orange 94.0</channel>
-    <channel update="i" site="magenta.at" site_id="Klassik_Radio" xmltv_id="Klassik Radio">Klassik Radio</channel>
-    <channel update="i" site="magenta.at" site_id="Bayern_1" xmltv_id="Bayern 1">Bayern 1</channel>
-    <channel update="i" site="magenta.at" site_id="Bayern_2" xmltv_id="Bayern 2">Bayern 2</channel>
-    <channel update="i" site="magenta.at" site_id="Bayern_3" xmltv_id="Bayern 3">Bayern 3</channel>
-    <channel update="i" site="magenta.at" site_id="Bayern_4_Klassik" xmltv_id="BR-Klassik">BR-Klassik</channel>
-    <channel update="i" site="magenta.at" site_id="Bayern_5_aktuell" xmltv_id="BR24">BR24</channel>
-    <channel update="i" site="magenta.at" site_id="hr_2" xmltv_id="hr2-kultur">hr2-kultur</channel>
-    <channel update="i" site="magenta.at" site_id="Nordwestradio" xmltv_id="Bremen Zwei">Bremen Zwei</channel>
-    <channel update="i" site="magenta.at" site_id="WDR_3" xmltv_id="WDR 3">WDR 3</channel>
-    <channel update="i" site="magenta.at" site_id="SWR_2" xmltv_id="SWR 2">SWR 2</channel>
-    <channel update="i" site="magenta.at" site_id="1_LIVE" xmltv_id="1LIVE">1LIVE</channel>
-    <channel update="i" site="magenta.at" site_id="1_LIVE_diggi" xmltv_id="1 LIVE diggi">1 LIVE diggi</channel>
-    <channel update="i" site="magenta.at" site_id="Fritz" xmltv_id="Fritz">Fritz</channel>
-    <channel update="i" site="magenta.at" site_id="N_Joy" xmltv_id="N-JOY">N-JOY</channel>
-    <channel update="i" site="magenta.at" site_id="radioeins" xmltv_id="radioeins">radioeins</channel>
-    <channel update="i" site="magenta.at" site_id="Radio_SRF_2_Kultur" xmltv_id="Radio SRF 2 Kultur">Radio SRF 2 Kultur</channel>
-    <channel update="i" site="magenta.at" site_id="RNE_Radio_1" xmltv_id="Radio Nacional">Radio Nacional</channel>
-    <channel update="i" site="magenta.at" site_id="RTL_Radio_Oldie" xmltv_id="RTL Radio">RTL Radio</channel>
-    <channel update="i" site="magenta.at" site_id="Deutschlandfunk" xmltv_id="Deutschlandfunk">Deutschlandfunk</channel>
-    <channel update="i" site="magenta.at" site_id="Deutschland_Radio_Berlin" xmltv_id="Deutschland Radio Kultur">Deutschland Radio Kultur</channel>
-    <channel update="i" site="magenta.at" site_id="MDR_Sputnik" xmltv_id="MDR Sputnik">MDR Sputnik</channel>
-    <channel update="i" site="magenta.at" site_id="NDR_2" xmltv_id="NDR2">NDR2</channel>
-    <channel update="i" site="magenta.at" site_id="NDR_Info" xmltv_id="NDR Info">NDR Info</channel>
-    <channel update="i" site="magenta.at" site_id="SWR_3" xmltv_id="SWR 3">SWR 3</channel>
-    <channel update="i" site="magenta.at" site_id="WDR_2" xmltv_id="WDR 2">WDR 2</channel>
-    <channel update="i" site="magenta.at" site_id="Antenne_Bayern" xmltv_id="Antenne Bayern">Antenne Bayern</channel>
-    <channel update="i" site="magenta.at" site_id="SRF_1" xmltv_id="Radio SRF 1">Radio SRF 1</channel>
-    <channel update="i" site="magenta.at" site_id="SRG_Swiss_Pop" xmltv_id="Radio Swiss Pop">Radio Swiss Pop</channel>
-    <channel update="i" site="magenta.at" site_id="SRG_Swiss_Classic" xmltv_id="Radio Swiss Classic">Radio Swiss Classic</channel>
-    <channel update="i" site="magenta.at" site_id="SRG_Swiss_Jazz" xmltv_id="Radio Swiss Jazz">Radio Swiss Jazz</channel>
-    <channel update="i" site="magenta.at" site_id="HIT_Radio_FFH" xmltv_id="HIT Radio FFH">HIT Radio FFH</channel>
-    <channel update="i" site="magenta.at" site_id="Planet_Radio" xmltv_id="planet radio">planet radio</channel>
-    <channel update="i" site="magenta.at" site_id="NDR_Kultur" xmltv_id="NDR Kultur">NDR Kultur</channel>
-    <channel update="i" site="magenta.at" site_id="SWR_4_BW" xmltv_id="SWR 4 Baden-Württemberg">SWR 4 Baden-Württemberg</channel>
-    <channel update="i" site="magenta.at" site_id="RNE_Radio_Exterior" xmltv_id="Radio Exterior de Espana">Radio Exterior de Espana</channel>
-    <channel update="i" site="magenta.at" site_id="Radio_Horeb" xmltv_id="Radio Horeb">Radio Horeb</channel>
-    <channel update="i" site="magenta.at" site_id="ERF_plus" xmltv_id="ERF Plus">ERF Plus</channel>
-    <channel update="i" site="magenta.at" site_id="BBC_English" xmltv_id="BBC English">BBC English</channel>
-    <channel update="i" site="magenta.at" site_id="RFI_Francais" xmltv_id="RFI Francais">RFI Francais</channel>
-    <channel update="i" site="magenta.at" site_id="SSR_Rete_Uno" xmltv_id="Rete Uno">Rete Uno</channel>
-    <channel update="i" site="magenta.at" site_id="WRN" xmltv_id="WRN English Europe">WRN English Europe</channel>
-    <channel update="i" site="magenta.at" site_id="Radio_Osttirol" xmltv_id="Radio Osttirol">Radio Osttirol</channel>
+    <channel update="i" site="magenta.at" site_id="206965288083" xmltv_id="Magenta HD">Magenta HD</channel>
+    <channel update="i" site="magenta.at" site_id="206965288091" xmltv_id="ORF 1 HD">ORF 1 HD</channel>
+    <channel update="i" site="magenta.at" site_id="206963752351" xmltv_id="ORF 2 Wien HD">ORF 2 Wien HD</channel>
+    <channel update="i" site="magenta.at" site_id="206965288109" xmltv_id="ATV HD">ATV HD</channel>
+    <channel update="i" site="magenta.at" site_id="206965288121" xmltv_id="PULS 4 HD">PULS 4 HD</channel>
+    <channel update="i" site="magenta.at" site_id="206965800168" xmltv_id="Servus TV HD">Servus TV HD</channel>
+    <channel update="i" site="magenta.at" site_id="206964776230" xmltv_id="ZDF HD">ZDF HD</channel>
+    <channel update="i" site="magenta.at" site_id="206964776235" xmltv_id="ProSieben HD">ProSieben HD</channel>
+    <channel update="i" site="magenta.at" site_id="206965288143" xmltv_id="RTL HD">RTL HD</channel>
+    <channel update="i" site="magenta.at" site_id="206965288149" xmltv_id="W24 HD">W24 HD</channel>
+    <channel update="i" site="magenta.at" site_id="206964776257" xmltv_id="VOX HD">VOX HD</channel>
+    <channel update="i" site="magenta.at" site_id="206963752404" xmltv_id="SAT.1 HD">SAT.1 HD</channel>
+    <channel update="i" site="magenta.at" site_id="206964776268" xmltv_id="ORF III HD">ORF III HD</channel>
+    <channel update="i" site="magenta.at" site_id="206964776277" xmltv_id="Das Erste HD">Das Erste HD</channel>
+    <channel update="i" site="magenta.at" site_id="206965800213" xmltv_id="Kabel Eins HD">Kabel Eins HD</channel>
+    <channel update="i" site="magenta.at" site_id="206963752417" xmltv_id="RTLZWEI HD">RTLZWEI HD</channel>
+    <channel update="i" site="magenta.at" site_id="206965800229" xmltv_id="ATV2 HD">ATV2 HD</channel>
+    <channel update="i" site="magenta.at" site_id="206965288206" xmltv_id="PULS24 HD">PULS24 HD</channel>
+    <channel update="i" site="magenta.at" site_id="206964776306" xmltv_id="oe24.TV HD">oe24.TV HD</channel>
+    <channel update="i" site="magenta.at" site_id="206964776317" xmltv_id="n-tv HD">n-tv HD</channel>
+    <channel update="i" site="magenta.at" site_id="234851368438" xmltv_id="eXXpressTV">eXXpressTV</channel>
+    <channel update="i" site="magenta.at" site_id="206963752441" xmltv_id="SAT.1 Gold HD">SAT.1 Gold HD</channel>
+    <channel update="i" site="magenta.at" site_id="206965288223" xmltv_id="Nitro HD">Nitro HD</channel>
+    <channel update="i" site="magenta.at" site_id="206965800268" xmltv_id="sixx austria HD">sixx austria HD</channel>
+    <channel update="i" site="magenta.at" site_id="206966311961" xmltv_id="RTLup HD">RTLup HD</channel>
+    <channel update="i" site="magenta.at" site_id="206966311964" xmltv_id="ProSieben Maxx HD">ProSieben Maxx HD</channel>
+    <channel update="i" site="magenta.at" site_id="206966311975" xmltv_id="DMAX HD">DMAX HD</channel>
+    <channel update="i" site="magenta.at" site_id="206965288240" xmltv_id="Kabel Eins Doku HD">Kabel Eins Doku HD</channel>
+    <channel update="i" site="magenta.at" site_id="206965800282" xmltv_id="N24 doku">N24 doku</channel>
+    <channel update="i" site="magenta.at" site_id="206965800291" xmltv_id="ZDFneo HD">ZDFneo HD</channel>
+    <channel update="i" site="magenta.at" site_id="206965800302" xmltv_id="One HD">One HD</channel>
+    <channel update="i" site="magenta.at" site_id="206966311993" xmltv_id="Comedy Central HD">Comedy Central HD</channel>
+    <channel update="i" site="magenta.at" site_id="206965800316" xmltv_id="TLC HD">TLC HD</channel>
+    <channel update="i" site="magenta.at" site_id="206966312002" xmltv_id="TELE 5">TELE 5</channel>
+    <channel update="i" site="magenta.at" site_id="206965800328" xmltv_id="arte HD">arte HD</channel>
+    <channel update="i" site="magenta.at" site_id="206966312019" xmltv_id="3sat HD">3sat HD</channel>
+    <channel update="i" site="magenta.at" site_id="206965800334" xmltv_id="BR Fernsehen HD">BR Fernsehen HD</channel>
+    <channel update="i" site="magenta.at" site_id="206964776420" xmltv_id="R9 HD">R9 HD</channel>
+    <channel update="i" site="magenta.at" site_id="206964776430" xmltv_id="Kurier TV">Kurier TV</channel>
+    <channel update="i" site="magenta.at" site_id="206966312058" xmltv_id="krone.tv HD">krone.tv HD</channel>
+    <channel update="i" site="magenta.at" site_id="206966312068" xmltv_id="Okto HD">Okto HD</channel>
+    <channel update="i" site="magenta.at" site_id="206965800368" xmltv_id="ARCADIA World HD">ARCADIA World HD</channel>
+    <channel update="i" site="magenta.at" site_id="206966312077" xmltv_id="phoenix HD">phoenix HD</channel>
+    <channel update="i" site="magenta.at" site_id="206966312080" xmltv_id="ZDFinfo HD">ZDFinfo HD</channel>
+    <channel update="i" site="magenta.at" site_id="206965800383" xmltv_id="tagesschau24 HD">tagesschau24 HD</channel>
+    <channel update="i" site="magenta.at" site_id="206966823973" xmltv_id="ARD alpha HD">ARD alpha HD</channel>
+    <channel update="i" site="magenta.at" site_id="206965288371" xmltv_id="Bibel TV HD">Bibel TV HD</channel>
+    <channel update="i" site="magenta.at" site_id="206966312109" xmltv_id="WDR Fernsehen HD">WDR Fernsehen HD</channel>
+    <channel update="i" site="magenta.at" site_id="206966823986" xmltv_id="MDR Fernsehen HD">MDR Fernsehen HD</channel>
+    <channel update="i" site="magenta.at" site_id="206966823998" xmltv_id="SWR HD">SWR HD</channel>
+    <channel update="i" site="magenta.at" site_id="206966312140" xmltv_id="NDR Fernsehen HD">NDR Fernsehen HD</channel>
+    <channel update="i" site="magenta.at" site_id="206966312157" xmltv_id="hr-fernsehen HD">hr-fernsehen HD</channel>
+    <channel update="i" site="magenta.at" site_id="206966824018" xmltv_id="rbb HD">rbb HD</channel>
+    <channel update="i" site="magenta.at" site_id="206966824029" xmltv_id="SRF info HD">SRF info HD</channel>
+    <channel update="i" site="magenta.at" site_id="206966824037" xmltv_id="SR HD">SR HD</channel>
+    <channel update="i" site="magenta.at" site_id="206966312188" xmltv_id="KiKA HD">KiKA HD</channel>
+    <channel update="i" site="magenta.at" site_id="206965800435" xmltv_id="Super RTL HD">Super RTL HD</channel>
+    <channel update="i" site="magenta.at" site_id="206966824059" xmltv_id="Nickelodeon HD">Nickelodeon HD</channel>
+    <channel update="i" site="magenta.at" site_id="206966312209" xmltv_id="Disney Channel">Disney Channel</channel>
+    <channel update="i" site="magenta.at" site_id="206965800445" xmltv_id="RiC">RiC</channel>
+    <channel update="i" site="magenta.at" site_id="207381032280" xmltv_id="Cartoon Network HD">Cartoon Network HD</channel>
+    <channel update="i" site="magenta.at" site_id="207381032281" xmltv_id="Fix &amp; Foxi">Fix &amp; Foxi</channel>
+    <channel update="i" site="magenta.at" site_id="207381032321" xmltv_id="Baby TV">Baby TV</channel>
+    <channel update="i" site="magenta.at" site_id="207381032356" xmltv_id="Nick Junior">Nick Junior</channel>
+    <channel update="i" site="magenta.at" site_id="206965288423" xmltv_id="Deluxe Music HD">Deluxe Music HD</channel>
+    <channel update="i" site="magenta.at" site_id="206965288434" xmltv_id="MTV HD">MTV HD</channel>
+    <channel update="i" site="magenta.at" site_id="206966312231" xmltv_id="Melodie TV">Melodie TV</channel>
+    <channel update="i" site="magenta.at" site_id="206966312237" xmltv_id="QVC HD">QVC HD</channel>
+    <channel update="i" site="magenta.at" site_id="206967335978" xmltv_id="HSE HD">HSE HD</channel>
+    <channel update="i" site="magenta.at" site_id="206967847966" xmltv_id="QVC 2 HD">QVC 2 HD</channel>
+    <channel update="i" site="magenta.at" site_id="206966824118" xmltv_id="HSE Extra HD">HSE Extra HD</channel>
+    <channel update="i" site="magenta.at" site_id="206966312266" xmltv_id="123.tv">123.tv</channel>
+    <channel update="i" site="magenta.at" site_id="206967336020" xmltv_id="HSE Trend">HSE Trend</channel>
+    <channel update="i" site="magenta.at" site_id="206966312277" xmltv_id="QVC Style">QVC Style</channel>
+    <channel update="i" site="magenta.at" site_id="206966824149" xmltv_id="Home &amp; Garden TV">Home &amp; Garden TV</channel>
+    <channel update="i" site="magenta.at" site_id="207382568164" xmltv_id="auto motor und sport channel UHD">auto motor und sport channel UHD</channel>
+    <channel update="i" site="magenta.at" site_id="206966824154" xmltv_id="ORF Sport+ HD">ORF Sport+ HD</channel>
+    <channel update="i" site="magenta.at" site_id="206966312300" xmltv_id="Eurosport 1 HD">Eurosport 1 HD</channel>
+    <channel update="i" site="magenta.at" site_id="206967848012" xmltv_id="Sport 1 HD">Sport 1 HD</channel>
+    <channel update="i" site="magenta.at" site_id="206966312315" xmltv_id="Laola1.TV HD">Laola1.TV HD</channel>
+    <channel update="i" site="magenta.at" site_id="206966312329" xmltv_id="K19">K19</channel>
+    <channel update="i" site="magenta.at" site_id="206967336046" xmltv_id="Sport1+ HD">Sport1+ HD</channel>
+    <channel update="i" site="magenta.at" site_id="206967336053" xmltv_id="SPORTDIGITAL FUSSBALL HD">SPORTDIGITAL FUSSBALL HD</channel>
+    <channel update="i" site="magenta.at" site_id="206966824192" xmltv_id="auto motor und sport channel HD">auto motor und sport channel HD</channel>
+    <channel update="i" site="magenta.at" site_id="206967336067" xmltv_id="Motorvision+ HD">Motorvision+ HD</channel>
+    <channel update="i" site="magenta.at" site_id="206967848043" xmltv_id="eSports1 HD">eSports1 HD</channel>
+    <channel update="i" site="magenta.at" site_id="288804392373" xmltv_id="Streamster.tv">Streamster.tv</channel>
+    <channel update="i" site="magenta.at" site_id="206966824208" xmltv_id="ORF 2 Burgenland HD">ORF 2 Burgenland HD</channel>
+    <channel update="i" site="magenta.at" site_id="206966312362" xmltv_id="ORF 2 Kärnten HD">ORF 2 Kärnten HD</channel>
+    <channel update="i" site="magenta.at" site_id="206966824225" xmltv_id="ORF 2 Nö HD">ORF 2 Nö HD</channel>
+    <channel update="i" site="magenta.at" site_id="206966824236" xmltv_id="ORF 2 Oberösterreich HD">ORF 2 Oberösterreich HD</channel>
+    <channel update="i" site="magenta.at" site_id="206967848086" xmltv_id="ORF 2 Salzburg HD">ORF 2 Salzburg HD</channel>
+    <channel update="i" site="magenta.at" site_id="206966824253" xmltv_id="ORF 2 Steiermark HD">ORF 2 Steiermark HD</channel>
+    <channel update="i" site="magenta.at" site_id="206967336249" xmltv_id="ORF 2 Tirol HD">ORF 2 Tirol HD</channel>
+    <channel update="i" site="magenta.at" site_id="206967336325" xmltv_id="ORF 2 Vorarlberg HD">ORF 2 Vorarlberg HD</channel>
+    <channel update="i" site="magenta.at" site_id="206967848295" xmltv_id="Hitradio OE3 HD">Hitradio OE3 HD</channel>
+    <channel update="i" site="magenta.at" site_id="206966824308" xmltv_id="ORF 2 EUROPE">ORF 2 EUROPE</channel>
+    <channel update="i" site="magenta.at" site_id="206969895972" xmltv_id="Tirol TV HD">Tirol TV HD</channel>
+    <channel update="i" site="magenta.at" site_id="206970408219" xmltv_id="Ländle TV HD">Ländle TV HD</channel>
+    <channel update="i" site="magenta.at" site_id="206969895991" xmltv_id="WNTV HD">WNTV HD</channel>
+    <channel update="i" site="magenta.at" site_id="206966824334" xmltv_id="KT 1">KT 1</channel>
+    <channel update="i" site="magenta.at" site_id="206970408253" xmltv_id="Magenta On Demand">Magenta On Demand</channel>
+    <channel update="i" site="magenta.at" site_id="206969383991" xmltv_id="13TH STREET HD">13TH STREET HD</channel>
+    <channel update="i" site="magenta.at" site_id="207381032332" xmltv_id="RTL Crime HD">RTL Crime HD</channel>
+    <channel update="i" site="magenta.at" site_id="206969383998" xmltv_id="Universal TV HD">Universal TV HD</channel>
+    <channel update="i" site="magenta.at" site_id="206969384001" xmltv_id="Syfy HD">Syfy HD</channel>
+    <channel update="i" site="magenta.at" site_id="206970408273" xmltv_id="Warner TV Serie HD">Warner TV Serie HD</channel>
+    <channel update="i" site="magenta.at" site_id="206966824377" xmltv_id="Warner TV Comedy HD">Warner TV Comedy HD</channel>
+    <channel update="i" site="magenta.at" site_id="206969384018" xmltv_id="Kinowelt TV HD">Kinowelt TV HD</channel>
+    <channel update="i" site="magenta.at" site_id="207382568111" xmltv_id="kabel eins CLASSICS HD">kabel eins CLASSICS HD</channel>
+    <channel update="i" site="magenta.at" site_id="206969384021" xmltv_id="Romance TV HD">Romance TV HD</channel>
+    <channel update="i" site="magenta.at" site_id="207382568087" xmltv_id="RTL Passion HD">RTL Passion HD</channel>
+    <channel update="i" site="magenta.at" site_id="206970408290" xmltv_id="Heimatkanal">Heimatkanal</channel>
+    <channel update="i" site="magenta.at" site_id="207381032342" xmltv_id="Sky Krimi HD">Sky Krimi HD</channel>
+    <channel update="i" site="magenta.at" site_id="207382568056" xmltv_id="BBC Entertainment">BBC Entertainment</channel>
+    <channel update="i" site="magenta.at" site_id="207382568112" xmltv_id="SAT.1 emotions HD">SAT.1 emotions HD</channel>
+    <channel update="i" site="magenta.at" site_id="206966824407" xmltv_id="ProSieben FUN HD">ProSieben FUN HD</channel>
+    <channel update="i" site="magenta.at" site_id="207381032285" xmltv_id="GEO Television HD">GEO Television HD</channel>
+    <channel update="i" site="magenta.at" site_id="207382568027" xmltv_id="Spiegel Geschichte HD">Spiegel Geschichte HD</channel>
+    <channel update="i" site="magenta.at" site_id="207382568105" xmltv_id="Curiosity Channel">Curiosity Channel</channel>
+    <channel update="i" site="magenta.at" site_id="207381032329" xmltv_id="History HD">History HD</channel>
+    <channel update="i" site="magenta.at" site_id="207382568122" xmltv_id="Nat Geo HD">Nat Geo HD</channel>
+    <channel update="i" site="magenta.at" site_id="207382568124" xmltv_id="Nat Geo Wild HD">Nat Geo Wild HD</channel>
+    <channel update="i" site="magenta.at" site_id="207382568085" xmltv_id="Bergblick">Bergblick</channel>
+    <channel update="i" site="magenta.at" site_id="207382568024" xmltv_id="Crime + Investigation HD">Crime + Investigation HD</channel>
+    <channel update="i" site="magenta.at" site_id="207381032331" xmltv_id="RTL Living HD">RTL Living HD</channel>
+    <channel update="i" site="magenta.at" site_id="207381032322" xmltv_id="Bongusto HD">Bongusto HD</channel>
+    <channel update="i" site="magenta.at" site_id="207381032287" xmltv_id="Fashion-TV HD">Fashion-TV HD</channel>
+    <channel update="i" site="magenta.at" site_id="207382568038" xmltv_id="MTV 80s">MTV 80s</channel>
+    <channel update="i" site="magenta.at" site_id="207381032316" xmltv_id="Gute Laune TV">Gute Laune TV</channel>
+    <channel update="i" site="magenta.at" site_id="207381032325" xmltv_id="Stingray Classica HD">Stingray Classica HD</channel>
+    <channel update="i" site="magenta.at" site_id="207382568047" xmltv_id="MTV live HD">MTV live HD</channel>
+    <channel update="i" site="magenta.at" site_id="206969896072" xmltv_id="euronews HD">euronews HD</channel>
+    <channel update="i" site="magenta.at" site_id="206966824417" xmltv_id="BBC News HD">BBC News HD</channel>
+    <channel update="i" site="magenta.at" site_id="206966824423" xmltv_id="CNN International">CNN International</channel>
+    <channel update="i" site="magenta.at" site_id="206970408317" xmltv_id="CNBC">CNBC</channel>
+    <channel update="i" site="magenta.at" site_id="206969384071" xmltv_id="TV5Monde Europe">TV5Monde Europe</channel>
+    <channel update="i" site="magenta.at" site_id="206969384080" xmltv_id="France 24 HD">France 24 HD</channel>
+    <channel update="i" site="magenta.at" site_id="206969896108" xmltv_id="CGTN">CGTN</channel>
+    <channel update="i" site="magenta.at" site_id="207381032310" xmltv_id="Bloomberg TV">Bloomberg TV</channel>
+    <channel update="i" site="magenta.at" site_id="206969896113" xmltv_id="PULS 4">PULS 4</channel>
+    <channel update="i" site="magenta.at" site_id="206968871962" xmltv_id="Servus TV">Servus TV</channel>
+    <channel update="i" site="magenta.at" site_id="206969384112" xmltv_id="ProSieben">ProSieben</channel>
+    <channel update="i" site="magenta.at" site_id="206968871975" xmltv_id="RTL">RTL</channel>
+    <channel update="i" site="magenta.at" site_id="206970408368" xmltv_id="VOX">VOX</channel>
+    <channel update="i" site="magenta.at" site_id="206970408378" xmltv_id="SAT.1">SAT.1</channel>
+    <channel update="i" site="magenta.at" site_id="206968871991" xmltv_id="Kabel Eins">Kabel Eins</channel>
+    <channel update="i" site="magenta.at" site_id="206969384154" xmltv_id="RTLZWEI">RTLZWEI</channel>
+    <channel update="i" site="magenta.at" site_id="206968872008" xmltv_id="oe24.TV">oe24.TV</channel>
+    <channel update="i" site="magenta.at" site_id="206969896174" xmltv_id="n-tv">n-tv</channel>
+    <channel update="i" site="magenta.at" site_id="206969384179" xmltv_id="krone.tv">krone.tv</channel>
+    <channel update="i" site="magenta.at" site_id="206969384183" xmltv_id="Sat.1 Gold">Sat.1 Gold</channel>
+    <channel update="i" site="magenta.at" site_id="206970408401" xmltv_id="Nitro">Nitro</channel>
+    <channel update="i" site="magenta.at" site_id="206969384188" xmltv_id="sixx austria">sixx austria</channel>
+    <channel update="i" site="magenta.at" site_id="206970408431" xmltv_id="RTLup">RTLup</channel>
+    <channel update="i" site="magenta.at" site_id="206970408437" xmltv_id="ProSieben Maxx">ProSieben Maxx</channel>
+    <channel update="i" site="magenta.at" site_id="206969896231" xmltv_id="DMAX">DMAX</channel>
+    <channel update="i" site="magenta.at" site_id="206968872074" xmltv_id="Kabel Eins Doku">Kabel Eins Doku</channel>
+    <channel update="i" site="magenta.at" site_id="206970919968" xmltv_id="Super RTL">Super RTL</channel>
+    <channel update="i" site="magenta.at" site_id="229039144336" xmltv_id="VESTI">VESTI</channel>
+    <channel update="i" site="magenta.at" site_id="229041703980" xmltv_id="Toxic TV HD">Toxic TV HD</channel>
+    <channel update="i" site="magenta.at" site_id="229041191972" xmltv_id="Film Klub">Film Klub</channel>
+    <channel update="i" site="magenta.at" site_id="206969896252" xmltv_id="RTS Svet HD">RTS Svet HD</channel>
+    <channel update="i" site="magenta.at" site_id="207381032397" xmltv_id="MNE">MNE</channel>
+    <channel update="i" site="magenta.at" site_id="207381032402" xmltv_id="Eurosport 1 Srbija">Eurosport 1 Srbija</channel>
+    <channel update="i" site="magenta.at" site_id="207382568053" xmltv_id="HRT TV1 HD">HRT TV1 HD</channel>
+    <channel update="i" site="magenta.at" site_id="207381032413" xmltv_id="TV Polonia">TV Polonia</channel>
+    <channel update="i" site="magenta.at" site_id="207381032406" xmltv_id="Duna TV">Duna TV</channel>
+    <channel update="i" site="magenta.at" site_id="206969896262" xmltv_id="TRT World">TRT World</channel>
+    <channel update="i" site="magenta.at" site_id="207381032393" xmltv_id="Eurosport Türkiye">Eurosport Türkiye</channel>
+    <channel update="i" site="magenta.at" site_id="207381032407" xmltv_id="Klasik TV">Klasik TV</channel>
+    <channel update="i" site="magenta.at" site_id="207381032391" xmltv_id="Habertürk TV">Habertürk TV</channel>
+    <channel update="i" site="magenta.at" site_id="207381032418" xmltv_id="Al Jazeera">Al Jazeera</channel>
+    <channel update="i" site="magenta.at" site_id="225890344066" xmltv_id="RAI Uno">RAI Uno</channel>
+    <channel update="i" site="magenta.at" site_id="225890855955" xmltv_id="RAI Due">RAI Due</channel>
+    <channel update="i" site="magenta.at" site_id="225890344089" xmltv_id="RAI Tre">RAI Tre</channel>
+    <channel update="i" site="magenta.at" site_id="207381032394" xmltv_id="Dubai TV">Dubai TV</channel>
+    <channel update="i" site="magenta.at" site_id="207381032415" xmltv_id="CCTV4">CCTV4</channel>
+    <channel update="i" site="magenta.at" site_id="207382568012" xmltv_id="MTV 90s">MTV 90s</channel>
+    <channel update="i" site="magenta.at" site_id="207382568013" xmltv_id="Club MTV">Club MTV</channel>
+    <channel update="i" site="magenta.at" site_id="207382568011" xmltv_id="MTVhits!">MTVhits!</channel>
+    <channel update="i" site="magenta.at" site_id="207382568039" xmltv_id="MTV 00s">MTV 00s</channel>
+    <channel update="i" site="magenta.at" site_id="207381032405" xmltv_id="Hayat">Hayat</channel>
+    <channel update="i" site="magenta.at" site_id="207382568052" xmltv_id="Pink Plus">Pink Plus</channel>
+    <channel update="i" site="magenta.at" site_id="207382568152" xmltv_id="Pink Extra">Pink Extra</channel>
+    <channel update="i" site="magenta.at" site_id="207382568106" xmltv_id="Pink Film">Pink Film</channel>
+    <channel update="i" site="magenta.at" site_id="207381032318" xmltv_id="Pink Music">Pink Music</channel>
+    <channel update="i" site="magenta.at" site_id="206969384229" xmltv_id="Comedy Central">Comedy Central</channel>
+    <channel update="i" site="magenta.at" site_id="206970919990" xmltv_id="TLC">TLC</channel>
+    <channel update="i" site="magenta.at" site_id="206969384238" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel update="i" site="magenta.at" site_id="206968872127" xmltv_id="Eurosport 1">Eurosport 1</channel>
+    <channel update="i" site="magenta.at" site_id="206968872135" xmltv_id="Sport 1">Sport 1</channel>
+    <channel update="i" site="magenta.at" site_id="206969384250" xmltv_id="W24">W24</channel>
+    <channel update="i" site="magenta.at" site_id="207381032386" xmltv_id="Sky One HD">Sky One HD</channel>
+    <channel update="i" site="magenta.at" site_id="229429288190" xmltv_id="Sky Nature HD">Sky Nature HD</channel>
+    <channel update="i" site="magenta.at" site_id="229429799984" xmltv_id="Sky Documentaries HD">Sky Documentaries HD</channel>
+    <channel update="i" site="magenta.at" site_id="306844200112" xmltv_id="Sky Showcase HD">Sky Showcase HD</channel>
+    <channel update="i" site="magenta.at" site_id="207382568109" xmltv_id="Cartoonito">Cartoonito</channel>
+    <channel update="i" site="magenta.at" site_id="207382568156" xmltv_id="Sky Replay HD">Sky Replay HD</channel>
+    <channel update="i" site="magenta.at" site_id="207382568161" xmltv_id="Sky Crime HD">Sky Crime HD</channel>
+    <channel update="i" site="magenta.at" site_id="207382568162" xmltv_id="Sky Comedy HD">Sky Comedy HD</channel>
+    <channel update="i" site="magenta.at" site_id="207381032335" xmltv_id="Sky Atlantic HD">Sky Atlantic HD</channel>
+    <channel update="i" site="magenta.at" site_id="207381032340" xmltv_id="Sky Cinema Premieren HD">Sky Cinema Premieren HD</channel>
+    <channel update="i" site="magenta.at" site_id="207381032336" xmltv_id="Sky Cinema Best of HD">Sky Cinema Best of HD</channel>
+    <channel update="i" site="magenta.at" site_id="207381032385" xmltv_id="Sky Cinema Family HD">Sky Cinema Family HD</channel>
+    <channel update="i" site="magenta.at" site_id="207381032388" xmltv_id="Sky Cinema Jurassic HD">Sky Cinema Jurassic HD</channel>
+    <channel update="i" site="magenta.at" site_id="207381032334" xmltv_id="Sky Cinema Action HD">Sky Cinema Action HD</channel>
+    <channel update="i" site="magenta.at" site_id="207381032392" xmltv_id="Sky Cinema Thriller HD">Sky Cinema Thriller HD</channel>
+    <channel update="i" site="magenta.at" site_id="207381032339" xmltv_id="Sky Cinema Premieren +24 HD">Sky Cinema Premieren +24 HD</channel>
+    <channel update="i" site="magenta.at" site_id="207382568093" xmltv_id="Sky Cinema Classics HD">Sky Cinema Classics HD</channel>
+    <channel update="i" site="magenta.at" site_id="207382568104" xmltv_id="Sky Cinema Fun HD">Sky Cinema Fun HD</channel>
+    <channel update="i" site="magenta.at" site_id="206967848002" xmltv_id="Sky Sport News HD">Sky Sport News HD</channel>
+    <channel update="i" site="magenta.at" site_id="207381032291" xmltv_id="Sky Sport Austria 1 HD">Sky Sport Austria 1 HD</channel>
+    <channel update="i" site="magenta.at" site_id="207382568157" xmltv_id="Sky Sport Austria 2 HD">Sky Sport Austria 2 HD</channel>
+    <channel update="i" site="magenta.at" site_id="207382568158" xmltv_id="Sky Sport Austria 3 HD">Sky Sport Austria 3 HD</channel>
+    <channel update="i" site="magenta.at" site_id="207381032387" xmltv_id="Sky Sport Austria 4 HD">Sky Sport Austria 4 HD</channel>
+    <channel update="i" site="magenta.at" site_id="215440936100" xmltv_id="Sky Sport Austria 5 HD">Sky Sport Austria 5 HD</channel>
+    <channel update="i" site="magenta.at" site_id="215440936101" xmltv_id="Sky Sport Austria 6 HD">Sky Sport Austria 6 HD</channel>
+    <channel update="i" site="magenta.at" site_id="215440936102" xmltv_id="Sky Sport Austria 7 HD">Sky Sport Austria 7 HD</channel>
+    <channel update="i" site="magenta.at" site_id="301712936303" xmltv_id="Sky Sport Premier League HD">Sky Sport Premier League HD</channel>
+    <channel update="i" site="magenta.at" site_id="301709352380" xmltv_id="Sky Sport Golf HD">Sky Sport Golf HD</channel>
+    <channel update="i" site="magenta.at" site_id="207382568163" xmltv_id="Sky Sport F1">Sky Sport F1</channel>
+    <channel update="i" site="magenta.at" site_id="207381032347" xmltv_id="Sky Sport Mix HD">Sky Sport Mix HD</channel>
+    <channel update="i" site="magenta.at" site_id="207381032358" xmltv_id="Sky Sport Tennis HD">Sky Sport Tennis HD</channel>
+    <channel update="i" site="magenta.at" site_id="207382568115" xmltv_id="Sky Sport HD 1">Sky Sport HD 1</channel>
+    <channel update="i" site="magenta.at" site_id="207382568116" xmltv_id="Sky Sport HD 2">Sky Sport HD 2</channel>
+    <channel update="i" site="magenta.at" site_id="207382568117" xmltv_id="Sky Sport HD 3">Sky Sport HD 3</channel>
+    <channel update="i" site="magenta.at" site_id="207382568118" xmltv_id="Sky Sport HD 4">Sky Sport HD 4</channel>
+    <channel update="i" site="magenta.at" site_id="207382568119" xmltv_id="Sky Sport HD 5">Sky Sport HD 5</channel>
+    <channel update="i" site="magenta.at" site_id="207382568108" xmltv_id="Sky Sport HD 6">Sky Sport HD 6</channel>
+    <channel update="i" site="magenta.at" site_id="207382568110" xmltv_id="Sky Sport HD 7">Sky Sport HD 7</channel>
+    <channel update="i" site="magenta.at" site_id="207382568113" xmltv_id="Sky Sport HD 8">Sky Sport HD 8</channel>
+    <channel update="i" site="magenta.at" site_id="207382568114" xmltv_id="Sky Sport HD 9">Sky Sport HD 9</channel>
+    <channel update="i" site="magenta.at" site_id="301712936310" xmltv_id="Sky Sport HD 10">Sky Sport HD 10</channel>
+    <channel update="i" site="magenta.at" site_id="207382568125" xmltv_id="Sky Bundesliga HD">Sky Bundesliga HD</channel>
+    <channel update="i" site="magenta.at" site_id="207382568030" xmltv_id="Sky Bundesliga HD 1">Sky Bundesliga HD 1</channel>
+    <channel update="i" site="magenta.at" site_id="207381032273" xmltv_id="Sky Bundesliga HD 2">Sky Bundesliga HD 2</channel>
+    <channel update="i" site="magenta.at" site_id="207382568028" xmltv_id="Sky Bundesliga HD 3">Sky Bundesliga HD 3</channel>
+    <channel update="i" site="magenta.at" site_id="207381032275" xmltv_id="Sky Bundesliga HD 4">Sky Bundesliga HD 4</channel>
+    <channel update="i" site="magenta.at" site_id="207381032276" xmltv_id="Sky Bundesliga HD 5">Sky Bundesliga HD 5</channel>
+    <channel update="i" site="magenta.at" site_id="207381032277" xmltv_id="Sky Bundesliga HD 6">Sky Bundesliga HD 6</channel>
+    <channel update="i" site="magenta.at" site_id="207381032278" xmltv_id="Sky Bundesliga HD 7">Sky Bundesliga HD 7</channel>
+    <channel update="i" site="magenta.at" site_id="207381032279" xmltv_id="Sky Bundesliga HD 8">Sky Bundesliga HD 8</channel>
+    <channel update="i" site="magenta.at" site_id="207381032274" xmltv_id="Sky Bundesliga HD 9">Sky Bundesliga HD 9</channel>
+    <channel update="i" site="magenta.at" site_id="301713448071" xmltv_id="Sky Bundesliga HD 10">Sky Bundesliga HD 10</channel>
+    <channel update="i" site="magenta.at" site_id="224890919986" xmltv_id="Hitradio Ö3">Hitradio Ö3</channel>
+    <channel update="i" site="magenta.at" site_id="225894952285" xmltv_id="FM4">FM4</channel>
+    <channel update="i" site="magenta.at" site_id="225894952304" xmltv_id="Ö2 Wien">Ö2 Wien</channel>
+    <channel update="i" site="magenta.at" site_id="225894440291" xmltv_id="Ö2 Niederösterreich">Ö2 Niederösterreich</channel>
+    <channel update="i" site="magenta.at" site_id="225893928278" xmltv_id="Ö2 Burgenland">Ö2 Burgenland</channel>
+    <channel update="i" site="magenta.at" site_id="225894952331" xmltv_id="Ö2 Steiermark">Ö2 Steiermark</channel>
+    <channel update="i" site="magenta.at" site_id="225895464086" xmltv_id="Ö2 Kärnten">Ö2 Kärnten</channel>
+    <channel update="i" site="magenta.at" site_id="225894440332" xmltv_id="Ö2 Oberösterreich">Ö2 Oberösterreich</channel>
+    <channel update="i" site="magenta.at" site_id="225894440342" xmltv_id="Ö2 Salzburg">Ö2 Salzburg</channel>
+    <channel update="i" site="magenta.at" site_id="225895464109" xmltv_id="Ö2 Tirol">Ö2 Tirol</channel>
+    <channel update="i" site="magenta.at" site_id="225893928312" xmltv_id="Ö2 Vorarlberg">Ö2 Vorarlberg</channel>
+    <channel update="i" site="magenta.at" site_id="225894952366" xmltv_id="Ö1">Ö1</channel>
+    <channel update="i" site="magenta.at" site_id="225894952372" xmltv_id="Ö1 DD">Ö1 DD</channel>
+    <channel update="i" site="magenta.at" site_id="225894952377" xmltv_id="radio klassik Stephansdom">radio klassik Stephansdom</channel>
+    <channel update="i" site="magenta.at" site_id="225894440398" xmltv_id="RADIO MARIA">RADIO MARIA</channel>
+    <channel update="i" site="magenta.at" site_id="225894952409" xmltv_id="LoungeFM">LoungeFM</channel>
+    <channel update="i" site="magenta.at" site_id="225894440407" xmltv_id="Superfly.fm">Superfly.fm</channel>
+    <channel update="i" site="magenta.at" site_id="225894440419" xmltv_id="radio 88.6">radio 88.6</channel>
+    <channel update="i" site="magenta.at" site_id="225895464173" xmltv_id="Radio Arabella">Radio Arabella</channel>
+    <channel update="i" site="magenta.at" site_id="225895464193" xmltv_id="Radio Ö24">Radio Ö24</channel>
+    <channel update="i" site="magenta.at" site_id="225895975957" xmltv_id="Radio Energy">Radio Energy</channel>
+    <channel update="i" site="magenta.at" site_id="225893928399" xmltv_id="Radio Orange 94,0">Radio Orange 94,0</channel>
+    <channel update="i" site="magenta.at" site_id="225895464216" xmltv_id="Klassik Radio">Klassik Radio</channel>
+    <channel update="i" site="magenta.at" site_id="224890919993" xmltv_id="Bayern 1">Bayern 1</channel>
+    <channel update="i" site="magenta.at" site_id="225893928433" xmltv_id="Bayern 2">Bayern 2</channel>
+    <channel update="i" site="magenta.at" site_id="225895464225" xmltv_id="Bayern 3">Bayern 3</channel>
+    <channel update="i" site="magenta.at" site_id="224872488137" xmltv_id="BR-Klassik">BR-Klassik</channel>
+    <channel update="i" site="magenta.at" site_id="225895976011" xmltv_id="BR24">BR24</channel>
+    <channel update="i" site="magenta.at" site_id="225895976033" xmltv_id="hr2-kultur">hr2-kultur</channel>
+    <channel update="i" site="magenta.at" site_id="225896488066" xmltv_id="Bremen Zwei">Bremen Zwei</channel>
+    <channel update="i" site="magenta.at" site_id="225896488075" xmltv_id="WDR 3">WDR 3</channel>
+    <channel update="i" site="magenta.at" site_id="225895976074" xmltv_id="SWR 2">SWR 2</channel>
+    <channel update="i" site="magenta.at" site_id="225410600318" xmltv_id="1LIVE">1LIVE</channel>
+    <channel update="i" site="magenta.at" site_id="225895464253" xmltv_id="1 LIVE diggi">1 LIVE diggi</channel>
+    <channel update="i" site="magenta.at" site_id="225896488098" xmltv_id="Fritz">Fritz</channel>
+    <channel update="i" site="magenta.at" site_id="225896488105" xmltv_id="N-JOY">N-JOY</channel>
+    <channel update="i" site="magenta.at" site_id="225895976110" xmltv_id="radioeins">radioeins</channel>
+    <channel update="i" site="magenta.at" site_id="225896488118" xmltv_id="Radio SRF 2 Kultur">Radio SRF 2 Kultur</channel>
+    <channel update="i" site="magenta.at" site_id="225896488138" xmltv_id="RNE 1 Radio Nacional">RNE 1 Radio Nacional</channel>
+    <channel update="i" site="magenta.at" site_id="225895976120" xmltv_id="RTL Radio">RTL Radio</channel>
+    <channel update="i" site="magenta.at" site_id="225897000030" xmltv_id="Deutschlandfunk">Deutschlandfunk</channel>
+    <channel update="i" site="magenta.at" site_id="225897000046" xmltv_id="Deutschland Radio Kultur">Deutschland Radio Kultur</channel>
+    <channel update="i" site="magenta.at" site_id="225895976140" xmltv_id="MDR Sputnik">MDR Sputnik</channel>
+    <channel update="i" site="magenta.at" site_id="225895464322" xmltv_id="NDR2">NDR2</channel>
+    <channel update="i" site="magenta.at" site_id="225895464329" xmltv_id="NDR Info">NDR Info</channel>
+    <channel update="i" site="magenta.at" site_id="225895464336" xmltv_id="SWR 3">SWR 3</channel>
+    <channel update="i" site="magenta.at" site_id="225896488223" xmltv_id="WDR 2">WDR 2</channel>
+    <channel update="i" site="magenta.at" site_id="224889384048" xmltv_id="Antenne Bayern">Antenne Bayern</channel>
+    <channel update="i" site="magenta.at" site_id="225895464353" xmltv_id="Radio SRF 1">Radio SRF 1</channel>
+    <channel update="i" site="magenta.at" site_id="225895976189" xmltv_id="Radio Swiss Pop">Radio Swiss Pop</channel>
+    <channel update="i" site="magenta.at" site_id="225897000125" xmltv_id="Radio Swiss Classic">Radio Swiss Classic</channel>
+    <channel update="i" site="magenta.at" site_id="225897000148" xmltv_id="Radio Swiss Jazz">Radio Swiss Jazz</channel>
+    <channel update="i" site="magenta.at" site_id="225895976219" xmltv_id="NDR Kultur">NDR Kultur</channel>
+    <channel update="i" site="magenta.at" site_id="225896488283" xmltv_id="SWR 4 Baden-Württemberg">SWR 4 Baden-Württemberg</channel>
+    <channel update="i" site="magenta.at" site_id="225896488308" xmltv_id="Radio Exterior de Espana">Radio Exterior de Espana</channel>
+    <channel update="i" site="magenta.at" site_id="225895464394" xmltv_id="Radio Horeb">Radio Horeb</channel>
+    <channel update="i" site="magenta.at" site_id="225897000223" xmltv_id="ERF Plus">ERF Plus</channel>
+    <channel update="i" site="magenta.at" site_id="225895464407" xmltv_id="BBC English">BBC English</channel>
+    <channel update="i" site="magenta.at" site_id="225896488344" xmltv_id="RFI Francais">RFI Francais</channel>
+    <channel update="i" site="magenta.at" site_id="225896488354" xmltv_id="Rete Uno">Rete Uno</channel>
+    <channel update="i" site="magenta.at" site_id="225895976320" xmltv_id="WRN English Europe">WRN English Europe</channel>
+    <channel update="i" site="magenta.at" site_id="225895464441" xmltv_id="Radio Osttirol">Radio Osttirol</channel>
   </channels>
 </site>
