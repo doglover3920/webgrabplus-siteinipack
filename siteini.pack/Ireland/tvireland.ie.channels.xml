@@ -1,0 +1,339 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.4 -- Jan van Straaten" site="tvireland.ie">
+  <channels>
+    <channel update="i" site="tvireland.ie" site_id="1856/rte-one-hd" xmltv_id="RTE One HD">RTE One HD</channel>
+    <channel update="i" site="tvireland.ie" site_id="1648/rte2-hd" xmltv_id="RTE2 HD">RTE2 HD</channel>
+    <channel update="i" site="tvireland.ie" site_id="84/virgin-media-one" xmltv_id="Virgin Media One">Virgin Media One</channel>
+    <channel update="i" site="tvireland.ie" site_id="1773/tg4-hd" xmltv_id="TG4 HD">TG4 HD</channel>
+    <channel update="i" site="tvireland.ie" site_id="1209/virgin-media-two" xmltv_id="Virgin Media Two">Virgin Media Two</channel>
+    <channel update="i" site="tvireland.ie" site_id="1929/virgin-media-three" xmltv_id="Virgin Media Three">Virgin Media Three</channel>
+    <channel update="i" site="tvireland.ie" site_id="2388/virgin-media-four" xmltv_id="Virgin Media Four">Virgin Media Four</channel>
+    <channel update="i" site="tvireland.ie" site_id="170/challenge" xmltv_id="Challenge">Challenge</channel>
+    <channel update="i" site="tvireland.ie" site_id="1647/rte-one-1" xmltv_id="RTE One +1">RTE One +1</channel>
+    <channel update="i" site="tvireland.ie" site_id="2235/rte2-1" xmltv_id="RTE2 +1">RTE2 +1</channel>
+    <channel update="i" site="tvireland.ie" site_id="2433/tg4-1" xmltv_id="TG4 +1">TG4 +1</channel>
+    <channel update="i" site="tvireland.ie" site_id="1649/rte-jr" xmltv_id="RTE Jr">RTE Jr</channel>
+    <channel update="i" site="tvireland.ie" site_id="2425/cula4" xmltv_id="Cula4">Cula4</channel>
+    <channel update="i" site="tvireland.ie" site_id="1650/rte-news" xmltv_id="RTE News">RTE News</channel>
+    <channel update="i" site="tvireland.ie" site_id="1947/oireachtas-tv" xmltv_id="Oireachtas TV">Oireachtas TV</channel>
+    <channel update="i" site="tvireland.ie" site_id="114/sky-news" xmltv_id="Sky News">Sky News</channel>
+    <channel update="i" site="tvireland.ie" site_id="83/tg4" xmltv_id="TG4">TG4</channel>
+    <channel update="i" site="tvireland.ie" site_id="1976/virgin-media-one-hd" xmltv_id="Virgin Media One HD">Virgin Media One HD</channel>
+    <channel update="i" site="tvireland.ie" site_id="2079/virgin-media-two-hd" xmltv_id="Virgin Media Two HD">Virgin Media Two HD</channel>
+    <channel update="i" site="tvireland.ie" site_id="1355/sky-showcase-hd" xmltv_id="Sky Showcase HD">Sky Showcase HD</channel>
+    <channel update="i" site="tvireland.ie" site_id="1495/sky-witness-hd" xmltv_id="Sky Witness HD">Sky Witness HD</channel>
+    <channel update="i" site="tvireland.ie" site_id="1629/sky-atlantic-hd" xmltv_id="Sky Atlantic HD">Sky Atlantic HD</channel>
+    <channel update="i" site="tvireland.ie" site_id="1739/alibi-hd" xmltv_id="Alibi HD">Alibi HD</channel>
+    <channel update="i" site="tvireland.ie" site_id="134/gold" xmltv_id="GOLD">GOLD</channel>
+    <channel update="i" site="tvireland.ie" site_id="1659/dave-hd" xmltv_id="Dave HD">Dave HD</channel>
+    <channel update="i" site="tvireland.ie" site_id="185/comedy-central" xmltv_id="Comedy Central">Comedy Central</channel>
+    <channel update="i" site="tvireland.ie" site_id="2353/sky-max-hd" xmltv_id="Sky Max HD">Sky Max HD</channel>
+    <channel update="i" site="tvireland.ie" site_id="2316/sky-documentaries-hd" xmltv_id="Sky Documentaries HD">Sky Documentaries HD</channel>
+    <channel update="i" site="tvireland.ie" site_id="2294/sky-crime-hd" xmltv_id="Sky Crime HD">Sky Crime HD</channel>
+    <channel update="i" site="tvireland.ie" site_id="1354/sky-history-hd" xmltv_id="Sky History HD">Sky History HD</channel>
+    <channel update="i" site="tvireland.ie" site_id="2314/sky-nature-hd" xmltv_id="Sky Nature HD">Sky Nature HD</channel>
+    <channel update="i" site="tvireland.ie" site_id="169/discovery-channel" xmltv_id="Discovery Channel">Discovery Channel</channel>
+    <channel update="i" site="tvireland.ie" site_id="1986/mtv-ireland" xmltv_id="MTV Ireland">MTV Ireland</channel>
+    <channel update="i" site="tvireland.ie" site_id="974/comedy-central-extra" xmltv_id="Comedy Central Extra">Comedy Central Extra</channel>
+    <channel update="i" site="tvireland.ie" site_id="1232/national-geographic-channel-hd" xmltv_id="National Geographic Channel HD">National Geographic Channel HD</channel>
+    <channel update="i" site="tvireland.ie" site_id="1356/sky-arts-hd" xmltv_id="Sky Arts HD">Sky Arts HD</channel>
+    <channel update="i" site="tvireland.ie" site_id="1900/itvbe" xmltv_id="ITVBe">ITVBe</channel>
+    <channel update="i" site="tvireland.ie" site_id="1658/w-hd" xmltv_id="W HD">W HD</channel>
+    <channel update="i" site="tvireland.ie" site_id="1794/tlc-hd" xmltv_id="TLC HD">TLC HD</channel>
+    <channel update="i" site="tvireland.ie" site_id="1404/channel-4-hd" xmltv_id="Channel 4 HD">Channel 4 HD</channel>
+    <channel update="i" site="tvireland.ie" site_id="1534/e4-hd" xmltv_id="E4 HD">E4 HD</channel>
+    <channel update="i" site="tvireland.ie" site_id="605/e4" xmltv_id="E4">E4</channel>
+    <channel update="i" site="tvireland.ie" site_id="1167/more4" xmltv_id="More4">More4</channel>
+    <channel update="i" site="tvireland.ie" site_id="914/e4-extra" xmltv_id="E4 Extra">E4 Extra</channel>
+    <channel update="i" site="tvireland.ie" site_id="1469/sky-sci-fi-hd" xmltv_id="Sky Sci-Fi HD">Sky Sci-Fi HD</channel>
+    <channel update="i" site="tvireland.ie" site_id="1523/food-network" xmltv_id="Food Network">Food Network</channel>
+    <channel update="i" site="tvireland.ie" site_id="1770/bbc-one-northern-ireland-hd" xmltv_id="BBC One Northern Ireland HD">BBC One Northern Ireland HD</channel>
+    <channel update="i" site="tvireland.ie" site_id="2156/bbc-two-northern-ireland-hd" xmltv_id="BBC Two Northern Ireland HD">BBC Two Northern Ireland HD</channel>
+    <channel update="i" site="tvireland.ie" site_id="1851/bbc-four-hd" xmltv_id="BBC Four HD">BBC Four HD</channel>
+    <channel update="i" site="tvireland.ie" site_id="2142/quest-hd" xmltv_id="Quest HD">Quest HD</channel>
+    <channel update="i" site="tvireland.ie" site_id="1512/cbs-reality" xmltv_id="CBS Reality">CBS Reality</channel>
+    <channel update="i" site="tvireland.ie" site_id="1518/realityxtra" xmltv_id="RealityXtra">RealityXtra</channel>
+    <channel update="i" site="tvireland.ie" site_id="1520/legend" xmltv_id="Legend">Legend</channel>
+    <channel update="i" site="tvireland.ie" site_id="2060/quest-red" xmltv_id="Quest Red">Quest Red</channel>
+    <channel update="i" site="tvireland.ie" site_id="2330/sky-mix-hd" xmltv_id="Sky Mix HD">Sky Mix HD</channel>
+    <channel update="i" site="tvireland.ie" site_id="919/sky-replay" xmltv_id="Sky Replay">Sky Replay</channel>
+    <channel update="i" site="tvireland.ie" site_id="1460/investigation-discovery" xmltv_id="Investigation Discovery">Investigation Discovery</channel>
+    <channel update="i" site="tvireland.ie" site_id="1084/really" xmltv_id="Really">Really</channel>
+    <channel update="i" site="tvireland.ie" site_id="1480/crime-investigation-hd" xmltv_id="Crime + Investigation HD">Crime + Investigation HD</channel>
+    <channel update="i" site="tvireland.ie" site_id="1548/great-tv" xmltv_id="GREAT! tv">GREAT! tv</channel>
+    <channel update="i" site="tvireland.ie" site_id="1798/drama" xmltv_id="Drama">Drama</channel>
+    <channel update="i" site="tvireland.ie" site_id="1764/e-entertainment-hd" xmltv_id="E! Entertainment HD">E! Entertainment HD</channel>
+    <channel update="i" site="tvireland.ie" site_id="2419/virgin-media-four-hd" xmltv_id="Virgin Media Four HD">Virgin Media Four HD</channel>
+    <channel update="i" site="tvireland.ie" site_id="908/yesterday" xmltv_id="Yesterday">Yesterday</channel>
+    <channel update="i" site="tvireland.ie" site_id="89/hgtv" xmltv_id="HGTV">HGTV</channel>
+    <channel update="i" site="tvireland.ie" site_id="2041/blaze" xmltv_id="Blaze">Blaze</channel>
+    <channel update="i" site="tvireland.ie" site_id="1482/national-geographic-wild-hd" xmltv_id="National Geographic WILD HD">National Geographic WILD HD</channel>
+    <channel update="i" site="tvireland.ie" site_id="993/eden" xmltv_id="Eden">Eden</channel>
+    <channel update="i" site="tvireland.ie" site_id="129/discovery-science" xmltv_id="Discovery Science">Discovery Science</channel>
+    <channel update="i" site="tvireland.ie" site_id="2042/sky-history-2-hd" xmltv_id="Sky History 2 HD">Sky History 2 HD</channel>
+    <channel update="i" site="tvireland.ie" site_id="1852/bbc-three-hd" xmltv_id="BBC Three HD">BBC Three HD</channel>
+    <channel update="i" site="tvireland.ie" site_id="1288/together-tv" xmltv_id="Together TV">Together TV</channel>
+    <channel update="i" site="tvireland.ie" site_id="2351/thats-tv" xmltv_id="That's TV">That's TV</channel>
+    <channel update="i" site="tvireland.ie" site_id="1405/dmax" xmltv_id="DMAX">DMAX</channel>
+    <channel update="i" site="tvireland.ie" site_id="1660/pbs-america" xmltv_id="PBS America">PBS America</channel>
+    <channel update="i" site="tvireland.ie" site_id="1606/discovery-history" xmltv_id="Discovery History">Discovery History</channel>
+    <channel update="i" site="tvireland.ie" site_id="168/animal-planet" xmltv_id="Animal Planet">Animal Planet</channel>
+    <channel update="i" site="tvireland.ie" site_id="2385/earthx-tv" xmltv_id="Earthx TV">Earthx TV</channel>
+    <channel update="i" site="tvireland.ie" site_id="2140/travelxp" xmltv_id="Travelxp">Travelxp</channel>
+    <channel update="i" site="tvireland.ie" site_id="153/discovery-turbo" xmltv_id="Discovery Turbo">Discovery Turbo</channel>
+    <channel update="i" site="tvireland.ie" site_id="1990/ayozat-tv" xmltv_id="Ayozat TV">Ayozat TV</channel>
+    <channel update="i" site="tvireland.ie" site_id="1937/virgin-media-one-1" xmltv_id="Virgin Media One +1">Virgin Media One +1</channel>
+    <channel update="i" site="tvireland.ie" site_id="1568/sky-showcase-1" xmltv_id="Sky Showcase +1">Sky Showcase +1</channel>
+    <channel update="i" site="tvireland.ie" site_id="987/sky-witness-1" xmltv_id="Sky Witness +1">Sky Witness +1</channel>
+    <channel update="i" site="tvireland.ie" site_id="1757/sky-atlantic-1" xmltv_id="Sky Atlantic +1">Sky Atlantic +1</channel>
+    <channel update="i" site="tvireland.ie" site_id="1218/alibi-1" xmltv_id="Alibi +1">Alibi +1</channel>
+    <channel update="i" site="tvireland.ie" site_id="899/gold-1" xmltv_id="GOLD +1">GOLD +1</channel>
+    <channel update="i" site="tvireland.ie" site_id="1079/dave-ja-vu" xmltv_id="Dave ja vu">Dave ja vu</channel>
+    <channel update="i" site="tvireland.ie" site_id="1165/comedy-central-1" xmltv_id="Comedy Central +1">Comedy Central +1</channel>
+    <channel update="i" site="tvireland.ie" site_id="1470/sky-crime-1" xmltv_id="Sky Crime +1">Sky Crime +1</channel>
+    <channel update="i" site="tvireland.ie" site_id="702/sky-history-1" xmltv_id="Sky History +1">Sky History +1</channel>
+    <channel update="i" site="tvireland.ie" site_id="706/discovery-channel-1" xmltv_id="Discovery Channel +1">Discovery Channel +1</channel>
+    <channel update="i" site="tvireland.ie" site_id="710/national-geographic-channel-1" xmltv_id="National Geographic Channel +1">National Geographic Channel +1</channel>
+    <channel update="i" site="tvireland.ie" site_id="1451/w-1" xmltv_id="W +1">W +1</channel>
+    <channel update="i" site="tvireland.ie" site_id="1790/tlc-1" xmltv_id="TLC +1">TLC +1</channel>
+    <channel update="i" site="tvireland.ie" site_id="1379/channel-4-1" xmltv_id="Channel 4 +1">Channel 4 +1</channel>
+    <channel update="i" site="tvireland.ie" site_id="1055/e4-1" xmltv_id="E4 +1">E4 +1</channel>
+    <channel update="i" site="tvireland.ie" site_id="1168/more4-1" xmltv_id="More4 +1">More4 +1</channel>
+    <channel update="i" site="tvireland.ie" site_id="1524/food-network-1" xmltv_id="Food Network +1">Food Network +1</channel>
+    <channel update="i" site="tvireland.ie" site_id="1521/quest-1" xmltv_id="Quest +1">Quest +1</channel>
+    <channel update="i" site="tvireland.ie" site_id="1517/cbs-reality-1" xmltv_id="CBS Reality +1">CBS Reality +1</channel>
+    <channel update="i" site="tvireland.ie" site_id="2061/quest-red-1" xmltv_id="Quest Red +1">Quest Red +1</channel>
+    <channel update="i" site="tvireland.ie" site_id="1795/investigation-discovery-1" xmltv_id="Investigation Discovery +1">Investigation Discovery +1</channel>
+    <channel update="i" site="tvireland.ie" site_id="1491/crime-investigation-1" xmltv_id="Crime + Investigation +1">Crime + Investigation +1</channel>
+    <channel update="i" site="tvireland.ie" site_id="1785/great-tv-1" xmltv_id="GREAT! tv +1">GREAT! tv +1</channel>
+    <channel update="i" site="tvireland.ie" site_id="1068/yesterday-1" xmltv_id="Yesterday +1">Yesterday +1</channel>
+    <channel update="i" site="tvireland.ie" site_id="756/hgtv-1" xmltv_id="HGTV +1">HGTV +1</channel>
+    <channel update="i" site="tvireland.ie" site_id="1003/eden-1" xmltv_id="Eden +1">Eden +1</channel>
+    <channel update="i" site="tvireland.ie" site_id="1538/dmax-1" xmltv_id="DMAX +1">DMAX +1</channel>
+    <channel update="i" site="tvireland.ie" site_id="1617/discovery-history-1" xmltv_id="Discovery History +1">Discovery History +1</channel>
+    <channel update="i" site="tvireland.ie" site_id="700/animal-planet-1" xmltv_id="Animal Planet +1">Animal Planet +1</channel>
+    <channel update="i" site="tvireland.ie" site_id="2113/discovery-turbo-1" xmltv_id="Discovery Turbo +1">Discovery Turbo +1</channel>
+    <channel update="i" site="tvireland.ie" site_id="1417/sky-cinema-premiere-hd" xmltv_id="Sky Cinema Premiere HD">Sky Cinema Premiere HD</channel>
+    <channel update="i" site="tvireland.ie" site_id="1327/sky-cinema-tolkien" xmltv_id="Sky Cinema Tolkien">Sky Cinema Tolkien</channel>
+    <channel update="i" site="tvireland.ie" site_id="1445/sky-cinema-christmas-hd" xmltv_id="Sky Cinema Christmas HD">Sky Cinema Christmas HD</channel>
+    <channel update="i" site="tvireland.ie" site_id="1446/sky-cinema-80s-icons-hd" xmltv_id="Sky Cinema 80s Icons HD">Sky Cinema 80s Icons HD</channel>
+    <channel update="i" site="tvireland.ie" site_id="2327/sky-cinema-animation-hd" xmltv_id="Sky Cinema Animation HD">Sky Cinema Animation HD</channel>
+    <channel update="i" site="tvireland.ie" site_id="1448/sky-cinema-family-hd" xmltv_id="Sky Cinema Family HD">Sky Cinema Family HD</channel>
+    <channel update="i" site="tvireland.ie" site_id="1444/sky-cinema-action-hd" xmltv_id="Sky Cinema Action HD">Sky Cinema Action HD</channel>
+    <channel update="i" site="tvireland.ie" site_id="1449/sky-cinema-comedy-hd" xmltv_id="Sky Cinema Comedy HD">Sky Cinema Comedy HD</channel>
+    <channel update="i" site="tvireland.ie" site_id="1537/sky-cinema-thriller-hd" xmltv_id="Sky Cinema Thriller HD">Sky Cinema Thriller HD</channel>
+    <channel update="i" site="tvireland.ie" site_id="1536/sky-cinema-mockingjay-hd" xmltv_id="Sky Cinema Mockingjay HD">Sky Cinema Mockingjay HD</channel>
+    <channel update="i" site="tvireland.ie" site_id="1447/sky-cinema-sci-fihorror-hd" xmltv_id="Sky Cinema Sci-fi/Horror HD">Sky Cinema Sci-fi/Horror HD</channel>
+    <channel update="i" site="tvireland.ie" site_id="1321/sky-cinema-premiere-1" xmltv_id="Sky Cinema Premiere +1">Sky Cinema Premiere +1</channel>
+    <channel update="i" site="tvireland.ie" site_id="1581/film4-hd" xmltv_id="Film4 HD">Film4 HD</channel>
+    <channel update="i" site="tvireland.ie" site_id="708/film4-1" xmltv_id="Film4 +1">Film4 +1</channel>
+    <channel update="i" site="tvireland.ie" site_id="1031/horrorxtra" xmltv_id="HorrorXtra">HorrorXtra</channel>
+    <channel update="i" site="tvireland.ie" site_id="1437/horrorxtra-1" xmltv_id="HorrorXtra +1">HorrorXtra +1</channel>
+    <channel update="i" site="tvireland.ie" site_id="1163/great-movies-christmas" xmltv_id="GREAT! movies christmas">GREAT! movies christmas</channel>
+    <channel update="i" site="tvireland.ie" site_id="1432/great-movies-christmas-1" xmltv_id="GREAT! movies christmas +1">GREAT! movies christmas +1</channel>
+    <channel update="i" site="tvireland.ie" site_id="1680/great-movies" xmltv_id="GREAT! movies">GREAT! movies</channel>
+    <channel update="i" site="tvireland.ie" site_id="1681/great-movies-1" xmltv_id="GREAT! movies +1">GREAT! movies +1</channel>
+    <channel update="i" site="tvireland.ie" site_id="1431/great-action" xmltv_id="GREAT! action">GREAT! action</channel>
+    <channel update="i" site="tvireland.ie" site_id="1541/great-action-1" xmltv_id="GREAT! action +1">GREAT! action +1</channel>
+    <channel update="i" site="tvireland.ie" site_id="1226/christmas-24" xmltv_id="Christmas 24">Christmas 24</channel>
+    <channel update="i" site="tvireland.ie" site_id="1526/christmas-24" xmltv_id="Christmas 24+">Christmas 24+</channel>
+    <channel update="i" site="tvireland.ie" site_id="1946/talking-pictures-tv" xmltv_id="Talking Pictures TV">Talking Pictures TV</channel>
+    <channel update="i" site="tvireland.ie" site_id="2442/thats-christmas" xmltv_id="That's Christmas">That's Christmas</channel>
+    <channel update="i" site="tvireland.ie" site_id="2108/gold-hd" xmltv_id="GOLD HD">GOLD HD</channel>
+    <channel update="i" site="tvireland.ie" site_id="1586/comedy-central-hd" xmltv_id="Comedy Central HD">Comedy Central HD</channel>
+    <channel update="i" site="tvireland.ie" site_id="2306/sky-comedy-hd" xmltv_id="Sky Comedy HD">Sky Comedy HD</channel>
+    <channel update="i" site="tvireland.ie" site_id="1233/discovery-channel-hd" xmltv_id="Discovery Channel HD">Discovery Channel HD</channel>
+    <channel update="i" site="tvireland.ie" site_id="1672/mtv-hd" xmltv_id="MTV HD">MTV HD</channel>
+    <channel update="i" site="tvireland.ie" site_id="1780/more4-hd" xmltv_id="More4 HD">More4 HD</channel>
+    <channel update="i" site="tvireland.ie" site_id="1632/mtv-music" xmltv_id="MTV Music">MTV Music</channel>
+    <channel update="i" site="tvireland.ie" site_id="59/mtv-hits" xmltv_id="MTV Hits">MTV Hits</channel>
+    <channel update="i" site="tvireland.ie" site_id="63/mtv-90s" xmltv_id="MTV 90s">MTV 90s</channel>
+    <channel update="i" site="tvireland.ie" site_id="151/mtv-80s" xmltv_id="MTV 80s">MTV 80s</channel>
+    <channel update="i" site="tvireland.ie" site_id="1438/4music" xmltv_id="4Music">4Music</channel>
+    <channel update="i" site="tvireland.ie" site_id="2384/thats-60s" xmltv_id="That's 60s">That's 60s</channel>
+    <channel update="i" site="tvireland.ie" site_id="2400/thats-80s" xmltv_id="That's 80s">That's 80s</channel>
+    <channel update="i" site="tvireland.ie" site_id="2437/thats-90s" xmltv_id="That's 90s">That's 90s</channel>
+    <channel update="i" site="tvireland.ie" site_id="1229/sky-sports-main-event-hd" xmltv_id="Sky Sports Main Event HD">Sky Sports Main Event HD</channel>
+    <channel update="i" site="tvireland.ie" site_id="2021/sky-sports-premier-league-roi-hd" xmltv_id="Sky Sports Premier League ROI HD">Sky Sports Premier League ROI HD</channel>
+    <channel update="i" site="tvireland.ie" site_id="2087/sky-sports-football-hd" xmltv_id="Sky Sports Football HD">Sky Sports Football HD</channel>
+    <channel update="i" site="tvireland.ie" site_id="1285/sky-sports-cricket-hd" xmltv_id="Sky Sports Cricket HD">Sky Sports Cricket HD</channel>
+    <channel update="i" site="tvireland.ie" site_id="1567/sky-sports-golf-hd" xmltv_id="Sky Sports Golf HD">Sky Sports Golf HD</channel>
+    <channel update="i" site="tvireland.ie" site_id="1671/sky-sports-f1-hd" xmltv_id="Sky Sports F1 HD">Sky Sports F1 HD</channel>
+    <channel update="i" site="tvireland.ie" site_id="1414/sky-sports-nfl-hd" xmltv_id="Sky Sports NFL HD">Sky Sports NFL HD</channel>
+    <channel update="i" site="tvireland.ie" site_id="2089/sky-sports-arena-hd" xmltv_id="Sky Sports Arena HD">Sky Sports Arena HD</channel>
+    <channel update="i" site="tvireland.ie" site_id="1584/sky-sports-news-hd" xmltv_id="Sky Sports News HD">Sky Sports News HD</channel>
+    <channel update="i" site="tvireland.ie" site_id="1805/tnt-sports-1-hd" xmltv_id="TNT Sports 1 HD">TNT Sports 1 HD</channel>
+    <channel update="i" site="tvireland.ie" site_id="1807/tnt-sports-2-hd" xmltv_id="TNT Sports 2 HD">TNT Sports 2 HD</channel>
+    <channel update="i" site="tvireland.ie" site_id="2282/premier-sports-1-roi-hd" xmltv_id="Premier Sports 1 ROI HD">Premier Sports 1 ROI HD</channel>
+    <channel update="i" site="tvireland.ie" site_id="1434/eurosport-1-hd" xmltv_id="Eurosport 1 HD">Eurosport 1 HD</channel>
+    <channel update="i" site="tvireland.ie" site_id="1745/eurosport-2-hd" xmltv_id="Eurosport 2 HD">Eurosport 2 HD</channel>
+    <channel update="i" site="tvireland.ie" site_id="2157/sky-sports-racing-hd" xmltv_id="Sky Sports Racing HD">Sky Sports Racing HD</channel>
+    <channel update="i" site="tvireland.ie" site_id="2034/sky-sports-mix-hd" xmltv_id="Sky Sports Mix HD">Sky Sports Mix HD</channel>
+    <channel update="i" site="tvireland.ie" site_id="1953/tnt-sports-3-hd" xmltv_id="TNT Sports 3 HD">TNT Sports 3 HD</channel>
+    <channel update="i" site="tvireland.ie" site_id="1896/mutv-hd" xmltv_id="MUTV HD">MUTV HD</channel>
+    <channel update="i" site="tvireland.ie" site_id="2283/premier-sports-2-roi-hd" xmltv_id="Premier Sports 2 ROI HD">Premier Sports 2 ROI HD</channel>
+    <channel update="i" site="tvireland.ie" site_id="1493/tnt-sports-4-hd" xmltv_id="TNT Sports 4 HD">TNT Sports 4 HD</channel>
+    <channel update="i" site="tvireland.ie" site_id="1928/lfc-tv-hd" xmltv_id="LFC TV HD">LFC TV HD</channel>
+    <channel update="i" site="tvireland.ie" site_id="1992/racing-tv-hd" xmltv_id="Racing TV HD">Racing TV HD</channel>
+    <channel update="i" site="tvireland.ie" site_id="2050/sportystuff-tv-hd" xmltv_id="Sportystuff TV HD">Sportystuff TV HD</channel>
+    <channel update="i" site="tvireland.ie" site_id="2134/tnt-sports-box-office-hd" xmltv_id="TNT Sports Box Office HD">TNT Sports Box Office HD</channel>
+    <channel update="i" site="tvireland.ie" site_id="1939/sky-sports-box-office-hd" xmltv_id="Sky Sports Box Office HD">Sky Sports Box Office HD</channel>
+    <channel update="i" site="tvireland.ie" site_id="1938/sky-sports-box-office" xmltv_id="Sky Sports Box Office">Sky Sports Box Office</channel>
+    <channel update="i" site="tvireland.ie" site_id="1954/tnt-sports-ultimate" xmltv_id="TNT Sports Ultimate">TNT Sports Ultimate</channel>
+    <channel update="i" site="tvireland.ie" site_id="1564/sky-news-hd" xmltv_id="Sky News HD">Sky News HD</channel>
+    <channel update="i" site="tvireland.ie" site_id="2059/bloomberg-hd" xmltv_id="Bloomberg HD">Bloomberg HD</channel>
+    <channel update="i" site="tvireland.ie" site_id="2242/cnbc-uk-hd" xmltv_id="CNBC UK HD">CNBC UK HD</channel>
+    <channel update="i" site="tvireland.ie" site_id="2012/cnn-hd" xmltv_id="CNN HD">CNN HD</channel>
+    <channel update="i" site="tvireland.ie" site_id="1646/nhk-world-hd" xmltv_id="NHK World HD">NHK World HD</channel>
+    <channel update="i" site="tvireland.ie" site_id="1867/euronews" xmltv_id="Euronews">Euronews</channel>
+    <channel update="i" site="tvireland.ie" site_id="2007/ndtv-24x7" xmltv_id="NDTV 24x7">NDTV 24x7</channel>
+    <channel update="i" site="tvireland.ie" site_id="2139/france-24-english-hd" xmltv_id="France 24 English HD">France 24 English HD</channel>
+    <channel update="i" site="tvireland.ie" site_id="1855/al-jazeera-english-hd" xmltv_id="Al Jazeera English HD">Al Jazeera English HD</channel>
+    <channel update="i" site="tvireland.ie" site_id="2340/gb-news-hd" xmltv_id="GB News HD">GB News HD</channel>
+    <channel update="i" site="tvireland.ie" site_id="2083/trt-world-hd" xmltv_id="TRT World HD">TRT World HD</channel>
+    <channel update="i" site="tvireland.ie" site_id="2039/arirang-hd" xmltv_id="Arirang HD">Arirang HD</channel>
+    <channel update="i" site="tvireland.ie" site_id="1926/tvc-news" xmltv_id="TVC News">TVC News</channel>
+    <channel update="i" site="tvireland.ie" site_id="2377/talk-tv-hd" xmltv_id="Talk TV HD">Talk TV HD</channel>
+    <channel update="i" site="tvireland.ie" site_id="1653/cartoon-network-hd" xmltv_id="Cartoon Network HD">Cartoon Network HD</channel>
+    <channel update="i" site="tvireland.ie" site_id="705/cartoon-network-1" xmltv_id="Cartoon Network +1">Cartoon Network +1</channel>
+    <channel update="i" site="tvireland.ie" site_id="1949/boomerang-hd" xmltv_id="Boomerang HD">Boomerang HD</channel>
+    <channel update="i" site="tvireland.ie" site_id="188/nickelodeon" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel update="i" site="tvireland.ie" site_id="874/nickloudhouse" xmltv_id="NickLoudHouse">NickLoudHouse</channel>
+    <channel update="i" site="tvireland.ie" site_id="195/nick-jr" xmltv_id="Nick Jr">Nick Jr</channel>
+    <channel update="i" site="tvireland.ie" site_id="1849/cbbc-hd" xmltv_id="CBBC HD">CBBC HD</channel>
+    <channel update="i" site="tvireland.ie" site_id="1850/cbeebies-hd" xmltv_id="CBeebies HD">CBeebies HD</channel>
+    <channel update="i" site="tvireland.ie" site_id="2395/sky-kids-hd" xmltv_id="Sky Kids HD">Sky Kids HD</channel>
+    <channel update="i" site="tvireland.ie" site_id="1357/cartoonito" xmltv_id="Cartoonito">Cartoonito</channel>
+    <channel update="i" site="tvireland.ie" site_id="1205/boomerang-1" xmltv_id="Boomerang +1">Boomerang +1</channel>
+    <channel update="i" site="tvireland.ie" site_id="1531/nick-jr-peppa" xmltv_id="Nick Jr. Peppa">Nick Jr. Peppa</channel>
+    <channel update="i" site="tvireland.ie" site_id="1403/pop" xmltv_id="Pop">Pop</channel>
+    <channel update="i" site="tvireland.ie" site_id="1402/tiny-pop" xmltv_id="Tiny Pop">Tiny Pop</channel>
+    <channel update="i" site="tvireland.ie" site_id="703/nickelodeon-1" xmltv_id="Nickelodeon +1">Nickelodeon +1</channel>
+    <channel update="i" site="tvireland.ie" site_id="1545/tiny-pop-1" xmltv_id="Tiny Pop +1">Tiny Pop +1</channel>
+    <channel update="i" site="tvireland.ie" site_id="1897/pop-1" xmltv_id="Pop +1">Pop +1</channel>
+    <channel update="i" site="tvireland.ie" site_id="1862/pop-max" xmltv_id="Pop Max">Pop Max</channel>
+    <channel update="i" site="tvireland.ie" site_id="1864/pop-max-1" xmltv_id="Pop Max +1">Pop Max +1</channel>
+    <channel update="i" site="tvireland.ie" site_id="1763/nick-jr-1" xmltv_id="Nick Jr. +1">Nick Jr. +1</channel>
+    <channel update="i" site="tvireland.ie" site_id="1607/nickelodeon-hd" xmltv_id="Nickelodeon HD">Nickelodeon HD</channel>
+    <channel update="i" site="tvireland.ie" site_id="2438/cula4-hd" xmltv_id="Cula4 HD">Cula4 HD</channel>
+    <channel update="i" site="tvireland.ie" site_id="2017/nick-jr-hd" xmltv_id="Nick Jr. HD">Nick Jr. HD</channel>
+    <channel update="i" site="tvireland.ie" site_id="1761/baby-tv" xmltv_id="Baby TV">Baby TV</channel>
+    <channel update="i" site="tvireland.ie" site_id="102/cartoon-network" xmltv_id="Cartoon Network">Cartoon Network</channel>
+    <channel update="i" site="tvireland.ie" site_id="215/boomerang" xmltv_id="Boomerang">Boomerang</channel>
+    <channel update="i" site="tvireland.ie" site_id="733/cbbc" xmltv_id="CBBC">CBBC</channel>
+    <channel update="i" site="tvireland.ie" site_id="734/cbeebies" xmltv_id="CBeebies">CBeebies</channel>
+    <channel update="i" site="tvireland.ie" site_id="216/qvc" xmltv_id="QVC">QVC</channel>
+    <channel update="i" site="tvireland.ie" site_id="2409/qvc-style-hd" xmltv_id="QVC Style HD">QVC Style HD</channel>
+    <channel update="i" site="tvireland.ie" site_id="619/b4u-movies" xmltv_id="B4U Movies">B4U Movies</channel>
+    <channel update="i" site="tvireland.ie" site_id="1815/b4u-music" xmltv_id="B4U Music">B4U Music</channel>
+    <channel update="i" site="tvireland.ie" site_id="2095/sony-entertainment-tv-asia-hd" xmltv_id="Sony Entertainment TV Asia HD">Sony Entertainment TV Asia HD</channel>
+    <channel update="i" site="tvireland.ie" site_id="1803/utsav-bharat" xmltv_id="Utsav Bharat">Utsav Bharat</channel>
+    <channel update="i" site="tvireland.ie" site_id="1747/utsav-plus-hd" xmltv_id="Utsav Plus HD">Utsav Plus HD</channel>
+    <channel update="i" site="tvireland.ie" site_id="2058/colors-hd" xmltv_id="Colors HD">Colors HD</channel>
+    <channel update="i" site="tvireland.ie" site_id="1571/zee-cinema" xmltv_id="Zee Cinema">Zee Cinema</channel>
+    <channel update="i" site="tvireland.ie" site_id="2137/zee-tv-hd" xmltv_id="Zee TV HD">Zee TV HD</channel>
+    <channel update="i" site="tvireland.ie" site_id="2272/foodxp" xmltv_id="Foodxp">Foodxp</channel>
+    <channel update="i" site="tvireland.ie" site_id="1791/colors-rishtey" xmltv_id="Colors Rishtey">Colors Rishtey</channel>
+    <channel update="i" site="tvireland.ie" site_id="2101/colors-cineplex" xmltv_id="Colors Cineplex">Colors Cineplex</channel>
+    <channel update="i" site="tvireland.ie" site_id="2099/sony-max-hd" xmltv_id="Sony MAX HD">Sony MAX HD</channel>
+    <channel update="i" site="tvireland.ie" site_id="2114/utsav-gold-hd" xmltv_id="Utsav Gold HD">Utsav Gold HD</channel>
+    <channel update="i" site="tvireland.ie" site_id="1810/sony-sab" xmltv_id="Sony SAB">Sony SAB</channel>
+    <channel update="i" site="tvireland.ie" site_id="1814/sony-max-2" xmltv_id="Sony MAX 2">Sony MAX 2</channel>
+    <channel update="i" site="tvireland.ie" site_id="2116/sanskar" xmltv_id="Sanskar">Sanskar</channel>
+    <channel update="i" site="tvireland.ie" site_id="2130/geo-news" xmltv_id="GEO News">GEO News</channel>
+    <channel update="i" site="tvireland.ie" site_id="2077/new-vision" xmltv_id="New Vision">New Vision</channel>
+    <channel update="i" site="tvireland.ie" site_id="2128/geo-tv" xmltv_id="GEO TV">GEO TV</channel>
+    <channel update="i" site="tvireland.ie" site_id="2356/phoenix-cne-channel-hd" xmltv_id="Phoenix CNE Channel HD">Phoenix CNE Channel HD</channel>
+    <channel update="i" site="tvireland.ie" site_id="2342/colors-gujrati" xmltv_id="Colors Gujrati">Colors Gujrati</channel>
+    <channel update="i" site="tvireland.ie" site_id="81/rte-one" xmltv_id="RTE One">RTE One</channel>
+    <channel update="i" site="tvireland.ie" site_id="82/rte2" xmltv_id="RTE2">RTE2</channel>
+    <channel update="i" site="tvireland.ie" site_id="53/channel-4" xmltv_id="Channel 4">Channel 4</channel>
+    <channel update="i" site="tvireland.ie" site_id="222/sky-showcase" xmltv_id="Sky Showcase">Sky Showcase</channel>
+    <channel update="i" site="tvireland.ie" site_id="122/sky-witness" xmltv_id="Sky Witness">Sky Witness</channel>
+    <channel update="i" site="tvireland.ie" site_id="1628/sky-atlantic" xmltv_id="Sky Atlantic">Sky Atlantic</channel>
+    <channel update="i" site="tvireland.ie" site_id="154/alibi" xmltv_id="Alibi">Alibi</channel>
+    <channel update="i" site="tvireland.ie" site_id="74/dave" xmltv_id="Dave">Dave</channel>
+    <channel update="i" site="tvireland.ie" site_id="2352/sky-max" xmltv_id="Sky Max">Sky Max</channel>
+    <channel update="i" site="tvireland.ie" site_id="2315/sky-documentaries" xmltv_id="Sky Documentaries">Sky Documentaries</channel>
+    <channel update="i" site="tvireland.ie" site_id="1070/sky-crime" xmltv_id="Sky Crime">Sky Crime</channel>
+    <channel update="i" site="tvireland.ie" site_id="171/sky-history" xmltv_id="Sky History">Sky History</channel>
+    <channel update="i" site="tvireland.ie" site_id="2313/sky-nature" xmltv_id="Sky Nature">Sky Nature</channel>
+    <channel update="i" site="tvireland.ie" site_id="177/national-geographic-channel" xmltv_id="National Geographic Channel">National Geographic Channel</channel>
+    <channel update="i" site="tvireland.ie" site_id="602/sky-arts" xmltv_id="Sky Arts">Sky Arts</channel>
+    <channel update="i" site="tvireland.ie" site_id="1441/w" xmltv_id="W">W</channel>
+    <channel update="i" site="tvireland.ie" site_id="1789/tlc" xmltv_id="TLC">TLC</channel>
+    <channel update="i" site="tvireland.ie" site_id="4/bbc-one" xmltv_id="BBC One">BBC One</channel>
+    <channel update="i" site="tvireland.ie" site_id="742/bbc-four" xmltv_id="BBC Four">BBC Four</channel>
+    <channel update="i" site="tvireland.ie" site_id="1483/quest" xmltv_id="Quest">Quest</channel>
+    <channel update="i" site="tvireland.ie" site_id="934/e-entertainment" xmltv_id="E! Entertainment">E! Entertainment</channel>
+    <channel update="i" site="tvireland.ie" site_id="161/sky-sci-fi" xmltv_id="Sky Sci-Fi">Sky Sci-Fi</channel>
+    <channel update="i" site="tvireland.ie" site_id="1308/crime-investigation" xmltv_id="Crime + Investigation">Crime + Investigation</channel>
+    <channel update="i" site="tvireland.ie" site_id="1307/national-geographic-wild" xmltv_id="National Geographic WILD">National Geographic WILD</channel>
+    <channel update="i" site="tvireland.ie" site_id="1435/sky-history-2" xmltv_id="Sky History 2">Sky History 2</channel>
+    <channel update="i" site="tvireland.ie" site_id="52/bbc-two-england" xmltv_id="BBC Two England">BBC Two England</channel>
+    <channel update="i" site="tvireland.ie" site_id="935/bbc-three" xmltv_id="BBC Three">BBC Three</channel>
+    <channel update="i" site="tvireland.ie" site_id="1442/bbc-alba" xmltv_id="BBC Alba">BBC Alba</channel>
+    <channel update="i" site="tvireland.ie" site_id="1320/sky-cinema-premiere" xmltv_id="Sky Cinema Premiere">Sky Cinema Premiere</channel>
+    <channel update="i" site="tvireland.ie" site_id="1326/sky-cinema-80s-icons" xmltv_id="Sky Cinema 80s Icons">Sky Cinema 80s Icons</channel>
+    <channel update="i" site="tvireland.ie" site_id="1323/sky-cinema-family" xmltv_id="Sky Cinema Family">Sky Cinema Family</channel>
+    <channel update="i" site="tvireland.ie" site_id="1328/sky-cinema-action" xmltv_id="Sky Cinema Action">Sky Cinema Action</channel>
+    <channel update="i" site="tvireland.ie" site_id="220/film4" xmltv_id="Film4">Film4</channel>
+    <channel update="i" site="tvireland.ie" site_id="2386/sky-sports-main-event-ultra-hdr" xmltv_id="Sky Sports Main Event Ultra HDR">Sky Sports Main Event Ultra HDR</channel>
+    <channel update="i" site="tvireland.ie" site_id="431/sky-sports-main-event" xmltv_id="Sky Sports Main Event">Sky Sports Main Event</channel>
+    <channel update="i" site="tvireland.ie" site_id="1889/sky-sports-premier-league" xmltv_id="Sky Sports Premier League">Sky Sports Premier League</channel>
+    <channel update="i" site="tvireland.ie" site_id="2086/sky-sports-football" xmltv_id="Sky Sports Football">Sky Sports Football</channel>
+    <channel update="i" site="tvireland.ie" site_id="433/sky-sports-cricket" xmltv_id="Sky Sports Cricket">Sky Sports Cricket</channel>
+    <channel update="i" site="tvireland.ie" site_id="437/sky-sports-golf" xmltv_id="Sky Sports Golf">Sky Sports Golf</channel>
+    <channel update="i" site="tvireland.ie" site_id="1670/sky-sports-f1" xmltv_id="Sky Sports F1">Sky Sports F1</channel>
+    <channel update="i" site="tvireland.ie" site_id="435/sky-sports-nfl" xmltv_id="Sky Sports NFL">Sky Sports NFL</channel>
+    <channel update="i" site="tvireland.ie" site_id="2088/sky-sports-arena" xmltv_id="Sky Sports Arena">Sky Sports Arena</channel>
+    <channel update="i" site="tvireland.ie" site_id="231/sky-sports-news" xmltv_id="Sky Sports News">Sky Sports News</channel>
+    <channel update="i" site="tvireland.ie" site_id="275/eurosport-1" xmltv_id="Eurosport 1">Eurosport 1</channel>
+    <channel update="i" site="tvireland.ie" site_id="1076/eurosport-2" xmltv_id="Eurosport 2">Eurosport 2</channel>
+    <channel update="i" site="tvireland.ie" site_id="1804/tnt-sports-1" xmltv_id="TNT Sports 1">TNT Sports 1</channel>
+    <channel update="i" site="tvireland.ie" site_id="1806/tnt-sports-2" xmltv_id="TNT Sports 2">TNT Sports 2</channel>
+    <channel update="i" site="tvireland.ie" site_id="747/sky-sports-racing" xmltv_id="Sky Sports Racing">Sky Sports Racing</channel>
+    <channel update="i" site="tvireland.ie" site_id="2033/sky-sports-mix" xmltv_id="Sky Sports Mix">Sky Sports Mix</channel>
+    <channel update="i" site="tvireland.ie" site_id="1952/tnt-sports-3" xmltv_id="TNT Sports 3">TNT Sports 3</channel>
+    <channel update="i" site="tvireland.ie" site_id="229/mutv" xmltv_id="MUTV">MUTV</channel>
+    <channel update="i" site="tvireland.ie" site_id="1051/racing-tv" xmltv_id="Racing TV">Racing TV</channel>
+    <channel update="i" site="tvireland.ie" site_id="2082/trt-world" xmltv_id="TRT World">TRT World</channel>
+    <channel update="i" site="tvireland.ie" site_id="186/sony-entertainment-tv-asia" xmltv_id="Sony Entertainment TV Asia">Sony Entertainment TV Asia</channel>
+    <channel update="i" site="tvireland.ie" site_id="678/utsav-plus" xmltv_id="Utsav Plus">Utsav Plus</channel>
+    <channel update="i" site="tvireland.ie" site_id="1812/colors" xmltv_id="Colors">Colors</channel>
+    <channel update="i" site="tvireland.ie" site_id="1813/sony-max" xmltv_id="Sony MAX">Sony MAX</channel>
+    <channel update="i" site="tvireland.ie" site_id="1668/utsav-gold" xmltv_id="Utsav Gold">Utsav Gold</channel>
+    <channel update="i" site="tvireland.ie" site_id="71/zee-tv" xmltv_id="Zee TV">Zee TV</channel>
+    <channel update="i" site="tvireland.ie" site_id="1172/sky-mix" xmltv_id="Sky Mix">Sky Mix</channel>
+    <channel update="i" site="tvireland.ie" site_id="1669/animal-planet-hd" xmltv_id="Animal Planet HD">Animal Planet HD</channel>
+    <channel update="i" site="tvireland.ie" site_id="1514/sky-cinema-tolkien-hd" xmltv_id="Sky Cinema Tolkien HD">Sky Cinema Tolkien HD</channel>
+    <channel update="i" site="tvireland.ie" site_id="1324/sky-cinema-christmas" xmltv_id="Sky Cinema Christmas">Sky Cinema Christmas</channel>
+    <channel update="i" site="tvireland.ie" site_id="1322/sky-cinema-comedy" xmltv_id="Sky Cinema Comedy">Sky Cinema Comedy</channel>
+    <channel update="i" site="tvireland.ie" site_id="1319/sky-cinema-thriller" xmltv_id="Sky Cinema Thriller">Sky Cinema Thriller</channel>
+    <channel update="i" site="tvireland.ie" site_id="1318/sky-cinema-mockingjay" xmltv_id="Sky Cinema Mockingjay">Sky Cinema Mockingjay</channel>
+    <channel update="i" site="tvireland.ie" site_id="1329/sky-cinema-sci-fihorror" xmltv_id="Sky Cinema Sci-fi/Horror">Sky Cinema Sci-fi/Horror</channel>
+    <channel update="i" site="tvireland.ie" site_id="2020/sky-sports-premier-league-roi" xmltv_id="Sky Sports Premier League ROI">Sky Sports Premier League ROI</channel>
+    <channel update="i" site="tvireland.ie" site_id="1492/tnt-sports-4" xmltv_id="TNT Sports 4">TNT Sports 4</channel>
+    <channel update="i" site="tvireland.ie" site_id="95/cnn" xmltv_id="CNN">CNN</channel>
+    <channel update="i" site="tvireland.ie" site_id="1535/nhk-world" xmltv_id="NHK World">NHK World</channel>
+    <channel update="i" site="tvireland.ie" site_id="2403/bbc-alba-hd" xmltv_id="BBC Alba HD">BBC Alba HD</channel>
+    <channel update="i" site="tvireland.ie" site_id="1890/sky-sports-premier-league-hd" xmltv_id="Sky Sports Premier League HD">Sky Sports Premier League HD</channel>
+    <channel update="i" site="tvireland.ie" site_id="2378/virgin-media-more" xmltv_id="Virgin Media More">Virgin Media More</channel>
+    <channel update="i" site="tvireland.ie" site_id="1932/virgin-media-three-hd" xmltv_id="Virgin Media Three HD">Virgin Media Three HD</channel>
+    <channel update="i" site="tvireland.ie" site_id="1065/itv3" xmltv_id="ITV3">ITV3</channel>
+    <channel update="i" site="tvireland.ie" site_id="1174/itv4" xmltv_id="ITV4">ITV4</channel>
+    <channel update="i" site="tvireland.ie" site_id="682/fashion-tv" xmltv_id="Fashion TV">Fashion TV</channel>
+    <channel update="i" site="tvireland.ie" site_id="85/bbc-news" xmltv_id="BBC News">BBC News</channel>
+    <channel update="i" site="tvireland.ie" site_id="192/cnbc-europe" xmltv_id="CNBC Europe">CNBC Europe</channel>
+    <channel update="i" site="tvireland.ie" site_id="138/bbc-news-global" xmltv_id="BBC News (Global)">BBC News (Global)</channel>
+    <channel update="i" site="tvireland.ie" site_id="92/bloomberg" xmltv_id="Bloomberg">Bloomberg</channel>
+    <channel update="i" site="tvireland.ie" site_id="2326/sky-cinema-animation" xmltv_id="Sky Cinema Animation">Sky Cinema Animation</channel>
+    <channel update="i" site="tvireland.ie" site_id="64/mtv" xmltv_id="MTV">MTV</channel>
+    <channel update="i" site="tvireland.ie" site_id="913/kerrang-tv" xmltv_id="Kerrang! TV">Kerrang! TV</channel>
+    <channel update="i" site="tvireland.ie" site_id="915/magic" xmltv_id="Magic">Magic</channel>
+    <channel update="i" site="tvireland.ie" site_id="93/the-box" xmltv_id="The Box">The Box</channel>
+    <channel update="i" site="tvireland.ie" site_id="410/kiss-tv" xmltv_id="Kiss TV">Kiss TV</channel>
+    <channel update="i" site="tvireland.ie" site_id="19/bbc-two-northern-ireland" xmltv_id="BBC Two Northern Ireland">BBC Two Northern Ireland</channel>
+    <channel update="i" site="tvireland.ie" site_id="2305/sky-comedy" xmltv_id="Sky Comedy">Sky Comedy</channel>
+  </channels>
+</site>
