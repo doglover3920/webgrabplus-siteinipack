@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.4 -- Jan van Straaten" site="player.pl">
+  <channels>
+    <channel update="i" site="player.pl" site_id="1908473" xmltv_id="TVN HD">TVN HD</channel>
+    <channel update="i" site="player.pl" site_id="1908474" xmltv_id="TVN 7 HD">TVN 7 HD</channel>
+    <channel update="i" site="player.pl" site_id="57630" xmltv_id="TVN24 HD">TVN24 HD</channel>
+    <channel update="i" site="player.pl" site_id="57633" xmltv_id="TVN24 BiS HD">TVN24 BiS HD</channel>
+    <channel update="i" site="player.pl" site_id="1908475" xmltv_id="TTV HD">TTV HD</channel>
+    <channel update="i" site="player.pl" site_id="57610" xmltv_id="Discovery HD">Discovery HD</channel>
+    <channel update="i" site="player.pl" site_id="57615" xmltv_id="EUROSPORT 1 HD">EUROSPORT 1 HD</channel>
+    <channel update="i" site="player.pl" site_id="57616" xmltv_id="EUROSPORT 2 HD">EUROSPORT 2 HD</channel>
+    <channel update="i" site="player.pl" site_id="57626" xmltv_id="TVN Turbo HD">TVN Turbo HD</channel>
+    <channel update="i" site="player.pl" site_id="57631" xmltv_id="TVN Style HD">TVN Style HD</channel>
+    <channel update="i" site="player.pl" site_id="2930755" xmltv_id="Animal Planet">Animal Planet</channel>
+    <channel update="i" site="player.pl" site_id="2930753" xmltv_id="Travel Channel">Travel Channel</channel>
+    <channel update="i" site="player.pl" site_id="2930751" xmltv_id="Food Network">Food Network</channel>
+    <channel update="i" site="player.pl" site_id="2930757" xmltv_id="Discovery Science">Discovery Science</channel>
+    <channel update="i" site="player.pl" site_id="2930756" xmltv_id="Discovery Historia">Discovery Historia</channel>
+    <channel update="i" site="player.pl" site_id="2930750" xmltv_id="Discovery Life">Discovery Life</channel>
+    <channel update="i" site="player.pl" site_id="2930759" xmltv_id="Investigation Discovery">Investigation Discovery</channel>
+    <channel update="i" site="player.pl" site_id="2930758" xmltv_id="DTX">DTX</channel>
+    <channel update="i" site="player.pl" site_id="57613" xmltv_id="TLC HD">TLC HD</channel>
+    <channel update="i" site="player.pl" site_id="6330167" xmltv_id="CNN HD">CNN HD</channel>
+    <channel update="i" site="player.pl" site_id="6330169" xmltv_id="Cinemax 2 HD">Cinemax 2 HD</channel>
+    <channel update="i" site="player.pl" site_id="57590" xmltv_id="HGTV">HGTV</channel>
+    <channel update="i" site="player.pl" site_id="6330168" xmltv_id="Cinemax HD">Cinemax HD</channel>
+    <channel update="i" site="player.pl" site_id="6330165" xmltv_id="Cartoon Network HD">Cartoon Network HD</channel>
+    <channel update="i" site="player.pl" site_id="6330166" xmltv_id="Cartoonito HD">Cartoonito HD</channel>
+    <channel update="i" site="player.pl" site_id="2930752" xmltv_id="Metro">Metro</channel>
+    <channel update="i" site="player.pl" site_id="6330171" xmltv_id="Romance TV HD">Romance TV HD</channel>
+    <channel update="i" site="player.pl" site_id="6330170" xmltv_id="Warner TV HD">Warner TV HD</channel>
+    <channel update="i" site="player.pl" site_id="57594" xmltv_id="Eleven Sports 1 HD">Eleven Sports 1 HD</channel>
+    <channel update="i" site="player.pl" site_id="57603" xmltv_id="Eleven Sports 2 HD">Eleven Sports 2 HD</channel>
+    <channel update="i" site="player.pl" site_id="57605" xmltv_id="Eleven Sports 3 HD">Eleven Sports 3 HD</channel>
+    <channel update="i" site="player.pl" site_id="113229" xmltv_id="Eleven Sports 4 HD">Eleven Sports 4 HD</channel>
+    <channel update="i" site="player.pl" site_id="57592" xmltv_id="CANAL+ PREMIUM HD">CANAL+ PREMIUM HD</channel>
+    <channel update="i" site="player.pl" site_id="57611" xmltv_id="CANAL+ 1 HD">CANAL+ 1 HD</channel>
+    <channel update="i" site="player.pl" site_id="57598" xmltv_id="CANAL+ FILM HD">CANAL+ FILM HD</channel>
+    <channel update="i" site="player.pl" site_id="57612" xmltv_id="CANAL+ SERIALE HD">CANAL+ SERIALE HD</channel>
+    <channel update="i" site="player.pl" site_id="5899827" xmltv_id="CANAL+ FAMILY HD">CANAL+ FAMILY HD</channel>
+    <channel update="i" site="player.pl" site_id="57617" xmltv_id="CANAL+ DOKUMENT HD">CANAL+ DOKUMENT HD</channel>
+    <channel update="i" site="player.pl" site_id="57595" xmltv_id="CANAL+ SPORT HD">CANAL+ SPORT HD</channel>
+    <channel update="i" site="player.pl" site_id="57614" xmltv_id="CANAL+ SPORT 2 HD">CANAL+ SPORT 2 HD</channel>
+    <channel update="i" site="player.pl" site_id="1960975" xmltv_id="CANAL+ SPORT 3 HD">CANAL+ SPORT 3 HD</channel>
+    <channel update="i" site="player.pl" site_id="1960976" xmltv_id="CANAL+ SPORT 4 HD">CANAL+ SPORT 4 HD</channel>
+    <channel update="i" site="player.pl" site_id="57621" xmltv_id="CANAL+ Now HD">CANAL+ Now HD</channel>
+    <channel update="i" site="player.pl" site_id="6342854" xmltv_id="HBO HD">HBO HD</channel>
+    <channel update="i" site="player.pl" site_id="6342855" xmltv_id="HBO2 HD">HBO2 HD</channel>
+    <channel update="i" site="player.pl" site_id="6342856" xmltv_id="HBO3 HD">HBO3 HD</channel>
+    <channel update="i" site="player.pl" site_id="101381" xmltv_id="MOTOWIZJA">MOTOWIZJA</channel>
+    <channel update="i" site="player.pl" site_id="1381580" xmltv_id="ITVN HD">ITVN HD</channel>
+    <channel update="i" site="player.pl" site_id="1381583" xmltv_id="ITVN Extra HD">ITVN Extra HD</channel>
+    <channel update="i" site="player.pl" site_id="1381584" xmltv_id="TVN24 HD International">TVN24 HD International</channel>
+    <channel update="i" site="player.pl" site_id="8759890" xmltv_id="TVN Rewolucje w Kuchni Online">TVN Rewolucje w Kuchni Online</channel>
+    <channel update="i" site="player.pl" site_id="8759882" xmltv_id="TVN Kultowe Seriale Online">TVN Kultowe Seriale Online</channel>
+    <channel update="i" site="player.pl" site_id="8759881" xmltv_id="TVN Rajska Miłość Online">TVN Rajska Miłość Online</channel>
+    <channel update="i" site="player.pl" site_id="8759886" xmltv_id="TVN Talk Show Online">TVN Talk Show Online</channel>
+    <channel update="i" site="player.pl" site_id="8759884" xmltv_id="TVN Kryminalnie Online">TVN Kryminalnie Online</channel>
+    <channel update="i" site="player.pl" site_id="8759880" xmltv_id="TVN Momenty Prawdy Online">TVN Momenty Prawdy Online</channel>
+    <channel update="i" site="player.pl" site_id="8759891" xmltv_id="TVN Życie Jak w Bajce Online">TVN Życie Jak w Bajce Online</channel>
+    <channel update="i" site="player.pl" site_id="8759892" xmltv_id="TVN Szpitalne Historie Online">TVN Szpitalne Historie Online</channel>
+    <channel update="i" site="player.pl" site_id="8759888" xmltv_id="TVN Seriale o Kobietach Online">TVN Seriale o Kobietach Online</channel>
+    <channel update="i" site="player.pl" site_id="8759887" xmltv_id="TVN Telenowele Online">TVN Telenowele Online</channel>
+    <channel update="i" site="player.pl" site_id="8759893" xmltv_id="TVN Szkoła Życia Online">TVN Szkoła Życia Online</channel>
+    <channel update="i" site="player.pl" site_id="8759889" xmltv_id="TVN W Domu Online">TVN W Domu Online</channel>
+    <channel update="i" site="player.pl" site_id="8759883" xmltv_id="TVN Moto Online">TVN Moto Online</channel>
+    <channel update="i" site="player.pl" site_id="8759885" xmltv_id="TVN Usterka Online">TVN Usterka Online</channel>
+    <channel update="i" site="player.pl" site_id="8759879" xmltv_id="TVN Prawo i Życie Online">TVN Prawo i Życie Online</channel>
+  </channels>
+</site>
