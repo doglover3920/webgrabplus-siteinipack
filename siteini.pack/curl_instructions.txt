@@ -1,0 +1,20 @@
+For some SiteIni's curl is needed.
+
+Windows:
+You will need curl for Windows:  https://curl.haxx.se/windows/
+
+Download it, and copy the files from the bin folder to the WG++ folder containing the SiteIni used.
+
+Linux:
+Install curl with: 
+
+sudo apt install curl
+
+give the command:
+
+cp -s -u /usr/bin/curl /your_WG++_work_folder/curl.exe
+
+The folder "your_WG++_work_folder" is the WG++ folder containing the SiteIni used.  
+Full path.  
+
+This makes a symlink to the curl utitlity
