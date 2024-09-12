@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.4 -- Jan van Straaten" site="programme-television.org">
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.9 -- Jan van Straaten" site="programme-television.org">
   <channels>
     <channel update="i" site="programme-television.org" site_id="192" xmltv_id="TF1">TF1</channel>
     <channel update="i" site="programme-television.org" site_id="4" xmltv_id="France 2">France 2</channel>
@@ -19,7 +19,7 @@
     <channel update="i" site="programme-television.org" site_id="226" xmltv_id="CNews">CNews</channel>
     <channel update="i" site="programme-television.org" site_id="458" xmltv_id="CStar">CStar</channel>
     <channel update="i" site="programme-television.org" site_id="482" xmltv_id="Gulli">Gulli</channel>
-    <channel update="i" site="programme-television.org" site_id="160" xmltv_id="France Ô">France Ô</channel>
+    <channel update="i" site="programme-television.org" site_id="3163" xmltv_id="Culturebox">Culturebox</channel>
     <channel update="i" site="programme-television.org" site_id="1404" xmltv_id="TF1 Série Films">TF1 Série Films</channel>
     <channel update="i" site="programme-television.org" site_id="1401" xmltv_id="L Equipe">L Equipe</channel>
     <channel update="i" site="programme-television.org" site_id="1403" xmltv_id="6Ter">6Ter</channel>
@@ -35,9 +35,8 @@
     <channel update="i" site="programme-television.org" site_id="657" xmltv_id="Canal+ Family">Canal+ Family</channel>
     <channel update="i" site="programme-television.org" site_id="30" xmltv_id="Canal+ Décalé">Canal+ Décalé</channel>
     <channel update="i" site="programme-television.org" site_id="734" xmltv_id="OCS Géants">OCS Géants</channel>
-    <channel update="i" site="programme-television.org" site_id="732" xmltv_id="OCS Choc">OCS Choc</channel>
+    <channel update="i" site="programme-television.org" site_id="732" xmltv_id="OCS Pulp">OCS Pulp</channel>
     <channel update="i" site="programme-television.org" site_id="730" xmltv_id="OCS Max">OCS Max</channel>
-    <channel update="i" site="programme-television.org" site_id="733" xmltv_id="OCS City">OCS City</channel>
     <channel update="i" site="programme-television.org" site_id="282" xmltv_id="Ciné+ Premier">Ciné+ Premier</channel>
     <channel update="i" site="programme-television.org" site_id="285" xmltv_id="Ciné+ Club">Ciné+ Club</channel>
     <channel update="i" site="programme-television.org" site_id="401" xmltv_id="Ciné+ Famiz">Ciné+ Famiz</channel>
@@ -71,6 +70,7 @@
     <channel update="i" site="programme-television.org" site_id="1960" xmltv_id="BET">BET</channel>
     <channel update="i" site="programme-television.org" site_id="1408" xmltv_id="Non Stop People">Non Stop People</channel>
     <channel update="i" site="programme-television.org" site_id="701" xmltv_id="IDF1">IDF1</channel>
+    <channel update="i" site="programme-television.org" site_id="3037" xmltv_id="TELEFOOT">TELEFOOT</channel>
     <channel update="i" site="programme-television.org" site_id="35" xmltv_id="Canal+ sport">Canal+ sport</channel>
     <channel update="i" site="programme-television.org" site_id="529" xmltv_id="France 24">France 24</channel>
     <channel update="i" site="programme-television.org" site_id="992" xmltv_id="LCP 100%">LCP 100%</channel>
@@ -129,7 +129,7 @@
     <channel update="i" site="programme-television.org" site_id="2021" xmltv_id="MCS Maison">MCS Maison</channel>
     <channel update="i" site="programme-television.org" site_id="2301" xmltv_id="My Cuisine">My Cuisine</channel>
     <channel update="i" site="programme-television.org" site_id="829" xmltv_id="MyZen TV">MyZen TV</channel>
-    <channel update="i" site="programme-television.org" site_id="2171" xmltv_id="Viceland">Viceland</channel>
+    <channel update="i" site="programme-television.org" site_id="2171" xmltv_id="Vice TV">Vice TV</channel>
     <channel update="i" site="programme-television.org" site_id="57" xmltv_id="Demain TV">Demain TV</channel>
     <channel update="i" site="programme-television.org" site_id="1776" xmltv_id="Trek">Trek</channel>
     <channel update="i" site="programme-television.org" site_id="212" xmltv_id="Voyage">Voyage</channel>
@@ -193,8 +193,8 @@
     <channel update="i" site="programme-television.org" site_id="537" xmltv_id="Télé Grenoble Isère">Télé Grenoble Isère</channel>
     <channel update="i" site="programme-television.org" site_id="1268" xmltv_id="TV Vendée">TV Vendée</channel>
     <channel update="i" site="programme-television.org" site_id="809" xmltv_id="Wéo">Wéo</channel>
-    <channel update="i" site="programme-television.org" site_id="202" xmltv_id="RTS Un">RTS Un</channel>
-    <channel update="i" site="programme-television.org" site_id="183" xmltv_id="RTS Deux">RTS Deux</channel>
+    <channel update="i" site="programme-television.org" site_id="202" xmltv_id="RTS 1">RTS 1</channel>
+    <channel update="i" site="programme-television.org" site_id="183" xmltv_id="RTS 2">RTS 2</channel>
     <channel update="i" site="programme-television.org" site_id="164" xmltv_id="La Une">La Une</channel>
     <channel update="i" site="programme-television.org" site_id="187" xmltv_id="La Deux">La Deux</channel>
     <channel update="i" site="programme-television.org" site_id="892" xmltv_id="La Trois">La Trois</channel>
