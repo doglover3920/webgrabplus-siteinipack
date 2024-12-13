@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.4 -- Jan van Straaten" site="tv-tabla.se">
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.9 -- Jan van Straaten" site="tv-tabla.se">
   <channels>
     <channel update="i" site="tv-tabla.se" site_id="svt1" xmltv_id="SVT1">SVT1</channel>
     <channel update="i" site="tv-tabla.se" site_id="svt2" xmltv_id="SVT2">SVT2</channel>
