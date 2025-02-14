@@ -6,7 +6,7 @@
     <channel update="i" site="tv-media.at" site_id="97668e48-d3e8-4a2f-b301-c0ea6b361d6a" xmltv_id="ATV">ATV</channel>
     <channel update="i" site="tv-media.at" site_id="97668e49-49d4-45a2-a932-ad67b9aa5e83" xmltv_id="PULS 4">PULS 4</channel>
     <channel update="i" site="tv-media.at" site_id="97668e49-5f2f-41d6-8cac-0abb54f6d4ba" xmltv_id="SERVUS TV">SERVUS TV</channel>
-    <channel update="i" site="tv-media.at" site_id="97668e49-39d1-4686-8ab9-1b3ca25f4a39" xmltv_id="ORF3">ORF3</channel>
+    <channel update="i" site="tv-media.at" site_id="97668e49-39d1-4686-8ab9-1b3ca25f4a39" xmltv_id="ORF 3">ORF 3</channel>
     <channel update="i" site="tv-media.at" site_id="97668e49-4875-446f-9b98-c7f5d7cfa898" xmltv_id="PULS 24">PULS 24</channel>
     <channel update="i" site="tv-media.at" site_id="97668e49-556e-46d2-a62c-4bd9faf542a2" xmltv_id="RTL">RTL</channel>
     <channel update="i" site="tv-media.at" site_id="97668e49-5bb2-4197-967c-b0526ff0547c" xmltv_id="SAT.1">SAT.1</channel>
@@ -52,7 +52,7 @@
     <channel update="i" site="tv-media.at" site_id="97668e48-de16-402f-88c8-3ed6bc0c470b" xmltv_id="CRIME + INVESTIGATION">CRIME + INVESTIGATION</channel>
     <channel update="i" site="tv-media.at" site_id="97668e49-2196-45b2-950c-29ef26a30005" xmltv_id="NATIONAL GEOGRAPHIC">NATIONAL GEOGRAPHIC</channel>
     <channel update="i" site="tv-media.at" site_id="97668e49-1fb0-49d9-8e73-8442c7df5afc" xmltv_id="NATIONAL GEOGRAPHIC WILD">NATIONAL GEOGRAPHIC WILD</channel>
-    <channel update="i" site="tv-media.at" site_id="97668e48-feab-415b-8417-79b9e088e528" xmltv_id="DIS">DIS</channel>
+    <channel update="i" site="tv-media.at" site_id="97668e48-feab-415b-8417-79b9e088e528" xmltv_id="Discovery Channel">Discovery Channel</channel>
     <channel update="i" site="tv-media.at" site_id="97668e48-cca0-4112-ac2e-c607f564ac87" xmltv_id="ANIMAL PLANET">ANIMAL PLANET</channel>
     <channel update="i" site="tv-media.at" site_id="97668e49-5202-4321-9b70-d7872911a5ca" xmltv_id="RTL LIVING">RTL LIVING</channel>
     <channel update="i" site="tv-media.at" site_id="97668e48-dfaa-4ac4-b6e8-9f09bf61444d" xmltv_id="BONGUSTO">BONGUSTO</channel>
@@ -126,7 +126,7 @@
     <channel update="i" site="tv-media.at" site_id="97668e49-0422-407e-8edf-8430b51b444d" xmltv_id="EUROSPORT 1">EUROSPORT 1</channel>
     <channel update="i" site="tv-media.at" site_id="97668e49-03e3-444c-bd6a-2286681c0ab6" xmltv_id="EUROSPORT 2">EUROSPORT 2</channel>
     <channel update="i" site="tv-media.at" site_id="97668e49-981c-47c0-a619-f00b0a6dfe2f" xmltv_id="eSports1">eSports1</channel>
-    <channel update="i" site="tv-media.at" site_id="97668e49-73ad-42c4-a96c-4cbcd8228cf1" xmltv_id="SPORT1+">SPORT1+</channel>
+    <channel update="i" site="tv-media.at" site_id="97668e49-73ad-42c4-a96c-4cbcd8228cf1" xmltv_id="ORF SPORT1+">ORF SPORT1+</channel>
     <channel update="i" site="tv-media.at" site_id="97668e48-d562-446a-acaa-f486fc1e82be" xmltv_id="AUTO MOTOR SPORT">AUTO MOTOR SPORT</channel>
     <channel update="i" site="tv-media.at" site_id="97668e49-1b22-4786-9b1f-aa73c7a56e52" xmltv_id="MOTORVISION">MOTORVISION</channel>
     <channel update="i" site="tv-media.at" site_id="97668e49-70fd-48a8-935b-4aaa01db2acd" xmltv_id="SKY SPORT NEWS">SKY SPORT NEWS</channel>
@@ -143,7 +143,7 @@
     <channel update="i" site="tv-media.at" site_id="97668e49-07d7-401d-a1cb-31421d5c650c" xmltv_id="GUTELAUNE TV">GUTELAUNE TV</channel>
     <channel update="i" site="tv-media.at" site_id="97668e49-0cc8-4119-9d81-47b3a0fdcc91" xmltv_id="JUKEBOX">JUKEBOX</channel>
     <channel update="i" site="tv-media.at" site_id="97668e49-1714-4352-b9fe-1436808f2035" xmltv_id="K-TV">K-TV</channel>
-    <channel update="i" site="tv-media.at" site_id="97668e49-8e1b-45d3-bbd9-a7b80a387c4b" xmltv_id="DEUTSCHES MUSIK FERNSEHEN">DEUTSCHES MUSIK FERNSEHEN</channel>
+    <channel update="i" site="tv-media.at" site_id="97668e49-8e1b-45d3-bbd9-a7b80a387c4b" xmltv_id="Dt. MUSIK FERNSEHEN">Dt. MUSIK FERNSEHEN</channel>
     <channel update="i" site="tv-media.at" site_id="97668e49-82c3-4fd9-8d65-7d30e09caa4b" xmltv_id="SKY DOCUMENTARIES">SKY DOCUMENTARIES</channel>
     <channel update="i" site="tv-media.at" site_id="97668e49-83be-4973-b89c-e498d29a06d5" xmltv_id="SKY NATURE">SKY NATURE</channel>
   </channels>
