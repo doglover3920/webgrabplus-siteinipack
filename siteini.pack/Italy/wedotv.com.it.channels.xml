@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.4 -- Jan van Straaten" site="wedotv.com">
+  <channels>
+    <channel update="i" site="wedotv.com.it" site_id="Euronews - Italiano" xmltv_id="Euronews - Italiano">Euronews - Italiano</channel>
+    <channel update="i" site="wedotv.com.it" site_id="wedotv Movies IT" xmltv_id="wedotv Movies IT">wedotv Movies IT</channel>
+    <channel update="i" site="wedotv.com.it" site_id="Serially Crime" xmltv_id="Serially Crime">Serially Crime</channel>
+    <channel update="i" site="wedotv.com.it" site_id="Brividy Cinama" xmltv_id="Brividy Cinama">Brividy Cinama</channel>
+    <channel update="i" site="wedotv.com.it" site_id="Risate Dal Sud - Mud?" xmltv_id="Risate Dal Sud - Mud?">Risate Dal Sud - Mud?</channel>
+    <channel update="i" site="wedotv.com.it" site_id="wedotv Big Stories" xmltv_id="wedotv Big Stories">wedotv Big Stories</channel>
+    <channel update="i" site="wedotv.com.it" site_id="Trailers" xmltv_id="Trailers">Trailers</channel>
+    <channel update="i" site="wedotv.com.it" site_id="A Tavola" xmltv_id="A Tavola">A Tavola</channel>
+    <channel update="i" site="wedotv.com.it" site_id="HorizonSports Italia" xmltv_id="HorizonSports Italia">HorizonSports Italia</channel>
+    <channel update="i" site="wedotv.com.it" site_id="Piel Salvaje" xmltv_id="Piel Salvaje">Piel Salvaje</channel>
+    <channel update="i" site="wedotv.com.it" site_id="wedotv Amor" xmltv_id="wedotv Amor">wedotv Amor</channel>
+    <channel update="i" site="wedotv.com.it" site_id="time2Rlx" xmltv_id="time2Rlx">time2Rlx</channel>
+    <channel update="i" site="wedotv.com.it" site_id="Motorvision TV English" xmltv_id="Motorvision TV English">Motorvision TV English</channel>
+    <channel update="i" site="wedotv.com.it" site_id="DayStar ES" xmltv_id="DayStar ES">DayStar ES</channel>
+    <channel update="i" site="wedotv.com.it" site_id="DayStar" xmltv_id="DayStar">DayStar</channel>
+    <channel update="i" site="wedotv.com.it" site_id="Shades of Black" xmltv_id="Shades of Black">Shades of Black</channel>
+    <channel update="i" site="wedotv.com.it" site_id="Qwest TV" xmltv_id="Qwest TV">Qwest TV</channel>
+    <channel update="i" site="wedotv.com.it" site_id="Love The Planet" xmltv_id="Love The Planet">Love The Planet</channel>
+    <channel update="i" site="wedotv.com.it" site_id="WORLD OF FREESPORTS International" xmltv_id="WORLD OF FREESPORTS International">WORLD OF FREESPORTS International</channel>
+    <channel update="i" site="wedotv.com.it" site_id="Absinthe TV" xmltv_id="Absinthe TV">Absinthe TV</channel>
+    <channel update="i" site="wedotv.com.it" site_id="Deluxe Lounge HD" xmltv_id="Deluxe Lounge HD">Deluxe Lounge HD</channel>
+    <channel update="i" site="wedotv.com.it" site_id="NTD" xmltv_id="NTD">NTD</channel>
+    <channel update="i" site="wedotv.com.it" site_id="5-Minute Crafts" xmltv_id="5-Minute Crafts">5-Minute Crafts</channel>
+    <channel update="i" site="wedotv.com.it" site_id="BRAT TV" xmltv_id="BRAT TV">BRAT TV</channel>
+    <channel update="i" site="wedotv.com.it" site_id="Drool" xmltv_id="Drool">Drool</channel>
+    <channel update="i" site="wedotv.com.it" site_id="OAN Plus" xmltv_id="OAN Plus">OAN Plus</channel>
+    <channel update="i" site="wedotv.com.it" site_id="Glory Kickboxing" xmltv_id="Glory Kickboxing">Glory Kickboxing</channel>
+    <channel update="i" site="wedotv.com.it" site_id="DFB Play TV" xmltv_id="DFB Play TV">DFB Play TV</channel>
+    <channel update="i" site="wedotv.com.it" site_id="AWE Plus" xmltv_id="AWE Plus">AWE Plus</channel>
+    <channel update="i" site="wedotv.com.it" site_id="World Poker Tour" xmltv_id="World Poker Tour">World Poker Tour</channel>
+    <channel update="i" site="wedotv.com.it" site_id="Panic TV" xmltv_id="Panic TV">Panic TV</channel>
+    <channel update="i" site="wedotv.com.it" site_id="Intravel" xmltv_id="Intravel">Intravel</channel>
+    <channel update="i" site="wedotv.com.it" site_id="P?nico TV" xmltv_id="P?nico TV">P?nico TV</channel>
+    <channel update="i" site="wedotv.com.it" site_id="1 + 1 News" xmltv_id="1 + 1 News">1 + 1 News</channel>
+    <channel update="i" site="wedotv.com.it" site_id="1 + 1 Travel" xmltv_id="1 + 1 Travel">1 + 1 Travel</channel>
+    <channel update="i" site="wedotv.com.it" site_id="Inwild" xmltv_id="Inwild">Inwild</channel>
+  </channels>
+</site>
