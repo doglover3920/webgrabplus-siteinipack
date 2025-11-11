@@ -1,33 +1,40 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.11.0 -- Jan van Straaten" site="tv.yousee.dk">
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.4 -- Jan van Straaten" site="tv.yousee.dk">
   <channels>
     <channel update="i" site="tv.yousee.dk" site_id="1" xmltv_id="DR1">DR1</channel>
     <channel update="i" site="tv.yousee.dk" site_id="2" xmltv_id="DR2">DR2</channel>
-    <channel update="i" site="tv.yousee.dk" site_id="3" xmltv_id="TV 2 Danmark">TV 2 Danmark</channel>
-    <channel update="i" site="tv.yousee.dk" site_id="4" xmltv_id="TV 2 ZULU">TV 2 ZULU</channel>
-    <channel update="i" site="tv.yousee.dk" site_id="5" xmltv_id="TV 2 CHARLIE">TV 2 CHARLIE</channel>
+    <channel update="i" site="tv.yousee.dk" site_id="3" xmltv_id="TV 2">TV 2</channel>
+    <channel update="i" site="tv.yousee.dk" site_id="4" xmltv_id="TV 2 Echo">TV 2 Echo</channel>
+    <channel update="i" site="tv.yousee.dk" site_id="5" xmltv_id="TV 2 Charlie">TV 2 Charlie</channel>
     <channel update="i" site="tv.yousee.dk" site_id="7" xmltv_id="TV3">TV3</channel>
     <channel update="i" site="tv.yousee.dk" site_id="8" xmltv_id="TV3+">TV3+</channel>
+    <channel update="i" site="tv.yousee.dk" site_id="9" xmltv_id="Kanal 4">Kanal 4</channel>
+    <channel update="i" site="tv.yousee.dk" site_id="10" xmltv_id="Kanal 5">Kanal 5</channel>
     <channel update="i" site="tv.yousee.dk" site_id="11" xmltv_id="Infokanalen">Infokanalen</channel>
     <channel update="i" site="tv.yousee.dk" site_id="12" xmltv_id="TV3 Puls">TV3 Puls</channel>
     <channel update="i" site="tv.yousee.dk" site_id="13" xmltv_id="dk4">dk4</channel>
     <channel update="i" site="tv.yousee.dk" site_id="14" xmltv_id="Trailerkanalen">Trailerkanalen</channel>
+    <channel update="i" site="tv.yousee.dk" site_id="17" xmltv_id="6'eren">6'eren</channel>
     <channel update="i" site="tv.yousee.dk" site_id="18" xmltv_id="Nickelodeon">Nickelodeon</channel>
     <channel update="i" site="tv.yousee.dk" site_id="19" xmltv_id="Disney Channel">Disney Channel</channel>
     <channel update="i" site="tv.yousee.dk" site_id="20" xmltv_id="Cartoon Network">Cartoon Network</channel>
     <channel update="i" site="tv.yousee.dk" site_id="23" xmltv_id="National Geographic Wild">National Geographic Wild</channel>
+    <channel update="i" site="tv.yousee.dk" site_id="24" xmltv_id="Eurosport 1">Eurosport 1</channel>
     <channel update="i" site="tv.yousee.dk" site_id="25" xmltv_id="TV3 SPORT">TV3 SPORT</channel>
     <channel update="i" site="tv.yousee.dk" site_id="26" xmltv_id="TV3 MAX">TV3 MAX</channel>
-    <channel update="i" site="tv.yousee.dk" site_id="27" xmltv_id="DR1 MPEG4 High">DR1 MPEG4 High</channel>
-    <channel update="i" site="tv.yousee.dk" site_id="28" xmltv_id="DR1 UHD encodning">DR1 UHD encodning</channel>
+    <channel update="i" site="tv.yousee.dk" site_id="27" xmltv_id="HaIP test 2">HaIP test 2</channel>
+    <channel update="i" site="tv.yousee.dk" site_id="28" xmltv_id="HaIP test 1">HaIP test 1</channel>
+    <channel update="i" site="tv.yousee.dk" site_id="30" xmltv_id="Discovery Channel">Discovery Channel</channel>
+    <channel update="i" site="tv.yousee.dk" site_id="31" xmltv_id="Animal Planet">Animal Planet</channel>
     <channel update="i" site="tv.yousee.dk" site_id="32" xmltv_id="National Geographic">National Geographic</channel>
     <channel update="i" site="tv.yousee.dk" site_id="33" xmltv_id="DR1 Synstolkning">DR1 Synstolkning</channel>
     <channel update="i" site="tv.yousee.dk" site_id="34" xmltv_id="DR2 Synstolkning">DR2 Synstolkning</channel>
-    <channel update="i" site="tv.yousee.dk" site_id="37" xmltv_id="VH1">VH1</channel>
-    <channel update="i" site="tv.yousee.dk" site_id="38" xmltv_id="TV 2 NEWS">TV 2 NEWS</channel>
-    <channel update="i" site="tv.yousee.dk" site_id="40" xmltv_id="BBC Brit">BBC Brit</channel>
-    <channel update="i" site="tv.yousee.dk" site_id="41" xmltv_id="BBC World News">BBC World News</channel>
+    <channel update="i" site="tv.yousee.dk" site_id="37" xmltv_id="Nick Music">Nick Music</channel>
+    <channel update="i" site="tv.yousee.dk" site_id="38" xmltv_id="TV 2 News">TV 2 News</channel>
+    <channel update="i" site="tv.yousee.dk" site_id="40" xmltv_id="BBC Nordic">BBC Nordic</channel>
+    <channel update="i" site="tv.yousee.dk" site_id="41" xmltv_id="BBC News">BBC News</channel>
     <channel update="i" site="tv.yousee.dk" site_id="42" xmltv_id="CNN">CNN</channel>
+    <channel update="i" site="tv.yousee.dk" site_id="43" xmltv_id="BBC HD">BBC HD</channel>
     <channel update="i" site="tv.yousee.dk" site_id="44" xmltv_id="TV4">TV4</channel>
     <channel update="i" site="tv.yousee.dk" site_id="45" xmltv_id="SVT1">SVT1</channel>
     <channel update="i" site="tv.yousee.dk" site_id="46" xmltv_id="SVT2">SVT2</channel>
@@ -41,15 +48,20 @@
     <channel update="i" site="tv.yousee.dk" site_id="55" xmltv_id="Sat.1">Sat.1</channel>
     <channel update="i" site="tv.yousee.dk" site_id="56" xmltv_id="ProSieben">ProSieben</channel>
     <channel update="i" site="tv.yousee.dk" site_id="57" xmltv_id="VOX">VOX</channel>
-    <channel update="i" site="tv.yousee.dk" site_id="71" xmltv_id="Outdoor Channel">Outdoor Channel</channel>
-    <channel update="i" site="tv.yousee.dk" site_id="72" xmltv_id="TV 2 FRI">TV 2 FRI</channel>
+    <channel update="i" site="tv.yousee.dk" site_id="59" xmltv_id="TLC">TLC</channel>
+    <channel update="i" site="tv.yousee.dk" site_id="61" xmltv_id="RTL ll">RTL ll</channel>
+    <channel update="i" site="tv.yousee.dk" site_id="62" xmltv_id="MDR">MDR</channel>
+    <channel update="i" site="tv.yousee.dk" site_id="65" xmltv_id="Kabelfødt lokal-tv">Kabelfødt lokal-tv</channel>
+    <channel update="i" site="tv.yousee.dk" site_id="66" xmltv_id="Lokalt program">Lokalt program</channel>
+    <channel update="i" site="tv.yousee.dk" site_id="72" xmltv_id="TV 2 Fri">TV 2 Fri</channel>
     <channel update="i" site="tv.yousee.dk" site_id="73" xmltv_id="Euronews">Euronews</channel>
-    <channel update="i" site="tv.yousee.dk" site_id="76" xmltv_id="Eventkanalen">Eventkanalen</channel>
-    <channel update="i" site="tv.yousee.dk" site_id="79" xmltv_id="TV 2 SPORT">TV 2 SPORT</channel>
-    <channel update="i" site="tv.yousee.dk" site_id="80" xmltv_id="Paramount Network">Paramount Network</channel>
+    <channel update="i" site="tv.yousee.dk" site_id="76" xmltv_id="YouSee Event - Viaplay Sport News">YouSee Event - Viaplay Sport News</channel>
+    <channel update="i" site="tv.yousee.dk" site_id="77" xmltv_id="Beboer-tv">Beboer-tv</channel>
+    <channel update="i" site="tv.yousee.dk" site_id="79" xmltv_id="TV 2 Sport">TV 2 Sport</channel>
+    <channel update="i" site="tv.yousee.dk" site_id="83" xmltv_id="Lokal infokanal 2">Lokal infokanal 2</channel>
     <channel update="i" site="tv.yousee.dk" site_id="84" xmltv_id="HISTORY">HISTORY</channel>
-    <channel update="i" site="tv.yousee.dk" site_id="85" xmltv_id="4K prg">4K prg</channel>
-    <channel update="i" site="tv.yousee.dk" site_id="86" xmltv_id="4K prg2">4K prg2</channel>
+    <channel update="i" site="tv.yousee.dk" site_id="85" xmltv_id="HaIP test 3">HaIP test 3</channel>
+    <channel update="i" site="tv.yousee.dk" site_id="86" xmltv_id="HaIP test 4">HaIP test 4</channel>
     <channel update="i" site="tv.yousee.dk" site_id="89" xmltv_id="Nicktoons">Nicktoons</channel>
     <channel update="i" site="tv.yousee.dk" site_id="91" xmltv_id="BBC Earth">BBC Earth</channel>
     <channel update="i" site="tv.yousee.dk" site_id="93" xmltv_id="Nick Jr">Nick Jr</channel>
@@ -57,13 +69,19 @@
     <channel update="i" site="tv.yousee.dk" site_id="95" xmltv_id="Viasat Nature">Viasat Nature</channel>
     <channel update="i" site="tv.yousee.dk" site_id="96" xmltv_id="HBO Nordic Tv">HBO Nordic Tv</channel>
     <channel update="i" site="tv.yousee.dk" site_id="97" xmltv_id="Dansk Filmskat Tv">Dansk Filmskat Tv</channel>
+    <channel update="i" site="tv.yousee.dk" site_id="99" xmltv_id="Canal 9">Canal 9</channel>
+    <channel update="i" site="tv.yousee.dk" site_id="101" xmltv_id="Discovery Science">Discovery Science</channel>
     <channel update="i" site="tv.yousee.dk" site_id="102" xmltv_id="Min Bio Tv">Min Bio Tv</channel>
     <channel update="i" site="tv.yousee.dk" site_id="110" xmltv_id="MTV 90s">MTV 90s</channel>
     <channel update="i" site="tv.yousee.dk" site_id="112" xmltv_id="MTV Hits">MTV Hits</channel>
     <channel update="i" site="tv.yousee.dk" site_id="113" xmltv_id="MTV 80s">MTV 80s</channel>
+    <channel update="i" site="tv.yousee.dk" site_id="115" xmltv_id="Viaplay Sport News">Viaplay Sport News</channel>
     <channel update="i" site="tv.yousee.dk" site_id="116" xmltv_id="CBS Reality">CBS Reality</channel>
     <channel update="i" site="tv.yousee.dk" site_id="117" xmltv_id="Travel Channel">Travel Channel</channel>
+    <channel update="i" site="tv.yousee.dk" site_id="118" xmltv_id="Viaplay Sport 1">Viaplay Sport 1</channel>
     <channel update="i" site="tv.yousee.dk" site_id="119" xmltv_id="SPORT LIVE">SPORT LIVE</channel>
+    <channel update="i" site="tv.yousee.dk" site_id="120" xmltv_id="Viaplay Sport 2">Viaplay Sport 2</channel>
+    <channel update="i" site="tv.yousee.dk" site_id="121" xmltv_id="Viaplay Sport 3">Viaplay Sport 3</channel>
     <channel update="i" site="tv.yousee.dk" site_id="122" xmltv_id="Motorvision TV">Motorvision TV</channel>
     <channel update="i" site="tv.yousee.dk" site_id="123" xmltv_id="MTV">MTV</channel>
     <channel update="i" site="tv.yousee.dk" site_id="125" xmltv_id="ARTE">ARTE</channel>
@@ -72,21 +90,26 @@
     <channel update="i" site="tv.yousee.dk" site_id="130" xmltv_id="Viasat History">Viasat History</channel>
     <channel update="i" site="tv.yousee.dk" site_id="131" xmltv_id="Viasat Explore">Viasat Explore</channel>
     <channel update="i" site="tv.yousee.dk" site_id="132" xmltv_id="HISTORY2">HISTORY2</channel>
+    <channel update="i" site="tv.yousee.dk" site_id="133" xmltv_id="Eurosport 2">Eurosport 2</channel>
     <channel update="i" site="tv.yousee.dk" site_id="134" xmltv_id="V film hits">V film hits</channel>
     <channel update="i" site="tv.yousee.dk" site_id="135" xmltv_id="V series">V series</channel>
     <channel update="i" site="tv.yousee.dk" site_id="136" xmltv_id="V film premiere">V film premiere</channel>
     <channel update="i" site="tv.yousee.dk" site_id="138" xmltv_id="V sport golf">V sport golf</channel>
     <channel update="i" site="tv.yousee.dk" site_id="143" xmltv_id="Bloomberg News">Bloomberg News</channel>
+    <channel update="i" site="tv.yousee.dk" site_id="149" xmltv_id="Investigation Discovery">Investigation Discovery</channel>
     <channel update="i" site="tv.yousee.dk" site_id="155" xmltv_id="C More First">C More First</channel>
     <channel update="i" site="tv.yousee.dk" site_id="156" xmltv_id="C More Hits">C More Hits</channel>
     <channel update="i" site="tv.yousee.dk" site_id="158" xmltv_id="C More Series">C More Series</channel>
     <channel update="i" site="tv.yousee.dk" site_id="159" xmltv_id="C More Stars">C More Stars</channel>
     <channel update="i" site="tv.yousee.dk" site_id="160" xmltv_id="FOLKETINGET">FOLKETINGET</channel>
-    <channel update="i" site="tv.yousee.dk" site_id="162" xmltv_id="Boomerang">Boomerang</channel>
+    <channel update="i" site="tv.yousee.dk" site_id="162" xmltv_id="Cartoonito">Cartoonito</channel>
     <channel update="i" site="tv.yousee.dk" site_id="163" xmltv_id="YouSee Premiere">YouSee Premiere</channel>
     <channel update="i" site="tv.yousee.dk" site_id="167" xmltv_id="FOX VOD">FOX VOD</channel>
     <channel update="i" site="tv.yousee.dk" site_id="168" xmltv_id="Nordisk film VOD">Nordisk film VOD</channel>
+    <channel update="i" site="tv.yousee.dk" site_id="173" xmltv_id="EuroSport 2 HD">EuroSport 2 HD</channel>
     <channel update="i" site="tv.yousee.dk" site_id="174" xmltv_id="Disney Junior">Disney Junior</channel>
+    <channel update="i" site="tv.yousee.dk" site_id="178" xmltv_id="SkyShowtime 2">SkyShowtime 2</channel>
+    <channel update="i" site="tv.yousee.dk" site_id="179" xmltv_id="SkyShowtime 1">SkyShowtime 1</channel>
     <channel update="i" site="tv.yousee.dk" site_id="180" xmltv_id="V film action">V film action</channel>
     <channel update="i" site="tv.yousee.dk" site_id="183" xmltv_id="V film family">V film family</channel>
     <channel update="i" site="tv.yousee.dk" site_id="187" xmltv_id="Al Jazeera Engelsk">Al Jazeera Engelsk</channel>
@@ -94,92 +117,117 @@
     <channel update="i" site="tv.yousee.dk" site_id="189" xmltv_id="Kurdisk TV">Kurdisk TV</channel>
     <channel update="i" site="tv.yousee.dk" site_id="190" xmltv_id="Sudan TV">Sudan TV</channel>
     <channel update="i" site="tv.yousee.dk" site_id="195" xmltv_id="3Sat">3Sat</channel>
-    <channel update="i" site="tv.yousee.dk" site_id="196" xmltv_id="arkiv">arkiv</channel>
-    <channel update="i" site="tv.yousee.dk" site_id="197" xmltv_id="npvr">npvr</channel>
-    <channel update="i" site="tv.yousee.dk" site_id="198" xmltv_id="startforfra">startforfra</channel>
-    <channel update="i" site="tv.yousee.dk" site_id="199" xmltv_id="tv2ude">tv2ude</channel>
     <channel update="i" site="tv.yousee.dk" site_id="200" xmltv_id="France 2">France 2</channel>
     <channel update="i" site="tv.yousee.dk" site_id="202" xmltv_id="Rai 1">Rai 1</channel>
     <channel update="i" site="tv.yousee.dk" site_id="204" xmltv_id="TVE">TVE</channel>
-    <channel update="i" site="tv.yousee.dk" site_id="205" xmltv_id="Netflix paraply">Netflix paraply</channel>
-    <channel update="i" site="tv.yousee.dk" site_id="206" xmltv_id="Mini Ramasjang">Mini Ramasjang</channel>
-    <channel update="i" site="tv.yousee.dk" site_id="207" xmltv_id="Netflix på 1 skærm">Netflix på 1 skærm</channel>
-    <channel update="i" site="tv.yousee.dk" site_id="208" xmltv_id="Netflix på 2 skærme">Netflix på 2 skærme</channel>
-    <channel update="i" site="tv.yousee.dk" site_id="209" xmltv_id="Netflix på 3 skærme">Netflix på 3 skærme</channel>
+    <channel update="i" site="tv.yousee.dk" site_id="205" xmltv_id="Netflix">Netflix</channel>
     <channel update="i" site="tv.yousee.dk" site_id="210" xmltv_id="TVP Polonia">TVP Polonia</channel>
-    <channel update="i" site="tv.yousee.dk" site_id="212" xmltv_id="Viaplay administration">Viaplay administration</channel>
+    <channel update="i" site="tv.yousee.dk" site_id="214" xmltv_id="SkyShowtime Select">SkyShowtime Select</channel>
     <channel update="i" site="tv.yousee.dk" site_id="221" xmltv_id="RTCG">RTCG</channel>
     <channel update="i" site="tv.yousee.dk" site_id="222" xmltv_id="Netflix">Netflix</channel>
-    <channel update="i" site="tv.yousee.dk" site_id="223" xmltv_id="HBO Nordic">HBO Nordic</channel>
+    <channel update="i" site="tv.yousee.dk" site_id="223" xmltv_id="HBO Max Standard">HBO Max Standard</channel>
     <channel update="i" site="tv.yousee.dk" site_id="224" xmltv_id="C More">C More</channel>
     <channel update="i" site="tv.yousee.dk" site_id="226" xmltv_id="Min Bio">Min Bio</channel>
     <channel update="i" site="tv.yousee.dk" site_id="227" xmltv_id="Dansk Filmskat">Dansk Filmskat</channel>
-    <channel update="i" site="tv.yousee.dk" site_id="228" xmltv_id="Viaplay">Viaplay</channel>
-    <channel update="i" site="tv.yousee.dk" site_id="229" xmltv_id="Lejefilm Blockbuster">Lejefilm Blockbuster</channel>
+    <channel update="i" site="tv.yousee.dk" site_id="228" xmltv_id="Viaplay Film &amp; Serier">Viaplay Film &amp; Serier</channel>
+    <channel update="i" site="tv.yousee.dk" site_id="229" xmltv_id="SF Anytime">SF Anytime</channel>
+    <channel update="i" site="tv.yousee.dk" site_id="231" xmltv_id="OTT 3">OTT 3</channel>
+    <channel update="i" site="tv.yousee.dk" site_id="232" xmltv_id="OTT 1">OTT 1</channel>
+    <channel update="i" site="tv.yousee.dk" site_id="233" xmltv_id="OTT 4">OTT 4</channel>
+    <channel update="i" site="tv.yousee.dk" site_id="239" xmltv_id="OTT 2">OTT 2</channel>
     <channel update="i" site="tv.yousee.dk" site_id="241" xmltv_id="Radio">Radio</channel>
     <channel update="i" site="tv.yousee.dk" site_id="242" xmltv_id="YouSee Film og Serier">YouSee Film og Serier</channel>
-    <channel update="i" site="tv.yousee.dk" site_id="243" xmltv_id="Paramount+">Paramount+</channel>
-    <channel update="i" site="tv.yousee.dk" site_id="244" xmltv_id="YouTube">YouTube</channel>
-    <channel update="i" site="tv.yousee.dk" site_id="245" xmltv_id="Disney Channels XTRA">Disney Channels XTRA</channel>
+    <channel update="i" site="tv.yousee.dk" site_id="243" xmltv_id="SkyShowtime">SkyShowtime</channel>
+    <channel update="i" site="tv.yousee.dk" site_id="244" xmltv_id="Youtube">Youtube</channel>
+    <channel update="i" site="tv.yousee.dk" site_id="245" xmltv_id="Disney Pakken">Disney Pakken</channel>
     <channel update="i" site="tv.yousee.dk" site_id="246" xmltv_id="Nick+">Nick+</channel>
     <channel update="i" site="tv.yousee.dk" site_id="247" xmltv_id="National Geographic Now">National Geographic Now</channel>
-    <channel update="i" site="tv.yousee.dk" site_id="248" xmltv_id="FOX+">FOX+</channel>
+    <channel update="i" site="tv.yousee.dk" site_id="248" xmltv_id="Fox+">Fox+</channel>
     <channel update="i" site="tv.yousee.dk" site_id="249" xmltv_id="Nordisk Film+">Nordisk Film+</channel>
-    <channel update="i" site="tv.yousee.dk" site_id="251" xmltv_id="Al Jazeera Arabic">Al Jazeera Arabic</channel>
+    <channel update="i" site="tv.yousee.dk" site_id="251" xmltv_id="Al Jazeera">Al Jazeera</channel>
     <channel update="i" site="tv.yousee.dk" site_id="252" xmltv_id="EDTV - Dubai TV">EDTV - Dubai TV</channel>
     <channel update="i" site="tv.yousee.dk" site_id="253" xmltv_id="Al Masriyah">Al Masriyah</channel>
     <channel update="i" site="tv.yousee.dk" site_id="254" xmltv_id="Al Aoula">Al Aoula</channel>
-    <channel update="i" site="tv.yousee.dk" site_id="257" xmltv_id="Iqraa">Iqraa</channel>
     <channel update="i" site="tv.yousee.dk" site_id="258" xmltv_id="Abu Dhabi TV">Abu Dhabi TV</channel>
-    <channel update="i" site="tv.yousee.dk" site_id="259" xmltv_id="Xee VOD">Xee VOD</channel>
+    <channel update="i" site="tv.yousee.dk" site_id="259" xmltv_id="See VOD">See VOD</channel>
+    <channel update="i" site="tv.yousee.dk" site_id="260" xmltv_id="HBO">HBO</channel>
     <channel update="i" site="tv.yousee.dk" site_id="261" xmltv_id="Disney Pakken">Disney Pakken</channel>
     <channel update="i" site="tv.yousee.dk" site_id="262" xmltv_id="Nick+">Nick+</channel>
-    <channel update="i" site="tv.yousee.dk" site_id="263" xmltv_id="National Geographic Now">National Geographic Now</channel>
-    <channel update="i" site="tv.yousee.dk" site_id="264" xmltv_id="Xee">Xee</channel>
+    <channel update="i" site="tv.yousee.dk" site_id="263" xmltv_id="NatGeo+">NatGeo+</channel>
+    <channel update="i" site="tv.yousee.dk" site_id="264" xmltv_id="See">See</channel>
     <channel update="i" site="tv.yousee.dk" site_id="265" xmltv_id="Nordisk Film+ Tv">Nordisk Film+ Tv</channel>
     <channel update="i" site="tv.yousee.dk" site_id="266" xmltv_id="MyZen TV">MyZen TV</channel>
-    <channel update="i" site="tv.yousee.dk" site_id="267" xmltv_id="Xee">Xee</channel>
+    <channel update="i" site="tv.yousee.dk" site_id="267" xmltv_id="See">See</channel>
     <channel update="i" site="tv.yousee.dk" site_id="268" xmltv_id="DR VOD bibliotek">DR VOD bibliotek</channel>
-    <channel update="i" site="tv.yousee.dk" site_id="269" xmltv_id="TV 2 SPORT X">TV 2 SPORT X</channel>
-    <channel update="i" site="tv.yousee.dk" site_id="270" xmltv_id="DR TV">DR TV</channel>
-    <channel update="i" site="tv.yousee.dk" site_id="276" xmltv_id="CCTV-4">CCTV-4</channel>
-    <channel update="i" site="tv.yousee.dk" site_id="279" xmltv_id="SuperP">SuperP</channel>
-    <channel update="i" site="tv.yousee.dk" site_id="280" xmltv_id="Thai TV">Thai TV</channel>
+    <channel update="i" site="tv.yousee.dk" site_id="269" xmltv_id="TV 2 Sport X">TV 2 Sport X</channel>
+    <channel update="i" site="tv.yousee.dk" site_id="270" xmltv_id="DRTV">DRTV</channel>
+    <channel update="i" site="tv.yousee.dk" site_id="276" xmltv_id="CCTV 4">CCTV 4</channel>
+    <channel update="i" site="tv.yousee.dk" site_id="277" xmltv_id="Tv Aarhus">Tv Aarhus</channel>
+    <channel update="i" site="tv.yousee.dk" site_id="280" xmltv_id="Thai TV Global Network">Thai TV Global Network</channel>
     <channel update="i" site="tv.yousee.dk" site_id="281" xmltv_id="C MORE VOD">C MORE VOD</channel>
-    <channel update="i" site="tv.yousee.dk" site_id="282" xmltv_id="PARAMOUNT SVOD">PARAMOUNT SVOD</channel>
+    <channel update="i" site="tv.yousee.dk" site_id="282" xmltv_id="SKYSHOWTIME SVOD">SKYSHOWTIME SVOD</channel>
     <channel update="i" site="tv.yousee.dk" site_id="283" xmltv_id="Dansk Filmskat VOD">Dansk Filmskat VOD</channel>
-    <channel update="i" site="tv.yousee.dk" site_id="284" xmltv_id="Film og Serier VOD">Film og Serier VOD</channel>
+    <channel update="i" site="tv.yousee.dk" site_id="284" xmltv_id="YouSee Film og Serier">YouSee Film og Serier</channel>
     <channel update="i" site="tv.yousee.dk" site_id="285" xmltv_id="MINBIO VOD">MINBIO VOD</channel>
-    <channel update="i" site="tv.yousee.dk" site_id="286" xmltv_id="Viaplay VOD">Viaplay VOD</channel>
-    <channel update="i" site="tv.yousee.dk" site_id="287" xmltv_id="\tV series &amp; film VOD">\tV series &amp; film VOD</channel>
-    <channel update="i" site="tv.yousee.dk" site_id="288" xmltv_id="\tV series &amp; film">\tV series &amp; film</channel>
-    <channel update="i" site="tv.yousee.dk" site_id="289" xmltv_id="Yousee Premiere svod">Yousee Premiere svod</channel>
+    <channel update="i" site="tv.yousee.dk" site_id="286" xmltv_id="Viaplay">Viaplay</channel>
+    <channel update="i" site="tv.yousee.dk" site_id="287" xmltv_id="Viaplay">Viaplay</channel>
+    <channel update="i" site="tv.yousee.dk" site_id="288" xmltv_id="V series &amp; film">V series &amp; film</channel>
     <channel update="i" site="tv.yousee.dk" site_id="290" xmltv_id="V sport ultra HD">V sport ultra HD</channel>
-    <channel update="i" site="tv.yousee.dk" site_id="292" xmltv_id="TV 2 PLAY VOD">TV 2 PLAY VOD</channel>
-    <channel update="i" site="tv.yousee.dk" site_id="293" xmltv_id="TV 2 PLAY">TV 2 PLAY</channel>
-    <channel update="i" site="tv.yousee.dk" site_id="294" xmltv_id="Nabolandsstacking-VOD">Nabolandsstacking-VOD</channel>
-    <channel update="i" site="tv.yousee.dk" site_id="295" xmltv_id="Nordisk film primere">Nordisk film primere</channel>
-    <channel update="i" site="tv.yousee.dk" site_id="296" xmltv_id="DR Ultra">DR Ultra</channel>
-    <channel update="i" site="tv.yousee.dk" site_id="297" xmltv_id="DR3">DR3</channel>
-    <channel update="i" site="tv.yousee.dk" site_id="298" xmltv_id="youtv">youtv</channel>
-    <channel update="i" site="tv.yousee.dk" site_id="299" xmltv_id="HBOMAX">HBOMAX</channel>
+    <channel update="i" site="tv.yousee.dk" site_id="292" xmltv_id="TV 2 Play">TV 2 Play</channel>
+    <channel update="i" site="tv.yousee.dk" site_id="293" xmltv_id="TV 2 Play Favorit + Sport">TV 2 Play Favorit + Sport</channel>
+    <channel update="i" site="tv.yousee.dk" site_id="299" xmltv_id="HBO Max Standard">HBO Max Standard</channel>
+    <channel update="i" site="tv.yousee.dk" site_id="303" xmltv_id="Disney+ Premium">Disney+ Premium</channel>
+    <channel update="i" site="tv.yousee.dk" site_id="305" xmltv_id="TV 2 Play Favorit + Sport">TV 2 Play Favorit + Sport</channel>
+    <channel update="i" site="tv.yousee.dk" site_id="307" xmltv_id="Disney+ Premium">Disney+ Premium</channel>
+    <channel update="i" site="tv.yousee.dk" site_id="308" xmltv_id="TV2APP_BK">TV2APP_BK</channel>
+    <channel update="i" site="tv.yousee.dk" site_id="309" xmltv_id="Viaplay">Viaplay</channel>
+    <channel update="i" site="tv.yousee.dk" site_id="310" xmltv_id="HBO Max Standard + Sport">HBO Max Standard + Sport</channel>
     <channel update="i" site="tv.yousee.dk" site_id="311" xmltv_id="TV2 NORD">TV2 NORD</channel>
     <channel update="i" site="tv.yousee.dk" site_id="312" xmltv_id="TV MIDTVEST">TV MIDTVEST</channel>
-    <channel update="i" site="tv.yousee.dk" site_id="313" xmltv_id="TV2 ØSTJYLLAND">TV2 ØSTJYLLAND</channel>
+    <channel update="i" site="tv.yousee.dk" site_id="313" xmltv_id="TV2 Østjylland">TV2 Østjylland</channel>
     <channel update="i" site="tv.yousee.dk" site_id="314" xmltv_id="TV SYD">TV SYD</channel>
-    <channel update="i" site="tv.yousee.dk" site_id="315" xmltv_id="TV2/Fyn">TV2/Fyn</channel>
+    <channel update="i" site="tv.yousee.dk" site_id="315" xmltv_id="TV 2/Fyn">TV 2/Fyn</channel>
     <channel update="i" site="tv.yousee.dk" site_id="316" xmltv_id="TV2 ØST">TV2 ØST</channel>
-    <channel update="i" site="tv.yousee.dk" site_id="317" xmltv_id="TV 2 Lorry">TV 2 Lorry</channel>
+    <channel update="i" site="tv.yousee.dk" site_id="317" xmltv_id="Kosmopol">Kosmopol</channel>
     <channel update="i" site="tv.yousee.dk" site_id="318" xmltv_id="TV 2/Bornholm">TV 2/Bornholm</channel>
-    <channel update="i" site="tv.yousee.dk" site_id="323" xmltv_id="TV 2 Danmark Østjylland">TV 2 Danmark Østjylland</channel>
-    <channel update="i" site="tv.yousee.dk" site_id="324" xmltv_id="TV 2 Danmark Syd">TV 2 Danmark Syd</channel>
-    <channel update="i" site="tv.yousee.dk" site_id="325" xmltv_id="TV 2 Danmark Fyn">TV 2 Danmark Fyn</channel>
-    <channel update="i" site="tv.yousee.dk" site_id="326" xmltv_id="TV 2 Danmark Bornholm">TV 2 Danmark Bornholm</channel>
-    <channel update="i" site="tv.yousee.dk" site_id="327" xmltv_id="TV 2 Danmark Midtvest">TV 2 Danmark Midtvest</channel>
-    <channel update="i" site="tv.yousee.dk" site_id="328" xmltv_id="TV 2 Danmark Nord">TV 2 Danmark Nord</channel>
-    <channel update="i" site="tv.yousee.dk" site_id="329" xmltv_id="TV 2 Danmark Øst">TV 2 Danmark Øst</channel>
+    <channel update="i" site="tv.yousee.dk" site_id="319" xmltv_id="HBO Max Standard + Sport">HBO Max Standard + Sport</channel>
+    <channel update="i" site="tv.yousee.dk" site_id="321" xmltv_id="BBC Nordic+">BBC Nordic+</channel>
+    <channel update="i" site="tv.yousee.dk" site_id="322" xmltv_id="HBO Max Standard">HBO Max Standard</channel>
+    <channel update="i" site="tv.yousee.dk" site_id="323" xmltv_id="TV 2">TV 2</channel>
+    <channel update="i" site="tv.yousee.dk" site_id="324" xmltv_id="TV 2">TV 2</channel>
+    <channel update="i" site="tv.yousee.dk" site_id="325" xmltv_id="TV 2">TV 2</channel>
+    <channel update="i" site="tv.yousee.dk" site_id="326" xmltv_id="TV 2">TV 2</channel>
+    <channel update="i" site="tv.yousee.dk" site_id="327" xmltv_id="TV 2">TV 2</channel>
+    <channel update="i" site="tv.yousee.dk" site_id="328" xmltv_id="TV 2">TV 2</channel>
+    <channel update="i" site="tv.yousee.dk" site_id="329" xmltv_id="TV 2">TV 2</channel>
+    <channel update="i" site="tv.yousee.dk" site_id="330" xmltv_id="HBO Max Standard">HBO Max Standard</channel>
+    <channel update="i" site="tv.yousee.dk" site_id="331" xmltv_id="TV 2 Play">TV 2 Play</channel>
+    <channel update="i" site="tv.yousee.dk" site_id="332" xmltv_id="TV 2 Play">TV 2 Play</channel>
+    <channel update="i" site="tv.yousee.dk" site_id="339" xmltv_id="Prime Video">Prime Video</channel>
+    <channel update="i" site="tv.yousee.dk" site_id="340" xmltv_id="Viaplay Film &amp; Serier med reklamer">Viaplay Film &amp; Serier med reklamer</channel>
+    <channel update="i" site="tv.yousee.dk" site_id="341" xmltv_id="Disney+ Standard">Disney+ Standard</channel>
+    <channel update="i" site="tv.yousee.dk" site_id="342" xmltv_id="Disney+ Standard med reklamer">Disney+ Standard med reklamer</channel>
+    <channel update="i" site="tv.yousee.dk" site_id="343" xmltv_id="Disney+ NKU25">Disney+ NKU25</channel>
+    <channel update="i" site="tv.yousee.dk" site_id="344" xmltv_id="HBO Max">HBO Max</channel>
+    <channel update="i" site="tv.yousee.dk" site_id="345" xmltv_id="Viaplay">Viaplay</channel>
+    <channel update="i" site="tv.yousee.dk" site_id="346" xmltv_id="Disney+">Disney+</channel>
+    <channel update="i" site="tv.yousee.dk" site_id="347" xmltv_id="Prime Video">Prime Video</channel>
+    <channel update="i" site="tv.yousee.dk" site_id="348" xmltv_id="Viaplay Premium">Viaplay Premium</channel>
+    <channel update="i" site="tv.yousee.dk" site_id="349" xmltv_id="Viaplay Dansk Fodbold, Film &amp; Serier">Viaplay Dansk Fodbold, Film &amp; Serier</channel>
+    <channel update="i" site="tv.yousee.dk" site_id="350" xmltv_id="Viaplay Champions League, Film &amp; Serier">Viaplay Champions League, Film &amp; Serier</channel>
+    <channel update="i" site="tv.yousee.dk" site_id="351" xmltv_id="Viascore">Viascore</channel>
+    <channel update="i" site="tv.yousee.dk" site_id="363" xmltv_id="Viaplay Champions League, Film &amp; Serier med reklam">Viaplay Champions League, Film &amp; Serier med reklam</channel>
+    <channel update="i" site="tv.yousee.dk" site_id="364" xmltv_id="Viaplay Dansk Fodbold, Film &amp; Serier med reklamer">Viaplay Dansk Fodbold, Film &amp; Serier med reklamer</channel>
+    <channel update="i" site="tv.yousee.dk" site_id="365" xmltv_id="Viaplay Premium med reklamer">Viaplay Premium med reklamer</channel>
     <channel update="i" site="tv.yousee.dk" site_id="367" xmltv_id="Blue Hustler">Blue Hustler</channel>
-    <channel update="i" site="tv.yousee.dk" site_id="400" xmltv_id="Hjørring AF infokanal">Hjørring AF infokanal</channel>
+    <channel update="i" site="tv.yousee.dk" site_id="369" xmltv_id="Viaplay Film &amp; Serier">Viaplay Film &amp; Serier</channel>
+    <channel update="i" site="tv.yousee.dk" site_id="400" xmltv_id="HAS-TV">HAS-TV</channel>
+    <channel update="i" site="tv.yousee.dk" site_id="401" xmltv_id="Køge.tv">Køge.tv</channel>
+    <channel update="i" site="tv.yousee.dk" site_id="402" xmltv_id="GVD Info">GVD Info</channel>
+    <channel update="i" site="tv.yousee.dk" site_id="403" xmltv_id="VråNet Info">VråNet Info</channel>
+    <channel update="i" site="tv.yousee.dk" site_id="404" xmltv_id="DanmarkC TV">DanmarkC TV</channel>
+    <channel update="i" site="tv.yousee.dk" site_id="405" xmltv_id="Dit Lokal TV">Dit Lokal TV</channel>
+    <channel update="i" site="tv.yousee.dk" site_id="410" xmltv_id="Kanalen/Tegnsprog">Kanalen/Tegnsprog</channel>
     <channel update="i" site="tv.yousee.dk" site_id="411" xmltv_id="Kanal Nord/Tegnsprog">Kanal Nord/Tegnsprog</channel>
     <channel update="i" site="tv.yousee.dk" site_id="412" xmltv_id="Kanal Midtvest/Tegnsprog">Kanal Midtvest/Tegnsprog</channel>
     <channel update="i" site="tv.yousee.dk" site_id="413" xmltv_id="Kanal Østjylland/Tegnsprog">Kanal Østjylland/Tegnsprog</channel>
@@ -188,35 +236,8 @@
     <channel update="i" site="tv.yousee.dk" site_id="416" xmltv_id="Kanal Øst/Tegnsprog">Kanal Øst/Tegnsprog</channel>
     <channel update="i" site="tv.yousee.dk" site_id="417" xmltv_id="Kanal Hovedstaden/Tegnsprog">Kanal Hovedstaden/Tegnsprog</channel>
     <channel update="i" site="tv.yousee.dk" site_id="418" xmltv_id="Kanal Bornholm/Tegnsprog">Kanal Bornholm/Tegnsprog</channel>
-    <channel update="i" site="tv.yousee.dk" site_id="430" xmltv_id="TEST_C">TEST_C</channel>
+    <channel update="i" site="tv.yousee.dk" site_id="420" xmltv_id="TV 2 Region">TV 2 Region</channel>
+    <channel update="i" site="tv.yousee.dk" site_id="421" xmltv_id="TV 2 Nabo">TV 2 Nabo</channel>
     <channel update="i" site="tv.yousee.dk" site_id="505" xmltv_id="DR Ramasjang">DR Ramasjang</channel>
-    <channel update="i" site="tv.yousee.dk" site_id="940" xmltv_id="DR P1">DR P1</channel>
-    <channel update="i" site="tv.yousee.dk" site_id="941" xmltv_id="DR P4 København">DR P4 København</channel>
-    <channel update="i" site="tv.yousee.dk" site_id="942" xmltv_id="DR P3">DR P3</channel>
-    <channel update="i" site="tv.yousee.dk" site_id="943" xmltv_id="RADIO4">RADIO4</channel>
-    <channel update="i" site="tv.yousee.dk" site_id="944" xmltv_id="DR P6 Beat">DR P6 Beat</channel>
-    <channel update="i" site="tv.yousee.dk" site_id="945" xmltv_id="R Klassisk">R Klassisk</channel>
-    <channel update="i" site="tv.yousee.dk" site_id="946" xmltv_id="POP FM">POP FM</channel>
-    <channel update="i" site="tv.yousee.dk" site_id="947" xmltv_id="Nova">Nova</channel>
-    <channel update="i" site="tv.yousee.dk" site_id="948" xmltv_id="DR P7 Mix">DR P7 Mix</channel>
-    <channel update="i" site="tv.yousee.dk" site_id="949" xmltv_id="SR P2">SR P2</channel>
-    <channel update="i" site="tv.yousee.dk" site_id="950" xmltv_id="DR P8 Jazz">DR P8 Jazz</channel>
-    <channel update="i" site="tv.yousee.dk" site_id="951" xmltv_id="The Voice">The Voice</channel>
-    <channel update="i" site="tv.yousee.dk" site_id="952" xmltv_id="NDR Kultur">NDR Kultur</channel>
-    <channel update="i" site="tv.yousee.dk" site_id="953" xmltv_id="DR P2">DR P2</channel>
-    <channel update="i" site="tv.yousee.dk" site_id="954" xmltv_id="NDR 1">NDR 1</channel>
-    <channel update="i" site="tv.yousee.dk" site_id="955" xmltv_id="DR P5">DR P5</channel>
-    <channel update="i" site="tv.yousee.dk" site_id="956" xmltv_id="RSH">RSH</channel>
-    <channel update="i" site="tv.yousee.dk" site_id="958" xmltv_id="Radio 100">Radio 100</channel>
-    <channel update="i" site="tv.yousee.dk" site_id="980" xmltv_id="DR P4 Sjælland">DR P4 Sjælland</channel>
-    <channel update="i" site="tv.yousee.dk" site_id="981" xmltv_id="DR P4 Fyn">DR P4 Fyn</channel>
-    <channel update="i" site="tv.yousee.dk" site_id="982" xmltv_id="DR P4 Syd">DR P4 Syd</channel>
-    <channel update="i" site="tv.yousee.dk" site_id="983" xmltv_id="DR P4 Trekanten">DR P4 Trekanten</channel>
-    <channel update="i" site="tv.yousee.dk" site_id="984" xmltv_id="DR P4 Midt og Vest">DR P4 Midt og Vest</channel>
-    <channel update="i" site="tv.yousee.dk" site_id="985" xmltv_id="DR P4 Østjylland">DR P4 Østjylland</channel>
-    <channel update="i" site="tv.yousee.dk" site_id="986" xmltv_id="DR P4 Nordjylland">DR P4 Nordjylland</channel>
-    <channel update="i" site="tv.yousee.dk" site_id="987" xmltv_id="P4 Nordvestsjælland DR">P4 Nordvestsjælland DR</channel>
-    <channel update="i" site="tv.yousee.dk" site_id="988" xmltv_id="DR P4 Esbjerg">DR P4 Esbjerg</channel>
-    <channel update="i" site="tv.yousee.dk" site_id="989" xmltv_id="DR P4 Bornholm">DR P4 Bornholm</channel>
   </channels>
 </site>
