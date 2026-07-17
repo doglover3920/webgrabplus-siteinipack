@@ -1,72 +1,101 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.4 -- Jan van Straaten" site="tv.de">
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.9 -- Jan van Straaten" site="tv.de">
   <channels>
     <channel update="i" site="tv.de" site_id="ard" xmltv_id="Das Erste">Das Erste</channel>
     <channel update="i" site="tv.de" site_id="zdf" xmltv_id="ZDF">ZDF</channel>
     <channel update="i" site="tv.de" site_id="rtl" xmltv_id="RTL">RTL</channel>
-    <channel update="i" site="tv.de" site_id="prosieben" xmltv_id="ProSieben">ProSieben</channel>
     <channel update="i" site="tv.de" site_id="sat1" xmltv_id="Sat.1">Sat.1</channel>
-    <channel update="i" site="tv.de" site_id="kabel-eins" xmltv_id="Kabel eins">Kabel eins</channel>
+    <channel update="i" site="tv.de" site_id="prosieben" xmltv_id="ProSieben">ProSieben</channel>
     <channel update="i" site="tv.de" site_id="vox" xmltv_id="VOX">VOX</channel>
-    <channel update="i" site="tv.de" site_id="voxup" xmltv_id="VOXup">VOXup</channel>
-    <channel update="i" site="tv.de" site_id="rtl-zwei" xmltv_id="RTL ZWEI">RTL ZWEI</channel>
-    <channel update="i" site="tv.de" site_id="prosieben-maxx" xmltv_id="ProSieben MAXX">ProSieben MAXX</channel>
-    <channel update="i" site="tv.de" site_id="sat1-gold" xmltv_id="Sat.1 Gold">Sat.1 Gold</channel>
-    <channel update="i" site="tv.de" site_id="rtl-up" xmltv_id="RTLup">RTLup</channel>
-    <channel update="i" site="tv.de" site_id="rtl-nitro" xmltv_id="NITRO">NITRO</channel>
-    <channel update="i" site="tv.de" site_id="sixx" xmltv_id="Sixx">Sixx</channel>
-    <channel update="i" site="tv.de" site_id="motorvision-tv" xmltv_id="Motorvision+">Motorvision+</channel>
-    <channel update="i" site="tv.de" site_id="more-than-sports-tv" xmltv_id="More Than Sports TV">More Than Sports TV</channel>
-    <channel update="i" site="tv.de" site_id="arte" xmltv_id="ARTE">ARTE</channel>
-    <channel update="i" site="tv.de" site_id="zdf-neo" xmltv_id="ZDFneo">ZDFneo</channel>
+    <channel update="i" site="tv.de" site_id="wdr" xmltv_id="WDR Köln">WDR Köln</channel>
+    <channel update="i" site="tv.de" site_id="ntv" xmltv_id="N-TV">N-TV</channel>
+    <channel update="i" site="tv.de" site_id="tagesschau24" xmltv_id="Tagesschau24">Tagesschau24</channel>
     <channel update="i" site="tv.de" site_id="zdf-info" xmltv_id="ZDFinfo">ZDFinfo</channel>
-    <channel update="i" site="tv.de" site_id="3sat" xmltv_id="3sat">3sat</channel>
-    <channel update="i" site="tv.de" site_id="einsfestival" xmltv_id="ONE">ONE</channel>
-    <channel update="i" site="tv.de" site_id="wdr" xmltv_id="WDR">WDR</channel>
-    <channel update="i" site="tv.de" site_id="br" xmltv_id="BR">BR</channel>
-    <channel update="i" site="tv.de" site_id="ndr" xmltv_id="NDR">NDR</channel>
-    <channel update="i" site="tv.de" site_id="radio-bremen-tv" xmltv_id="Radio Bremen TV">Radio Bremen TV</channel>
-    <channel update="i" site="tv.de" site_id="hr" xmltv_id="HR">HR</channel>
-    <channel update="i" site="tv.de" site_id="swr" xmltv_id="SWR">SWR</channel>
-    <channel update="i" site="tv.de" site_id="sr" xmltv_id="SR">SR</channel>
-    <channel update="i" site="tv.de" site_id="mdr" xmltv_id="MDR">MDR</channel>
-    <channel update="i" site="tv.de" site_id="rbb" xmltv_id="RBB">RBB</channel>
-    <channel update="i" site="tv.de" site_id="welt-der-wunder-tv" xmltv_id="Welt der Wunder TV">Welt der Wunder TV</channel>
     <channel update="i" site="tv.de" site_id="phoenix" xmltv_id="Phoenix">Phoenix</channel>
+    <channel update="i" site="tv.de" site_id="bbc-world-news" xmltv_id="BBC World News (Engl)">BBC World News (Engl)</channel>
+    <channel update="i" site="tv.de" site_id="zdf-neo" xmltv_id="ZDFneo">ZDFneo</channel>
+    <channel update="i" site="tv.de" site_id="einsfestival" xmltv_id="ONE">ONE</channel>
+    <channel update="i" site="tv.de" site_id="arte" xmltv_id="ARTE">ARTE</channel>
+    <channel update="i" site="tv.de" site_id="3sat" xmltv_id="3sat">3sat</channel>
+    <channel update="i" site="tv.de" site_id="kabel-eins" xmltv_id="Kabel eins">Kabel eins</channel>
+    <channel update="i" site="tv.de" site_id="rtl-zwei" xmltv_id="RTL ZWEI">RTL ZWEI</channel>
     <channel update="i" site="tv.de" site_id="kika" xmltv_id="KiKA">KiKA</channel>
     <channel update="i" site="tv.de" site_id="super-rtl" xmltv_id="Super RTL">Super RTL</channel>
+    <channel update="i" site="tv.de" site_id="br-alpha" xmltv_id="ARD-alpha">ARD-alpha</channel>
+    <channel update="i" site="tv.de" site_id="br-nord" xmltv_id="BR Nord">BR Nord</channel>
+    <channel update="i" site="tv.de" site_id="br" xmltv_id="BR Süd">BR Süd</channel>
+    <channel update="i" site="tv.de" site_id="hr" xmltv_id="HR Fernsehen">HR Fernsehen</channel>
+    <channel update="i" site="tv.de" site_id="mdr" xmltv_id="MDR Sachsen">MDR Sachsen</channel>
+    <channel update="i" site="tv.de" site_id="mdr-sachsen-anhalt" xmltv_id="MDR Sachsen-Anhalt">MDR Sachsen-Anhalt</channel>
+    <channel update="i" site="tv.de" site_id="mdr-thuringen" xmltv_id="MDR Thüringen">MDR Thüringen</channel>
+    <channel update="i" site="tv.de" site_id="ndr-hamburg" xmltv_id="NDR Hamburg">NDR Hamburg</channel>
+    <channel update="i" site="tv.de" site_id="ndr-mecklenburg-vorpommern" xmltv_id="NDR Mecklenburg-Vorpommern">NDR Mecklenburg-Vorpommern</channel>
+    <channel update="i" site="tv.de" site_id="ndr" xmltv_id="NDR Niedersachsen">NDR Niedersachsen</channel>
+    <channel update="i" site="tv.de" site_id="ndr-schleswig-holstein" xmltv_id="NDR Schleswig-Holstein">NDR Schleswig-Holstein</channel>
+    <channel update="i" site="tv.de" site_id="radio-bremen-tv" xmltv_id="Radio Bremen">Radio Bremen</channel>
+    <channel update="i" site="tv.de" site_id="rbb" xmltv_id="rbb Berlin">rbb Berlin</channel>
+    <channel update="i" site="tv.de" site_id="rbb-brandenburg" xmltv_id="rbb Brandenburg">rbb Brandenburg</channel>
+    <channel update="i" site="tv.de" site_id="sr" xmltv_id="SR">SR</channel>
+    <channel update="i" site="tv.de" site_id="swr" xmltv_id="SWR Baden-Württemberg">SWR Baden-Württemberg</channel>
+    <channel update="i" site="tv.de" site_id="swr-rheinland-pfalz" xmltv_id="SWR Rheinland-Pfalz">SWR Rheinland-Pfalz</channel>
+    <channel update="i" site="tv.de" site_id="wdr-aachen" xmltv_id="WDR Aachen">WDR Aachen</channel>
+    <channel update="i" site="tv.de" site_id="wdr-bielefeld" xmltv_id="WDR Bielefeld">WDR Bielefeld</channel>
+    <channel update="i" site="tv.de" site_id="wdr-bonn" xmltv_id="WDR Bonn">WDR Bonn</channel>
+    <channel update="i" site="tv.de" site_id="wdr-dortmund" xmltv_id="WDR Dortmund">WDR Dortmund</channel>
+    <channel update="i" site="tv.de" site_id="wdr-duisburg" xmltv_id="WDR Duisburg">WDR Duisburg</channel>
+    <channel update="i" site="tv.de" site_id="wdr-dusseldorf" xmltv_id="WDR Düsseldorf">WDR Düsseldorf</channel>
+    <channel update="i" site="tv.de" site_id="wdr-essen" xmltv_id="WDR Essen">WDR Essen</channel>
+    <channel update="i" site="tv.de" site_id="wdr-munster" xmltv_id="WDR Münster">WDR Münster</channel>
+    <channel update="i" site="tv.de" site_id="wdr-siegen" xmltv_id="WDR Siegen">WDR Siegen</channel>
+    <channel update="i" site="tv.de" site_id="wdr-wuppertal" xmltv_id="WDR Wuppertal">WDR Wuppertal</channel>
+    <channel update="i" site="tv.de" site_id="rtl-nitro" xmltv_id="NITRO">NITRO</channel>
+    <channel update="i" site="tv.de" site_id="prosieben-maxx" xmltv_id="ProSieben MAXX">ProSieben MAXX</channel>
+    <channel update="i" site="tv.de" site_id="sixx" xmltv_id="Sixx">Sixx</channel>
+    <channel update="i" site="tv.de" site_id="sat1-gold" xmltv_id="Sat.1 Gold">Sat.1 Gold</channel>
+    <channel update="i" site="tv.de" site_id="voxup" xmltv_id="VOXup">VOXup</channel>
+    <channel update="i" site="tv.de" site_id="rtl-up" xmltv_id="RTLup">RTLup</channel>
+    <channel update="i" site="tv.de" site_id="motorvision-tv" xmltv_id="Motorvision+">Motorvision+</channel>
+    <channel update="i" site="tv.de" site_id="more-than-sports-tv" xmltv_id="More Than Sports TV">More Than Sports TV</channel>
+    <channel update="i" site="tv.de" site_id="red-bull-tv" xmltv_id="Red Bull TV">Red Bull TV</channel>
+    <channel update="i" site="tv.de" site_id="welt-der-wunder-tv" xmltv_id="Welt der Wunder TV">Welt der Wunder TV</channel>
+    <channel update="i" site="tv.de" site_id="lilo-tv" xmltv_id="Lilo TV">Lilo TV</channel>
+    <channel update="i" site="tv.de" site_id="dokusat" xmltv_id="DOKUSAT">DOKUSAT</channel>
+    <channel update="i" site="tv.de" site_id="kabel-eins-doku" xmltv_id="Kabel Eins Doku">Kabel Eins Doku</channel>
+    <channel update="i" site="tv.de" site_id="anixe-hd-serie" xmltv_id="Anixe HD Serie">Anixe HD Serie</channel>
+    <channel update="i" site="tv.de" site_id="wedo-movies" xmltv_id="Wedo Movies">Wedo Movies</channel>
+    <channel update="i" site="tv.de" site_id="wedotv-big-stories" xmltv_id="wedotv Big Stories">wedotv Big Stories</channel>
+    <channel update="i" site="tv.de" site_id="wedotv-true-stories" xmltv_id="wedotv True Stories">wedotv True Stories</channel>
+    <channel update="i" site="tv.de" site_id="wedotv-sports" xmltv_id="wedotv Sports">wedotv Sports</channel>
+    <channel update="i" site="tv.de" site_id="time2relax" xmltv_id="Time2RLX">Time2RLX</channel>
     <channel update="i" site="tv.de" site_id="ric" xmltv_id="RiC">RiC</channel>
     <channel update="i" site="tv.de" site_id="toggo-plus" xmltv_id="TOGGO plus">TOGGO plus</channel>
-    <channel update="i" site="tv.de" site_id="ntv" xmltv_id="N-TV">N-TV</channel>
-    <channel update="i" site="tv.de" site_id="der-aktionar-tv" xmltv_id="Der Aktionär TV">Der Aktionär TV</channel>
+    <channel update="i" site="tv.de" site_id="orf-2-europe" xmltv_id="ORF 2 Europe">ORF 2 Europe</channel>
     <channel update="i" site="tv.de" site_id="deluxe-music" xmltv_id="Deluxe Music">Deluxe Music</channel>
-    <channel update="i" site="tv.de" site_id="deutsches-musik-fernsehen" xmltv_id="Deutsches Musik Fernsehen">Deutsches Musik Fernsehen</channel>
+    <channel update="i" site="tv.de" site_id="deutsches-musik-fernsehen" xmltv_id="DMF">DMF</channel>
+    <channel update="i" site="tv.de" site_id="schlager-deluxe" xmltv_id="Schlager Deluxe">Schlager Deluxe</channel>
     <channel update="i" site="tv.de" site_id="folx-tv" xmltv_id="Folx TV">Folx TV</channel>
-    <channel update="i" site="tv.de" site_id="tagesschau24" xmltv_id="Tagesschau24">Tagesschau24</channel>
-    <channel update="i" site="tv.de" site_id="br-alpha" xmltv_id="ARD-alpha">ARD-alpha</channel>
-    <channel update="i" site="tv.de" site_id="romance-tv" xmltv_id="Romance TV">Romance TV</channel>
-    <channel update="i" site="tv.de" site_id="heimatkanal" xmltv_id="Heimatkanal">Heimatkanal</channel>
-    <channel update="i" site="tv.de" site_id="goldstar-tv" xmltv_id="Goldstar TV">Goldstar TV</channel>
+    <channel update="i" site="tv.de" site_id="volksmusiktv" xmltv_id="Volksmusik.TV">Volksmusik.TV</channel>
+    <channel update="i" site="tv.de" site_id="telegold" xmltv_id="Telegold">Telegold</channel>
     <channel update="i" site="tv.de" site_id="qvc" xmltv_id="QVC">QVC</channel>
     <channel update="i" site="tv.de" site_id="qvc-zwei" xmltv_id="QVC Zwei">QVC Zwei</channel>
     <channel update="i" site="tv.de" site_id="qvc-style" xmltv_id="QVC Style">QVC Style</channel>
-    <channel update="i" site="tv.de" site_id="bibel-tv" xmltv_id="Bibel TV">Bibel TV</channel>
-    <channel update="i" site="tv.de" site_id="kabel-eins-doku" xmltv_id="Kabel Eins Doku">Kabel Eins Doku</channel>
-    <channel update="i" site="tv.de" site_id="orf-2-europe" xmltv_id="ORF 2 Europe">ORF 2 Europe</channel>
     <channel update="i" site="tv.de" site_id="sonnenklar-tv" xmltv_id="Sonnenklar.TV">Sonnenklar.TV</channel>
-    <channel update="i" site="tv.de" site_id="bbc-world-news" xmltv_id="BBC World News (Engl)">BBC World News (Engl)</channel>
+    <channel update="i" site="tv.de" site_id="romance-tv" xmltv_id="Romance TV">Romance TV</channel>
+    <channel update="i" site="tv.de" site_id="heimatkanal" xmltv_id="Heimatkanal">Heimatkanal</channel>
+    <channel update="i" site="tv.de" site_id="goldstar-tv" xmltv_id="Goldstar TV">Goldstar TV</channel>
     <channel update="i" site="tv.de" site_id="bloomberg-tv-uk" xmltv_id="Bloomberg TV (Engl)">Bloomberg TV (Engl)</channel>
     <channel update="i" site="tv.de" site_id="euronews-uk" xmltv_id="Euronews (Engl)">Euronews (Engl)</channel>
+    <channel update="i" site="tv.de" site_id="nhk-world-japan-engl" xmltv_id="NHK World-Japan (Engl.)">NHK World-Japan (Engl.)</channel>
     <channel update="i" site="tv.de" site_id="france-24-uk" xmltv_id="France 24 (Engl)">France 24 (Engl)</channel>
-    <channel update="i" site="tv.de" site_id="god-tv" xmltv_id="God TV (Engl)">God TV (Engl)</channel>
-    <channel update="i" site="tv.de" site_id="sonlife" xmltv_id="Sonlife (Engl)">Sonlife (Engl)</channel>
-    <channel update="i" site="tv.de" site_id="inspiration-tv" xmltv_id="Inspiration TV (Engl)">Inspiration TV (Engl)</channel>
-    <channel update="i" site="tv.de" site_id="euronews-fr" xmltv_id="Euronews (Fran)">Euronews (Fran)</channel>
-    <channel update="i" site="tv.de" site_id="france-24-fr" xmltv_id="France 24 (Fran)">France 24 (Fran)</channel>
     <channel update="i" site="tv.de" site_id="france-2" xmltv_id="France 2 (Fran)">France 2 (Fran)</channel>
     <channel update="i" site="tv.de" site_id="france-3" xmltv_id="France 3 (Fran)">France 3 (Fran)</channel>
     <channel update="i" site="tv.de" site_id="france-4" xmltv_id="France 4 (Fran)">France 4 (Fran)</channel>
     <channel update="i" site="tv.de" site_id="france-5" xmltv_id="France 5 (Fran)">France 5 (Fran)</channel>
     <channel update="i" site="tv.de" site_id="tv5-monde" xmltv_id="TV5 Monde Europe (Fran)">TV5 Monde Europe (Fran)</channel>
+    <channel update="i" site="tv.de" site_id="france-24-fr" xmltv_id="France 24 (Fran)">France 24 (Fran)</channel>
+    <channel update="i" site="tv.de" site_id="bibel-tv" xmltv_id="Bibel TV">Bibel TV</channel>
+    <channel update="i" site="tv.de" site_id="k-tv" xmltv_id="K-TV">K-TV</channel>
+    <channel update="i" site="tv.de" site_id="god-tv" xmltv_id="God TV (Engl)">God TV (Engl)</channel>
+    <channel update="i" site="tv.de" site_id="sonlife" xmltv_id="Sonlife (Engl)">Sonlife (Engl)</channel>
   </channels>
 </site>
